@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Business Analyst](https://jobright.ai/jobs/info/693328cda0dde7020e2eae45?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | Hybrid | Dec 18 |
+| **[Plaid](https://plaid.com)** | **[Product Manager](https://jobright.ai/jobs/info/690addd84a1b456627b0c062?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Dec 18 |
+| **[Anduril Industries](https://www.anduril.com)** | **[Product Operations Associate, Ghost](https://jobright.ai/jobs/info/690aba714a1b456627b0aa79?utm_campaign=Product%20Management&utm_source=1103)** | Costa Mesa, CA | On Site | Dec 18 |
+| **[Plaid](https://plaid.com)** | **[Product Manager](https://jobright.ai/jobs/info/690adc71d046ab6061ce1095?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, CA | Hybrid | Dec 18 |
+| **[SOCi.ai](https://www.soci.ai/)** | **[Product Operations Specialist (R&D)](https://jobright.ai/jobs/info/693cf2ac49a7695fbd03b17c?utm_campaign=Product%20Management&utm_source=1103)** | Greater Vancouver Metropolitan Area | Hybrid | Dec 18 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate , Product Management –GPN Core Data Platform Services](https://jobright.ai/jobs/info/690aedfe4a1b456627b0c9fd?utm_campaign=Product%20Management&utm_source=1103)** | Deerfield, IL | On Site | Dec 18 |
 | ↳ | **[Senior Associate, Product Management - Upmarket](https://jobright.ai/jobs/info/69157c3f286ccf0a1512eb24?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Dec 18 |
 | ↳ | **[Senior Associate , Product Management –GPN Core Data Platform Services](https://jobright.ai/jobs/info/690aed89bcccf20de59e7522?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Dec 18 |
@@ -161,10 +166,10 @@ For a complete list, click the following sortable link below:
 | **[Global Atlantic](https://www.globalatlantic.com/)** | **[Analyst, Product Operations](https://jobright.ai/jobs/info/6931f7314c474121999f4ecd?utm_campaign=Product%20Management&utm_source=1103)** | Hartford, Connecticut, United States | On Site | Dec 15 |
 | **[Adobe](http://www.adobe.com)** | **[2026 MBA University Graduate - Product Manager](https://jobright.ai/jobs/info/68ce431724dd5209002f1052?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA | On Site | Dec 15 |
 | **[Healthfirst](https://healthfirst.org)** | **[Product Strategy Analyst](https://jobright.ai/jobs/info/691ba68abcdbf3560c9e1148?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Dec 15 |
-| **[Renuity](http://renuityhome.com/)** | **[Product Representative](https://jobright.ai/jobs/info/693f917f49a7695fbd053f67?utm_campaign=Product%20Management&utm_source=1103)** | Spokane, WA | On Site | Dec 14 |
+| **[Renuity](http://renuityhome.com/)** | **[Product Representative](https://jobright.ai/jobs/info/693f918449a7695fbd053f69?utm_campaign=Product%20Management&utm_source=1103)** | Tacoma, WA | On Site | Dec 14 |
+| ↳ | **[Product Representative](https://jobright.ai/jobs/info/693f917f49a7695fbd053f67?utm_campaign=Product%20Management&utm_source=1103)** | Spokane, WA | On Site | Dec 14 |
 | ↳ | **[Product Representative](https://jobright.ai/jobs/info/693f905eaa598a08c3ef5a13?utm_campaign=Product%20Management&utm_source=1103)** | Kennewick, WA | On Site | Dec 14 |
 | ↳ | **[Product Representative](https://jobright.ai/jobs/info/69405d1750bbaf765052642c?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Dec 14 |
-| ↳ | **[Product Representative](https://jobright.ai/jobs/info/693f918449a7695fbd053f69?utm_campaign=Product%20Management&utm_source=1103)** | Tacoma, WA | On Site | Dec 14 |
 | **[Clerkie](https://clerkie.io)** | **[Associate Product Manager](https://jobright.ai/jobs/info/693f44d5aa598a08c3ef316b?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, CA | On Site | Dec 14 |
 | ↳ | **[Associate Product Manager](https://jobright.ai/jobs/info/693f231eaa598a08c3ef25d1?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Dec 14 |
 | **[Finch](https://tryfinch.com)** | **[Product Operations Generalist](https://jobright.ai/jobs/info/68e9afcb0930fe0bc46284e9?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, CA | Hybrid | Dec 14 |
@@ -185,7 +190,6 @@ For a complete list, click the following sortable link below:
 | **[Deutsche Bank](https://www.db.com)** | **[FX Execution Services – Client facing Product & Solutions Analyst - Associate](https://jobright.ai/jobs/info/6940fd0e49a7695fbd0689a2?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Dec 12 |
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[Product Line Management, New College Grad- Master's (Santa Clara, CA)](https://jobright.ai/jobs/info/693cf0d450bbaf7650501ff1?utm_campaign=Product%20Management&utm_source=1103)** | Santa Clara, CA | On Site | Dec 12 |
 | **[Boeing](https://www.boeing.co.uk)** | **[Early Career Product Data Management Specialist](https://jobright.ai/jobs/info/693f7d7750bbaf765051b7ae?utm_campaign=Product%20Management&utm_source=1103)** | Hazelwood, MO | On Site | Dec 12 |
-| **[A Place for Mom](http://www.aplaceformom.com)** | **[Product Analyst](https://jobright.ai/jobs/info/693c904daa598a08c3ed633c?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Dec 12 |
 | **[Oaktree Capital Management, L.P.](http://www.oaktreecapital.com)** | **[Analyst/Associate, Product Strategy (Liquid Credit)](https://jobright.ai/jobs/info/690916b24a1b456627afc411?utm_campaign=Product%20Management&utm_source=1103)** | Los Angeles, CA | Hybrid | Dec 12 |
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[Product Line Management, New College Grad- Master's (Santa Clara, CA)](https://jobright.ai/jobs/info/693c7e44aa598a08c3ed56a7?utm_campaign=Product%20Management&utm_source=1103)** | Santa Clara,CA | On Site | Dec 12 |
 | **[eko](https://eko.com)** | **[Product Model - Full Time](https://jobright.ai/jobs/info/693c747249a7695fbd033a03?utm_campaign=Product%20Management&utm_source=1103)** | Bentonville, Arkansas | On Site | Dec 12 |
@@ -207,7 +211,8 @@ For a complete list, click the following sortable link below:
 | **[Capital One](http://www.capitalone.com)** | **[Sr. Associate, Product Management - Internal Enablement](https://jobright.ai/jobs/info/691f5b413f782d2f1afbad2e?utm_campaign=Product%20Management&utm_source=1103)** | Deerfield, IL | On Site | Dec 12 |
 | ↳ | **[Sr. Associate, Product Management - Internal Enablement](https://jobright.ai/jobs/info/691f68673f782d2f1afbb973?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Dec 12 |
 | ↳ | **[Sr. Associate, Product Management - Internal Enablement](https://jobright.ai/jobs/info/691f63733f782d2f1afbb47c?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Dec 12 |
-| ↳ | **[Senior Associate, Product Management - Salesforce](https://jobright.ai/jobs/info/6903648663502c0aded6881b?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Dec 12 |
+| **[A&A Global](http://www.aaglobal.com)** | **[Product Data Coordinator (Entry Level)](https://jobright.ai/jobs/info/693b1585d4054a2bc0250955?utm_campaign=Product%20Management&utm_source=1103)** | Cockeysville, MD | On Site | Dec 12 |
+| **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management - Salesforce](https://jobright.ai/jobs/info/6903648663502c0aded6881b?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Dec 12 |
 | ↳ | **[Manager, Product Management - - Network Authorizations Health & Compliance](https://jobright.ai/jobs/info/691f1bb7a49a885af9a2c3c2?utm_campaign=Product%20Management&utm_source=1103)** | Deerfield, IL | On Site | Dec 12 |
 | ↳ | **[Manager, Product Management - - Network Authorizations Health & Compliance](https://jobright.ai/jobs/info/691f2dcd09cc522e8773e156?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Dec 12 |
 | ↳ | **[Manager, Product Management - - Network Authorizations Health & Compliance](https://jobright.ai/jobs/info/691f09e409cc522e8773d2b3?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Dec 12 |
@@ -223,7 +228,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Demonstrator Part Time - 6434](https://jobright.ai/jobs/info/693bb6af4911ef04095ee631?utm_campaign=Product%20Management&utm_source=1103)** | Laurel, MD, United States | On Site | Dec 11 |
 | ↳ | **[Product Demonstrator Part Time - 8253](https://jobright.ai/jobs/info/693b98905f2c001987ed90db?utm_campaign=Product%20Management&utm_source=1103)** | Jacksonville, FL, United States | On Site | Dec 11 |
 | **[Learning Resources](https://www.learningresources.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/693b7453d4054a2bc0255df5?utm_campaign=Product%20Management&utm_source=1103)** | Vernon Hills, IL | Hybrid | Dec 11 |
-| **[eko](https://eko.com)** | **[Product Model](https://jobright.ai/jobs/info/693b5f56d4054a2bc02555bf?utm_campaign=Product%20Management&utm_source=1103)** | Bentonville, Arkansas | On Site | Dec 11 |
-| **[ETA hand2mind](http://www.hand2mind.com/)** | **[Associate Product Manager](https://jobright.ai/jobs/info/693b414a5f2c001987ed3d55?utm_campaign=Product%20Management&utm_source=1103)** | hand2mind, Vernon Hills, IL, US | Hybrid | Dec 11 |
-| **[Educational Insights](http://www.educationalinsights.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/693b408d5f2c001987ed3ca8?utm_campaign=Product%20Management&utm_source=1103)** | hand2mind, Vernon Hills, IL, US | Hybrid | Dec 11 |
+| **[A Place for Mom](http://www.aplaceformom.com)** | **[Product Analyst](https://jobright.ai/jobs/info/693c84d150bbaf76504fbd42?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Dec 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
