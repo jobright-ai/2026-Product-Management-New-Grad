@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[lululemon](http://shop.lululemon.com)** | **[Product Operations Lead / Hamilton Place Pop-Up](https://jobright.ai/jobs/info/6944ec2c50bbaf7650570743?utm_campaign=Product%20Management&utm_source=1103)** | Chattanooga, TN | On Site | Dec 18 |
-| ↳ | **[Product Operations Lead / Somerset Collection](https://jobright.ai/jobs/info/6944e8faa7227b3ece66883d?utm_campaign=Product%20Management&utm_source=1103)** | Troy, MI | On Site | Dec 18 |
+| **[BoF Careers](https://www.businessoffashion.com/careers/)** | **[Athleta Analyst, Merchandise Planning](https://jobright.ai/jobs/info/69451d3663141d188454a675?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, CA | On Site | Dec 19 |
+| ↳ | **[Athleta Analyst, Merchandise Planning](https://jobright.ai/jobs/info/69451b9ed1953b5d11be143d?utm_campaign=Product%20Management&utm_source=1103)** | Pleasanton, CA | On Site | Dec 19 |
+| **[lululemon](http://shop.lululemon.com)** | **[Product Operations Lead / Somerset Collection](https://jobright.ai/jobs/info/6944e8faa7227b3ece66883d?utm_campaign=Product%20Management&utm_source=1103)** | Troy, MI | On Site | Dec 18 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Product Data Management Analyst](https://jobright.ai/jobs/info/6944d4c594730b7398781137?utm_campaign=Product%20Management&utm_source=1103)** | Warrendale, PA | Hybrid | Dec 18 |
 | **[MeUndies](https://www.meundies.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/6944d42550bbaf765056e400?utm_campaign=Product%20Management&utm_source=1103)** | Culver City, CA | Hybrid | Dec 18 |
+| **[lululemon](http://shop.lululemon.com)** | **[Product Operations Lead / Hamilton Place Pop-Up](https://jobright.ai/jobs/info/6944ec2c50bbaf7650570743?utm_campaign=Product%20Management&utm_source=1103)** | Chattanooga, TN | On Site | Dec 18 |
 | **[F5](https://www.f5.com)** | **[Product Manager II for SKU Delivery](https://jobright.ai/jobs/info/6944b61550bbaf765056cd8e?utm_campaign=Product%20Management&utm_source=1103)** | Greater Seattle Area | Hybrid | Dec 18 |
 | **[CJ Pony Parts](https://www.cjponyparts.com)** | **[Associate Category Specialist (Automotive Parts) - NV](https://jobright.ai/jobs/info/6944cb03a7227b3ece6673c7?utm_campaign=Product%20Management&utm_source=1103)** | 2730 North Lamb Boulevard, Las Vegas, NV, USA | Hybrid | Dec 18 |
 | ↳ | **[Associate Category Specialist (Automotive Parts) - PA](https://jobright.ai/jobs/info/6944c09c50bbaf765056d759?utm_campaign=Product%20Management&utm_source=1103)** | 7461 Allentown Boulevard, Harrisburg, PA, USA | Hybrid | Dec 18 |
@@ -103,7 +105,6 @@ For a complete list, click the following sortable link below:
 | **[Cintas](https://www.cintas.com)** | **[Production Associate - Product Separator - 2nd Shift](https://jobright.ai/jobs/info/6943175250bbaf765054eebb?utm_campaign=Product%20Management&utm_source=1103)** | Sacramento, CA | On Site | Dec 17 |
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[Product Line Management, New College Grad- Bachelor's (Gloucester, MA)](https://jobright.ai/jobs/info/69434204dd382f5f56693f74?utm_campaign=Product%20Management&utm_source=1103)** | Gloucester,MA | On Site | Dec 17 |
 | **[Acosta](https://www.acosta.com)** | **[Product Demonstrator Part Time - 4873](https://jobright.ai/jobs/info/69433aad50bbaf7650551869?utm_campaign=Product%20Management&utm_source=1103)** | Lincoln, NE, United States | On Site | Dec 17 |
-| ↳ | **[Product Demonstrator Part Time - 4771](https://jobright.ai/jobs/info/6943428d94730b739876518e?utm_campaign=Product%20Management&utm_source=1103)** | Severn, MD, United States | On Site | Dec 17 |
 | **[Egan-Jones](https://www.egan-jones.com/)** | **[Associate, Product and Strategy](https://jobright.ai/jobs/info/694319f150bbaf765054f1ab?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Dec 17 |
 | **[Navitus Health Solutions](https://www.navitus.com/)** | **[Assoc. Product Manager, eHealth](https://jobright.ai/jobs/info/69431c9050bbaf765054f44c?utm_campaign=Product%20Management&utm_source=1103)** | US- | Remote | Dec 17 |
 | **[Acosta](https://www.acosta.com)** | **[Product Demonstrator Part Time - 6409](https://jobright.ai/jobs/info/6942ecb6dd382f5f5668e035?utm_campaign=Product%20Management&utm_source=1103)** | Tucker, GA, United States | On Site | Dec 17 |
@@ -184,8 +185,8 @@ For a complete list, click the following sortable link below:
 | **[Adobe](http://www.adobe.com)** | **[2026 MBA University Graduate - Product Manager](https://jobright.ai/jobs/info/68ce431724dd5209002f1052?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA | On Site | Dec 15 |
 | **[Healthfirst](https://healthfirst.org)** | **[Product Strategy Analyst](https://jobright.ai/jobs/info/691ba68abcdbf3560c9e1148?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Dec 15 |
 | **[Renuity](http://renuityhome.com/)** | **[Product Representative](https://jobright.ai/jobs/info/69405d1750bbaf765052642c?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Dec 14 |
-| ↳ | **[Product Representative](https://jobright.ai/jobs/info/693f905eaa598a08c3ef5a13?utm_campaign=Product%20Management&utm_source=1103)** | Kennewick, WA | On Site | Dec 14 |
 | ↳ | **[Product Representative](https://jobright.ai/jobs/info/693f917f49a7695fbd053f67?utm_campaign=Product%20Management&utm_source=1103)** | Spokane, WA | On Site | Dec 14 |
+| ↳ | **[Product Representative](https://jobright.ai/jobs/info/693f905eaa598a08c3ef5a13?utm_campaign=Product%20Management&utm_source=1103)** | Kennewick, WA | On Site | Dec 14 |
 | ↳ | **[Product Representative](https://jobright.ai/jobs/info/693f918449a7695fbd053f69?utm_campaign=Product%20Management&utm_source=1103)** | Tacoma, WA | On Site | Dec 14 |
 | **[Clerkie](https://clerkie.io)** | **[Associate Product Manager](https://jobright.ai/jobs/info/693f44d5aa598a08c3ef316b?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, CA | On Site | Dec 14 |
 | ↳ | **[Associate Product Manager](https://jobright.ai/jobs/info/693f231eaa598a08c3ef25d1?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Dec 14 |
@@ -209,9 +210,4 @@ For a complete list, click the following sortable link below:
 | **[Boeing](https://www.boeing.co.uk)** | **[Early Career Product Data Management Specialist](https://jobright.ai/jobs/info/693f7d7750bbaf765051b7ae?utm_campaign=Product%20Management&utm_source=1103)** | Hazelwood, MO | On Site | Dec 12 |
 | **[Oaktree Capital Management, L.P.](http://www.oaktreecapital.com)** | **[Analyst/Associate, Product Strategy (Liquid Credit)](https://jobright.ai/jobs/info/690916b24a1b456627afc411?utm_campaign=Product%20Management&utm_source=1103)** | Los Angeles, CA | Hybrid | Dec 12 |
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[Product Line Management, New College Grad- Master's (Santa Clara, CA)](https://jobright.ai/jobs/info/693c7e44aa598a08c3ed56a7?utm_campaign=Product%20Management&utm_source=1103)** | Santa Clara,CA | On Site | Dec 12 |
-| **[Cover Genius](http://www.covergenius.com)** | **[Insurance Product Analyst (Junior)](https://jobright.ai/jobs/info/693c732449a7695fbd03393b?utm_campaign=Product%20Management&utm_source=1103)** | United States | Hybrid | Dec 12 |
-| ↳ | **[Insurance Product Analyst (Junior)](https://jobright.ai/jobs/info/693c6b34aa598a08c3ed4c96?utm_campaign=Product%20Management&utm_source=1103)** | United States | Hybrid | Dec 12 |
-| **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management](https://jobright.ai/jobs/info/693c626850bbaf76504fa8ff?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Dec 12 |
-| ↳ | **[Senior Associate, Product Management](https://jobright.ai/jobs/info/693c60b149a7695fbd0330b0?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Dec 12 |
-| **[Cover Genius](http://www.covergenius.com)** | **[Insurance Product Analyst (Junior)](https://jobright.ai/jobs/info/693c74aeaa598a08c3ed5166?utm_campaign=Product%20Management&utm_source=1103)** | USA | Hybrid | Dec 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
