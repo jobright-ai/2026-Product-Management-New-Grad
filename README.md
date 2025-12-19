@@ -57,10 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[EA SPORTS](http://www.EASports.com)** | **[Game Product Manager - EA SPORTS FC](https://jobright.ai/jobs/info/691e7ccf09cc522e8773a4e3?utm_campaign=Product%20Management&utm_source=1103)** | Vancouver, British Columbia, Canada | Hybrid | Dec 19 |
+| **[SENKO Advanced Components, Inc.](http://senko.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/69425d3550bbaf7650545643?utm_campaign=Product%20Management&utm_source=1103)** | Poway, CA | Hybrid | Dec 19 |
 | **[WHOOP](http://www.whoop.com/)** | **[Product Manager I, Growth](https://jobright.ai/jobs/info/690bb9df221b890c277f7579?utm_campaign=Product%20Management&utm_source=1103)** | Boston, MA | On Site | Dec 19 |
 | **[Camping World](https://investor.campingworld.com)** | **[Product Specialist Advisor](https://jobright.ai/jobs/info/690cdd79221b890c27800823?utm_campaign=Product%20Management&utm_source=1103)** | De Forest, WI | On Site | Dec 19 |
 | ↳ | **[Product Specialist Advisor](https://jobright.ai/jobs/info/690cdd79221b890c27800820?utm_campaign=Product%20Management&utm_source=1103)** | Little Falls, MN | On Site | Dec 19 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management - Pay Over Time (Business Cards & Payments)](https://jobright.ai/jobs/info/68f03d2b9821486c423cac87?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Dec 19 |
+| **[On Location](https://onlocationexp.com/)** | **[Coordinator, Product Build Specialist - Olympic & Paralympic Games](https://jobright.ai/jobs/info/6933ba62a0dde7020e2f14da?utm_campaign=Product%20Management&utm_source=1103)** | Los Angeles, CA | On Site | Dec 19 |
 | **[Camping World](https://investor.campingworld.com)** | **[Product Specialist Advisor](https://jobright.ai/jobs/info/691e935f3f782d2f1afb5ef1?utm_campaign=Product%20Management&utm_source=1103)** | Apollo, PA | On Site | Dec 19 |
 | ↳ | **[Product Specialist](https://jobright.ai/jobs/info/69327a07f131d96e4845c821?utm_campaign=Product%20Management&utm_source=1103)** | Lakeville, MN | On Site | Dec 19 |
 | **[BoF Careers](https://www.businessoffashion.com/careers/)** | **[Athleta Analyst, Merchandise Planning](https://jobright.ai/jobs/info/69451d3663141d188454a675?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, CA | On Site | Dec 19 |
@@ -113,10 +116,10 @@ For a complete list, click the following sortable link below:
 | **[Acosta](https://www.acosta.com)** | **[Product Demonstrator Part Time - 4873](https://jobright.ai/jobs/info/69433aad50bbaf7650551869?utm_campaign=Product%20Management&utm_source=1103)** | Lincoln, NE, United States | On Site | Dec 17 |
 | **[Egan-Jones](https://www.egan-jones.com/)** | **[Associate, Product and Strategy](https://jobright.ai/jobs/info/694319f150bbaf765054f1ab?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Dec 17 |
 | **[Navitus Health Solutions](https://www.navitus.com/)** | **[Assoc. Product Manager, eHealth](https://jobright.ai/jobs/info/69431c9050bbaf765054f44c?utm_campaign=Product%20Management&utm_source=1103)** | US- | Remote | Dec 17 |
-| **[Acosta](https://www.acosta.com)** | **[Product Demonstrator Part Time - 6409](https://jobright.ai/jobs/info/6942ecb6dd382f5f5668e035?utm_campaign=Product%20Management&utm_source=1103)** | Tucker, GA, United States | On Site | Dec 17 |
-| ↳ | **[Product Demonstrator Part Time - 6867](https://jobright.ai/jobs/info/6942fc7d50bbaf765054d199?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, TX, United States | On Site | Dec 17 |
+| **[Acosta](https://www.acosta.com)** | **[Product Demonstrator Part Time - 6867](https://jobright.ai/jobs/info/6942fc7d50bbaf765054d199?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, TX, United States | On Site | Dec 17 |
 | **[Lenovo](https://www.lenovo.com/in/en/)** | **[MES Product Analyst - Whitsett, NC](https://jobright.ai/jobs/info/690971a8d046ab6061cd55c1?utm_campaign=Product%20Management&utm_source=1103)** | North Carolina, United States | On Site | Dec 17 |
 | **[Acosta](https://www.acosta.com)** | **[Product Demonstrator Part Time - 6354](https://jobright.ai/jobs/info/6942e2ee50bbaf765054b7eb?utm_campaign=Product%20Management&utm_source=1103)** | Midlothian, VA, United States | On Site | Dec 17 |
+| ↳ | **[Product Demonstrator Part Time - 6409](https://jobright.ai/jobs/info/6942e72cdd382f5f5668dc3d?utm_campaign=Product%20Management&utm_source=1103)** | Tucker, GA, United States | On Site | Dec 17 |
 | **[Gravie](https://www.gravie.com)** | **[Associate Product Owner](https://jobright.ai/jobs/info/69136fc51465e02904e94a26?utm_campaign=Product%20Management&utm_source=1103)** | Minneapolis, MN | Hybrid | Dec 17 |
 | **[Businessolver](https://www.businessolver.com)** | **[Product Manager, Dependent Verification (Anywhere within the Contiguous 48 States)](https://jobright.ai/jobs/info/69262770f0beb07232622911?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Dec 17 |
 | **[Capital One](http://www.capitalone.com)** | **[Product Management Senior Associate, Commercial Banking](https://jobright.ai/jobs/info/689733dd73b3a600fe89486e?utm_campaign=Product%20Management&utm_source=1103)** | Charlotte, NC | On Site | Dec 17 |
@@ -190,8 +193,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sr. Associate, Product Management - Risk Capabilities](https://jobright.ai/jobs/info/68ea9b5576a1db7c5985b8b5?utm_campaign=Product%20Management&utm_source=1103)** | Deerfield, IL | On Site | Dec 15 |
 | **[Adobe](http://www.adobe.com)** | **[2026 MBA University Graduate - Product Manager](https://jobright.ai/jobs/info/68ce431724dd5209002f1052?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA | On Site | Dec 15 |
 | **[Healthfirst](https://healthfirst.org)** | **[Product Strategy Analyst](https://jobright.ai/jobs/info/691ba68abcdbf3560c9e1148?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Dec 15 |
-| **[Renuity](http://renuityhome.com/)** | **[Product Representative](https://jobright.ai/jobs/info/693f918449a7695fbd053f69?utm_campaign=Product%20Management&utm_source=1103)** | Tacoma, WA | On Site | Dec 14 |
-| ↳ | **[Product Representative](https://jobright.ai/jobs/info/693f917f49a7695fbd053f67?utm_campaign=Product%20Management&utm_source=1103)** | Spokane, WA | On Site | Dec 14 |
+| **[Renuity](http://renuityhome.com/)** | **[Product Representative](https://jobright.ai/jobs/info/693f917f49a7695fbd053f67?utm_campaign=Product%20Management&utm_source=1103)** | Spokane, WA | On Site | Dec 14 |
+| ↳ | **[Product Representative](https://jobright.ai/jobs/info/693f918449a7695fbd053f69?utm_campaign=Product%20Management&utm_source=1103)** | Tacoma, WA | On Site | Dec 14 |
 | ↳ | **[Product Representative](https://jobright.ai/jobs/info/693f905eaa598a08c3ef5a13?utm_campaign=Product%20Management&utm_source=1103)** | Kennewick, WA | On Site | Dec 14 |
 | ↳ | **[Product Representative](https://jobright.ai/jobs/info/69405d1750bbaf765052642c?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Dec 14 |
 | **[Clerkie](https://clerkie.io)** | **[Associate Product Manager](https://jobright.ai/jobs/info/693f44d5aa598a08c3ef316b?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, CA | On Site | Dec 14 |
