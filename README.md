@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Supermicro](http://www.supermicro.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/691a88a315b4156367188a4f?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA | On Site | Dec 21 |
 | **[Boeing](https://www.boeing.co.uk)** | **[Product Acceptance Specialist](https://jobright.ai/jobs/info/694712957d506e3808f271ae?utm_campaign=Product%20Management&utm_source=1103)** | North Charleston, SC | On Site | Dec 20 |
 | ↳ | **[Product Acceptance Spec](https://jobright.ai/jobs/info/69470f0263141d188456cc67?utm_campaign=Product%20Management&utm_source=1103)** | Salt Lake City, UT | On Site | Dec 20 |
 | **[Target](https://www.target.com)** | **[Researcher, Owned Brand & Product Insights](https://jobright.ai/jobs/info/6947029a63141d188456b2c4?utm_campaign=Product%20Management&utm_source=1103)** | Minneapolis, MN | On Site | Dec 20 |
@@ -70,10 +71,10 @@ For a complete list, click the following sortable link below:
 | **[Nordson Corporation](http://www.nordson.com)** | **[Product Line Manager I](https://jobright.ai/jobs/info/690bfa33221b890c277fa3a0?utm_campaign=Product%20Management&utm_source=1103)** | Loveland, CO | On Site | Dec 20 |
 | **[eko](https://eko.com)** | **[Product Data Capture Associate](https://jobright.ai/jobs/info/6943502e94730b7398765e16?utm_campaign=Product%20Management&utm_source=1103)** | Bentonville, Arkansas | On Site | Dec 19 |
 | **[Target](https://www.target.com)** | **[Researcher, Owned Brand & Product Insights](https://jobright.ai/jobs/info/69464b307d506e3808f1a86c?utm_campaign=Product%20Management&utm_source=1103)** | 1000 Nicollet Mall, Minneapolis,MN 55403-2542 | Hybrid | Dec 19 |
-| **[Boeing](https://www.boeing.co.uk)** | **[Product Acceptance Spec](https://jobright.ai/jobs/info/69460f4663141d188455be1b?utm_campaign=Product%20Management&utm_source=1103)** | USA - West Jordan, UT | On Site | Dec 19 |
+| **[Boeing](https://www.boeing.co.uk)** | **[Product Acceptance Spec](https://jobright.ai/jobs/info/694611637d506e3808f166c2?utm_campaign=Product%20Management&utm_source=1103)** | USA - West Jordan, UT | On Site | Dec 19 |
 | **[Thomson Reuters](http://thomsonreuters.com)** | **[Customer Product Trainer](https://jobright.ai/jobs/info/69460e4f7d506e3808f16463?utm_campaign=Product%20Management&utm_source=1103)** | Eagan, MN | Hybrid | Dec 19 |
-| **[Boeing](https://www.boeing.co.uk)** | **[Product Acceptance Spec](https://jobright.ai/jobs/info/69460d0c63141d188455bbbe?utm_campaign=Product%20Management&utm_source=1103)** | USA - Salt Lake City, UT | On Site | Dec 19 |
 | **[Motive Companies](https://motivecompanies.com/)** | **[Showroom / Product Assistant - (Home Fashions/Bedding)](https://jobright.ai/jobs/info/69462b627d506e3808f194de?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Remote | Dec 19 |
+| **[Boeing](https://www.boeing.co.uk)** | **[Product Acceptance Spec](https://jobright.ai/jobs/info/69460c5bd1953b5d11bf2c9e?utm_campaign=Product%20Management&utm_source=1103)** | USA - Salt Lake City, UT | On Site | Dec 19 |
 | **[Camping World](https://investor.campingworld.com)** | **[Product Specialist](https://jobright.ai/jobs/info/694604d4d1953b5d11bf206c?utm_campaign=Product%20Management&utm_source=1103)** | Fountain, CO | On Site | Dec 19 |
 | ↳ | **[Product Specialist Advisor](https://jobright.ai/jobs/info/6946026ad1953b5d11bf1a9e?utm_campaign=Product%20Management&utm_source=1103)** | Anniston, AL | On Site | Dec 19 |
 | **[Thomson Reuters](http://thomsonreuters.com)** | **[Customer Product Trainer](https://jobright.ai/jobs/info/6945e89f63141d18845584c4?utm_campaign=Product%20Management&utm_source=1103)** | United States of America, Eagan, Minnesota | Hybrid | Dec 19 |
@@ -196,10 +197,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Manager II](https://jobright.ai/jobs/info/694076ee50bbaf7650527649?utm_campaign=Product%20Management&utm_source=1103)** | Tacoma, WA | Hybrid | Dec 15 |
 | **[Camping World](https://investor.campingworld.com)** | **[Product Specialist Advisor](https://jobright.ai/jobs/info/694071aeaa598a08c3f00fbc?utm_campaign=Product%20Management&utm_source=1103)** | Sherman, TX | On Site | Dec 15 |
 | **[maurices](https://www.maurices.com)** | **[Assistant, Product Management & Sourcing](https://jobright.ai/jobs/info/693cc5c650bbaf76504ff995?utm_campaign=Product%20Management&utm_source=1103)** | Duluth, MN | On Site | Dec 15 |
-| **[Camping World](https://investor.campingworld.com)** | **[Product Specialist](https://jobright.ai/jobs/info/694070b649a7695fbd05f1c5?utm_campaign=Product%20Management&utm_source=1103)** | Sunbury, OH | On Site | Dec 15 |
 | **[Amplify](http://www.amplify.com)** | **[Associate Product Manager, Math Adoptions and Customizations (Contractor)](https://jobright.ai/jobs/info/694068a549a7695fbd05eb27?utm_campaign=Product%20Management&utm_source=1103)** | Remote - United States | Remote | Dec 15 |
 | **[The Hillman Group](http://www.hillmangroup.com)** | **[Warehouse Packaging Associate](https://jobright.ai/jobs/info/693a37e856b68f3dc4e78d09?utm_campaign=Product%20Management&utm_source=1103)** | Pompano Beach, FL | On Site | Dec 15 |
 | **[Plymouth Rock Assurance](https://www.plymouthrock.com)** | **[Product Analyst](https://jobright.ai/jobs/info/694060dc50bbaf7650526659?utm_campaign=Product%20Management&utm_source=1103)** | Woodbridge, NJ | On Site | Dec 15 |
+| **[Camping World](https://investor.campingworld.com)** | **[Product Specialist](https://jobright.ai/jobs/info/69407d0150bbaf7650527ff7?utm_campaign=Product%20Management&utm_source=1103)** | Sunbury, OH | On Site | Dec 15 |
 | **[Amplify](http://www.amplify.com)** | **[Associate Product Manager, Math Adoptions and Customizations (Contractor)](https://jobright.ai/jobs/info/69405c0949a7695fbd05e326?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Dec 15 |
 | **[Salesforce](https://www.salesforce.com)** | **[Product Manager, Agentforce for Supply Chain, App Gen](https://jobright.ai/jobs/info/69405b77aa598a08c3efff5b?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Dec 15 |
 | ↳ | **[Product Manager, Agentforce for Supply Chain, App Gen](https://jobright.ai/jobs/info/694054e450bbaf7650526097?utm_campaign=Product%20Management&utm_source=1103)** | Seattle, WA | Hybrid | Dec 15 |
@@ -218,10 +219,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sr. Associate, Product Management - Risk Capabilities](https://jobright.ai/jobs/info/68ea9b5576a1db7c5985b8b5?utm_campaign=Product%20Management&utm_source=1103)** | Deerfield, IL | On Site | Dec 15 |
 | **[Adobe](http://www.adobe.com)** | **[2026 MBA University Graduate - Product Manager](https://jobright.ai/jobs/info/68ce431724dd5209002f1052?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA | On Site | Dec 15 |
 | **[Healthfirst](https://healthfirst.org)** | **[Product Strategy Analyst](https://jobright.ai/jobs/info/691ba68abcdbf3560c9e1148?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Dec 15 |
-| **[Renuity](http://renuityhome.com/)** | **[Product Representative](https://jobright.ai/jobs/info/693f918449a7695fbd053f69?utm_campaign=Product%20Management&utm_source=1103)** | Tacoma, WA | On Site | Dec 14 |
+| **[Renuity](http://renuityhome.com/)** | **[Product Representative](https://jobright.ai/jobs/info/693f905eaa598a08c3ef5a13?utm_campaign=Product%20Management&utm_source=1103)** | Kennewick, WA | On Site | Dec 14 |
 | ↳ | **[Product Representative](https://jobright.ai/jobs/info/69405d1750bbaf765052642c?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Dec 14 |
+| ↳ | **[Product Representative](https://jobright.ai/jobs/info/693f918449a7695fbd053f69?utm_campaign=Product%20Management&utm_source=1103)** | Tacoma, WA | On Site | Dec 14 |
 | ↳ | **[Product Representative](https://jobright.ai/jobs/info/693f917f49a7695fbd053f67?utm_campaign=Product%20Management&utm_source=1103)** | Spokane, WA | On Site | Dec 14 |
-| ↳ | **[Product Representative](https://jobright.ai/jobs/info/693f905eaa598a08c3ef5a13?utm_campaign=Product%20Management&utm_source=1103)** | Kennewick, WA | On Site | Dec 14 |
 | **[Clerkie](https://clerkie.io)** | **[Associate Product Manager](https://jobright.ai/jobs/info/693f44d5aa598a08c3ef316b?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, CA | On Site | Dec 14 |
-| ↳ | **[Associate Product Manager](https://jobright.ai/jobs/info/693f231eaa598a08c3ef25d1?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Dec 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
