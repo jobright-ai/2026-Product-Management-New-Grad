@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kestrel Yard](https://www.linkedin.com/company/90858281)** | **[Senior Product Analyst](https://jobright.ai/jobs/info/6952a91bf1f8465b79e9eda2?utm_campaign=Product%20Management&utm_source=1103)** | Austin, TX | On Site | Dec 29 |
 | **[Cintas](https://www.cintas.com)** | **[Production Associate - Product Separator - 2nd Shift](https://jobright.ai/jobs/info/68e07b8f1852e62f007eb44b?utm_campaign=Product%20Management&utm_source=1103)** | Yakima, WA | On Site | Dec 29 |
 | **[Capital One](http://www.capitalone.com)** | **[Sr. Associate, Product Management – Disputes Core Products](https://jobright.ai/jobs/info/6918c2f245fb6f5ead8a6b73?utm_campaign=Product%20Management&utm_source=1103)** | Deerfield, IL | On Site | Dec 29 |
 | **[Leaf Home](https://www.leafhome.com/)** | **[Product Demonstrator](https://jobright.ai/jobs/info/691d655a0b7dff734150319c?utm_campaign=Product%20Management&utm_source=1103)** | Pasadena, TX | On Site | Dec 29 |
@@ -149,12 +150,12 @@ For a complete list, click the following sortable link below:
 | **[Acosta](https://www.acosta.com)** | **[Product Demonstrator Part Time -6624](https://jobright.ai/jobs/info/694afc7c1224705e900212f9?utm_campaign=Product%20Management&utm_source=1103)** | San Bernardino, CA, United States | On Site | Dec 23 |
 | **[Morgan Stanley](http://www.morganstanley.com)** | **[Investment Banking Division - Technology Business Analyst / Associate - New York or Menlo Park](https://jobright.ai/jobs/info/694ee8a6a2668b7f5452291a?utm_campaign=Product%20Management&utm_source=1103)** | Menlo Park, CA | On Site | Dec 23 |
 | **[Acosta](https://www.acosta.com)** | **[Product Demonstrator Part Time - 8252](https://jobright.ai/jobs/info/694b16144b53a1551f94cf02?utm_campaign=Product%20Management&utm_source=1103)** | North Charleston, SC, United States | On Site | Dec 23 |
+| ↳ | **[Product Demonstrator Part Time - 4824](https://jobright.ai/jobs/info/694b95fd5d731211347029ec?utm_campaign=Product%20Management&utm_source=1103)** | Santa Clarita, CA, United States | On Site | Dec 23 |
 | ↳ | **[Product Demonstrator Part Time - 6456](https://jobright.ai/jobs/info/694ada9d3019f50a4fe5f216?utm_campaign=Product%20Management&utm_source=1103)** | Plattsburgh, NY, United States | On Site | Dec 23 |
 | ↳ | **[Product Demonstrator Part Time -6615](https://jobright.ai/jobs/info/694ad7be3019f50a4fe5f183?utm_campaign=Product%20Management&utm_source=1103)** | Fountain Valley, CA, United States | On Site | Dec 23 |
-| ↳ | **[Product Demonstrator Part Time - 6615](https://jobright.ai/jobs/info/694bb9915d73121134703cbd?utm_campaign=Product%20Management&utm_source=1103)** | Fountain Valley, CA, United States | On Site | Dec 23 |
-| ↳ | **[Product Demonstrator Part Time - 4824](https://jobright.ai/jobs/info/694baa865d73121134703391?utm_campaign=Product%20Management&utm_source=1103)** | Santa Clarita, CA, United States | On Site | Dec 23 |
-| ↳ | **[Product Demonstrator Part Time - 6624](https://jobright.ai/jobs/info/694b7bf11a572a617ddddda5?utm_campaign=Product%20Management&utm_source=1103)** | San Bernardino, CA, United States | On Site | Dec 23 |
+| ↳ | **[Product Demonstrator Part Time - 6615](https://jobright.ai/jobs/info/694bbffd5d731211347047a8?utm_campaign=Product%20Management&utm_source=1103)** | Fountain Valley, CA, United States | On Site | Dec 23 |
 | ↳ | **[Product Demonstrator Part Time - 4824](https://jobright.ai/jobs/info/694b94bf5d73121134702995?utm_campaign=Product%20Management&utm_source=1103)** | Santa Clarita, CA, United States | On Site | Dec 23 |
+| ↳ | **[Product Demonstrator Part Time - 6624](https://jobright.ai/jobs/info/694b7bf11a572a617ddddda5?utm_campaign=Product%20Management&utm_source=1103)** | San Bernardino, CA, United States | On Site | Dec 23 |
 | ↳ | **[Product Demonstrator Part Time - 6616](https://jobright.ai/jobs/info/694b2f313019f50a4fe63df9?utm_campaign=Product%20Management&utm_source=1103)** | Fullerton, CA, United States | On Site | Dec 23 |
 | ↳ | **[Product Demonstrator Part Time - 6616](https://jobright.ai/jobs/info/694b31f83019f50a4fe63ec7?utm_campaign=Product%20Management&utm_source=1103)** | Fullerton, CA, United States | On Site | Dec 23 |
 | ↳ | **[Product Demonstrator Part Time - 6235](https://jobright.ai/jobs/info/694ac2221224705e9001de8a?utm_campaign=Product%20Management&utm_source=1103)** | San Diego, CA, United States | On Site | Dec 23 |
@@ -165,6 +166,4 @@ For a complete list, click the following sortable link below:
 | **[EliseAI](http://www.eliseai.com)** | **[Product Solutions Analyst / Housing (New Grads 2025-2026)](https://jobright.ai/jobs/info/694a4074187e565c6bfa49af?utm_campaign=Product%20Management&utm_source=1103)** | Boston, MA | On Site | Dec 22 |
 | ↳ | **[Product Solutions Analyst / Housing (New Grads 2025-2026)](https://jobright.ai/jobs/info/694a5bc23019f50a4fe57922?utm_campaign=Product%20Management&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Dec 22 |
 | **[Peraton](https://www.peraton.com/)** | **[Support Product Analyst](https://jobright.ai/jobs/info/694a30f563141d188459f1f8?utm_campaign=Product%20Management&utm_source=1103)** | Monrovia, CA | On Site | Dec 22 |
-| **[lululemon](http://shop.lululemon.com)** | **[Product Operations Lead / Irvine Spectrum](https://jobright.ai/jobs/info/694a083363141d188459a119?utm_campaign=Product%20Management&utm_source=1103)** | Irvine, CA | On Site | Dec 22 |
-| **[Equitable](https://equitable.com/)** | **[Product Manager - Group Retirement](https://jobright.ai/jobs/info/69509d3f29655e4dd659cfe5?utm_campaign=Product%20Management&utm_source=1103)** | Charlotte, NC | Hybrid | Dec 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
