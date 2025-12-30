@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management - Customer Services & Strategy (US Card)](https://jobright.ai/jobs/info/69541879f1f8465b79eb4459?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Dec 30 |
+| ↳ | **[Senior Associate, Product Management - Customer Services & Strategy (US Card)](https://jobright.ai/jobs/info/69541656f1f8465b79eb435b?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Dec 30 |
+| ↳ | **[Senior Associate, Product Management - Customer Services & Strategy (US Card)](https://jobright.ai/jobs/info/695413c0aa05c26e7aae925c?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Dec 30 |
+| ↳ | **[Senior Associate, Product Management - Customer Services & Strategy (US Card)](https://jobright.ai/jobs/info/695413125bb7de448ef70ba2?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Dec 30 |
 | **[lululemon](http://shop.lululemon.com)** | **[Product Operations Lead / Menlo Park Pop Up](https://jobright.ai/jobs/info/69541242f1f8465b79eb4205?utm_campaign=Product%20Management&utm_source=1103)** | Edison, NJ | On Site | Dec 30 |
 | **[The TJX Companies, Inc.](http://www.tjx.com/)** | **[Product Development Specialist](https://jobright.ai/jobs/info/695403745bb7de448ef6fc67?utm_campaign=Product%20Management&utm_source=1103)** | Framingham, MA 01701 | Hybrid | Dec 30 |
 | **[Mars](https://www.mars.com)** | **[Product Data Specialist](https://jobright.ai/jobs/info/6937ac60a0dde7020e305a26?utm_campaign=Product%20Management&utm_source=1103)** | Newark, NJ | On Site | Dec 30 |
@@ -146,8 +150,8 @@ For a complete list, click the following sortable link below:
 | **[Boeing](https://www.boeing.co.uk)** | **[Product Acceptance Specialist](https://jobright.ai/jobs/info/694c5e0f5d7312113470d527?utm_campaign=Product%20Management&utm_source=1103)** | North Charleston, SC | On Site | Dec 24 |
 | ↳ | **[Product Acceptance Specialist](https://jobright.ai/jobs/info/694c5c4d5d7312113470d42b?utm_campaign=Product%20Management&utm_source=1103)** | West Jordan, UT | On Site | Dec 24 |
 | **[Acosta](https://www.acosta.com)** | **[Product Demonstrator Part Time - 4972](https://jobright.ai/jobs/info/694c2c7ad64ebf28d821d108?utm_campaign=Product%20Management&utm_source=1103)** | Port Saint Lucie, FL, United States | On Site | Dec 24 |
-| ↳ | **[Product Demonstrator Part Time - 6236](https://jobright.ai/jobs/info/694c604bd64ebf28d821ff9b?utm_campaign=Product%20Management&utm_source=1103)** | Rock Hill, SC, United States | On Site | Dec 24 |
 | ↳ | **[Product Demonstrator Part Time - 6637](https://jobright.ai/jobs/info/694c6dcad64ebf28d8220414?utm_campaign=Product%20Management&utm_source=1103)** | Coral Springs, FL, United States | On Site | Dec 24 |
+| ↳ | **[Product Demonstrator Part Time - 6236](https://jobright.ai/jobs/info/694c604bd64ebf28d821ff9b?utm_campaign=Product%20Management&utm_source=1103)** | Rock Hill, SC, United States | On Site | Dec 24 |
 | ↳ | **[Product Demonstrator Part Time - 6520](https://jobright.ai/jobs/info/694d0c64d4a7df7a06723b3a?utm_campaign=Product%20Management&utm_source=1103)** | Vero Beach, FL, United States | On Site | Dec 24 |
 | **[Forvis Mazars US](https://www.forvis.com)** | **[ERP Platform Product Owner I](https://jobright.ai/jobs/info/69300d884c474121999e3d09?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Dec 24 |
 | **[Plaid](https://plaid.com)** | **[Product Manager - Fraud](https://jobright.ai/jobs/info/68f70e2e9a65fd34585996a6?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, CA | On Site | Dec 24 |
@@ -158,5 +162,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Senior Associate, Product Manager - Business Cards & Payments](https://jobright.ai/jobs/info/692f63d34c474121999de7ba?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Dec 24 |
 | **[DrFirst, Inc.](http://drfirst.com)** | **[Associate Product Analyst - ePrescribing Platform](https://jobright.ai/jobs/info/69200f3ea49a885af9a365c0?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Dec 24 |
 | **[Gap](https://jobs.gapinc.com/gap-home)** | **[Assistant Manager, Product Operations - Roseville Galleria](https://jobright.ai/jobs/info/694ba97e1a572a617dddfe2c?utm_campaign=Product%20Management&utm_source=1103)** | Roseville, CA | On Site | Dec 23 |
-| **[lululemon](http://shop.lululemon.com)** | **[Product Operations Lead / San Luis Obispo](https://jobright.ai/jobs/info/694b8ef4d64ebf28d821549a?utm_campaign=Product%20Management&utm_source=1103)** | San Luis Obispo, CA | On Site | Dec 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
