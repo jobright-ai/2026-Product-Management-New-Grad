@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Acosta](https://www.acosta.com)** | **[Product Demonstrator Part Time - 6379](https://jobright.ai/jobs/info/69555a18f1f8465b79ec6065?utm_campaign=Product%20Management&utm_source=1103)** | Great Falls, MT, United States | On Site | Dec 31 |
+| **[Bectran, Inc.](http://www.bectran.com)** | **[Product Operations Specialist](https://jobright.ai/jobs/info/690a9045bcccf20de59e3ef4?utm_campaign=Product%20Management&utm_source=1103)** | Greater Chicago Area | On Site | Dec 31 |
 | **[Burlington Stores, Inc.](https://www.burlington.com/)** | **[Product Development Sample Coordinator](https://jobright.ai/jobs/info/691b8b0422a2cb4b9bd136a1?utm_campaign=Product%20Management&utm_source=1103)** | Burlington, NJ | On Site | Dec 31 |
 | **[Businessolver](https://www.businessolver.com)** | **[Product Manager (Remote)](https://jobright.ai/jobs/info/69387144aabec14a727d5ab3?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Dec 31 |
 | **[Ralph Lauren](https://corporate.ralphlauren.com)** | **[Product Management Assistant, Collection](https://jobright.ai/jobs/info/6938ab06aabec14a727d9b8d?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Dec 31 |
@@ -64,8 +66,7 @@ For a complete list, click the following sortable link below:
 | **[Camping World](https://investor.campingworld.com)** | **[Product Specialist Advisor](https://jobright.ai/jobs/info/691d515e0b7dff734150258e?utm_campaign=Product%20Management&utm_source=1103)** | Hope Mills, NC | On Site | Dec 31 |
 | **[Abbott](https://www.abbott.com)** | **[Associate 1 Product Development](https://jobright.ai/jobs/info/69549efa5bb7de448ef794f2?utm_campaign=Product%20Management&utm_source=1103)** | Los Angeles, CA | On Site | Dec 30 |
 | **[Trillium Health Resources](https://www.trilliumhealthresources.org/)** | **[Agile Product Analyst](https://jobright.ai/jobs/info/69548c9b5bb7de448ef78686?utm_campaign=Product%20Management&utm_source=1103)** | Remote, Remote, US | Remote | Dec 30 |
-| **[Acosta](https://www.acosta.com)** | **[Product Demonstrator Part Time - 8208](https://jobright.ai/jobs/info/69546327aa05c26e7aaedb6b?utm_campaign=Product%20Management&utm_source=1103)** | Lenexa, KS, United States | On Site | Dec 30 |
-| ↳ | **[Product Demonstrator Part Time - 8176](https://jobright.ai/jobs/info/69545ff75bb7de448ef754ba?utm_campaign=Product%20Management&utm_source=1103)** | Topeka, KS, United States | On Site | Dec 30 |
+| **[Acosta](https://www.acosta.com)** | **[Product Demonstrator Part Time - 8176](https://jobright.ai/jobs/info/69545ff75bb7de448ef754ba?utm_campaign=Product%20Management&utm_source=1103)** | Topeka, KS, United States | On Site | Dec 30 |
 | **[lululemon](http://shop.lululemon.com)** | **[Product Operations Lead / Indiana Premium Outlets](https://jobright.ai/jobs/info/6954660a5bb7de448ef7576f?utm_campaign=Product%20Management&utm_source=1103)** | Edinburgh, IN | On Site | Dec 30 |
 | **[Chamberlain Group](http://www.chamberlaingroup.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/69543cb3f1f8465b79eb59e2?utm_campaign=Product%20Management&utm_source=1103)** | Oak Brook, IL | Hybrid | Dec 30 |
 | **[Acosta](https://www.acosta.com)** | **[Product demonstrator Part Time - 8287](https://jobright.ai/jobs/info/695437f8f1f8465b79eb5736?utm_campaign=Product%20Management&utm_source=1103)** | Morrow, GA, United States | On Site | Dec 30 |
