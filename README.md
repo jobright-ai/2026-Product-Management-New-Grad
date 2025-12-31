@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management - Commercial Servicing](https://jobright.ai/jobs/info/69005d370ab3b222462b430e?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Dec 31 |
+| **[Camping World](https://investor.campingworld.com)** | **[Product Specialist Advisor](https://jobright.ai/jobs/info/691d515e0b7dff734150258e?utm_campaign=Product%20Management&utm_source=1103)** | Hope Mills, NC | On Site | Dec 31 |
 | **[Abbott](https://www.abbott.com)** | **[Associate 1 Product Development](https://jobright.ai/jobs/info/69549efa5bb7de448ef794f2?utm_campaign=Product%20Management&utm_source=1103)** | Los Angeles, CA | On Site | Dec 30 |
 | **[Trillium Health Resources](https://www.trilliumhealthresources.org/)** | **[Agile Product Analyst](https://jobright.ai/jobs/info/69548c9b5bb7de448ef78686?utm_campaign=Product%20Management&utm_source=1103)** | Remote, Remote, US | Remote | Dec 30 |
 | **[Acosta](https://www.acosta.com)** | **[Product Demonstrator Part Time - 8208](https://jobright.ai/jobs/info/69546327aa05c26e7aaedb6b?utm_campaign=Product%20Management&utm_source=1103)** | Lenexa, KS, United States | On Site | Dec 30 |
@@ -82,8 +84,8 @@ For a complete list, click the following sortable link below:
 | **[Skechers](http://www.skechers.com)** | **[Product Coordinator](https://jobright.ai/jobs/info/695341f2935649778e21054b?utm_campaign=Product%20Management&utm_source=1103)** | Manhattan Beach, CA | On Site | Dec 29 |
 | **[Reformation](http://www.thereformation.com)** | **[Product Development Associate, Handbags and Accessories](https://jobright.ai/jobs/info/692e2c8def4b48533d13d40c?utm_campaign=Product%20Management&utm_source=1103)** | New York City | Hybrid | Dec 29 |
 | **[Skechers](http://www.skechers.com)** | **[Product Coordinator](https://jobright.ai/jobs/info/695314f4f1f8465b79ea5a92?utm_campaign=Product%20Management&utm_source=1103)** | Manhattan Beach, CA | On Site | Dec 29 |
-| **[Acosta](https://www.acosta.com)** | **[Product Demonstrator Part Time - 8138](https://jobright.ai/jobs/info/69530a32f1f8465b79ea573c?utm_campaign=Product%20Management&utm_source=1103)** | Daytona Beach, FL, United States | On Site | Dec 29 |
-| ↳ | **[Product Demonstrator Part Time - 6181](https://jobright.ai/jobs/info/695306d85bb7de448ef61f29?utm_campaign=Product%20Management&utm_source=1103)** | Papillion, NE, United States | On Site | Dec 29 |
+| **[Acosta](https://www.acosta.com)** | **[Product Demonstrator Part Time - 6181](https://jobright.ai/jobs/info/69530a69f1f8465b79ea574c?utm_campaign=Product%20Management&utm_source=1103)** | Papillion, NE, United States | On Site | Dec 29 |
+| ↳ | **[Product Demonstrator Part Time - 8138](https://jobright.ai/jobs/info/69530a32f1f8465b79ea573c?utm_campaign=Product%20Management&utm_source=1103)** | Daytona Beach, FL, United States | On Site | Dec 29 |
 | **[lululemon](http://shop.lululemon.com)** | **[Product Operations Lead / La Jolla, Girard St](https://jobright.ai/jobs/info/695315135bb7de448ef62330?utm_campaign=Product%20Management&utm_source=1103)** | San Diego, CA | On Site | Dec 29 |
 | **[Acosta](https://www.acosta.com)** | **[Product Demonstrator Part Time - 6331](https://jobright.ai/jobs/info/6953b79aaa05c26e7aae4179?utm_campaign=Product%20Management&utm_source=1103)** | Kenosha, WI, United States | On Site | Dec 29 |
 | **[Authorium](https://authorium.com/)** | **[Product Manager](https://jobright.ai/jobs/info/6952db02f1f8465b79ea248d?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, CA | Hybrid | Dec 29 |
