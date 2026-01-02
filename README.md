@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Genuine Comfort](http://www.genuinecomfort.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/6957e8e8aa05c26e7ab1d36a?utm_campaign=Product%20Management&utm_source=1103)** | Markham, Ontario, Canada | Hybrid | Jan 02 |
+| **[Acosta](https://www.acosta.com)** | **[Product Demonstrator Part Time - 8119](https://jobright.ai/jobs/info/6957ddcdf1f8465b79ee877e?utm_campaign=Product%20Management&utm_source=1103)** | Pensacola, FL, United States | On Site | Jan 02 |
 | **[IXL Learning](https://www.ixl.com/)** | **[Associate Product Manager, New Grad](https://jobright.ai/jobs/info/691e73ea09cc522e87739e00?utm_campaign=Product%20Management&utm_source=1103)** | San Mateo, CA | On Site | Jan 02 |
 | **[Ring](https://ring.com)** | **[Application Builder, Ring Software Product Builders](https://jobright.ai/jobs/info/691f5336a49a885af9a2e460?utm_campaign=Product%20Management&utm_source=1103)** | North Reading, MA | On Site | Jan 02 |
+| **[hand2mind](http://www.hand2mind.com)** | **[Associate Product Manager, Hardlines](https://jobright.ai/jobs/info/693b7453d4054a2bc0255df5?utm_campaign=Product%20Management&utm_source=1103)** | Vernon Hills, IL | On Site | Jan 02 |
 | **[TikTok](https://www.tiktok.com)** | **[Creative Product Manager Graduate (Creative and Brand Innovation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/693d347250bbaf7650505d1e?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA | On Site | Jan 02 |
 | **[LivaNova](http://www.livanova.com)** | **[Product Analysis Laboratory Coordinator](https://jobright.ai/jobs/info/692de8f3fa28370be269f473?utm_campaign=Product%20Management&utm_source=1103)** | Houston, TX | On Site | Jan 02 |
 | **[ARC Document Solutions](http://www.e-arc.com/)** | **[Promotional Product Specialist](https://jobright.ai/jobs/info/6957a19faa05c26e7ab1a624?utm_campaign=Product%20Management&utm_source=1103)** | Tulsa, Oklahoma | On Site | Jan 01 |
@@ -89,8 +92,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Senior Associate, Product Management - Pay Over Time (Business Cards & Payments)](https://jobright.ai/jobs/info/6956e1d9f1f8465b79edcff4?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Jan 01 |
 | ↳ | **[Sr. Associate, Product Manager - Settlement Core Products](https://jobright.ai/jobs/info/6956e1359f1b381eb27018ee?utm_campaign=Product%20Management&utm_source=1103)** | Deerfield, IL | On Site | Jan 01 |
 | ↳ | **[Senior Associate, Product Management - Enterprise Data](https://jobright.ai/jobs/info/69571888aa05c26e7ab12209?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Jan 01 |
-| ↳ | **[Senior Associate, Product Management - Premium Products & Experiences](https://jobright.ai/jobs/info/6957186daa05c26e7ab121e3?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Jan 01 |
 | ↳ | **[Sr. Associate, Product Management – Disputes Core Products](https://jobright.ai/jobs/info/69571a45f1f8465b79eddd7d?utm_campaign=Product%20Management&utm_source=1103)** | Deerfield, IL | On Site | Jan 01 |
+| ↳ | **[Senior Associate, Product Management - Premium Products & Experiences](https://jobright.ai/jobs/info/6957186daa05c26e7ab121e3?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Jan 01 |
 | ↳ | **[Senior Associate, Product Management - Premium Products & Experiences](https://jobright.ai/jobs/info/69571a35f1f8465b79eddd3e?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Jan 01 |
 | ↳ | **[Sr. Associate, Product Management - Internal Enablement](https://jobright.ai/jobs/info/69573a9faa05c26e7ab14ac7?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Jan 01 |
 | ↳ | **[Senior Associate, Product Management: Velocity Black (Remote)](https://jobright.ai/jobs/info/6956a4fb9f1b381eb26fd42d?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | Remote | Jan 01 |
@@ -114,8 +117,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Senior Associate, Product Manager (Mobile) - Business Cards & Payments](https://jobright.ai/jobs/info/695683c9f1f8465b79ed7cdc?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Jan 01 |
 | ↳ | **[Senior Associate, Product Management - Enterprise Data](https://jobright.ai/jobs/info/69567ef5aa05c26e7ab0c1da?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Jan 01 |
 | ↳ | **[Senior Associate, Product Manager - Business Cards & Payments](https://jobright.ai/jobs/info/695680d4aa05c26e7ab0c3ed?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Jan 01 |
-| ↳ | **[Sr. Associate, Product Management](https://jobright.ai/jobs/info/69568369aa05c26e7ab0c757?utm_campaign=Product%20Management&utm_source=1103)** | Cambridge, MA | On Site | Jan 01 |
 | ↳ | **[Senior Associate, Product Management - Balance Transfer](https://jobright.ai/jobs/info/69567e52f1f8465b79ed78d5?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Jan 01 |
+| ↳ | **[Sr. Associate, Product Management](https://jobright.ai/jobs/info/69568369aa05c26e7ab0c757?utm_campaign=Product%20Management&utm_source=1103)** | Cambridge, MA | On Site | Jan 01 |
 | **[Coach](https://uk.coach.com)** | **[Coordinator, Product Development](https://jobright.ai/jobs/info/693993da48a8ce22990d9c44?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Jan 01 |
 | **[Capital One](http://www.capitalone.com)** | **[Sr. Associate, Product Manager - Settlement Core Products](https://jobright.ai/jobs/info/695696fd9f1b381eb26fcd6d?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Jan 01 |
 | ↳ | **[Sr. Associate, Product Management - Internal Enablement](https://jobright.ai/jobs/info/69567e42f1f8465b79ed78c7?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Jan 01 |
@@ -157,7 +160,7 @@ For a complete list, click the following sortable link below:
 | **[Acosta](https://www.acosta.com)** | **[Product Demonstrator Part Time - 6331](https://jobright.ai/jobs/info/6953b79aaa05c26e7aae4179?utm_campaign=Product%20Management&utm_source=1103)** | Kenosha, WI, United States | On Site | Dec 29 |
 | **[Authorium](https://authorium.com/)** | **[Product Manager](https://jobright.ai/jobs/info/6952db02f1f8465b79ea248d?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, CA | Hybrid | Dec 29 |
 | **[lululemon](http://shop.lululemon.com)** | **[Product Operations Lead / Beechwood Shopping Center](https://jobright.ai/jobs/info/6952f5ed5bb7de448ef61815?utm_campaign=Product%20Management&utm_source=1103)** | Athens, GA | On Site | Dec 29 |
-| **[Acosta](https://www.acosta.com)** | **[Product Demonstrator Part Time - 6609](https://jobright.ai/jobs/info/6952ea7af1f8465b79ea3ee0?utm_campaign=Product%20Management&utm_source=1103)** | Palm Desert, CA, United States | On Site | Dec 29 |
+| **[Acosta](https://www.acosta.com)** | **[Product Demonstrator Part Time - 6609](https://jobright.ai/jobs/info/6952ea4e5bb7de448ef60445?utm_campaign=Product%20Management&utm_source=1103)** | Palm Desert, CA, United States | On Site | Dec 29 |
 | **[DealerOn](http://www.dealeron.com/)** | **[Associate Product Manager](https://jobright.ai/jobs/info/6930cd054c474121999e90e0?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Dec 29 |
 | **[Guardian Capital Group](http://www.guardiancapital.com)** | **[Analyst, Product Management](https://jobright.ai/jobs/info/6952c53cf1f8465b79ea1403?utm_campaign=Product%20Management&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Dec 29 |
 | **[Acosta](https://www.acosta.com)** | **[Product Demonstrator Part Time - 6429](https://jobright.ai/jobs/info/6953b04faa05c26e7aae40d5?utm_campaign=Product%20Management&utm_source=1103)** | Battle Creek, MI, United States | On Site | Dec 29 |
