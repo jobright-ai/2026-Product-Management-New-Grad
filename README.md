@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TTI, Inc.](https://www.tti.com)** | **[Branch Product Manger Assistant I / Tewksbury, MA](https://jobright.ai/jobs/info/695c3449f1f8465b79f23ef7?utm_campaign=Product%20Management&utm_source=1103)** | Tewksbury, MA | On Site | Jan 05 |
 | **[Intel Corporation](http://www.intel.com)** | **[Product Group HW Governance Business Systems Analyst](https://jobright.ai/jobs/info/695c31a322c9dc0d3d541043?utm_campaign=Product%20Management&utm_source=1103)** | Hillsboro, OR | Hybrid | Jan 05 |
-| **[TechVyne](https://www.linkedin.com/company/102970632)** | **[Associate Product Analyst](https://jobright.ai/jobs/info/695c2fcff1f8465b79f23ae6?utm_campaign=Product%20Management&utm_source=1103)** | Austin, TX | On Site | Jan 05 |
 | **[Camping World](https://investor.campingworld.com)** | **[Product Specialist Advisor](https://jobright.ai/jobs/info/695c2c90aa05c26e7ab57f3a?utm_campaign=Product%20Management&utm_source=1103)** | Churchville, NY | On Site | Jan 05 |
 | **[PGIM](https://www.pgim.com)** | **[PGIM Global Wealth - Project Analyst (Strategic Investment Research Group)](https://jobright.ai/jobs/info/695c294faa05c26e7ab57c42?utm_campaign=Product%20Management&utm_source=1103)** | Newark, NJ | On Site | Jan 05 |
 | **[Intel Corporation](http://www.intel.com)** | **[Product Group HW Governance Business Systems Analyst](https://jobright.ai/jobs/info/695c2523aa05c26e7ab57727?utm_campaign=Product%20Management&utm_source=1103)** | Folsom, CA | Hybrid | Jan 05 |
@@ -69,8 +69,8 @@ For a complete list, click the following sortable link below:
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Coordinator, Global Streaming Product](https://jobright.ai/jobs/info/695bfa76f1f8465b79f208f2?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Jan 05 |
 | **[Acosta](https://www.acosta.com)** | **[Product Demonstrator Part Time - 6501](https://jobright.ai/jobs/info/695c20eaf1f8465b79f22cfe?utm_campaign=Product%20Management&utm_source=1103)** | Murfreesboro, TN, United States | On Site | Jan 05 |
 | **[Specialisterne USA](https://us.specialisterne.com/)** | **[Product Control Analyst - Neurodiversity Hiring Initiative](https://jobright.ai/jobs/info/695c2613f1f8465b79f23291?utm_campaign=Product%20Management&utm_source=1103)** | Salt Lake City, UT | On Site | Jan 05 |
-| **[Intel Corporation](http://www.intel.com)** | **[Product Group HW Governance Business Systems Analyst](https://jobright.ai/jobs/info/695c2927f1f8465b79f2358f?utm_campaign=Product%20Management&utm_source=1103)** | US, Arizona, Phoenix | Hybrid | Jan 05 |
-| ↳ | **[Product Group HW Governance Business Systems Analyst](https://jobright.ai/jobs/info/695c2829aa05c26e7ab57af6?utm_campaign=Product%20Management&utm_source=1103)** | US, California, Folsom | Hybrid | Jan 05 |
+| **[Intel Corporation](http://www.intel.com)** | **[Product Group HW Governance Business Systems Analyst](https://jobright.ai/jobs/info/695c2829aa05c26e7ab57af6?utm_campaign=Product%20Management&utm_source=1103)** | US, California, Folsom | Hybrid | Jan 05 |
+| ↳ | **[Product Group HW Governance Business Systems Analyst](https://jobright.ai/jobs/info/695c2927f1f8465b79f2358f?utm_campaign=Product%20Management&utm_source=1103)** | US, Arizona, Phoenix | Hybrid | Jan 05 |
 | ↳ | **[Product Group HW Governance Business Systems Analyst](https://jobright.ai/jobs/info/695c2172f1f8465b79f22da0?utm_campaign=Product%20Management&utm_source=1103)** | US, Oregon, Hillsboro | Hybrid | Jan 05 |
 | **[Yext](http://www.yext.com)** | **[Analyst, Publisher Operations](https://jobright.ai/jobs/info/695be53cf1f8465b79f1e372?utm_campaign=Product%20Management&utm_source=1103)** | New York, United States | On Site | Jan 05 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Associate Product Developer](https://jobright.ai/jobs/info/695c014122c9dc0d3d53e3b2?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Jan 05 |
@@ -96,8 +96,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sr. Associate, Product Management - Risk Capabilities](https://jobright.ai/jobs/info/69595a71aa05c26e7ab32c4d?utm_campaign=Product%20Management&utm_source=1103)** | Deerfield, IL | On Site | Jan 03 |
 | ↳ | **[Sr. Associate, Product Management - Risk Capabilities](https://jobright.ai/jobs/info/69595a639f1b381eb272309f?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Jan 03 |
 | ↳ | **[Senior Associate, Product Management- Pulse Network](https://jobright.ai/jobs/info/69595a349f1b381eb272309a?utm_campaign=Product%20Management&utm_source=1103)** | Deerfield, IL | On Site | Jan 03 |
-| ↳ | **[Senior Associate, Product Management- Pulse Network](https://jobright.ai/jobs/info/695959e99f1b381eb272308a?utm_campaign=Product%20Management&utm_source=1103)** | Houston, TX | On Site | Jan 03 |
 | ↳ | **[Sr. Associate, Product Management - Risk Capabilities](https://jobright.ai/jobs/info/6959596bf1f8465b79efe3a3?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Jan 03 |
+| ↳ | **[Senior Associate, Product Management- Pulse Network](https://jobright.ai/jobs/info/69595854f1f8465b79efe36e?utm_campaign=Product%20Management&utm_source=1103)** | Houston, TX | On Site | Jan 03 |
 | ↳ | **[Senior Associate, Product Management - Premium Products & Experiences](https://jobright.ai/jobs/info/6957186daa05c26e7ab121e3?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Jan 03 |
 | ↳ | **[Sr. Associate, Product Management - Strategic Intelligence](https://jobright.ai/jobs/info/695678cbaa05c26e7ab0bad7?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Jan 03 |
 | ↳ | **[Sr. Associate, Product Management - Auto](https://jobright.ai/jobs/info/69569664f1f8465b79ed84c6?utm_campaign=Product%20Management&utm_source=1103)** | Plano, TX | On Site | Jan 03 |
@@ -141,9 +141,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Content Oversight Associate - Nights](https://jobright.ai/jobs/info/69584488aa05c26e7ab231a3?utm_campaign=Product%20Management&utm_source=1103)** | Bentonville, AR | On Site | Jan 02 |
 | ↳ | **[Product Data Capture Associate - Nights](https://jobright.ai/jobs/info/69584423aa05c26e7ab23157?utm_campaign=Product%20Management&utm_source=1103)** | Bentonville, AR | On Site | Jan 02 |
 | ↳ | **[Product Data Capture Associate - Weekends](https://jobright.ai/jobs/info/6958371c9f1b381eb271183c?utm_campaign=Product%20Management&utm_source=1103)** | Bentonville, AR | On Site | Jan 02 |
-| **[Acosta](https://www.acosta.com)** | **[Product Demonstrator Part Time - 8172](https://jobright.ai/jobs/info/695834619f1b381eb271103e?utm_campaign=Product%20Management&utm_source=1103)** | Fargo, ND, United States | On Site | Jan 02 |
-| **[eko](https://eko.com)** | **[Product Data Capture Associate - Weekend Nights](https://jobright.ai/jobs/info/6958317d9f1b381eb2710d6b?utm_campaign=Product%20Management&utm_source=1103)** | Bentonville, AR | On Site | Jan 02 |
-| ↳ | **[Product Data Capture Associate](https://jobright.ai/jobs/info/69584973f1f8465b79eeeb74?utm_campaign=Product%20Management&utm_source=1103)** | Bentonville, AR | On Site | Jan 02 |
+| ↳ | **[Product Data Capture Associate - Weekend Nights](https://jobright.ai/jobs/info/6958317d9f1b381eb2710d6b?utm_campaign=Product%20Management&utm_source=1103)** | Bentonville, AR | On Site | Jan 02 |
+| **[Acosta](https://www.acosta.com)** | **[Product Demonstrator Part Time - 8172](https://jobright.ai/jobs/info/69583144f1f8465b79eec460?utm_campaign=Product%20Management&utm_source=1103)** | Fargo, ND, United States | On Site | Jan 02 |
+| **[eko](https://eko.com)** | **[Product Data Capture Associate](https://jobright.ai/jobs/info/69584973f1f8465b79eeeb74?utm_campaign=Product%20Management&utm_source=1103)** | Bentonville, AR | On Site | Jan 02 |
 | **[Capital One](http://www.capitalone.com)** | **[Manager, Product Management - - Network Authorizations Health & Compliance](https://jobright.ai/jobs/info/6958116a9f1b381eb270fac0?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Jan 02 |
 | ↳ | **[Senior Associate, Product Management - Balance Transfer](https://jobright.ai/jobs/info/695810619f1b381eb270fa5d?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Jan 02 |
 | ↳ | **[Product Management Senior Associate, Commercial Banking](https://jobright.ai/jobs/info/69580fb39f1b381eb270fa34?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Jan 02 |
