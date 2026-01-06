@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[lululemon](http://shop.lululemon.com)** | **[Product Operations Lead / Knox St.](https://jobright.ai/jobs/info/695ca62a9a87b95a93980c0b?utm_campaign=Product%20Management&utm_source=1103)** | Dallas, TX | On Site | Jan 05 |
 | **[Harvard Business Publishing](http://www.harvardbusiness.org)** | **[Product Associate](https://jobright.ai/jobs/info/695c95f49a87b95a9397e8ac?utm_campaign=Product%20Management&utm_source=1103)** | Boston, MA | On Site | Jan 05 |
 | **[Miller International Inc.](https://cinchjeans.com)** | **[Product Development Assistant](https://jobright.ai/jobs/info/695c8a8a5e4962051b59a955?utm_campaign=Product%20Management&utm_source=1103)** | Thornton, CO | On Site | Jan 05 |
 | **[Camping World](https://investor.campingworld.com)** | **[Product Specialist Advisor](https://jobright.ai/jobs/info/695c7b75f1f8465b79f29f14?utm_campaign=Product%20Management&utm_source=1103)** | Wentzville, MO | On Site | Jan 05 |
@@ -91,8 +92,8 @@ For a complete list, click the following sortable link below:
 | **[Acosta](https://www.acosta.com)** | **[Product Demonstrator Part Time - 6501](https://jobright.ai/jobs/info/695c20eaf1f8465b79f22cfe?utm_campaign=Product%20Management&utm_source=1103)** | Murfreesboro, TN, United States | On Site | Jan 05 |
 | **[Specialisterne USA](https://us.specialisterne.com/)** | **[Product Control Analyst - Neurodiversity Hiring Initiative](https://jobright.ai/jobs/info/695c2613f1f8465b79f23291?utm_campaign=Product%20Management&utm_source=1103)** | Salt Lake City, UT | On Site | Jan 05 |
 | **[Intel Corporation](http://www.intel.com)** | **[Product Group HW Governance Business Systems Analyst](https://jobright.ai/jobs/info/695c2829aa05c26e7ab57af6?utm_campaign=Product%20Management&utm_source=1103)** | US, California, Folsom | Hybrid | Jan 05 |
-| ↳ | **[Product Group HW Governance Business Systems Analyst](https://jobright.ai/jobs/info/695c2172f1f8465b79f22da0?utm_campaign=Product%20Management&utm_source=1103)** | US, Oregon, Hillsboro | Hybrid | Jan 05 |
 | ↳ | **[Product Group HW Governance Business Systems Analyst](https://jobright.ai/jobs/info/695c2927f1f8465b79f2358f?utm_campaign=Product%20Management&utm_source=1103)** | US, Arizona, Phoenix | Hybrid | Jan 05 |
+| ↳ | **[Product Group HW Governance Business Systems Analyst](https://jobright.ai/jobs/info/695c2172f1f8465b79f22da0?utm_campaign=Product%20Management&utm_source=1103)** | US, Oregon, Hillsboro | Hybrid | Jan 05 |
 | **[Yext](http://www.yext.com)** | **[Analyst, Publisher Operations](https://jobright.ai/jobs/info/695be53cf1f8465b79f1e372?utm_campaign=Product%20Management&utm_source=1103)** | New York, United States | On Site | Jan 05 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Associate Product Developer](https://jobright.ai/jobs/info/695c014122c9dc0d3d53e3b2?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Jan 05 |
 | **[Macy's](http://www.macysjobs.com)** | **[Assistant, Product Manager](https://jobright.ai/jobs/info/695be07d22c9dc0d3d53b633?utm_campaign=Product%20Management&utm_source=1103)** | 151 West 34th Street, New York, NY, 10001, US | On Site | Jan 05 |
@@ -158,7 +159,7 @@ For a complete list, click the following sortable link below:
 | **[Anthropologie](https://www.anthropologie.com)** | **[Free People Product Flow Manager](https://jobright.ai/jobs/info/695ca0be5e4962051b59d398?utm_campaign=Product%20Management&utm_source=1103)** | US-UT-Salt Lake City | On Site | Jan 02 |
 | **[Riddell](http://www.riddell.com/)** | **[Associate Product Manager - Apparel](https://jobright.ai/jobs/info/69587407f1f8465b79ef1611?utm_campaign=Product%20Management&utm_source=1103)** | Des Plaines, IL 60018, USA | Remote | Jan 02 |
 | **[Free People](http://www.freepeople.com)** | **[Free People Product Flow Manager](https://jobright.ai/jobs/info/6959399df1f8465b79efc3bf?utm_campaign=Product%20Management&utm_source=1103)** | SLC Metro Area | On Site | Jan 02 |
-| **[eko](https://eko.com)** | **[Content Oversight Associate - Nights](https://jobright.ai/jobs/info/69584fa89f1b381eb2713866?utm_campaign=Product%20Management&utm_source=1103)** | Bentonville, Arkansas | On Site | Jan 02 |
+| **[eko](https://eko.com)** | **[Content Oversight Associate - Nights](https://jobright.ai/jobs/info/69585179aa05c26e7ab237fe?utm_campaign=Product%20Management&utm_source=1103)** | Bentonville, Arkansas | On Site | Jan 02 |
 | ↳ | **[Content Oversight Associate - Nights](https://jobright.ai/jobs/info/69584488aa05c26e7ab231a3?utm_campaign=Product%20Management&utm_source=1103)** | Bentonville, AR | On Site | Jan 02 |
 | ↳ | **[Product Data Capture Associate - Nights](https://jobright.ai/jobs/info/69584423aa05c26e7ab23157?utm_campaign=Product%20Management&utm_source=1103)** | Bentonville, AR | On Site | Jan 02 |
 | ↳ | **[Product Data Capture Associate - Weekends](https://jobright.ai/jobs/info/6958371c9f1b381eb271183c?utm_campaign=Product%20Management&utm_source=1103)** | Bentonville, AR | On Site | Jan 02 |
@@ -176,7 +177,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Senior Associate, Product Management - Client Acquisition & Management Experiences](https://jobright.ai/jobs/info/69584a859f1b381eb2713679?utm_campaign=Product%20Management&utm_source=1103)** | Charlotte, NC | On Site | Jan 02 |
 | ↳ | **[Sr. Associate, Product Management – Disputes Core Products](https://jobright.ai/jobs/info/69589f7aaa05c26e7ab2743d?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Jan 02 |
 | **[Genuine Comfort](http://www.genuinecomfort.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/6957e8e8aa05c26e7ab1d36a?utm_campaign=Product%20Management&utm_source=1103)** | Markham, Ontario, Canada | Hybrid | Jan 02 |
-| **[Acosta](https://www.acosta.com)** | **[Product Demonstrator Part Time - 8119](https://jobright.ai/jobs/info/6957dfa29f1b381eb270d141?utm_campaign=Product%20Management&utm_source=1103)** | Pensacola, FL, United States | On Site | Jan 02 |
+| **[Acosta](https://www.acosta.com)** | **[Product Demonstrator Part Time - 8119](https://jobright.ai/jobs/info/6957de57aa05c26e7ab1d0cc?utm_campaign=Product%20Management&utm_source=1103)** | Pensacola, FL, United States | On Site | Jan 02 |
 | **[IXL Learning](https://www.ixl.com/)** | **[Associate Product Manager, New Grad](https://jobright.ai/jobs/info/691e73ea09cc522e87739e00?utm_campaign=Product%20Management&utm_source=1103)** | San Mateo, CA | On Site | Jan 02 |
 | **[Ring](https://ring.com)** | **[Application Builder, Ring Software Product Builders](https://jobright.ai/jobs/info/691f5336a49a885af9a2e460?utm_campaign=Product%20Management&utm_source=1103)** | North Reading, MA | On Site | Jan 02 |
 | **[hand2mind](http://www.hand2mind.com)** | **[Associate Product Manager, Hardlines](https://jobright.ai/jobs/info/693b7453d4054a2bc0255df5?utm_campaign=Product%20Management&utm_source=1103)** | Vernon Hills, IL | On Site | Jan 02 |
@@ -233,5 +234,4 @@ For a complete list, click the following sortable link below:
 | **[Chamberlain Group](http://www.chamberlaingroup.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/69543cb3f1f8465b79eb59e2?utm_campaign=Product%20Management&utm_source=1103)** | Oak Brook, IL | Hybrid | Dec 30 |
 | **[Acosta](https://www.acosta.com)** | **[Product demonstrator Part Time - 8287](https://jobright.ai/jobs/info/695437f8f1f8465b79eb5736?utm_campaign=Product%20Management&utm_source=1103)** | Morrow, GA, United States | On Site | Dec 30 |
 | **[Camping World](https://investor.campingworld.com)** | **[Product Specialist Advisor](https://jobright.ai/jobs/info/695430b15bb7de448ef71c58?utm_campaign=Product%20Management&utm_source=1103)** | Chelsea, MI | On Site | Dec 30 |
-| **[lululemon](http://shop.lululemon.com)** | **[Product Operations Lead / Menlo Park Pop Up](https://jobright.ai/jobs/info/69541242f1f8465b79eb4205?utm_campaign=Product%20Management&utm_source=1103)** | Edison, NJ | On Site | Dec 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
