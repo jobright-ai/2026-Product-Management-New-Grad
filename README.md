@@ -265,5 +265,4 @@ For a complete list, click the following sortable link below:
 | **[lululemon](http://shop.lululemon.com)** | **[Product Operations Lead / Augusta Mall Pop-up](https://jobright.ai/jobs/info/6957018a9f1b381eb2701d1a?utm_campaign=Product%20Management&utm_source=1103)** | Augusta, GA | On Site | Jan 01 |
 | **[Roblox](https://corp.roblox.com)** | **[Product Policy Specialist](https://jobright.ai/jobs/info/6928b3f6f0beb0723263116f?utm_campaign=Product%20Management&utm_source=1103)** | San Mateo, CA, United States | Hybrid | Jan 01 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate,  Product Management - Card Capabilities (Business Cards & Payments)](https://jobright.ai/jobs/info/695d5ae5fbd62a0a6565f2c7?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Jan 01 |
-| **[Motive Companies](https://motivecompanies.com/)** | **[Showroom / Product Assistant - (Home Fashions/Bedding)](https://jobright.ai/jobs/info/6956b077aa05c26e7ab0f2e7?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Jan 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
