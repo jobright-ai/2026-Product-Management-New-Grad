@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fluor Corporation](http://www.fluor.com)** | **[Product Control Specialist (TS/SCI with Polygraph Required)](https://jobright.ai/jobs/info/6968bf01f25a380066974e43?utm_campaign=Product%20Management&utm_source=1103)** | Aurora, CO | On Site | Jan 20 |
+| **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management -  Commercial Self-Service](https://jobright.ai/jobs/info/696ff9ee82817106e9770ec9?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Jan 20 |
+| ↳ | **[Senior Associate, Product Management -  Commercial Self-Service](https://jobright.ai/jobs/info/696ff27d3ed06875134ae41d?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Jan 20 |
+| ↳ | **[Senior Associate, Product Management -  Commercial Self-Service](https://jobright.ai/jobs/info/696fefb30f4e0f657ea43810?utm_campaign=Product%20Management&utm_source=1103)** | Charlotte, NC | On Site | Jan 20 |
+| **[Acosta](https://www.acosta.com)** | **[Product Demonstrator Part Time - 4761](https://jobright.ai/jobs/info/696fee850f4e0f657ea43579?utm_campaign=Product%20Management&utm_source=1103)** | Norman, OK, United States | On Site | Jan 20 |
+| **[Nexora Solutions](https://www.linkedin.com/company/74301328)** | **[Finance Product Analyst](https://jobright.ai/jobs/info/696ff3b582817106e9770045?utm_campaign=Product%20Management&utm_source=1103)** | Austin, TX | On Site | Jan 20 |
 | **[Acosta](https://www.acosta.com)** | **[Product Demonstrator Part Time - 8117](https://jobright.ai/jobs/info/696fc2d83ed06875134ab39b?utm_campaign=Product%20Management&utm_source=1103)** | Oklahoma City, OK, United States | On Site | Jan 20 |
 | ↳ | **[Product Demonstrator Part Time - 4742](https://jobright.ai/jobs/info/696fc27982817106e976d17e?utm_campaign=Product%20Management&utm_source=1103)** | Fort Worth, TX, United States | On Site | Jan 20 |
 | ↳ | **[Product Demonstrator Part Time - 6260](https://jobright.ai/jobs/info/696fc0cd0f4e0f657ea410df?utm_campaign=Product%20Management&utm_source=1103)** | Memphis, TN, United States | On Site | Jan 20 |
@@ -200,11 +206,10 @@ For a complete list, click the following sortable link below:
 | **[Boeing](https://www.boeing.co.uk)** | **[Product Acceptance Specialist](https://jobright.ai/jobs/info/694c5e0f5d7312113470d527?utm_campaign=Product%20Management&utm_source=1103)** | North Charleston, SC | On Site | Jan 15 |
 | **[Maybern](https://maybern.com)** | **[Implementation Analyst](https://jobright.ai/jobs/info/6969c49e639b452fb57fafbe?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Jan 15 |
 | **[PIMCO](http://www.pimco.com)** | **[Associate, Product Manager – Credit Technology](https://jobright.ai/jobs/info/6968201a639b452fb57daf53?utm_campaign=Product%20Management&utm_source=1103)** | Newport Beach, CA | On Site | Jan 15 |
-| **[Fluor Corporation](http://www.fluor.com)** | **[Product Control Specialist (TS/SCI with Polygraph Required)](https://jobright.ai/jobs/info/6968bf01f25a380066974e43?utm_campaign=Product%20Management&utm_source=1103)** | Aurora, CO | On Site | Jan 14 |
 | **[Forvis Mazars US](https://www.forvis.com)** | **[ERP Platform Product Owner I](https://jobright.ai/jobs/info/696b27f0350cf43803127dbb?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Jan 14 |
 | **[Camping World](https://investor.campingworld.com)** | **[Product Specialist](https://jobright.ai/jobs/info/69685197639b452fb57df260?utm_campaign=Product%20Management&utm_source=1103)** | Springfield, MO | On Site | Jan 14 |
-| **[eko](https://eko.com)** | **[Product Data Capture Associate - Nights](https://jobright.ai/jobs/info/69687f26639b452fb57e2f4b?utm_campaign=Product%20Management&utm_source=1103)** | Bentonville, Arkansas | On Site | Jan 14 |
-| ↳ | **[Product Data Capture Associate - Weekend Nights](https://jobright.ai/jobs/info/69687c121703f05405aa37a3?utm_campaign=Product%20Management&utm_source=1103)** | Bentonville, Arkansas | On Site | Jan 14 |
+| **[eko](https://eko.com)** | **[Product Data Capture Associate - Weekend Nights](https://jobright.ai/jobs/info/69687c121703f05405aa37a3?utm_campaign=Product%20Management&utm_source=1103)** | Bentonville, Arkansas | On Site | Jan 14 |
+| ↳ | **[Product Data Capture Associate - Nights](https://jobright.ai/jobs/info/69687f26639b452fb57e2f4b?utm_campaign=Product%20Management&utm_source=1103)** | Bentonville, Arkansas | On Site | Jan 14 |
 | ↳ | **[Product Data Capture Associate](https://jobright.ai/jobs/info/69688ad21703f05405aa4f01?utm_campaign=Product%20Management&utm_source=1103)** | Bentonville, Arkansas | On Site | Jan 14 |
 | **[Acosta](https://www.acosta.com)** | **[Product Demonstrator Part Time - 8152](https://jobright.ai/jobs/info/6968953a1703f05405aa639f?utm_campaign=Product%20Management&utm_source=1103)** | South Point, OH, United States | On Site | Jan 14 |
 | ↳ | **[Product Demonstrator Part Time - 8192](https://jobright.ai/jobs/info/6968ef031703f05405aacf45?utm_campaign=Product%20Management&utm_source=1103)** | Dothan, AL, United States | On Site | Jan 14 |
@@ -232,5 +237,4 @@ For a complete list, click the following sortable link below:
 | **[Plaid](https://plaid.com)** | **[Product Manager - Fraud](https://jobright.ai/jobs/info/68f70e2e9a65fd34585996a6?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, CA | Hybrid | Jan 14 |
 | **[Boeing](https://www.boeing.co.uk)** | **[Product Acceptance Specialist](https://jobright.ai/jobs/info/69676c38639b452fb57d0ddc?utm_campaign=Product%20Management&utm_source=1103)** | North Charleston, SC | On Site | Jan 14 |
 | **[CreatorIQ](https://www.creatoriq.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/696790e3f25a38006695e598?utm_campaign=Product%20Management&utm_source=1103)** | Los Angeles, CA | Hybrid | Jan 13 |
-| **[BNY](https://www.bny.com)** | **[Associate, Product Management II](https://jobright.ai/jobs/info/696b36095fc86241853a8dda?utm_campaign=Product%20Management&utm_source=1103)** | Pittsburgh, PA | On Site | Jan 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
