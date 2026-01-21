@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management - Commercial Self-Service](https://jobright.ai/jobs/info/69710307333b6343a14d83c6?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Jan 21 |
+| **[Aimé Leon Dore](http://aimeleondore.com)** | **[Product Development Assistant, Knits](https://jobright.ai/jobs/info/6970fd1f51f7264771832c50?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Jan 21 |
+| **[Acosta](https://www.acosta.com)** | **[Product Demonstrator Part Time - 8155](https://jobright.ai/jobs/info/6970f54b587dfa0bb55e7b68?utm_campaign=Product%20Management&utm_source=1103)** | Gainesville, FL, United States | On Site | Jan 21 |
 | **[Camping World](https://investor.campingworld.com)** | **[Product Specialist Advisor](https://jobright.ai/jobs/info/6970eb5b51f726477183235a?utm_campaign=Product%20Management&utm_source=1103)** | Pasco, WA | On Site | Jan 21 |
 | **[Marcangelo Foods (Concord Premium Meats Ltd)](https://marcangelofoods.com)** | **[Product Developer](https://jobright.ai/jobs/info/6970e70151f72647718320c7?utm_campaign=Product%20Management&utm_source=1103)** | Concord, Ontario, Canada | On Site | Jan 21 |
 | **[Ralph Lauren](https://corporate.ralphlauren.com)** | **[Product Management Assistant, Collection](https://jobright.ai/jobs/info/6938ab06aabec14a727d9b8d?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Jan 21 |
@@ -76,10 +79,10 @@ For a complete list, click the following sortable link below:
 | **[3iQ Corp](https://3iq.ca/)** | **[Product Associate](https://jobright.ai/jobs/info/69700d4d0f4e0f657ea468e4?utm_campaign=Product%20Management&utm_source=1103)** | Canada | Hybrid | Jan 20 |
 | **[Acosta](https://www.acosta.com)** | **[Product Demonstrator Part Time - 4720](https://jobright.ai/jobs/info/6970b56651f726477182f4d3?utm_campaign=Product%20Management&utm_source=1103)** | Austin, TX, United States | On Site | Jan 20 |
 | **[Fluor Corporation](http://www.fluor.com)** | **[Product Control Specialist (TS/SCI with Polygraph Required)](https://jobright.ai/jobs/info/6968bf01f25a380066974e43?utm_campaign=Product%20Management&utm_source=1103)** | Aurora, CO | On Site | Jan 20 |
-| **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management -  Commercial Self-Service](https://jobright.ai/jobs/info/696fefb30f4e0f657ea43810?utm_campaign=Product%20Management&utm_source=1103)** | Charlotte, NC | On Site | Jan 20 |
+| **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management -  Commercial Self-Service](https://jobright.ai/jobs/info/696ff9ee82817106e9770ec9?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Jan 20 |
 | ↳ | **[Senior Associate, Product Management -  Commercial Self-Service](https://jobright.ai/jobs/info/696ff27d3ed06875134ae41d?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Jan 20 |
-| ↳ | **[Senior Associate, Product Management -  Commercial Self-Service](https://jobright.ai/jobs/info/696ff9ee82817106e9770ec9?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Jan 20 |
-| **[Acosta](https://www.acosta.com)** | **[Product Demonstrator Part Time - 4761](https://jobright.ai/jobs/info/696fee850f4e0f657ea43579?utm_campaign=Product%20Management&utm_source=1103)** | Norman, OK, United States | On Site | Jan 20 |
+| ↳ | **[Senior Associate, Product Management -  Commercial Self-Service](https://jobright.ai/jobs/info/696fefb30f4e0f657ea43810?utm_campaign=Product%20Management&utm_source=1103)** | Charlotte, NC | On Site | Jan 20 |
+| **[Acosta](https://www.acosta.com)** | **[Product Demonstrator Part Time - 4761](https://jobright.ai/jobs/info/696ffdaa0f4e0f657ea45b7e?utm_campaign=Product%20Management&utm_source=1103)** | Norman, OK, United States | On Site | Jan 20 |
 | ↳ | **[Product Demonstrator Part Time - 4761](https://jobright.ai/jobs/info/696fff2382817106e9771c8e?utm_campaign=Product%20Management&utm_source=1103)** | Norman, OK, United States | On Site | Jan 20 |
 | ↳ | **[Product Demonstrator Part Time - 8117](https://jobright.ai/jobs/info/696fc2d83ed06875134ab39b?utm_campaign=Product%20Management&utm_source=1103)** | Oklahoma City, OK, United States | On Site | Jan 20 |
 | ↳ | **[Product Demonstrator Part Time - 6260](https://jobright.ai/jobs/info/696fc0cd0f4e0f657ea410df?utm_campaign=Product%20Management&utm_source=1103)** | Memphis, TN, United States | On Site | Jan 20 |
@@ -201,8 +204,8 @@ For a complete list, click the following sortable link below:
 | **[Capital One](http://www.capitalone.com)** | **[Sr. Associate, Product Management](https://jobright.ai/jobs/info/69694ab4639b452fb57f1588?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Jan 15 |
 | ↳ | **[Senior Associate, Product Management - Digital Information Exchange & Analytics](https://jobright.ai/jobs/info/69694b8df25a38006697dcea?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Jan 15 |
 | ↳ | **[Sr. Associate, Product Management](https://jobright.ai/jobs/info/69694312639b452fb57f0dcd?utm_campaign=Product%20Management&utm_source=1103)** | Cambridge, MA | Hybrid | Jan 15 |
-| ↳ | **[Senior Associate, Product Management - Salesforce](https://jobright.ai/jobs/info/69694cf8639b452fb57f17df?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Jan 15 |
 | ↳ | **[Sr. Associate, Product Management – Disputes Core Products](https://jobright.ai/jobs/info/69694f64f25a38006697e0f8?utm_campaign=Product%20Management&utm_source=1103)** | Deerfield, IL | On Site | Jan 15 |
+| ↳ | **[Senior Associate, Product Management - Salesforce](https://jobright.ai/jobs/info/69694cf8639b452fb57f17df?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Jan 15 |
 | ↳ | **[Sr. Associate, Product Management – Disputes Core Products](https://jobright.ai/jobs/info/6969503d1703f05405ab28b8?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Jan 15 |
 | ↳ | **[Senior Associate, Product Management - Salesforce](https://jobright.ai/jobs/info/69694780f25a38006697d95d?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Jan 15 |
 | ↳ | **[Manager, Product Management - - Network Authorizations Health & Compliance](https://jobright.ai/jobs/info/69694dcc639b452fb57f18c1?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Jan 15 |
@@ -222,8 +225,6 @@ For a complete list, click the following sortable link below:
 | **[PIMCO](http://www.pimco.com)** | **[Associate, Product Manager – Credit Technology](https://jobright.ai/jobs/info/6968201a639b452fb57daf53?utm_campaign=Product%20Management&utm_source=1103)** | Newport Beach, CA | On Site | Jan 15 |
 | **[Forvis Mazars US](https://www.forvis.com)** | **[ERP Platform Product Owner I](https://jobright.ai/jobs/info/696b27f0350cf43803127dbb?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Jan 14 |
 | **[Camping World](https://investor.campingworld.com)** | **[Product Specialist](https://jobright.ai/jobs/info/69685197639b452fb57df260?utm_campaign=Product%20Management&utm_source=1103)** | Springfield, MO | On Site | Jan 14 |
-| **[eko](https://eko.com)** | **[Product Data Capture Associate - Weekend Nights](https://jobright.ai/jobs/info/69687c121703f05405aa37a3?utm_campaign=Product%20Management&utm_source=1103)** | Bentonville, Arkansas | On Site | Jan 14 |
-| ↳ | **[Product Data Capture Associate - Nights](https://jobright.ai/jobs/info/69687f26639b452fb57e2f4b?utm_campaign=Product%20Management&utm_source=1103)** | Bentonville, Arkansas | On Site | Jan 14 |
-| **[Acosta](https://www.acosta.com)** | **[Product Demonstrator Part Time - 8152](https://jobright.ai/jobs/info/6968953a1703f05405aa639f?utm_campaign=Product%20Management&utm_source=1103)** | South Point, OH, United States | On Site | Jan 14 |
-| ↳ | **[Product Demonstrator Part Time - 8192](https://jobright.ai/jobs/info/6968ef031703f05405aacf45?utm_campaign=Product%20Management&utm_source=1103)** | Dothan, AL, United States | On Site | Jan 14 |
+| **[eko](https://eko.com)** | **[Product Data Capture Associate - Nights](https://jobright.ai/jobs/info/69687f26639b452fb57e2f4b?utm_campaign=Product%20Management&utm_source=1103)** | Bentonville, Arkansas | On Site | Jan 14 |
+| ↳ | **[Product Data Capture Associate - Weekend Nights](https://jobright.ai/jobs/info/69687c121703f05405aa37a3?utm_campaign=Product%20Management&utm_source=1103)** | Bentonville, Arkansas | On Site | Jan 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
