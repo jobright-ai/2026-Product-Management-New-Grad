@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Marcangelo Foods (Concord Premium Meats Ltd)](https://marcangelofoods.com)** | **[Product Developer](https://jobright.ai/jobs/info/6970e70151f72647718320c7?utm_campaign=Product%20Management&utm_source=1103)** | Concord, Ontario, Canada | On Site | Jan 21 |
+| **[Ralph Lauren](https://corporate.ralphlauren.com)** | **[Product Management Assistant, Collection](https://jobright.ai/jobs/info/6938ab06aabec14a727d9b8d?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Jan 21 |
 | **[Chamberlain Group](http://www.chamberlaingroup.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/69543cb3f1f8465b79eb59e2?utm_campaign=Product%20Management&utm_source=1103)** | Oak Brook, IL | On Site | Jan 21 |
 | **[Businessolver](https://www.businessolver.com)** | **[Product Manager (Remote)](https://jobright.ai/jobs/info/69387144aabec14a727d5ab3?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Jan 21 |
 | **[American Express](http://www.americanexpress.com)** | **[Associate - Digital Product Management](https://jobright.ai/jobs/info/6970cd92333b6343a14d4d2b?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Jan 21 |
@@ -152,9 +154,9 @@ For a complete list, click the following sortable link below:
 | **[Capital One](http://www.capitalone.com)** | **[Sr. Associate, Product Management, CCI](https://jobright.ai/jobs/info/696a8e19350cf43803117d04?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Jan 16 |
 | ↳ | **[Sr. Associate, Product Management, CCI](https://jobright.ai/jobs/info/696a89bb350cf4380311779a?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Jan 16 |
 | **[JPMorganChase](https://www.jpmorganchase.com/)** | **[Product Development - Liquidity Investments - Associate](https://jobright.ai/jobs/info/696fc5bb82817106e976d3a0?utm_campaign=Product%20Management&utm_source=1103)** | 270 Park Ave, New York, NY, 10017, US | On Site | Jan 16 |
-| **[Acosta](https://www.acosta.com)** | **[Product Demonstrator Part Time - 4720](https://jobright.ai/jobs/info/6970b64751f726477182f51c?utm_campaign=Product%20Management&utm_source=1103)** | Austin, TX, United States | On Site | Jan 16 |
+| **[Acosta](https://www.acosta.com)** | **[Product Demonstrator Part Time - 4720](https://jobright.ai/jobs/info/6970b49b51f726477182f48f?utm_campaign=Product%20Management&utm_source=1103)** | Austin, TX, United States | On Site | Jan 16 |
 | ↳ | **[Product Demonstrator Part Time - 6212](https://jobright.ai/jobs/info/696b479d350cf43803129533?utm_campaign=Product%20Management&utm_source=1103)** | Orlando, FL, United States | On Site | Jan 16 |
-| ↳ | **[Product Demonstrator Part Time - 4720](https://jobright.ai/jobs/info/6970b49b51f726477182f48f?utm_campaign=Product%20Management&utm_source=1103)** | Austin, TX, United States | On Site | Jan 16 |
+| ↳ | **[Product Demonstrator Part Time - 4720](https://jobright.ai/jobs/info/6970b64751f726477182f51c?utm_campaign=Product%20Management&utm_source=1103)** | Austin, TX, United States | On Site | Jan 16 |
 | **[NJM Insurance Group](https://www.njm.com)** | **[Insurance Product Management Analyst](https://jobright.ai/jobs/info/696a7db55fc8624185397b7c?utm_campaign=Product%20Management&utm_source=1103)** | Trenton, NJ | On Site | Jan 16 |
 | **[Medline](http://www.medline.com/home.jsp)** | **[Associate Product Manager - April 2026 Start Date](https://jobright.ai/jobs/info/696a5e9f350cf438031146e0?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, Illinois | Hybrid | Jan 16 |
 | **[NJM Insurance Group](https://www.njm.com)** | **[Insurance Product Management Analyst](https://jobright.ai/jobs/info/696a5466db26b618950d7c9b?utm_campaign=Product%20Management&utm_source=1103)** | NJM - Trenton | On Site | Jan 16 |
@@ -219,8 +221,8 @@ For a complete list, click the following sortable link below:
 | **[Maybern](https://maybern.com)** | **[Implementation Analyst](https://jobright.ai/jobs/info/6969c49e639b452fb57fafbe?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Jan 15 |
 | **[Forvis Mazars US](https://www.forvis.com)** | **[ERP Platform Product Owner I](https://jobright.ai/jobs/info/696b27f0350cf43803127dbb?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Jan 14 |
 | **[Camping World](https://investor.campingworld.com)** | **[Product Specialist](https://jobright.ai/jobs/info/69685197639b452fb57df260?utm_campaign=Product%20Management&utm_source=1103)** | Springfield, MO | On Site | Jan 14 |
-| **[eko](https://eko.com)** | **[Product Data Capture Associate - Weekend Nights](https://jobright.ai/jobs/info/69687c121703f05405aa37a3?utm_campaign=Product%20Management&utm_source=1103)** | Bentonville, Arkansas | On Site | Jan 14 |
-| ↳ | **[Product Data Capture Associate - Nights](https://jobright.ai/jobs/info/69687f26639b452fb57e2f4b?utm_campaign=Product%20Management&utm_source=1103)** | Bentonville, Arkansas | On Site | Jan 14 |
+| **[eko](https://eko.com)** | **[Product Data Capture Associate - Nights](https://jobright.ai/jobs/info/69687f26639b452fb57e2f4b?utm_campaign=Product%20Management&utm_source=1103)** | Bentonville, Arkansas | On Site | Jan 14 |
+| ↳ | **[Product Data Capture Associate - Weekend Nights](https://jobright.ai/jobs/info/69687c121703f05405aa37a3?utm_campaign=Product%20Management&utm_source=1103)** | Bentonville, Arkansas | On Site | Jan 14 |
 | **[Acosta](https://www.acosta.com)** | **[Product Demonstrator Part Time - 8152](https://jobright.ai/jobs/info/6968953a1703f05405aa639f?utm_campaign=Product%20Management&utm_source=1103)** | South Point, OH, United States | On Site | Jan 14 |
 | ↳ | **[Product Demonstrator Part Time - 8192](https://jobright.ai/jobs/info/6968ef031703f05405aacf45?utm_campaign=Product%20Management&utm_source=1103)** | Dothan, AL, United States | On Site | Jan 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
