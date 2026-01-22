@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[lululemon](http://shop.lululemon.com)** | **[Product Operations Lead / North Hills](https://jobright.ai/jobs/info/6971e94fb707bf728a4b833e?utm_campaign=Product%20Management&utm_source=1103)** | Raleigh, NC | On Site | Jan 22 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Associate Product Developer - Shark Corded](https://jobright.ai/jobs/info/69696b4cf25a38006698064e?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Jan 21 |
 | **[Modernize](https://modernize.com/)** | **[CRO Product Associate](https://jobright.ai/jobs/info/697188ff333b6343a14e2400?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Jan 21 |
 | **[QuinStreet](http://www.quinstreet.com)** | **[CRO Product Associate](https://jobright.ai/jobs/info/69718379333b6343a14e1edd?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Jan 21 |
@@ -209,14 +210,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Demonstrator Part Time - 8225](https://jobright.ai/jobs/info/69696173639b452fb57f2df4?utm_campaign=Product%20Management&utm_source=1103)** | Macon, GA, United States | On Site | Jan 15 |
 | **[Canada Goose](http://www.canadagoose.com)** | **[Coordinator, Product](https://jobright.ai/jobs/info/696998e6f25a38006698535f?utm_campaign=Product%20Management&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Jan 15 |
 | **[Acosta](https://www.acosta.com)** | **[Product Demonstrator Part Time - 8225](https://jobright.ai/jobs/info/6969787f1703f05405ab6687?utm_campaign=Product%20Management&utm_source=1103)** | Macon, GA, United States | On Site | Jan 15 |
+| ↳ | **[Product Demonstrator Part Time - 8164](https://jobright.ai/jobs/info/6971ec4747b64f4e963e2b23?utm_campaign=Product%20Management&utm_source=1103)** | Waukesha, WI, United States | On Site | Jan 15 |
 | ↳ | **[Product Demonstrator Part Time - 4784](https://jobright.ai/jobs/info/696970a5639b452fb57f4c4c?utm_campaign=Product%20Management&utm_source=1103)** | Las Cruces, NM, United States | On Site | Jan 15 |
 | **[Ferguson](http://www.ferguson.com/)** | **[Digital Product Manager – Ferguson Home; Project Tool](https://jobright.ai/jobs/info/696968bdf25a3800669801d1?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Jan 15 |
 | **[BDS Connected Solutions, LLC.](https://www.bdssolutions.com)** | **[Meta Product Demo Specialist](https://jobright.ai/jobs/info/6969432b639b452fb57f0df8?utm_campaign=Product%20Management&utm_source=1103)** | US-CA-Santa Clara | On Site | Jan 15 |
 | **[Capital One](http://www.capitalone.com)** | **[Manager, Product Management - - Network Authorizations Health & Compliance](https://jobright.ai/jobs/info/696940df639b452fb57f0b91?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Jan 15 |
 | **[BDS Connected Solutions, LLC.](https://www.bdssolutions.com)** | **[Meta Product Demo Specialist](https://jobright.ai/jobs/info/69693e4df25a38006697d0e7?utm_campaign=Product%20Management&utm_source=1103)** | US-NY-New York | On Site | Jan 15 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management - Digital Information Exchange & Analytics](https://jobright.ai/jobs/info/69693dbff25a38006697d082?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Jan 15 |
-| ↳ | **[Senior Associate, Product Management - Salesforce](https://jobright.ai/jobs/info/69693a4f1703f05405ab1515?utm_campaign=Product%20Management&utm_source=1103)** | Deerfield, IL | On Site | Jan 15 |
-| ↳ | **[Manager, Product Management - - Network Authorizations Health & Compliance](https://jobright.ai/jobs/info/69693996f25a38006697cde2?utm_campaign=Product%20Management&utm_source=1103)** | Deerfield, IL | On Site | Jan 15 |
-| ↳ | **[Senior Associate, Product Management - Digital Information Exchange & Analytics](https://jobright.ai/jobs/info/6969355ff25a38006697cb9e?utm_campaign=Product%20Management&utm_source=1103)** | Charlotte, NC | On Site | Jan 15 |
-| ↳ | **[Sr. Associate, Product Management](https://jobright.ai/jobs/info/69693372f25a38006697ca4c?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Jan 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
