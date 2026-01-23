@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PUMA Group](http://us.puma.com/)** | **[Junior Product Line Manager Running Footwear](https://jobright.ai/jobs/info/6973d9dabc8e722e7b18a96d?utm_campaign=Product%20Management&utm_source=1103)** | Somerville, MA | On Site | Jan 23 |
+| **[VANTA Partners Inc](https://www.vantapartners.io/)** | **[Product Analyst](https://jobright.ai/jobs/info/6973d96c206da320f49dd3fb?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Jan 23 |
 | **[Blackstone](http://www.blackstone.com)** | **[Blackstone Private Wealth – Global Product Strategy, Analyst](https://jobright.ai/jobs/info/6973cc52bc8e722e7b189af5?utm_campaign=Product%20Management&utm_source=1103)** | New York | On Site | Jan 23 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management - Outbound Correspondence Platform (US Card)](https://jobright.ai/jobs/info/6973c9c6206da320f49dc28e?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Jan 23 |
 | ↳ | **[Senior Associate, Product Management - Outbound Correspondence Platform (US Card)](https://jobright.ai/jobs/info/6973c875bc8e722e7b189634?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Jan 23 |
@@ -75,6 +77,7 @@ For a complete list, click the following sortable link below:
 | **[Infoblox](http://www.infoblox.com)** | **[Associate Product Manager (Contract)](https://jobright.ai/jobs/info/6972f8f9206da320f49cef25?utm_campaign=Product%20Management&utm_source=1103)** | Burnaby, British Columbia, Canada | On Site | Jan 22 |
 | ↳ | **[Associate Product Manager (Contract)](https://jobright.ai/jobs/info/6972e4811d55d64a205347eb?utm_campaign=Product%20Management&utm_source=1103)** | Santa Clara, CA | Hybrid | Jan 22 |
 | ↳ | **[Associate Product Manager (Contract)](https://jobright.ai/jobs/info/6972e3001d55d64a20534627?utm_campaign=Product%20Management&utm_source=1103)** | Tacoma, WA | Hybrid | Jan 22 |
+| **[Mondelēz International](https://www.mondelezinternational.com/)** | **[Developer, Product Development](https://jobright.ai/jobs/info/6973d504bc8e722e7b18a3ce?utm_campaign=Product%20Management&utm_source=1103)** | East Hanover, NJ | On Site | Jan 22 |
 | **[Acosta](https://www.acosta.com)** | **[Product Demonstrator Part Time - 8285](https://jobright.ai/jobs/info/6972dde50488fd59f7d5d917?utm_campaign=Product%20Management&utm_source=1103)** | O Fallon, IL, United States | On Site | Jan 22 |
 | **[Infoblox](http://www.infoblox.com)** | **[Associate Product Manager (Contract)](https://jobright.ai/jobs/info/6972dc9298522904c697af93?utm_campaign=Product%20Management&utm_source=1103)** | Infoblox Canada Ltd, BURNABY, AL, V5H 4M2, CA | Hybrid | Jan 22 |
 | ↳ | **[Associate Product Manager (Contract)](https://jobright.ai/jobs/info/6972d5731d55d64a205335db?utm_campaign=Product%20Management&utm_source=1103)** | Infoblox Inc., Santa Clara, CA, 95054, US | Hybrid | Jan 22 |
@@ -121,34 +124,33 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Agile Product Owner](https://jobright.ai/jobs/info/69729ac6584a1c1ef6fda089?utm_campaign=Product%20Management&utm_source=1103)** | King of Prussia, PA | Hybrid | Jan 22 |
 | **[JetBlue](http://www.jetblue.com/)** | **[Analyst Inflight Entertainment](https://jobright.ai/jobs/info/697298bf4ccbf64f8df29581?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Jan 22 |
 | **[The Hartford](http://www.thehartford.com)** | **[Agile Product Owner](https://jobright.ai/jobs/info/697298b1584a1c1ef6fd9c0b?utm_campaign=Product%20Management&utm_source=1103)** | Cincinnati, OH | Hybrid | Jan 22 |
-| **[RELX](https://www.relx.com)** | **[Product Manager I](https://jobright.ai/jobs/info/6972b31d584a1c1ef6fdc62e?utm_campaign=Product%20Management&utm_source=1103)** | Home based-Nevada | Remote | Jan 22 |
-| ↳ | **[Product Manager I](https://jobright.ai/jobs/info/6972ae35584a1c1ef6fdc0c6?utm_campaign=Product%20Management&utm_source=1103)** | Home based-Oregon | Remote | Jan 22 |
-| ↳ | **[Product Manager I](https://jobright.ai/jobs/info/6972afed9b83b424830eb874?utm_campaign=Product%20Management&utm_source=1103)** | Home based-Montana | Remote | Jan 22 |
-| ↳ | **[Product Manager I](https://jobright.ai/jobs/info/6972af539b83b424830eb7c5?utm_campaign=Product%20Management&utm_source=1103)** | Home based-Iowa | Remote | Jan 22 |
-| ↳ | **[Product Manager I](https://jobright.ai/jobs/info/6972b279584a1c1ef6fdc575?utm_campaign=Product%20Management&utm_source=1103)** | Home based-Nebraska | Remote | Jan 22 |
-| ↳ | **[Product Manager I](https://jobright.ai/jobs/info/6972b2ea584a1c1ef6fdc5f5?utm_campaign=Product%20Management&utm_source=1103)** | Home based-Vermont | Remote | Jan 22 |
-| ↳ | **[Product Manager I](https://jobright.ai/jobs/info/6972b1279b83b424830eb9f7?utm_campaign=Product%20Management&utm_source=1103)** | Home based-Kentucky | Remote | Jan 22 |
-| ↳ | **[Product Manager I](https://jobright.ai/jobs/info/6972b19d584a1c1ef6fdc45c?utm_campaign=Product%20Management&utm_source=1103)** | Home based-Illinois | Remote | Jan 22 |
-| ↳ | **[Product Manager I](https://jobright.ai/jobs/info/6972ad6e9b83b424830eb5af?utm_campaign=Product%20Management&utm_source=1103)** | Home based-Florida | Remote | Jan 22 |
-| ↳ | **[Product Manager I](https://jobright.ai/jobs/info/6972b059584a1c1ef6fdc2fb?utm_campaign=Product%20Management&utm_source=1103)** | Home based-Arizona | Remote | Jan 22 |
-| ↳ | **[Product Manager I](https://jobright.ai/jobs/info/6972b037584a1c1ef6fdc2d3?utm_campaign=Product%20Management&utm_source=1103)** | Home based-Wisconsin | Remote | Jan 22 |
-| ↳ | **[Product Manager I](https://jobright.ai/jobs/info/6972b01c9b83b424830eb8a7?utm_campaign=Product%20Management&utm_source=1103)** | Home based-Wyoming | Remote | Jan 22 |
+| **[RELX](https://www.relx.com)** | **[Product Manager I](https://jobright.ai/jobs/info/6972b19d584a1c1ef6fdc45c?utm_campaign=Product%20Management&utm_source=1103)** | Home based-Illinois | Remote | Jan 22 |
 | ↳ | **[Product Manager I](https://jobright.ai/jobs/info/6972b0834ccbf64f8df2bbf8?utm_campaign=Product%20Management&utm_source=1103)** | Home based-Delaware | Remote | Jan 22 |
+| ↳ | **[Product Manager I](https://jobright.ai/jobs/info/6972b059584a1c1ef6fdc2fb?utm_campaign=Product%20Management&utm_source=1103)** | Home based-Arizona | Remote | Jan 22 |
+| ↳ | **[Product Manager I](https://jobright.ai/jobs/info/6972b1279b83b424830eb9f7?utm_campaign=Product%20Management&utm_source=1103)** | Home based-Kentucky | Remote | Jan 22 |
+| ↳ | **[Product Manager I](https://jobright.ai/jobs/info/6972b31d584a1c1ef6fdc62e?utm_campaign=Product%20Management&utm_source=1103)** | Home based-Nevada | Remote | Jan 22 |
+| ↳ | **[Product Manager I](https://jobright.ai/jobs/info/6972b037584a1c1ef6fdc2d3?utm_campaign=Product%20Management&utm_source=1103)** | Home based-Wisconsin | Remote | Jan 22 |
 | ↳ | **[Product Manager I](https://jobright.ai/jobs/info/6972b101584a1c1ef6fdc3b0?utm_campaign=Product%20Management&utm_source=1103)** | Home based-Connecticut | Remote | Jan 22 |
-| ↳ | **[Product Manager I](https://jobright.ai/jobs/info/6972b29a584a1c1ef6fdc599?utm_campaign=Product%20Management&utm_source=1103)** | Home based-Michigan | Remote | Jan 22 |
+| ↳ | **[Product Manager I](https://jobright.ai/jobs/info/6972af539b83b424830eb7c5?utm_campaign=Product%20Management&utm_source=1103)** | Home based-Iowa | Remote | Jan 22 |
+| ↳ | **[Product Manager I](https://jobright.ai/jobs/info/6972b01c9b83b424830eb8a7?utm_campaign=Product%20Management&utm_source=1103)** | Home based-Wyoming | Remote | Jan 22 |
+| ↳ | **[Product Manager I](https://jobright.ai/jobs/info/6972afed9b83b424830eb874?utm_campaign=Product%20Management&utm_source=1103)** | Home based-Montana | Remote | Jan 22 |
+| ↳ | **[Product Manager I](https://jobright.ai/jobs/info/6972b2ea584a1c1ef6fdc5f5?utm_campaign=Product%20Management&utm_source=1103)** | Home based-Vermont | Remote | Jan 22 |
+| ↳ | **[Product Manager I](https://jobright.ai/jobs/info/6972b279584a1c1ef6fdc575?utm_campaign=Product%20Management&utm_source=1103)** | Home based-Nebraska | Remote | Jan 22 |
 | ↳ | **[Product Manager I](https://jobright.ai/jobs/info/6972aef79b83b424830eb759?utm_campaign=Product%20Management&utm_source=1103)** | Home based-Utah | Remote | Jan 22 |
+| ↳ | **[Product Manager I](https://jobright.ai/jobs/info/6972ad6e9b83b424830eb5af?utm_campaign=Product%20Management&utm_source=1103)** | Home based-Florida | Remote | Jan 22 |
+| ↳ | **[Product Manager I](https://jobright.ai/jobs/info/6972b29a584a1c1ef6fdc599?utm_campaign=Product%20Management&utm_source=1103)** | Home based-Michigan | Remote | Jan 22 |
+| ↳ | **[Product Manager I](https://jobright.ai/jobs/info/6972ae35584a1c1ef6fdc0c6?utm_campaign=Product%20Management&utm_source=1103)** | Home based-Oregon | Remote | Jan 22 |
 | **[Mondelēz International](https://www.mondelezinternational.com/)** | **[Developer, Product Development](https://jobright.ai/jobs/info/6972aff4584a1c1ef6fdc291?utm_campaign=Product%20Management&utm_source=1103)** | East Hanover, New Jersey, United States | On Site | Jan 22 |
 | **[The Hartford](http://www.thehartford.com)** | **[Agile Product Owner](https://jobright.ai/jobs/info/6972afac9b83b424830eb824?utm_campaign=Product%20Management&utm_source=1103)** | Columbus, OH | Hybrid | Jan 22 |
 | ↳ | **[Agile Product Owner](https://jobright.ai/jobs/info/6972b4f84ccbf64f8df2bfca?utm_campaign=Product%20Management&utm_source=1103)** | Hartford, CT | Hybrid | Jan 22 |
 | ↳ | **[Agile Product Owner](https://jobright.ai/jobs/info/6972b77c9b83b424830ec032?utm_campaign=Product%20Management&utm_source=1103)** | Charlotte, NC | Hybrid | Jan 22 |
-| ↳ | **[Agile Product Owner](https://jobright.ai/jobs/info/6972abdc9b83b424830eb3ff?utm_campaign=Product%20Management&utm_source=1103)** | Glen Allen, VA | Hybrid | Jan 22 |
 | ↳ | **[Agile Product Owner](https://jobright.ai/jobs/info/6972b8ae584a1c1ef6fdcb42?utm_campaign=Product%20Management&utm_source=1103)** | Lake Mary, FL | Hybrid | Jan 22 |
+| ↳ | **[Agile Product Owner](https://jobright.ai/jobs/info/6972abdc9b83b424830eb3ff?utm_campaign=Product%20Management&utm_source=1103)** | Glen Allen, VA | Hybrid | Jan 22 |
 | **[Acosta](https://www.acosta.com)** | **[Product Demonstrator Part Time - 6360](https://jobright.ai/jobs/info/6972b0b49b83b424830eb96f?utm_campaign=Product%20Management&utm_source=1103)** | Grand Junction, CO, United States | On Site | Jan 22 |
 | ↳ | **[Product Demonstrator Part Time - 6360](https://jobright.ai/jobs/info/6972b1c84ccbf64f8df2bd6e?utm_campaign=Product%20Management&utm_source=1103)** | Grand Junction, CO, United States | On Site | Jan 22 |
 | ↳ | **[Product Demonstrator Part Time - 4831](https://jobright.ai/jobs/info/6972aa0f9b83b424830eb1fd?utm_campaign=Product%20Management&utm_source=1103)** | Durham, NC, United States | On Site | Jan 22 |
 | **[The Hartford](http://www.thehartford.com)** | **[Agile Product Owner](https://jobright.ai/jobs/info/6972a839584a1c1ef6fdbc76?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | Hybrid | Jan 22 |
 | ↳ | **[Agile Product Owner](https://jobright.ai/jobs/info/6972a4a89b83b424830eaec2?utm_campaign=Product%20Management&utm_source=1103)** | Boston, MA | Hybrid | Jan 22 |
-| **[State Street](https://www.statestreet.com/)** | **[Product Management, Officer](https://jobright.ai/jobs/info/6972a1a09b83b424830ea7a1?utm_campaign=Product%20Management&utm_source=1103)** | Burlington, MA | On Site | Jan 22 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management - Outbound Correspondence Platform (US Card)](https://jobright.ai/jobs/info/69727b299b83b424830e6aa7?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Jan 22 |
 | ↳ | **[Senior Associate, Product Management - Outbound Correspondence Platform (US Card)](https://jobright.ai/jobs/info/69727a06584a1c1ef6fd7473?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Jan 22 |
 | ↳ | **[Senior Associate, Product Management - Outbound Correspondence Platform (US Card)](https://jobright.ai/jobs/info/697279cc4ccbf64f8df26b9e?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Jan 22 |
@@ -198,8 +200,8 @@ For a complete list, click the following sortable link below:
 | **[Campus4Tech](https://campus4tech.com)** | **[Agile Business Analyst](https://jobright.ai/jobs/info/69715289333b6343a14ddc69?utm_campaign=Product%20Management&utm_source=1103)** | Canada | Remote | Jan 21 |
 | **[Acosta](https://www.acosta.com)** | **[Product Demonstrator Part Time - 8130](https://jobright.ai/jobs/info/69714764587dfa0bb55edb86?utm_campaign=Product%20Management&utm_source=1103)** | Fort Myers, FL, United States | On Site | Jan 21 |
 | **[Caterpillar Inc.](https://www.caterpillar.com)** | **[1st shift Logistics Product Auditor](https://jobright.ai/jobs/info/69713f1d333b6343a14db119?utm_campaign=Product%20Management&utm_source=1103)** | Athens, GA | On Site | Jan 21 |
-| **[Acosta](https://www.acosta.com)** | **[Product Demonstrator Part Time - 4851](https://jobright.ai/jobs/info/69739bb737785856350d66e2?utm_campaign=Product%20Management&utm_source=1103)** | Clarksville, IN, United States | On Site | Jan 21 |
-| ↳ | **[Product Demonstrator Part Time - 6614](https://jobright.ai/jobs/info/69716e2051f726477183b798?utm_campaign=Product%20Management&utm_source=1103)** | El Monte, CA, United States | On Site | Jan 21 |
+| **[Acosta](https://www.acosta.com)** | **[Product Demonstrator Part Time - 6614](https://jobright.ai/jobs/info/69716e2051f726477183b798?utm_campaign=Product%20Management&utm_source=1103)** | El Monte, CA, United States | On Site | Jan 21 |
+| ↳ | **[Product Demonstrator Part Time - 4851](https://jobright.ai/jobs/info/69739bb737785856350d66e2?utm_campaign=Product%20Management&utm_source=1103)** | Clarksville, IN, United States | On Site | Jan 21 |
 | **[Camping World](https://investor.campingworld.com)** | **[Product Specialist Advisor](https://jobright.ai/jobs/info/69712fb2587dfa0bb55eb849?utm_campaign=Product%20Management&utm_source=1103)** | St Augustine, FL | On Site | Jan 21 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management -  Commercial Self-Service](https://jobright.ai/jobs/info/697123eb51f72647718358f6?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | Hybrid | Jan 21 |
 | ↳ | **[Senior Associate, Product Management -  Commercial Self-Service](https://jobright.ai/jobs/info/69712298587dfa0bb55eaca2?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Jan 21 |
@@ -226,10 +228,10 @@ For a complete list, click the following sortable link below:
 | **[3iQ Corp](https://3iq.ca/)** | **[Product Associate](https://jobright.ai/jobs/info/69700d4d0f4e0f657ea468e4?utm_campaign=Product%20Management&utm_source=1103)** | Canada | Hybrid | Jan 20 |
 | **[Acosta](https://www.acosta.com)** | **[Product Demonstrator Part Time - 4720](https://jobright.ai/jobs/info/6970b56651f726477182f4d3?utm_campaign=Product%20Management&utm_source=1103)** | Austin, TX, United States | On Site | Jan 20 |
 | **[Fluor Corporation](http://www.fluor.com)** | **[Product Control Specialist (TS/SCI with Polygraph Required)](https://jobright.ai/jobs/info/6968bf01f25a380066974e43?utm_campaign=Product%20Management&utm_source=1103)** | Aurora, CO | On Site | Jan 20 |
-| **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management -  Commercial Self-Service](https://jobright.ai/jobs/info/696fefb30f4e0f657ea43810?utm_campaign=Product%20Management&utm_source=1103)** | Charlotte, NC | On Site | Jan 20 |
+| **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management -  Commercial Self-Service](https://jobright.ai/jobs/info/696ff27d3ed06875134ae41d?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Jan 20 |
 | ↳ | **[Senior Associate, Product Management -  Commercial Self-Service](https://jobright.ai/jobs/info/696ff9ee82817106e9770ec9?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Jan 20 |
-| ↳ | **[Senior Associate, Product Management -  Commercial Self-Service](https://jobright.ai/jobs/info/696ff27d3ed06875134ae41d?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Jan 20 |
-| **[Acosta](https://www.acosta.com)** | **[Product Demonstrator Part Time - 4761](https://jobright.ai/jobs/info/696fee850f4e0f657ea43579?utm_campaign=Product%20Management&utm_source=1103)** | Norman, OK, United States | On Site | Jan 20 |
+| ↳ | **[Senior Associate, Product Management -  Commercial Self-Service](https://jobright.ai/jobs/info/696fefb30f4e0f657ea43810?utm_campaign=Product%20Management&utm_source=1103)** | Charlotte, NC | On Site | Jan 20 |
+| **[Acosta](https://www.acosta.com)** | **[Product Demonstrator Part Time - 4761](https://jobright.ai/jobs/info/696ffdaa0f4e0f657ea45b7e?utm_campaign=Product%20Management&utm_source=1103)** | Norman, OK, United States | On Site | Jan 20 |
 | ↳ | **[Product Demonstrator Part Time - 4761](https://jobright.ai/jobs/info/696fff2382817106e9771c8e?utm_campaign=Product%20Management&utm_source=1103)** | Norman, OK, United States | On Site | Jan 20 |
 | ↳ | **[Product Demonstrator Part Time - 8117](https://jobright.ai/jobs/info/696fc2d83ed06875134ab39b?utm_campaign=Product%20Management&utm_source=1103)** | Oklahoma City, OK, United States | On Site | Jan 20 |
 | ↳ | **[Product Demonstrator Part Time - 6260](https://jobright.ai/jobs/info/696fc0cd0f4e0f657ea410df?utm_campaign=Product%20Management&utm_source=1103)** | Memphis, TN, United States | On Site | Jan 20 |
@@ -237,7 +239,6 @@ For a complete list, click the following sortable link below:
 | **[eko](https://eko.com)** | **[Product Data Capture Associate - Weekend Days](https://jobright.ai/jobs/info/6968943e639b452fb57e5109?utm_campaign=Product%20Management&utm_source=1103)** | Bentonville, Arkansas | On Site | Jan 20 |
 | ↳ | **[Product Data Capture Associate - Weekdays](https://jobright.ai/jobs/info/696e74f15fc86241853d34b6?utm_campaign=Product%20Management&utm_source=1103)** | Bentonville, AR | On Site | Jan 20 |
 | **[Green Thumb Industries (GTI)](https://www.gtigrows.com/)** | **[Technical Associate, Product Innovation (Vape, Concentrates, Specialty products)](https://jobright.ai/jobs/info/69378c301c1c2161c13f5998?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | Hybrid | Jan 20 |
-| **[Authorium](https://authorium.com/)** | **[Product Manager](https://jobright.ai/jobs/info/6952db02f1f8465b79ea248d?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, CA | Hybrid | Jan 20 |
 | **[Camping World](https://investor.campingworld.com)** | **[Product Specialist Advisor](https://jobright.ai/jobs/info/69374f92a0dde7020e3011f7?utm_campaign=Product%20Management&utm_source=1103)** | West Fargo, ND | On Site | Jan 20 |
 | **[eko](https://eko.com)** | **[Product Data Capture Associate - Weeknights](https://jobright.ai/jobs/info/696e6d3fdb26b6189511578f?utm_campaign=Product%20Management&utm_source=1103)** | Bentonville, AR | On Site | Jan 20 |
 | **[PIMCO](http://www.pimco.com)** | **[Product Strategy Analyst/Associate](https://jobright.ai/jobs/info/6967b26b1703f05405a957b9?utm_campaign=Product%20Management&utm_source=1103)** | Newport Beach, CA | On Site | Jan 19 |
