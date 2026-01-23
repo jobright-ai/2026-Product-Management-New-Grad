@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Infoblox](http://www.infoblox.com)** | **[Associate Product Manager (Contract)](https://jobright.ai/jobs/info/6972f8f9206da320f49cef25?utm_campaign=Product%20Management&utm_source=1103)** | Burnaby, British Columbia, Canada | On Site | Jan 22 |
 | **[Mondelēz International](https://www.mondelezinternational.com/)** | **[Developer, Product Development](https://jobright.ai/jobs/info/6972e9fb0488fd59f7d5e66d?utm_campaign=Product%20Management&utm_source=1103)** | East Hanover, NJ | On Site | Jan 22 |
 | **[Kikoff](https://kikoff.com/)** | **[Product Ops Associate 2026](https://jobright.ai/jobs/info/6972e9db98522904c697bbad?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, CA | On Site | Jan 22 |
 | **[Infoblox](http://www.infoblox.com)** | **[Associate Product Manager (Contract)](https://jobright.ai/jobs/info/6972e4811d55d64a205347eb?utm_campaign=Product%20Management&utm_source=1103)** | Santa Clara, CA | Hybrid | Jan 22 |
@@ -66,6 +67,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Associate Product Manager (Contract)](https://jobright.ai/jobs/info/6972d5731d55d64a205335db?utm_campaign=Product%20Management&utm_source=1103)** | Infoblox Inc., Santa Clara, CA, 95054, US | Hybrid | Jan 22 |
 | **[LexisNexis](http://www.lexisnexis.com)** | **[Product Manager I](https://jobright.ai/jobs/info/6972d5571d55d64a205335bd?utm_campaign=Product%20Management&utm_source=1103)** | Ohio, United States | On Site | Jan 22 |
 | **[Farmers Insurance](https://www.farmers.com)** | **[Product Analyst I or II](https://jobright.ai/jobs/info/6972d4171d55d64a20533440?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Jan 22 |
+| **[PUMA Group](http://us.puma.com/)** | **[Junior Product Line Manager Sportstyle Apparel](https://jobright.ai/jobs/info/6972f598694e99351d143dac?utm_campaign=Product%20Management&utm_source=1103)** | Somerville, MA | On Site | Jan 22 |
 | **[Cintas Canada](https://www.cintas.ca/)** | **[Production Associate - Product Separator - 2nd Shift](https://jobright.ai/jobs/info/6972e93298522904c697bb24?utm_campaign=Product%20Management&utm_source=1103)** | Abbotsford, British Columbia, Canada | On Site | Jan 22 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management- Pulse Network](https://jobright.ai/jobs/info/6972c7d5584a1c1ef6fdd9d2?utm_campaign=Product%20Management&utm_source=1103)** | Deerfield, IL | Hybrid | Jan 22 |
 | ↳ | **[Senior Associate, Product Management- Pulse Network](https://jobright.ai/jobs/info/6972c6569b83b424830ecd78?utm_campaign=Product%20Management&utm_source=1103)** | Houston, TX | On Site | Jan 22 |
@@ -104,21 +106,21 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Agile Product Owner](https://jobright.ai/jobs/info/69729ac6584a1c1ef6fda089?utm_campaign=Product%20Management&utm_source=1103)** | King of Prussia, PA | Hybrid | Jan 22 |
 | **[JetBlue](http://www.jetblue.com/)** | **[Analyst Inflight Entertainment](https://jobright.ai/jobs/info/697298bf4ccbf64f8df29581?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Jan 22 |
 | **[The Hartford](http://www.thehartford.com)** | **[Agile Product Owner](https://jobright.ai/jobs/info/697298b1584a1c1ef6fd9c0b?utm_campaign=Product%20Management&utm_source=1103)** | Cincinnati, OH | Hybrid | Jan 22 |
-| **[RELX](https://www.relx.com)** | **[Product Manager I](https://jobright.ai/jobs/info/6972b101584a1c1ef6fdc3b0?utm_campaign=Product%20Management&utm_source=1103)** | Home based-Connecticut | Remote | Jan 22 |
+| **[RELX](https://www.relx.com)** | **[Product Manager I](https://jobright.ai/jobs/info/6972ae35584a1c1ef6fdc0c6?utm_campaign=Product%20Management&utm_source=1103)** | Home based-Oregon | Remote | Jan 22 |
+| ↳ | **[Product Manager I](https://jobright.ai/jobs/info/6972b059584a1c1ef6fdc2fb?utm_campaign=Product%20Management&utm_source=1103)** | Home based-Arizona | Remote | Jan 22 |
+| ↳ | **[Product Manager I](https://jobright.ai/jobs/info/6972b101584a1c1ef6fdc3b0?utm_campaign=Product%20Management&utm_source=1103)** | Home based-Connecticut | Remote | Jan 22 |
+| ↳ | **[Product Manager I](https://jobright.ai/jobs/info/6972b2ea584a1c1ef6fdc5f5?utm_campaign=Product%20Management&utm_source=1103)** | Home based-Vermont | Remote | Jan 22 |
 | ↳ | **[Product Manager I](https://jobright.ai/jobs/info/6972af539b83b424830eb7c5?utm_campaign=Product%20Management&utm_source=1103)** | Home based-Iowa | Remote | Jan 22 |
+| ↳ | **[Product Manager I](https://jobright.ai/jobs/info/6972b29a584a1c1ef6fdc599?utm_campaign=Product%20Management&utm_source=1103)** | Home based-Michigan | Remote | Jan 22 |
 | ↳ | **[Product Manager I](https://jobright.ai/jobs/info/6972afed9b83b424830eb874?utm_campaign=Product%20Management&utm_source=1103)** | Home based-Montana | Remote | Jan 22 |
-| ↳ | **[Product Manager I](https://jobright.ai/jobs/info/6972aef79b83b424830eb759?utm_campaign=Product%20Management&utm_source=1103)** | Home based-Utah | Remote | Jan 22 |
-| ↳ | **[Product Manager I](https://jobright.ai/jobs/info/6972b1279b83b424830eb9f7?utm_campaign=Product%20Management&utm_source=1103)** | Home based-Kentucky | Remote | Jan 22 |
-| ↳ | **[Product Manager I](https://jobright.ai/jobs/info/6972b0834ccbf64f8df2bbf8?utm_campaign=Product%20Management&utm_source=1103)** | Home based-Delaware | Remote | Jan 22 |
-| ↳ | **[Product Manager I](https://jobright.ai/jobs/info/6972ae35584a1c1ef6fdc0c6?utm_campaign=Product%20Management&utm_source=1103)** | Home based-Oregon | Remote | Jan 22 |
-| ↳ | **[Product Manager I](https://jobright.ai/jobs/info/6972b31d584a1c1ef6fdc62e?utm_campaign=Product%20Management&utm_source=1103)** | Home based-Nevada | Remote | Jan 22 |
+| ↳ | **[Product Manager I](https://jobright.ai/jobs/info/6972b279584a1c1ef6fdc575?utm_campaign=Product%20Management&utm_source=1103)** | Home based-Nebraska | Remote | Jan 22 |
 | ↳ | **[Product Manager I](https://jobright.ai/jobs/info/6972b19d584a1c1ef6fdc45c?utm_campaign=Product%20Management&utm_source=1103)** | Home based-Illinois | Remote | Jan 22 |
+| ↳ | **[Product Manager I](https://jobright.ai/jobs/info/6972b1279b83b424830eb9f7?utm_campaign=Product%20Management&utm_source=1103)** | Home based-Kentucky | Remote | Jan 22 |
+| ↳ | **[Product Manager I](https://jobright.ai/jobs/info/6972aef79b83b424830eb759?utm_campaign=Product%20Management&utm_source=1103)** | Home based-Utah | Remote | Jan 22 |
+| ↳ | **[Product Manager I](https://jobright.ai/jobs/info/6972b0834ccbf64f8df2bbf8?utm_campaign=Product%20Management&utm_source=1103)** | Home based-Delaware | Remote | Jan 22 |
+| ↳ | **[Product Manager I](https://jobright.ai/jobs/info/6972b31d584a1c1ef6fdc62e?utm_campaign=Product%20Management&utm_source=1103)** | Home based-Nevada | Remote | Jan 22 |
 | ↳ | **[Product Manager I](https://jobright.ai/jobs/info/6972b037584a1c1ef6fdc2d3?utm_campaign=Product%20Management&utm_source=1103)** | Home based-Wisconsin | Remote | Jan 22 |
 | ↳ | **[Product Manager I](https://jobright.ai/jobs/info/6972ad6e9b83b424830eb5af?utm_campaign=Product%20Management&utm_source=1103)** | Home based-Florida | Remote | Jan 22 |
-| ↳ | **[Product Manager I](https://jobright.ai/jobs/info/6972b2ea584a1c1ef6fdc5f5?utm_campaign=Product%20Management&utm_source=1103)** | Home based-Vermont | Remote | Jan 22 |
-| ↳ | **[Product Manager I](https://jobright.ai/jobs/info/6972b059584a1c1ef6fdc2fb?utm_campaign=Product%20Management&utm_source=1103)** | Home based-Arizona | Remote | Jan 22 |
-| ↳ | **[Product Manager I](https://jobright.ai/jobs/info/6972b29a584a1c1ef6fdc599?utm_campaign=Product%20Management&utm_source=1103)** | Home based-Michigan | Remote | Jan 22 |
-| ↳ | **[Product Manager I](https://jobright.ai/jobs/info/6972b279584a1c1ef6fdc575?utm_campaign=Product%20Management&utm_source=1103)** | Home based-Nebraska | Remote | Jan 22 |
 | ↳ | **[Product Manager I](https://jobright.ai/jobs/info/6972b01c9b83b424830eb8a7?utm_campaign=Product%20Management&utm_source=1103)** | Home based-Wyoming | Remote | Jan 22 |
 | **[Mondelēz International](https://www.mondelezinternational.com/)** | **[Developer, Product Development](https://jobright.ai/jobs/info/6972aff4584a1c1ef6fdc291?utm_campaign=Product%20Management&utm_source=1103)** | East Hanover, New Jersey, United States | On Site | Jan 22 |
 | **[The Hartford](http://www.thehartford.com)** | **[Agile Product Owner](https://jobright.ai/jobs/info/6972afac9b83b424830eb824?utm_campaign=Product%20Management&utm_source=1103)** | Columbus, OH | Hybrid | Jan 22 |
@@ -286,5 +288,4 @@ For a complete list, click the following sortable link below:
 | **[NJM Insurance Group](https://www.njm.com)** | **[Insurance Product Management Analyst](https://jobright.ai/jobs/info/696a7db55fc8624185397b7c?utm_campaign=Product%20Management&utm_source=1103)** | Trenton, NJ | On Site | Jan 16 |
 | **[Medline](http://www.medline.com/home.jsp)** | **[Associate Product Manager - April 2026 Start Date](https://jobright.ai/jobs/info/696a5e9f350cf438031146e0?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, Illinois | Hybrid | Jan 16 |
 | **[NJM Insurance Group](https://www.njm.com)** | **[Insurance Product Management Analyst](https://jobright.ai/jobs/info/696a5466db26b618950d7c9b?utm_campaign=Product%20Management&utm_source=1103)** | NJM - Trenton | On Site | Jan 16 |
-| **[Insulet Corporation](https://www.insulet.com)** | **[Business Analyst, Global Product Monitoring (Hybrid - Acton, MA)](https://jobright.ai/jobs/info/6930c9c3fa28370be26b3c01?utm_campaign=Product%20Management&utm_source=1103)** | Acton, MA | Hybrid | Jan 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
