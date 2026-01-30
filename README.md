@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[LPL Financial](https://www.lpl.com)** | **[New Grad 2026 - Technology, Product](https://jobright.ai/jobs/info/697d03eb137a05102565f970?utm_campaign=Product%20Management&utm_source=1103)** | San Diego, CA | Hybrid | Jan 30 |
 | **[Kaplan](http://www.kaplan.com)** | **[Product Manager, Architecture & Engineering](https://jobright.ai/jobs/info/697cf7be137a05102565f249?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Jan 30 |
 | **[Surpass Behavioral Health](https://surpassbehavioralhealth.com)** | **[Product Manager, Architecture & Engineering](https://jobright.ai/jobs/info/697cefde3f57a3356966a14b?utm_campaign=Product%20Management&utm_source=1103)** | Remote/Nationwide, USA | Remote | Jan 30 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management - Portal UX & Travel Wallet](https://jobright.ai/jobs/info/697ce2d4137a05102565cdf9?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Jan 30 |
@@ -120,8 +121,8 @@ For a complete list, click the following sortable link below:
 | **[Boeing](https://www.boeing.co.uk)** | **[Associate Product Data Management Specialist](https://jobright.ai/jobs/info/697a930c8dbbf73badc7c7f1?utm_campaign=Product%20Management&utm_source=1103)** | Oklahoma City, OK | On Site | Jan 28 |
 | **[Model N](http://www.modeln.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/6942199dbdcf884a5adddcb1?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Jan 28 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management - Discovery Big Bets](https://jobright.ai/jobs/info/697a2ce6a8de441ca7354fa4?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Jan 28 |
-| ↳ | **[Senior Associate, Product Management - Discovery Big Bets](https://jobright.ai/jobs/info/697a2d3cb4589b4ee87c6ee7?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Jan 28 |
 | ↳ | **[Senior Associate, Product Management - Discovery Big Bets](https://jobright.ai/jobs/info/697a2cefa5b9804527dff69b?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Jan 28 |
+| ↳ | **[Senior Associate, Product Management - Discovery Big Bets](https://jobright.ai/jobs/info/697a2d3cb4589b4ee87c6ee7?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Jan 28 |
 | **[AEG](http://www.aegworldwide.com)** | **[Associate Product Manager - AXS](https://jobright.ai/jobs/info/6824ddfea05210536c909670?utm_campaign=Product%20Management&utm_source=1103)** | Los Angeles, CA | On Site | Jan 28 |
 | **[Questrade Financial Group](http://www.questrade.com)** | **[Questbank - Associate Product Manager, Residential Lending](https://jobright.ai/jobs/info/6941897e14ee092a69ffa930?utm_campaign=Product%20Management&utm_source=1103)** | North York, Ontario, Canada | Hybrid | Jan 28 |
 | **[American Express](http://www.americanexpress.com)** | **[Associate - Digital Product Management](https://jobright.ai/jobs/info/6979f969b4589b4ee87c3c5a?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Jan 28 |
@@ -165,11 +166,11 @@ For a complete list, click the following sortable link below:
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[Product Line Management, New College Grad- Bachelor's (Gloucester, MA)](https://jobright.ai/jobs/info/6943876add382f5f56699936?utm_campaign=Product%20Management&utm_source=1103)** | Gloucester, MA | On Site | Jan 26 |
 | **[Acosta](https://www.acosta.com)** | **[Product Demonstrator Part Time - 4770](https://jobright.ai/jobs/info/6977db17fdeb8243a27acc95?utm_campaign=Product%20Management&utm_source=1103)** | Evans, CO, United States | On Site | Jan 26 |
 | ↳ | **[Product Demonstrator Part Time - 6637](https://jobright.ai/jobs/info/6977f89588e2b47213bc06cd?utm_campaign=Product%20Management&utm_source=1103)** | Coral Springs, FL, United States | On Site | Jan 26 |
-| ↳ | **[Product Demonstrator Part Time - XXXX](https://jobright.ai/jobs/info/6977ceda88e2b47213bbc4bd?utm_campaign=Product%20Management&utm_source=1103)** | Coral Springs, FL, United States | On Site | Jan 26 |
 | ↳ | **[Product Demonstrator Part Time - 8177](https://jobright.ai/jobs/info/6977d0d052f3c27ec643f453?utm_campaign=Product%20Management&utm_source=1103)** | Las Vegas, NV, United States | On Site | Jan 26 |
+| ↳ | **[Product Demonstrator Part Time - XXXX](https://jobright.ai/jobs/info/6977ceda88e2b47213bbc4bd?utm_campaign=Product%20Management&utm_source=1103)** | Coral Springs, FL, United States | On Site | Jan 26 |
 | ↳ | **[Product Demonstrator Part Time - 6615](https://jobright.ai/jobs/info/697840c039f7f96cc6d08dfb?utm_campaign=Product%20Management&utm_source=1103)** | Fountain Valley, CA, United States | On Site | Jan 26 |
-| ↳ | **[Product Demonstrator Part Time - 6632](https://jobright.ai/jobs/info/6977b89288e2b47213bbadbb?utm_campaign=Product%20Management&utm_source=1103)** | Denver, CO, United States | On Site | Jan 26 |
 | ↳ | **[Product Demonstrator Part Time - 6632](https://jobright.ai/jobs/info/6977ac9b88e2b47213bb993f?utm_campaign=Product%20Management&utm_source=1103)** | Denver, CO, United States | On Site | Jan 26 |
+| ↳ | **[Product Demonstrator Part Time - 6632](https://jobright.ai/jobs/info/6977b89288e2b47213bbadbb?utm_campaign=Product%20Management&utm_source=1103)** | Denver, CO, United States | On Site | Jan 26 |
 | **[Samsara](http://www.samsara.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/68ccb8dd16d00d2beeb2371e?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Jan 26 |
 | **[Adobe](http://www.adobe.com)** | **[2026 MBA University Graduate - Product Manager](https://jobright.ai/jobs/info/68ce431724dd5209002f1052?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA | On Site | Jan 26 |
 | **[Global Atlantic](https://www.globalatlantic.com/)** | **[Analyst, Product Operations](https://jobright.ai/jobs/info/697161ae333b6343a14deab2?utm_campaign=Product%20Management&utm_source=1103)** | Hartford, Connecticut, United States | On Site | Jan 26 |
@@ -184,5 +185,4 @@ For a complete list, click the following sortable link below:
 | **[A Place for Mom](http://www.aplaceformom.com)** | **[Product Analyst](https://jobright.ai/jobs/info/693c904daa598a08c3ed633c?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Jan 24 |
 | **[Cover Genius](http://www.covergenius.com)** | **[Insurance Product Analyst](https://jobright.ai/jobs/info/6960c74a7ebc25398eb6a249?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Jan 24 |
 | **[Monolithic Power Systems, Inc.](http://www.monolithicpower.com)** | **[Marcom Specialist](https://jobright.ai/jobs/info/691f8d0b3f782d2f1afbdae7?utm_campaign=Product%20Management&utm_source=1103)** | Kirkland, WA | On Site | Jan 24 |
-| **[Pride Mobility Products Corporation](http://www.pridemobility.com)** | **[Junior Product Manager - Quantum](https://jobright.ai/jobs/info/6974822b206da320f49eba26?utm_campaign=Product%20Management&utm_source=1103)** | Duryea, PA | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
