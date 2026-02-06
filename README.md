@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Windfall](http://www.windfall.com)** | **[Product Operations Analyst](https://jobright.ai/jobs/info/69863ec68ca8121a3a686e51?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, CA | On Site | Feb 06 |
 | **[AlphaSights](http://www.alphasights.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/69459080d1953b5d11be8cc9?utm_campaign=Product%20Management&utm_source=1103)** | New York, United States | On Site | Feb 06 |
 | **[Capital One](http://www.capitalone.com)** | **[Sr. Associate, Product Management,Card Data, Models, Decisioning, and Credit](https://jobright.ai/jobs/info/6985e0ec8da7a612046091c6?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Feb 06 |
 | **[DaVita Kidney Care](http://www.davita.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/69154ca1286ccf0a1512d16b?utm_campaign=Product%20Management&utm_source=1103)** | Denver, CO | On Site | Feb 06 |
@@ -187,8 +188,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Manager - Group Retirement (REMOTE)](https://jobright.ai/jobs/info/697d9722ce48107c0541e5a9?utm_campaign=Product%20Management&utm_source=1103)** | Charlotte, NC | Remote | Feb 03 |
 | **[Morgan, Lewis & Bockius LLP](http://www.morganlewis.com/)** | **[Digital Product Analyst](https://jobright.ai/jobs/info/6965d6875ad3a93f8231480f?utm_campaign=Product%20Management&utm_source=1103)** | Seattle, WA | Hybrid | Feb 03 |
 | **[Thomson Reuters](http://thomsonreuters.com)** | **[Customer Product Trainer](https://jobright.ai/jobs/info/6981d7840f6f7e7a2cdb00ed?utm_campaign=Product%20Management&utm_source=1103)** | Eagan, MN | Remote | Feb 03 |
-| **[PIMCO](http://www.pimco.com)** | **[Product Strategy Associate, Alternatives](https://jobright.ai/jobs/info/6981edc4c3101f1400c3930b?utm_campaign=Product%20Management&utm_source=1103)** | Newport Beach, CA | On Site | Feb 03 |
-| ↳ | **[Product Strategy Associate, Alternatives](https://jobright.ai/jobs/info/6981f2d20f6f7e7a2cdb0c66?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY USA | On Site | Feb 03 |
+| **[PIMCO](http://www.pimco.com)** | **[Product Strategy Associate, Alternatives](https://jobright.ai/jobs/info/6981f2d20f6f7e7a2cdb0c66?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY USA | On Site | Feb 03 |
+| ↳ | **[Product Strategy Associate, Alternatives](https://jobright.ai/jobs/info/6981edc4c3101f1400c3930b?utm_campaign=Product%20Management&utm_source=1103)** | Newport Beach, CA | On Site | Feb 03 |
 | **[AMEX Healthcare](https://www.amex-vienna.at/)** | **[Senior Associate - Digital Product Management](https://jobright.ai/jobs/info/6985a7d08da7a61204605952?utm_campaign=Product%20Management&utm_source=1103)** | Phoenix, AZ | Hybrid | Feb 03 |
 | **[Amazon](https://amazon.com)** | **[Sourcing Manager, WWGS Private Brands](https://jobright.ai/jobs/info/6965bc70a112b4026613c692?utm_campaign=Product%20Management&utm_source=1103)** | Austin, TX | On Site | Feb 03 |
 | ↳ | **[Sourcing Manager, WWGS Private Brands](https://jobright.ai/jobs/info/6965bb3aa112b4026613c56d?utm_campaign=Product%20Management&utm_source=1103)** | Seattle, WA | On Site | Feb 03 |
@@ -255,5 +256,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Specialist Advisor](https://jobright.ai/jobs/info/691e935f3f782d2f1afb5ef1?utm_campaign=Product%20Management&utm_source=1103)** | Apollo, PA | On Site | Jan 31 |
 | ↳ | **[Product Specialist](https://jobright.ai/jobs/info/694b6d0c1a572a617dddc1c6?utm_campaign=Product%20Management&utm_source=1103)** | Fountain, CO | On Site | Jan 31 |
 | ↳ | **[Product Specialist](https://jobright.ai/jobs/info/6971a56a51f726477183fda2?utm_campaign=Product%20Management&utm_source=1103)** | Lakeville, MN | On Site | Jan 31 |
-| **[Learning Resources](https://www.learningresources.com)** | **[Product Coordinator](https://jobright.ai/jobs/info/6961ba0bf3f4cd132506c063?utm_campaign=Product%20Management&utm_source=1103)** | Vernon Hills, IL | Hybrid | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
