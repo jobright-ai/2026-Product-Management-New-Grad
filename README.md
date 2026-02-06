@@ -57,12 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Capital One](http://www.capitalone.com)** | **[Sr. Associate, Product Management,Card Data, Models, Decisioning, and Credit](https://jobright.ai/jobs/info/6985e0ec8da7a612046091c6?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Feb 06 |
 | **[DaVita Kidney Care](http://www.davita.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/69154ca1286ccf0a1512d16b?utm_campaign=Product%20Management&utm_source=1103)** | Denver, CO | On Site | Feb 06 |
 | **[Capital One](http://www.capitalone.com)** | **[Sr. Associate, Product Management – Disputes Core Products](https://jobright.ai/jobs/info/69694f64f25a38006697e0f8?utm_campaign=Product%20Management&utm_source=1103)** | Deerfield, IL | On Site | Feb 06 |
 | **[Kyndrix](https://www.linkedin.com/company/101602118)** | **[Associate Product Analyst-Fresh Graduates](https://jobright.ai/jobs/info/6985cf7a8da7a612046082ef?utm_campaign=Product%20Management&utm_source=1103)** | Austin, TX | Remote | Feb 06 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management - Salesforce](https://jobright.ai/jobs/info/69694cf8639b452fb57f17df?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Feb 06 |
 | **[ServiceTitan](http://www.servicetitan.com)** | **[Solutions Engineer, Pro Products](https://jobright.ai/jobs/info/6969d1b8639b452fb57fd3a9?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Feb 06 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management - Digital Information Exchange & Analytics](https://jobright.ai/jobs/info/6969355ff25a38006697cb9e?utm_campaign=Product%20Management&utm_source=1103)** | Charlotte, NC | On Site | Feb 06 |
+| **[Hotel Effectiveness by Actabl](http://hoteleffectiveness.com/)** | **[Product Owner](https://jobright.ai/jobs/info/6985e7350f6f7e7a2ce0c7f2?utm_campaign=Product%20Management&utm_source=1103)** | Chiasson Office, New Brunswick, Canada | Hybrid | Feb 06 |
 | **[Steve Madden](http://www.stevemadden.com)** | **[Product Development Associate, International Handbags](https://jobright.ai/jobs/info/691013dabb519377733ea945?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Feb 06 |
 | **[Capital One](http://www.capitalone.com)** | **[Manager, Product Management - - Network Authorizations Health & Compliance](https://jobright.ai/jobs/info/696940df639b452fb57f0b91?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Feb 06 |
 | ↳ | **[Manager, Product Management - - Network Authorizations Health & Compliance](https://jobright.ai/jobs/info/69694dcc639b452fb57f18c1?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | Hybrid | Feb 06 |
@@ -264,6 +266,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Early Career Product Analyst, Supply Chain and Logistics](https://jobright.ai/jobs/info/697d38b93f57a33569670718?utm_campaign=Product%20Management&utm_source=1103)** | Remote - Colorado | Remote | Jan 30 |
 | ↳ | **[Early Career Product Analyst, Supply Chain and Logistics](https://jobright.ai/jobs/info/697d3800727747250d580703?utm_campaign=Product%20Management&utm_source=1103)** | Remote - Oregon | Remote | Jan 30 |
 | ↳ | **[Early Career Product Analyst, Supply Chain and Logistics](https://jobright.ai/jobs/info/697d379c3f57a335696705ba?utm_campaign=Product%20Management&utm_source=1103)** | Remote - Texas | Remote | Jan 30 |
-| ↳ | **[Early Career Product Analyst, Supply Chain and Logistics](https://jobright.ai/jobs/info/697d37483f57a3356967055f?utm_campaign=Product%20Management&utm_source=1103)** | Remote - Tennessee | Remote | Jan 30 |
-| **[lululemon](http://shop.lululemon.com)** | **[Product Operations Lead / Suburban Square - Ardmore, PA](https://jobright.ai/jobs/info/697d46153f57a33569671450?utm_campaign=Product%20Management&utm_source=1103)** | Ardmore, PA | On Site | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
