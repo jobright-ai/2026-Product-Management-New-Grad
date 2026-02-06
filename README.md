@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AlphaSights](http://www.alphasights.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/69459080d1953b5d11be8cc9?utm_campaign=Product%20Management&utm_source=1103)** | New York, United States | On Site | Feb 06 |
 | **[Capital One](http://www.capitalone.com)** | **[Sr. Associate, Product Management,Card Data, Models, Decisioning, and Credit](https://jobright.ai/jobs/info/6985e0ec8da7a612046091c6?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Feb 06 |
 | **[DaVita Kidney Care](http://www.davita.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/69154ca1286ccf0a1512d16b?utm_campaign=Product%20Management&utm_source=1103)** | Denver, CO | On Site | Feb 06 |
 | **[Capital One](http://www.capitalone.com)** | **[Sr. Associate, Product Management – Disputes Core Products](https://jobright.ai/jobs/info/69694f64f25a38006697e0f8?utm_campaign=Product%20Management&utm_source=1103)** | Deerfield, IL | On Site | Feb 06 |
@@ -111,7 +112,6 @@ For a complete list, click the following sortable link below:
 | **[Corebridge Financial](https://www.corebridgefinancial.com)** | **[Product Filing Specialist](https://jobright.ai/jobs/info/697e97b3ce48107c0542b092?utm_campaign=Product%20Management&utm_source=1103)** | Los Angeles, CA | Hybrid | Feb 04 |
 | **[Ferguson](http://www.ferguson.com/)** | **[Digital Product Manager – Orders and Fulfillment (REMOTE)](https://jobright.ai/jobs/info/6983f60b01214b4cdacc3d69?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Feb 04 |
 | **[lululemon](http://shop.lululemon.com)** | **[Product Operations Lead / The Village at Meridian](https://jobright.ai/jobs/info/698418620f6f7e7a2cde411f?utm_campaign=Product%20Management&utm_source=1103)** | Meridian, ID | On Site | Feb 04 |
-| **[Hotel Effectiveness by Actabl](http://hoteleffectiveness.com/)** | **[Product Owner](https://jobright.ai/jobs/info/6983cf42348f733a5c37340a?utm_campaign=Product%20Management&utm_source=1103)** | Denver, NC | Hybrid | Feb 04 |
 | **[LaunchCapital](http://www.launchcapital.com)** | **[Corporate Analyst Program - Product Management (New York 1 Broadway, NY)](https://jobright.ai/jobs/info/69846c9e0f6f7e7a2cdec5da?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Feb 04 |
 | **[PIMCO](http://www.pimco.com)** | **[Associate, Product Manager – Credit Technology](https://jobright.ai/jobs/info/6968201a639b452fb57daf53?utm_campaign=Product%20Management&utm_source=1103)** | Newport Beach, CA | On Site | Feb 04 |
 | **[BBVA](https://bbva.csod.com)** | **[PRODUCT CL ANALYST II](https://jobright.ai/jobs/info/6983e6050f6f7e7a2cddce3c?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Feb 04 |
@@ -189,8 +189,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Manager - Group Retirement (REMOTE)](https://jobright.ai/jobs/info/697d9722ce48107c0541e5a9?utm_campaign=Product%20Management&utm_source=1103)** | Charlotte, NC | Remote | Feb 03 |
 | **[Morgan, Lewis & Bockius LLP](http://www.morganlewis.com/)** | **[Digital Product Analyst](https://jobright.ai/jobs/info/6965d6875ad3a93f8231480f?utm_campaign=Product%20Management&utm_source=1103)** | Seattle, WA | Hybrid | Feb 03 |
 | **[Thomson Reuters](http://thomsonreuters.com)** | **[Customer Product Trainer](https://jobright.ai/jobs/info/6981d7840f6f7e7a2cdb00ed?utm_campaign=Product%20Management&utm_source=1103)** | Eagan, MN | Remote | Feb 03 |
-| **[PIMCO](http://www.pimco.com)** | **[Product Strategy Associate, Alternatives](https://jobright.ai/jobs/info/6981edc4c3101f1400c3930b?utm_campaign=Product%20Management&utm_source=1103)** | Newport Beach, CA | On Site | Feb 03 |
-| ↳ | **[Product Strategy Associate, Alternatives](https://jobright.ai/jobs/info/6981f2d20f6f7e7a2cdb0c66?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY USA | On Site | Feb 03 |
+| **[PIMCO](http://www.pimco.com)** | **[Product Strategy Associate, Alternatives](https://jobright.ai/jobs/info/6981f2d20f6f7e7a2cdb0c66?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY USA | On Site | Feb 03 |
+| ↳ | **[Product Strategy Associate, Alternatives](https://jobright.ai/jobs/info/6981edc4c3101f1400c3930b?utm_campaign=Product%20Management&utm_source=1103)** | Newport Beach, CA | On Site | Feb 03 |
 | **[AMEX Healthcare](https://www.amex-vienna.at/)** | **[Senior Associate - Digital Product Management](https://jobright.ai/jobs/info/6985a7d08da7a61204605952?utm_campaign=Product%20Management&utm_source=1103)** | Phoenix, AZ | Hybrid | Feb 03 |
 | **[Amazon](https://amazon.com)** | **[Sourcing Manager, WWGS Private Brands](https://jobright.ai/jobs/info/6965bc70a112b4026613c692?utm_campaign=Product%20Management&utm_source=1103)** | Austin, TX | On Site | Feb 03 |
 | ↳ | **[Sourcing Manager, WWGS Private Brands](https://jobright.ai/jobs/info/6965bb3aa112b4026613c56d?utm_campaign=Product%20Management&utm_source=1103)** | Seattle, WA | On Site | Feb 03 |
@@ -261,9 +261,4 @@ For a complete list, click the following sortable link below:
 | **[Fiserv](http://www.fiserv.com)** | **[Corporate Analyst Program-Product Manager](https://jobright.ai/jobs/info/697d780b3f57a33569676258?utm_campaign=Product%20Management&utm_source=1103)** | Hagerstown, MD | On Site | Jan 30 |
 | **[Alto Pharmacy](http://alto.com)** | **[Early Career Product Analyst, Supply Chain and Logistics](https://jobright.ai/jobs/info/697d75d1727747250d585e84?utm_campaign=Product%20Management&utm_source=1103)** | Texas, United States | On Site | Jan 30 |
 | **[Climate Central, Inc.](http://www.climatecentral.org/)** | **[Associate Product Manager](https://jobright.ai/jobs/info/697d6aa2137a051025668d16?utm_campaign=Product%20Management&utm_source=1103)** | Princeton, NJ | Hybrid | Jan 30 |
-| **[Humana](http://www.humana.com)** | **[Product Owner – Digital Solutions](https://jobright.ai/jobs/info/697d39ae3f57a3356967085b?utm_campaign=Product%20Management&utm_source=1103)** | Remote Nationwide | Remote | Jan 30 |
-| **[Alto Pharmacy](http://alto.com)** | **[Early Career Product Analyst, Supply Chain and Logistics](https://jobright.ai/jobs/info/697d39093f57a3356967077d?utm_campaign=Product%20Management&utm_source=1103)** | Remote - Pennsylvania | Remote | Jan 30 |
-| ↳ | **[Early Career Product Analyst, Supply Chain and Logistics](https://jobright.ai/jobs/info/697d38b93f57a33569670718?utm_campaign=Product%20Management&utm_source=1103)** | Remote - Colorado | Remote | Jan 30 |
-| ↳ | **[Early Career Product Analyst, Supply Chain and Logistics](https://jobright.ai/jobs/info/697d3800727747250d580703?utm_campaign=Product%20Management&utm_source=1103)** | Remote - Oregon | Remote | Jan 30 |
-| ↳ | **[Early Career Product Analyst, Supply Chain and Logistics](https://jobright.ai/jobs/info/697d379c3f57a335696705ba?utm_campaign=Product%20Management&utm_source=1103)** | Remote - Texas | Remote | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
