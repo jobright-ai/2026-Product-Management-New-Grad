@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Windfall](http://www.windfall.com)** | **[Product Operations Analyst](https://jobright.ai/jobs/info/69863ec68ca8121a3a686e51?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, CA | On Site | Feb 06 |
+| **[Zurn Elkay Water Solutions](https://zurnelkay.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/696a6fea350cf4380311699b?utm_campaign=Product%20Management&utm_source=1103)** | Downers Grove, IL | On Site | Feb 06 |
 | **[AlphaSights](http://www.alphasights.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/69459080d1953b5d11be8cc9?utm_campaign=Product%20Management&utm_source=1103)** | New York, United States | On Site | Feb 06 |
 | **[Capital One](http://www.capitalone.com)** | **[Sr. Associate, Product Management,Card Data, Models, Decisioning, and Credit](https://jobright.ai/jobs/info/6985e0ec8da7a612046091c6?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Feb 06 |
 | **[DaVita Kidney Care](http://www.davita.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/69154ca1286ccf0a1512d16b?utm_campaign=Product%20Management&utm_source=1103)** | Denver, CO | On Site | Feb 06 |
@@ -111,7 +112,6 @@ For a complete list, click the following sortable link below:
 | **[PURE Property Management](https://purehomeriver.com)** | **[Associate Product Manager - Remote (US)](https://jobright.ai/jobs/info/698413448da7a612045dfe64?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Feb 04 |
 | **[Corebridge Financial](https://www.corebridgefinancial.com)** | **[Product Filing Specialist](https://jobright.ai/jobs/info/697e97b3ce48107c0542b092?utm_campaign=Product%20Management&utm_source=1103)** | Los Angeles, CA | Hybrid | Feb 04 |
 | **[lululemon](http://shop.lululemon.com)** | **[Product Operations Lead / The Village at Meridian](https://jobright.ai/jobs/info/698418620f6f7e7a2cde411f?utm_campaign=Product%20Management&utm_source=1103)** | Meridian, ID | On Site | Feb 04 |
-| **[Ferguson](http://www.ferguson.com/)** | **[Digital Product Manager – Orders and Fulfillment (REMOTE)](https://jobright.ai/jobs/info/69862f258da7a6120460e00b?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Feb 04 |
 | **[LaunchCapital](http://www.launchcapital.com)** | **[Corporate Analyst Program - Product Management (New York 1 Broadway, NY)](https://jobright.ai/jobs/info/69846c9e0f6f7e7a2cdec5da?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Feb 04 |
 | **[PIMCO](http://www.pimco.com)** | **[Associate, Product Manager – Credit Technology](https://jobright.ai/jobs/info/6968201a639b452fb57daf53?utm_campaign=Product%20Management&utm_source=1103)** | Newport Beach, CA | On Site | Feb 04 |
 | **[BBVA](https://bbva.csod.com)** | **[PRODUCT CL ANALYST II](https://jobright.ai/jobs/info/6983e6050f6f7e7a2cddce3c?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Feb 04 |
