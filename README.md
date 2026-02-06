@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DaVita Kidney Care](http://www.davita.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/69154ca1286ccf0a1512d16b?utm_campaign=Product%20Management&utm_source=1103)** | Denver, CO | On Site | Feb 06 |
 | **[Capital One](http://www.capitalone.com)** | **[Sr. Associate, Product Management – Disputes Core Products](https://jobright.ai/jobs/info/69694f64f25a38006697e0f8?utm_campaign=Product%20Management&utm_source=1103)** | Deerfield, IL | On Site | Feb 06 |
 | **[Kyndrix](https://www.linkedin.com/company/101602118)** | **[Associate Product Analyst-Fresh Graduates](https://jobright.ai/jobs/info/6985cf7a8da7a612046082ef?utm_campaign=Product%20Management&utm_source=1103)** | Austin, TX | Remote | Feb 06 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management - Salesforce](https://jobright.ai/jobs/info/69694cf8639b452fb57f17df?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Feb 06 |
@@ -265,19 +266,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Early Career Product Analyst, Supply Chain and Logistics](https://jobright.ai/jobs/info/697d379c3f57a335696705ba?utm_campaign=Product%20Management&utm_source=1103)** | Remote - Texas | Remote | Jan 30 |
 | ↳ | **[Early Career Product Analyst, Supply Chain and Logistics](https://jobright.ai/jobs/info/697d37483f57a3356967055f?utm_campaign=Product%20Management&utm_source=1103)** | Remote - Tennessee | Remote | Jan 30 |
 | **[lululemon](http://shop.lululemon.com)** | **[Product Operations Lead / Suburban Square - Ardmore, PA](https://jobright.ai/jobs/info/697d46153f57a33569671450?utm_campaign=Product%20Management&utm_source=1103)** | Ardmore, PA | On Site | Jan 30 |
-| **[Kiss Products, Inc.](https://www.kissusa.com)** | **[Associate, Product Development/Management](https://jobright.ai/jobs/info/697d2638727747250d57e23d?utm_campaign=Product%20Management&utm_source=1103)** | Port Washington, NY | On Site | Jan 30 |
-| **[Fiserv](http://www.fiserv.com)** | **[Corporate Analyst Program-Product Manager](https://jobright.ai/jobs/info/697d3a36137a0510256648c8?utm_campaign=Product%20Management&utm_source=1103)** | Hagerstown, Maryland | On Site | Jan 30 |
-| **[Capital One](http://www.capitalone.com)** | **[Sr. Associate, Product Management, Decisioning Platform Orchestration](https://jobright.ai/jobs/info/697d4074727747250d581286?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Jan 30 |
-| **[Alto Pharmacy](http://alto.com)** | **[Early Career Product Analyst, Supply Chain and Logistics](https://jobright.ai/jobs/info/697d3bbe3f57a33569670b24?utm_campaign=Product%20Management&utm_source=1103)** | Remote - New York | Remote | Jan 30 |
-| ↳ | **[Early Career Product Analyst, Supply Chain and Logistics](https://jobright.ai/jobs/info/697d39cb727747250d580950?utm_campaign=Product%20Management&utm_source=1103)** | Remote - South Carolina | Remote | Jan 30 |
-| ↳ | **[Early Career Product Analyst, Supply Chain and Logistics](https://jobright.ai/jobs/info/697d3eb8137a051025664f04?utm_campaign=Product%20Management&utm_source=1103)** | Remote - Florida | Remote | Jan 30 |
-| ↳ | **[Early Career Product Analyst, Supply Chain and Logistics](https://jobright.ai/jobs/info/697d3e4e727747250d580fa6?utm_campaign=Product%20Management&utm_source=1103)** | Remote - Arkansas | Remote | Jan 30 |
-| ↳ | **[Early Career Product Analyst, Supply Chain and Logistics](https://jobright.ai/jobs/info/697d3a4a727747250d580a01?utm_campaign=Product%20Management&utm_source=1103)** | Remote - Arizona | Remote | Jan 30 |
-| ↳ | **[Early Career Product Analyst, Supply Chain and Logistics](https://jobright.ai/jobs/info/697d3aab137a051025664979?utm_campaign=Product%20Management&utm_source=1103)** | Remote - Kansas | Remote | Jan 30 |
-| ↳ | **[Early Career Product Analyst, Supply Chain and Logistics](https://jobright.ai/jobs/info/697d3faf137a05102566508c?utm_campaign=Product%20Management&utm_source=1103)** | Remote - California | Remote | Jan 30 |
-| ↳ | **[Early Career Product Analyst, Supply Chain and Logistics](https://jobright.ai/jobs/info/697d3e21137a051025664e2a?utm_campaign=Product%20Management&utm_source=1103)** | Remote - Nevada | Remote | Jan 30 |
-| ↳ | **[Early Career Product Analyst, Supply Chain and Logistics](https://jobright.ai/jobs/info/697d3b42137a051025664a3b?utm_campaign=Product%20Management&utm_source=1103)** | Remote - North Carolina | Remote | Jan 30 |
-| ↳ | **[Early Career Product Analyst, Supply Chain and Logistics](https://jobright.ai/jobs/info/697d3ce5727747250d580dad?utm_campaign=Product%20Management&utm_source=1103)** | Remote - Washington State | Remote | Jan 30 |
-| ↳ | **[Early Career Product Analyst, Supply Chain and Logistics](https://jobright.ai/jobs/info/697d3c87137a051025664bed?utm_campaign=Product%20Management&utm_source=1103)** | Remote - Maryland | Remote | Jan 30 |
-| ↳ | **[Early Career Product Analyst, Supply Chain and Logistics](https://jobright.ai/jobs/info/697d40a1727747250d5812d9?utm_campaign=Product%20Management&utm_source=1103)** | Remote - Missouri | Remote | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
