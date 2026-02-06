@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Actabl](https://www.actabl.com)** | **[Product Owner](https://jobright.ai/jobs/info/698661cf8da7a61204611acd?utm_campaign=Product%20Management&utm_source=1103)** | Denver, CO | Hybrid | Feb 06 |
 | **[Windfall](http://www.windfall.com)** | **[Product Operations Analyst](https://jobright.ai/jobs/info/69863ec68ca8121a3a686e51?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, CA | On Site | Feb 06 |
 | **[NYCM Insurance](https://www.nycm.com)** | **[Product Analyst (Hybrid)](https://jobright.ai/jobs/info/69865bc08ca8121a3a689531?utm_campaign=Product%20Management&utm_source=1103)** | Edmeston, NY | Hybrid | Feb 06 |
 | **[Zurn Elkay Water Solutions](https://zurnelkay.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/696a6fea350cf4380311699b?utm_campaign=Product%20Management&utm_source=1103)** | Downers Grove, IL | On Site | Feb 06 |
