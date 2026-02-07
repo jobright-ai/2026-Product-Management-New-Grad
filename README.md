@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[lululemon](http://shop.lululemon.com)** | **[Product Operations Lead / Boston Prudential Center](https://jobright.ai/jobs/info/6986d7988ca8121a3a695c2d?utm_campaign=Product%20Management&utm_source=1103)** | Boston, MA | On Site | Feb 06 |
 | **[Global Atlantic](https://www.globalatlantic.com/)** | **[Analyst, Product Operations](https://jobright.ai/jobs/info/697161ae333b6343a14deab2?utm_campaign=Product%20Management&utm_source=1103)** | Hartford, Connecticut, United States | On Site | Feb 06 |
 | **[On Location](https://onlocationexp.com/)** | **[Coordinator, Product Build Specialist - Olympic & Paralympic Games](https://jobright.ai/jobs/info/6986a2b48ca8121a3a68f39c?utm_campaign=Product%20Management&utm_source=1103)** | LA Metro Area | On Site | Feb 06 |
 | **[lululemon](http://shop.lululemon.com)** | **[Product Operations Lead / San Francisco Premium Outlets](https://jobright.ai/jobs/info/6986b8cb0f6f7e7a2ce1d33b?utm_campaign=Product%20Management&utm_source=1103)** | Livermore, CA | On Site | Feb 06 |
@@ -71,8 +72,8 @@ For a complete list, click the following sortable link below:
 | **[lululemon](http://shop.lululemon.com)** | **[Product Operations Lead / Gaithersburg](https://jobright.ai/jobs/info/6986945a8da7a61204616ab0?utm_campaign=Product%20Management&utm_source=1103)** | Gaithersburg, MD | On Site | Feb 06 |
 | **[Actabl](https://www.actabl.com)** | **[Product Owner](https://jobright.ai/jobs/info/698661cf8da7a61204611acd?utm_campaign=Product%20Management&utm_source=1103)** | Denver, CO | Hybrid | Feb 06 |
 | **[Capital One](http://www.capitalone.com)** | **[Sr. Associate, Product Management, DMDC](https://jobright.ai/jobs/info/698677a10f6f7e7a2ce17273?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Feb 06 |
-| **[Fidelity Bank](http://www.LionBank.com)** | **[Associate, Systematic Trading Product Development](https://jobright.ai/jobs/info/698688500f6f7e7a2ce189b2?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Feb 06 |
-| ↳ | **[Associate, Systematic Trading Product Development](https://jobright.ai/jobs/info/69867d8c8da7a61204614b4c?utm_campaign=Product%20Management&utm_source=1103)** | Boston, MA | Hybrid | Feb 06 |
+| **[Fidelity Bank](http://www.LionBank.com)** | **[Associate, Systematic Trading Product Development](https://jobright.ai/jobs/info/69867d8c8da7a61204614b4c?utm_campaign=Product%20Management&utm_source=1103)** | Boston, MA | Hybrid | Feb 06 |
+| ↳ | **[Associate, Systematic Trading Product Development](https://jobright.ai/jobs/info/698688500f6f7e7a2ce189b2?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Feb 06 |
 | **[Event Network, LLC](https://www.eventnetwork.com)** | **[Product Coordinator - SSC](https://jobright.ai/jobs/info/698673538da7a61204613e64?utm_campaign=Product%20Management&utm_source=1103)** | 9645 Granite Ridge Dr, San Diego, CA 92123, USA | On Site | Feb 06 |
 | **[Windfall](http://www.windfall.com)** | **[Product Operations Analyst](https://jobright.ai/jobs/info/69863ec68ca8121a3a686e51?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, CA | On Site | Feb 06 |
 | **[NYCM Insurance](https://www.nycm.com)** | **[Product Analyst (Hybrid)](https://jobright.ai/jobs/info/69865bc08ca8121a3a689531?utm_campaign=Product%20Management&utm_source=1103)** | Edmeston, NY | Hybrid | Feb 06 |
@@ -269,5 +270,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Senior Associate, Product Management - Portal UX & Travel Wallet](https://jobright.ai/jobs/info/697e45ff7f40342e15d71a7d?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Jan 31 |
 | ↳ | **[Senior Associate, Product Management - Portal UX & Travel Wallet](https://jobright.ai/jobs/info/697e45f57f40342e15d71a79?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Jan 31 |
 | ↳ | **[Sr. Associate, Product Management, Decisioning Platform Orchestration](https://jobright.ai/jobs/info/697e4533abff4c399a9d0876?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | Hybrid | Jan 31 |
-| **[Camping World](https://investor.campingworld.com)** | **[Product Specialist Advisor](https://jobright.ai/jobs/info/69683897f25a380066969ca4?utm_campaign=Product%20Management&utm_source=1103)** | De Forest, WI | On Site | Jan 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
