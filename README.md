@@ -57,9 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Shure Incorporated](http://www.shure.com)** | **[Analyst I, Product Management](https://jobright.ai/jobs/info/694efbbfce13cd10565742c5?utm_campaign=Product%20Management&utm_source=1103)** | Niles, IL | Hybrid | Feb 07 |
 | **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Junior Product Analyst](https://jobright.ai/jobs/info/69875e280f6f7e7a2ce2a182?utm_campaign=Product%20Management&utm_source=1103)** | Texas, United States | Remote | Feb 07 |
 | **[Roblox](https://corp.roblox.com)** | **[Product Policy Specialist](https://jobright.ai/jobs/info/6928b3f6f0beb0723263116f?utm_campaign=Product%20Management&utm_source=1103)** | San Mateo, CA, United States | Hybrid | Feb 07 |
-| **[TechVyne](https://www.linkedin.com/company/102970632)** | **[Associate Product Analyst](https://jobright.ai/jobs/info/698731118da7a612046242aa?utm_campaign=Product%20Management&utm_source=1103)** | Texas, United States | On Site | Feb 07 |
 | **[Cintas](https://www.cintas.com)** | **[Production Associate - Product Separator - 2nd Shift](https://jobright.ai/jobs/info/696af3745fc86241853a39c3?utm_campaign=Product%20Management&utm_source=1103)** | Yakima, WA | On Site | Feb 07 |
 | **[Atlassian](https://www.atlassian.com)** | **[Associate Product Manager, 2026 Graduate U.S.](https://jobright.ai/jobs/info/696b5654350cf4380312b924?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, CA | Remote | Feb 07 |
 | **[UnitedHealth Group](https://www.unitedhealthgroup.com/)** | **[Associate Technical Product Manager](https://jobright.ai/jobs/info/6986dd258ca8121a3a6964c8?utm_campaign=Product%20Management&utm_source=1103)** | Eden Prairie, MN | Hybrid | Feb 06 |
@@ -78,8 +78,8 @@ For a complete list, click the following sortable link below:
 | **[lululemon](http://shop.lululemon.com)** | **[Product Operations Lead / Gaithersburg](https://jobright.ai/jobs/info/6986945a8da7a61204616ab0?utm_campaign=Product%20Management&utm_source=1103)** | Gaithersburg, MD | On Site | Feb 06 |
 | **[Actabl](https://www.actabl.com)** | **[Product Owner](https://jobright.ai/jobs/info/698661cf8da7a61204611acd?utm_campaign=Product%20Management&utm_source=1103)** | Denver, CO | Hybrid | Feb 06 |
 | **[Capital One](http://www.capitalone.com)** | **[Sr. Associate, Product Management, DMDC](https://jobright.ai/jobs/info/698677a10f6f7e7a2ce17273?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Feb 06 |
-| **[Fidelity Bank](http://www.LionBank.com)** | **[Associate, Systematic Trading Product Development](https://jobright.ai/jobs/info/698688500f6f7e7a2ce189b2?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Feb 06 |
-| ↳ | **[Associate, Systematic Trading Product Development](https://jobright.ai/jobs/info/69867d8c8da7a61204614b4c?utm_campaign=Product%20Management&utm_source=1103)** | Boston, MA | Hybrid | Feb 06 |
+| **[Fidelity Bank](http://www.LionBank.com)** | **[Associate, Systematic Trading Product Development](https://jobright.ai/jobs/info/69867d8c8da7a61204614b4c?utm_campaign=Product%20Management&utm_source=1103)** | Boston, MA | Hybrid | Feb 06 |
+| ↳ | **[Associate, Systematic Trading Product Development](https://jobright.ai/jobs/info/698688500f6f7e7a2ce189b2?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Feb 06 |
 | **[Event Network, LLC](https://www.eventnetwork.com)** | **[Product Coordinator - SSC](https://jobright.ai/jobs/info/698673538da7a61204613e64?utm_campaign=Product%20Management&utm_source=1103)** | 9645 Granite Ridge Dr, San Diego, CA 92123, USA | On Site | Feb 06 |
 | **[Windfall](http://www.windfall.com)** | **[Product Operations Analyst](https://jobright.ai/jobs/info/69863ec68ca8121a3a686e51?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, CA | On Site | Feb 06 |
 | **[Zurn Elkay Water Solutions](https://zurnelkay.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/696a6fea350cf4380311699b?utm_campaign=Product%20Management&utm_source=1103)** | Downers Grove, IL | On Site | Feb 06 |
