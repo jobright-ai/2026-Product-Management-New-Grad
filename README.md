@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Product Management Specialist III](https://jobright.ai/jobs/info/6987cf2c8da7a6120462d70e?utm_campaign=Product%20Management&utm_source=1103)** | Waltham, MA | On Site | Feb 07 |
+| ↳ | **[Product Management Specialist III](https://jobright.ai/jobs/info/6987ce578ca8121a3a6a4a39?utm_campaign=Product%20Management&utm_source=1103)** | Rochester, NY | On Site | Feb 07 |
 | **[lululemon](http://shop.lululemon.com)** | **[Product Operations Lead / Fig Garden Village](https://jobright.ai/jobs/info/6987a2620f6f7e7a2ce2dd78?utm_campaign=Product%20Management&utm_source=1103)** | Fresno, CA | On Site | Feb 07 |
 | **[iHeartMedia](http://iheartmedia.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/69169ed76f36db06ef058627?utm_campaign=Product%20Management&utm_source=1103)** | New York, United States | Remote | Feb 07 |
 | **[Capital One](http://www.capitalone.com)** | **[Sr. Associate, Product Management, DMDC](https://jobright.ai/jobs/info/698780228da7a612046299bc?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Feb 07 |
@@ -217,8 +219,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Manager - Group Retirement (REMOTE)](https://jobright.ai/jobs/info/697d9722ce48107c0541e5a9?utm_campaign=Product%20Management&utm_source=1103)** | Charlotte, NC | Remote | Feb 03 |
 | **[Morgan, Lewis & Bockius LLP](http://www.morganlewis.com/)** | **[Digital Product Analyst](https://jobright.ai/jobs/info/6965d6875ad3a93f8231480f?utm_campaign=Product%20Management&utm_source=1103)** | Seattle, WA | Hybrid | Feb 03 |
 | **[Thomson Reuters](http://thomsonreuters.com)** | **[Customer Product Trainer](https://jobright.ai/jobs/info/6981d7840f6f7e7a2cdb00ed?utm_campaign=Product%20Management&utm_source=1103)** | Eagan, MN | Remote | Feb 03 |
-| **[PIMCO](http://www.pimco.com)** | **[Product Strategy Associate, Alternatives](https://jobright.ai/jobs/info/6981edc4c3101f1400c3930b?utm_campaign=Product%20Management&utm_source=1103)** | Newport Beach, CA | On Site | Feb 03 |
-| ↳ | **[Product Strategy Associate, Alternatives](https://jobright.ai/jobs/info/6981f2d20f6f7e7a2cdb0c66?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY USA | On Site | Feb 03 |
+| **[PIMCO](http://www.pimco.com)** | **[Product Strategy Associate, Alternatives](https://jobright.ai/jobs/info/6981f2d20f6f7e7a2cdb0c66?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY USA | On Site | Feb 03 |
+| ↳ | **[Product Strategy Associate, Alternatives](https://jobright.ai/jobs/info/6981edc4c3101f1400c3930b?utm_campaign=Product%20Management&utm_source=1103)** | Newport Beach, CA | On Site | Feb 03 |
 | **[AMEX Healthcare](https://www.amex-vienna.at/)** | **[Senior Associate - Digital Product Management](https://jobright.ai/jobs/info/6985a7d08da7a61204605952?utm_campaign=Product%20Management&utm_source=1103)** | Phoenix, AZ | Hybrid | Feb 03 |
 | **[Amazon](https://amazon.com)** | **[Sourcing Manager, WWGS Private Brands](https://jobright.ai/jobs/info/6965bc70a112b4026613c692?utm_campaign=Product%20Management&utm_source=1103)** | Austin, TX | On Site | Feb 03 |
 | ↳ | **[Sourcing Manager, WWGS Private Brands](https://jobright.ai/jobs/info/6965bb3aa112b4026613c56d?utm_campaign=Product%20Management&utm_source=1103)** | Seattle, WA | On Site | Feb 03 |
