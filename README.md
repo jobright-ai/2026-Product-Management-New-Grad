@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Leaf Home](https://www.leafhome.com/)** | **[Product Demonstrator](https://jobright.ai/jobs/info/691d655a0b7dff734150319c?utm_campaign=Product%20Management&utm_source=1103)** | Pasadena, TX | On Site | Feb 09 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Graduate (TikTok-Product-Content Ecosystem) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68fc99a90ab3b2224629d369?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA | On Site | Feb 09 |
 | **[Crest Vale](crestvale.us)** | **[Product Strategy Analyst (Associate Level)](https://jobright.ai/jobs/info/6989b0308ca8121a3a6bfd86?utm_campaign=Product%20Management&utm_source=1103)** | Austin, TX | Hybrid | Feb 09 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Graduate (TikTok Shop User Product) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6977f8c388e2b47213bc0725?utm_campaign=Product%20Management&utm_source=1103)** | Seattle, WA | On Site | Feb 09 |
@@ -157,7 +158,7 @@ For a complete list, click the following sortable link below:
 | **[lululemon](http://shop.lululemon.com)** | **[Product Operations Lead / The Village at Meridian](https://jobright.ai/jobs/info/698418620f6f7e7a2cde411f?utm_campaign=Product%20Management&utm_source=1103)** | Meridian, ID | On Site | Feb 04 |
 | **[PIMCO](http://www.pimco.com)** | **[Associate, Product Manager – Credit Technology](https://jobright.ai/jobs/info/6968201a639b452fb57daf53?utm_campaign=Product%20Management&utm_source=1103)** | Newport Beach, CA | On Site | Feb 04 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management - Enterprise Supplier Management (ESM) Team](https://jobright.ai/jobs/info/69839f46348f733a5c36b8a5?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Feb 04 |
-| **[3iQ Corp](https://3iq.ca/)** | **[Product Associate](https://jobright.ai/jobs/info/6983b49f348f733a5c36f0b4?utm_campaign=Product%20Management&utm_source=1103)** | Canada | Hybrid | Feb 04 |
+| **[3iQ](https://3iq.ca/)** | **[Product Associate](https://jobright.ai/jobs/info/6983b49f348f733a5c36f0b4?utm_campaign=Product%20Management&utm_source=1103)** | Canada | Hybrid | Feb 04 |
 | **[TOM FORD FASHION](http://www.tomfordfashion.com)** | **[Product Management Tech](https://jobright.ai/jobs/info/6983be34348f733a5c370abc?utm_campaign=Product%20Management&utm_source=1103)** | Fresno,CA,US | On Site | Feb 04 |
 | **[Actabl](https://www.actabl.com)** | **[Product Owner](https://jobright.ai/jobs/info/698386e001214b4cdacb3f1b?utm_campaign=Product%20Management&utm_source=1103)** | Oldsmar, FL | Remote | Feb 04 |
 | **[Jobs via eFinancialCareers](http://www.efinancialcareers.com/)** | **[Product Strategy Associate, Alternatives - PIMCO](https://jobright.ai/jobs/info/698385860f6f7e7a2cdcf490?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Feb 04 |
@@ -272,6 +273,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Senior Associate, Product Management - Commercial Banking](https://jobright.ai/jobs/info/69656d81a112b40266135a34?utm_campaign=Product%20Management&utm_source=1103)** | Charlotte, NC | On Site | Feb 02 |
 | **[McCormick & Company](http://www.mccormickcorporation.com)** | **[Associate Product (Brand) Manager](https://jobright.ai/jobs/info/69812a1749964d25b5e400aa?utm_campaign=Product%20Management&utm_source=1103)** | Hunt Valley, MD | Hybrid | Feb 02 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management - Card Authorizations Platform](https://jobright.ai/jobs/info/6965792d5ad3a93f8230beac?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Feb 02 |
-| ↳ | **[Senior Associate, Product Manager - Business Cards & Payments](https://jobright.ai/jobs/info/69656a15a112b40266134ee2?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | Hybrid | Feb 02 |
-| **[Camping World](https://investor.campingworld.com)** | **[Product Specialist Advisor](https://jobright.ai/jobs/info/69810feeabff4c399a9fe06c?utm_campaign=Product%20Management&utm_source=1103)** | Albany, NY | On Site | Feb 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
