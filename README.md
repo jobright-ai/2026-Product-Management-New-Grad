@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[lululemon](http://shop.lululemon.com)** | **[Product Operations Lead / Mashpee Commons (Contract to Aug 2026)](https://jobright.ai/jobs/info/698924548ca8121a3a6b6d97?utm_campaign=Product%20Management&utm_source=1103)** | Mashpee, MA | On Site | Feb 08 |
 | **[High Life LLC](http://highlifellc.com)** | **[Product Development Assistant](https://jobright.ai/jobs/info/698294780a9e07331f8dad96?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Feb 08 |
+| **[lululemon](http://shop.lululemon.com)** | **[Product Operations Lead / Mashpee Commons (Contract to Aug 2026)](https://jobright.ai/jobs/info/698924548ca8121a3a6b6d97?utm_campaign=Product%20Management&utm_source=1103)** | Mashpee, MA | On Site | Feb 08 |
 | **[IXL Learning](https://www.ixl.com/)** | **[IXL Associate Product Manager](https://jobright.ai/jobs/info/68fc210c93c49825ab109fd2?utm_campaign=Product%20Management&utm_source=1103)** | San Mateo, CA | Hybrid | Feb 08 |
 | **[Paxos](https://www.paxos.com)** | **[Product Operations Associate](https://jobright.ai/jobs/info/696b5be55fc86241853ac6f5?utm_campaign=Product%20Management&utm_source=1103)** | New York, United States | On Site | Feb 08 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Product Management Specialist III](https://jobright.ai/jobs/info/698804878ca8121a3a6a7e07?utm_campaign=Product%20Management&utm_source=1103)** | Rochester, NY | On Site | Feb 07 |
@@ -91,7 +91,6 @@ For a complete list, click the following sortable link below:
 | **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Product Management Specialist III](https://jobright.ai/jobs/info/698696718da7a61204616e4e?utm_campaign=Product%20Management&utm_source=1103)** | Rochester, New York, USA | On Site | Feb 06 |
 | **[UnitedHealth Group](https://www.unitedhealthgroup.com/)** | **[Associate Technical Product Manager](https://jobright.ai/jobs/info/698695078da7a61204616c03?utm_campaign=Product%20Management&utm_source=1103)** | Eden Prairie, MN | Hybrid | Feb 06 |
 | **[lululemon](http://shop.lululemon.com)** | **[Product Operations Lead / Gaithersburg](https://jobright.ai/jobs/info/6986945a8da7a61204616ab0?utm_campaign=Product%20Management&utm_source=1103)** | Gaithersburg, MD | On Site | Feb 06 |
-| **[Actabl](https://www.actabl.com)** | **[Product Owner](https://jobright.ai/jobs/info/698661cf8da7a61204611acd?utm_campaign=Product%20Management&utm_source=1103)** | Denver, CO | Hybrid | Feb 06 |
 | **[Capital One](http://www.capitalone.com)** | **[Sr. Associate, Product Management, DMDC](https://jobright.ai/jobs/info/698677a10f6f7e7a2ce17273?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Feb 06 |
 | **[Fidelity Bank](http://www.LionBank.com)** | **[Associate, Systematic Trading Product Development](https://jobright.ai/jobs/info/69867d8c8da7a61204614b4c?utm_campaign=Product%20Management&utm_source=1103)** | Boston, MA | Hybrid | Feb 06 |
 | ↳ | **[Associate, Systematic Trading Product Development](https://jobright.ai/jobs/info/698688500f6f7e7a2ce189b2?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Feb 06 |
@@ -225,8 +224,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Manager - Group Retirement (REMOTE)](https://jobright.ai/jobs/info/697d9722ce48107c0541e5a9?utm_campaign=Product%20Management&utm_source=1103)** | Charlotte, NC | Remote | Feb 03 |
 | **[Morgan, Lewis & Bockius LLP](http://www.morganlewis.com/)** | **[Digital Product Analyst](https://jobright.ai/jobs/info/6965d6875ad3a93f8231480f?utm_campaign=Product%20Management&utm_source=1103)** | Seattle, WA | Hybrid | Feb 03 |
 | **[Thomson Reuters](http://thomsonreuters.com)** | **[Customer Product Trainer](https://jobright.ai/jobs/info/6981d7840f6f7e7a2cdb00ed?utm_campaign=Product%20Management&utm_source=1103)** | Eagan, MN | Remote | Feb 03 |
-| **[PIMCO](http://www.pimco.com)** | **[Product Strategy Associate, Alternatives](https://jobright.ai/jobs/info/6981edc4c3101f1400c3930b?utm_campaign=Product%20Management&utm_source=1103)** | Newport Beach, CA | On Site | Feb 03 |
-| ↳ | **[Product Strategy Associate, Alternatives](https://jobright.ai/jobs/info/6981f2d20f6f7e7a2cdb0c66?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY USA | On Site | Feb 03 |
+| **[PIMCO](http://www.pimco.com)** | **[Product Strategy Associate, Alternatives](https://jobright.ai/jobs/info/6981f2d20f6f7e7a2cdb0c66?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY USA | On Site | Feb 03 |
+| ↳ | **[Product Strategy Associate, Alternatives](https://jobright.ai/jobs/info/6981edc4c3101f1400c3930b?utm_campaign=Product%20Management&utm_source=1103)** | Newport Beach, CA | On Site | Feb 03 |
 | **[AMEX Healthcare](https://www.amex-vienna.at/)** | **[Senior Associate - Digital Product Management](https://jobright.ai/jobs/info/6985a7d08da7a61204605952?utm_campaign=Product%20Management&utm_source=1103)** | Phoenix, AZ | Hybrid | Feb 03 |
 | **[Amazon](https://amazon.com)** | **[Sourcing Manager, WWGS Private Brands](https://jobright.ai/jobs/info/6965bc70a112b4026613c692?utm_campaign=Product%20Management&utm_source=1103)** | Austin, TX | On Site | Feb 03 |
 | ↳ | **[Sourcing Manager, WWGS Private Brands](https://jobright.ai/jobs/info/6965bb3aa112b4026613c56d?utm_campaign=Product%20Management&utm_source=1103)** | Seattle, WA | On Site | Feb 03 |
@@ -278,5 +277,4 @@ For a complete list, click the following sortable link below:
 | **[Wiley](http://www.wiley.com)** | **[Product Manager](https://jobright.ai/jobs/info/69811ec249964d25b5e3ecf3?utm_campaign=Product%20Management&utm_source=1103)** | Remote, CA, USA | Remote | Feb 02 |
 | **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[Analyst Product Analysis](https://jobright.ai/jobs/info/698103bd49964d25b5e3d121?utm_campaign=Product%20Management&utm_source=1103)** | US-Remote | Remote | Feb 02 |
 | **[Red Ventures](http://www.redventures.com)** | **[2026 Launch Program: Associate Data Science Product Manager](https://jobright.ai/jobs/info/68f0ba5aeb273a32d976cd44?utm_campaign=Product%20Management&utm_source=1103)** | Charlotte, NC | Hybrid | Feb 02 |
-| **[Landis+Gyr](https://www.landisgyr.com/)** | **[Product Analyst](https://jobright.ai/jobs/info/69195fed15b41563671855cb?utm_campaign=Product%20Management&utm_source=1103)** | Alpharetta, GA | Hybrid | Feb 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
