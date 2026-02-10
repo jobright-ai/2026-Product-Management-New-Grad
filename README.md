@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Capital One](http://www.capitalone.com)** | **[Sr. Associate - Product Management](https://jobright.ai/jobs/info/698b76e9c5761b521a9af7cc?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | Hybrid | Feb 10 |
 | **[Plymouth Rock Assurance](https://www.plymouthrock.com)** | **[Product Analyst](https://jobright.ai/jobs/info/694060dc50bbaf7650526659?utm_campaign=Product%20Management&utm_source=1103)** | Woodbridge, NJ | On Site | Feb 10 |
 | **[Boost Mobile](http://www.boostmobile.com/)** | **[Product Specialist II, Product Commercialization](https://jobright.ai/jobs/info/69776d4c52f3c27ec6437184?utm_campaign=Product%20Management&utm_source=1103)** | Littleton, CO | On Site | Feb 10 |
 | **[Acuity Insurance](http://www.acuity.com)** | **[Product Analyst - Insights (small business)](https://jobright.ai/jobs/info/698b09474db8972cec0082a0?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Feb 10 |
@@ -129,8 +130,8 @@ For a complete list, click the following sortable link below:
 | **[UnitedHealth Group](https://www.unitedhealthgroup.com/)** | **[Associate Technical Product Manager](https://jobright.ai/jobs/info/698687840f6f7e7a2ce1887e?utm_campaign=Product%20Management&utm_source=1103)** | Eden Prairie, MN | Hybrid | Feb 06 |
 | **[lululemon](http://shop.lululemon.com)** | **[Product Operations Lead / Gaithersburg](https://jobright.ai/jobs/info/6986945a8da7a61204616ab0?utm_campaign=Product%20Management&utm_source=1103)** | Gaithersburg, MD | On Site | Feb 06 |
 | **[Capital One](http://www.capitalone.com)** | **[Sr. Associate, Product Management, DMDC](https://jobright.ai/jobs/info/698677a10f6f7e7a2ce17273?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Feb 06 |
-| **[Fidelity Bank](http://www.LionBank.com)** | **[Associate, Systematic Trading Product Development](https://jobright.ai/jobs/info/69867d8c8da7a61204614b4c?utm_campaign=Product%20Management&utm_source=1103)** | Boston, MA | Hybrid | Feb 06 |
-| ↳ | **[Associate, Systematic Trading Product Development](https://jobright.ai/jobs/info/698688500f6f7e7a2ce189b2?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Feb 06 |
+| **[Fidelity Bank](http://www.LionBank.com)** | **[Associate, Systematic Trading Product Development](https://jobright.ai/jobs/info/698688500f6f7e7a2ce189b2?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Feb 06 |
+| ↳ | **[Associate, Systematic Trading Product Development](https://jobright.ai/jobs/info/69867d8c8da7a61204614b4c?utm_campaign=Product%20Management&utm_source=1103)** | Boston, MA | Hybrid | Feb 06 |
 | **[Event Network, LLC](https://www.eventnetwork.com)** | **[Product Coordinator - SSC](https://jobright.ai/jobs/info/698673538da7a61204613e64?utm_campaign=Product%20Management&utm_source=1103)** | 9645 Granite Ridge Dr, San Diego, CA 92123, USA | On Site | Feb 06 |
 | **[Windfall](http://www.windfall.com)** | **[Product Operations Analyst](https://jobright.ai/jobs/info/69863ec68ca8121a3a686e51?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, CA | On Site | Feb 06 |
 | **[Zurn Elkay Water Solutions](https://zurnelkay.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/696a6fea350cf4380311699b?utm_campaign=Product%20Management&utm_source=1103)** | Downers Grove, IL | On Site | Feb 06 |
@@ -217,5 +218,4 @@ For a complete list, click the following sortable link below:
 | **[Fiserv](http://www.fiserv.com)** | **[Corporate Analyst Program - Product Management (New York 1 Broadway, NY)](https://jobright.ai/jobs/info/698976a58ca8121a3a6bcedb?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Feb 03 |
 | **[Genuine Comfort](http://www.genuinecomfort.com)** | **[Associate Product Manager, HVAC](https://jobright.ai/jobs/info/69857f4e8da7a61204602004?utm_campaign=Product%20Management&utm_source=1103)** | Markham, Ontario, Canada | On Site | Feb 03 |
 | **[Anduril Industries](https://www.anduril.com)** | **[Product Operations Associate, Air Defense](https://jobright.ai/jobs/info/6982c5a88232105a2d0b23ee?utm_campaign=Product%20Management&utm_source=1103)** | Irvine, CA | On Site | Feb 03 |
-| **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management - Enterprise Supplier Management (ESM) Team](https://jobright.ai/jobs/info/6982be46348f733a5c35b824?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Feb 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
