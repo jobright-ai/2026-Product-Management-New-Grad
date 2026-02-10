@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Plymouth Rock Assurance](https://www.plymouthrock.com)** | **[Product Analyst](https://jobright.ai/jobs/info/694060dc50bbaf7650526659?utm_campaign=Product%20Management&utm_source=1103)** | Woodbridge, NJ | On Site | Feb 10 |
 | **[Crest Vale](crestvale.us)** | **[Business & Product Analyst](https://jobright.ai/jobs/info/698b1e894db8972cec009427?utm_campaign=Product%20Management&utm_source=1103)** | Austin, TX | On Site | Feb 10 |
 | **[Boost Mobile](http://www.boostmobile.com/)** | **[Product Specialist II, Product Commercialization](https://jobright.ai/jobs/info/69776d4c52f3c27ec6437184?utm_campaign=Product%20Management&utm_source=1103)** | Littleton, CO | On Site | Feb 10 |
 | **[Acuity Insurance](http://www.acuity.com)** | **[Product Analyst - Insights (small business)](https://jobright.ai/jobs/info/698b09474db8972cec0082a0?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Feb 10 |
@@ -223,7 +224,4 @@ For a complete list, click the following sortable link below:
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management - Enterprise Supplier Management (ESM) Team](https://jobright.ai/jobs/info/6982c8238232105a2d0b2589?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Feb 03 |
 | **[Autopoiesis Sciences](https://autopoiesis.science/)** | **[Product Manager](https://jobright.ai/jobs/info/69829f0b0a9e07331f8dcabf?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, CA | On Site | Feb 03 |
 | **[Anduril Industries](https://www.anduril.com)** | **[Product Operations Associate, Air Defense](https://jobright.ai/jobs/info/698299750f6f7e7a2cdbec14?utm_campaign=Product%20Management&utm_source=1103)** | Irvine, California, United States | On Site | Feb 03 |
-| **[kate spade new york](https://www.katespade.com/)** | **[Coordinator, Product Development](https://jobright.ai/jobs/info/6966c7eb5ad3a93f823222f3?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Feb 03 |
-| **[Moxie Pest Control](https://www.moxieservices.com)** | **[Product Lines Appointment Setter](https://jobright.ai/jobs/info/698a431d4db8972cecff82b6?utm_campaign=Product%20Management&utm_source=1103)** | Bridgeton, MO, US | On Site | Feb 03 |
-| **[Genuine Comfort](http://www.genuinecomfort.com)** | **[Associate Product Manager, HVAC](https://jobright.ai/jobs/info/69830e6b348f733a5c361df8?utm_campaign=Product%20Management&utm_source=1103)** | Markham, ON, Canada | On Site | Feb 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
