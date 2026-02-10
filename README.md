@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Acuity Insurance](http://www.acuity.com)** | **[Product Analyst - Insights (small business)](https://jobright.ai/jobs/info/698b09474db8972cec0082a0?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Feb 10 |
+| **[Camping World](https://investor.campingworld.com)** | **[Product Specialist Advisor](https://jobright.ai/jobs/info/698b0241c5761b521a9a6848?utm_campaign=Product%20Management&utm_source=1103)** | Santa Clarita, CA | On Site | Feb 10 |
 | **[lululemon](http://shop.lululemon.com)** | **[Assistant Product Developer](https://jobright.ai/jobs/info/698af61cc5761b521a9a51b8?utm_campaign=Product%20Management&utm_source=1103)** | Vancouver, British Columbia, Canada | Hybrid | Feb 10 |
 | **[Aristocrat Interactive](https://aristocratinteractive.com/)** | **[Data Product Manager](https://jobright.ai/jobs/info/698ab7530f6f7e7a2ce5f713?utm_campaign=Product%20Management&utm_source=1103)** | Franklin, TN | Hybrid | Feb 09 |
 | ↳ | **[Data Product Manager](https://jobright.ai/jobs/info/698aa8920f6f7e7a2ce5de35?utm_campaign=Product%20Management&utm_source=1103)** | Austin, TX | Hybrid | Feb 09 |
