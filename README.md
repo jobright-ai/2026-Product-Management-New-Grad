@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[lululemon](http://shop.lululemon.com)** | **[Assistant Product Developer](https://jobright.ai/jobs/info/698af61cc5761b521a9a51b8?utm_campaign=Product%20Management&utm_source=1103)** | Vancouver, British Columbia, Canada | Hybrid | Feb 10 |
 | **[Aristocrat Interactive](https://aristocratinteractive.com/)** | **[Data Product Manager](https://jobright.ai/jobs/info/698ab7530f6f7e7a2ce5f713?utm_campaign=Product%20Management&utm_source=1103)** | Franklin, TN | Hybrid | Feb 09 |
 | ↳ | **[Data Product Manager](https://jobright.ai/jobs/info/698aa8920f6f7e7a2ce5de35?utm_campaign=Product%20Management&utm_source=1103)** | Austin, TX | Hybrid | Feb 09 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Product Management Specialist III](https://jobright.ai/jobs/info/698ac6cc4db8972cec004749?utm_campaign=Product%20Management&utm_source=1103)** | Rochester, NY | On Site | Feb 09 |
@@ -121,7 +122,7 @@ For a complete list, click the following sortable link below:
 | **[Fidelity Investments](https://www.fidelity.com)** | **[Associate, Systematic Trading Product Development](https://jobright.ai/jobs/info/69869fbc0f6f7e7a2ce1aa13?utm_campaign=Product%20Management&utm_source=1103)** | Boston, MA | Hybrid | Feb 06 |
 | **[GigaTech Products](https://www.gigatechproducts.com/)** | **[Product Administrator / Purchasing Support](https://jobright.ai/jobs/info/6986a3638da7a61204618032?utm_campaign=Product%20Management&utm_source=1103)** | Irvine, CA | On Site | Feb 06 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Product Management Specialist III](https://jobright.ai/jobs/info/698696718da7a61204616e4e?utm_campaign=Product%20Management&utm_source=1103)** | Rochester, New York, USA | On Site | Feb 06 |
-| **[UnitedHealth Group](https://www.unitedhealthgroup.com/)** | **[Associate Technical Product Manager](https://jobright.ai/jobs/info/698687840f6f7e7a2ce1887e?utm_campaign=Product%20Management&utm_source=1103)** | Eden Prairie, MN | Hybrid | Feb 06 |
+| **[UnitedHealth Group](https://www.unitedhealthgroup.com/)** | **[Associate Technical Product Manager](https://jobright.ai/jobs/info/698695078da7a61204616c03?utm_campaign=Product%20Management&utm_source=1103)** | Eden Prairie, MN | Hybrid | Feb 06 |
 | **[lululemon](http://shop.lululemon.com)** | **[Product Operations Lead / Gaithersburg](https://jobright.ai/jobs/info/6986945a8da7a61204616ab0?utm_campaign=Product%20Management&utm_source=1103)** | Gaithersburg, MD | On Site | Feb 06 |
 | **[Capital One](http://www.capitalone.com)** | **[Sr. Associate, Product Management, DMDC](https://jobright.ai/jobs/info/698677a10f6f7e7a2ce17273?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Feb 06 |
 | **[Fidelity Bank](http://www.LionBank.com)** | **[Associate, Systematic Trading Product Development](https://jobright.ai/jobs/info/69867d8c8da7a61204614b4c?utm_campaign=Product%20Management&utm_source=1103)** | Boston, MA | Hybrid | Feb 06 |
@@ -231,7 +232,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sr Associate, Product Management - Network Authorization Data Team](https://jobright.ai/jobs/info/69824da30f6f7e7a2cdb7332?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Feb 03 |
 | **[Connection](http://www.pcconnection.com)** | **[Product Data Management Specialist](https://jobright.ai/jobs/info/698265f6348f733a5c35381e?utm_campaign=Product%20Management&utm_source=1103)** | Exton, PA | On Site | Feb 03 |
 | **[Lids](https://www.lids.com)** | **[Product Operations Manager](https://jobright.ai/jobs/info/698246ada314e7636905aad6?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Feb 03 |
-| **[Perry Ellis International](http://www.pery.com)** | **[Product Coordinator](https://jobright.ai/jobs/info/69823b4d0f6f7e7a2cdb64b8?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Feb 03 |
-| **[Capital One](http://www.capitalone.com)** | **[Sr Associate, Product Management - Network Authorization Data Team](https://jobright.ai/jobs/info/69825c8e0a9e07331f8d5d37?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Feb 03 |
-| **[Symetra](http://www.symetra.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/698239210f6f7e7a2cdb6211?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Feb 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
