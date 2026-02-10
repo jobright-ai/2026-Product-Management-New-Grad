@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management- Card Authorizations](https://jobright.ai/jobs/info/698a704bc5761b521a99a741?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Feb 09 |
+| **[Genus PLC](http://www.genusplc.com/)** | **[Manager of New Product Commercialization](https://jobright.ai/jobs/info/698a84e54db8972cecffdd6d?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Feb 09 |
+| **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management - Payments Conversion](https://jobright.ai/jobs/info/698a7ee24db8972cecffd1fe?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Feb 09 |
+| ↳ | **[Senior Associate, Product Management - Payments Conversion](https://jobright.ai/jobs/info/698a7e420f6f7e7a2ce5a54b?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Feb 09 |
+| ↳ | **[Senior Associate, Product Management - Payments Conversion](https://jobright.ai/jobs/info/698a7c96c5761b521a99b73c?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Feb 09 |
+| ↳ | **[Senior Associate, Product Management- Card Authorizations](https://jobright.ai/jobs/info/698a704bc5761b521a99a741?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Feb 09 |
 | **[Amentum](https://www.amentum.com/)** | **[Research and Product Development Analyst](https://jobright.ai/jobs/info/698a60dc4db8972cecff9ffe?utm_campaign=Product%20Management&utm_source=1103)** | Spokane, WA | On Site | Feb 09 |
 | **[Navitus Health Solutions](https://www.navitus.com/)** | **[Assoc. Product Manager, Medicaid and Exchange](https://jobright.ai/jobs/info/698a55ce4db8972cecff953d?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Feb 09 |
 | **[Amentum](https://www.amentum.com/)** | **[Research and Product Development Analyst](https://jobright.ai/jobs/info/698a514f4db8972cecff9048?utm_campaign=Product%20Management&utm_source=1103)** | US-WA-Spokane | On Site | Feb 09 |
@@ -245,7 +249,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Manager - Group Retirement (REMOTE)](https://jobright.ai/jobs/info/697d9722ce48107c0541e5a9?utm_campaign=Product%20Management&utm_source=1103)** | Charlotte, NC | Remote | Feb 03 |
 | **[Morgan, Lewis & Bockius LLP](http://www.morganlewis.com/)** | **[Digital Product Analyst](https://jobright.ai/jobs/info/6965d6875ad3a93f8231480f?utm_campaign=Product%20Management&utm_source=1103)** | Seattle, WA | Hybrid | Feb 03 |
 | **[Thomson Reuters](http://thomsonreuters.com)** | **[Customer Product Trainer](https://jobright.ai/jobs/info/6981d7840f6f7e7a2cdb00ed?utm_campaign=Product%20Management&utm_source=1103)** | Eagan, MN | Remote | Feb 03 |
-| **[PIMCO](http://www.pimco.com)** | **[Product Strategy Associate, Alternatives](https://jobright.ai/jobs/info/6981f2d20f6f7e7a2cdb0c66?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY USA | On Site | Feb 03 |
-| ↳ | **[Product Strategy Associate, Alternatives](https://jobright.ai/jobs/info/6981edc4c3101f1400c3930b?utm_campaign=Product%20Management&utm_source=1103)** | Newport Beach, CA | On Site | Feb 03 |
-| **[AMEX Healthcare](https://www.amex-vienna.at/)** | **[Senior Associate - Digital Product Management](https://jobright.ai/jobs/info/6985a7d08da7a61204605952?utm_campaign=Product%20Management&utm_source=1103)** | Phoenix, AZ | Hybrid | Feb 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
