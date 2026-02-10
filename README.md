@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Crest Vale](crestvale.us)** | **[Business & Product Analyst](https://jobright.ai/jobs/info/698b1e894db8972cec009427?utm_campaign=Product%20Management&utm_source=1103)** | Austin, TX | On Site | Feb 10 |
+| **[Boost Mobile](http://www.boostmobile.com/)** | **[Product Specialist II, Product Commercialization](https://jobright.ai/jobs/info/69776d4c52f3c27ec6437184?utm_campaign=Product%20Management&utm_source=1103)** | Littleton, CO | On Site | Feb 10 |
 | **[Acuity Insurance](http://www.acuity.com)** | **[Product Analyst - Insights (small business)](https://jobright.ai/jobs/info/698b09474db8972cec0082a0?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Feb 10 |
 | **[Camping World](https://investor.campingworld.com)** | **[Product Specialist Advisor](https://jobright.ai/jobs/info/698b0241c5761b521a9a6848?utm_campaign=Product%20Management&utm_source=1103)** | Santa Clarita, CA | On Site | Feb 10 |
 | **[lululemon](http://shop.lululemon.com)** | **[Assistant Product Developer](https://jobright.ai/jobs/info/698af61cc5761b521a9a51b8?utm_campaign=Product%20Management&utm_source=1103)** | Vancouver, British Columbia, Canada | Hybrid | Feb 10 |
@@ -127,8 +129,8 @@ For a complete list, click the following sortable link below:
 | **[UnitedHealth Group](https://www.unitedhealthgroup.com/)** | **[Associate Technical Product Manager](https://jobright.ai/jobs/info/698695078da7a61204616c03?utm_campaign=Product%20Management&utm_source=1103)** | Eden Prairie, MN | Hybrid | Feb 06 |
 | **[lululemon](http://shop.lululemon.com)** | **[Product Operations Lead / Gaithersburg](https://jobright.ai/jobs/info/6986945a8da7a61204616ab0?utm_campaign=Product%20Management&utm_source=1103)** | Gaithersburg, MD | On Site | Feb 06 |
 | **[Capital One](http://www.capitalone.com)** | **[Sr. Associate, Product Management, DMDC](https://jobright.ai/jobs/info/698677a10f6f7e7a2ce17273?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Feb 06 |
-| **[Fidelity Bank](http://www.LionBank.com)** | **[Associate, Systematic Trading Product Development](https://jobright.ai/jobs/info/69867d8c8da7a61204614b4c?utm_campaign=Product%20Management&utm_source=1103)** | Boston, MA | Hybrid | Feb 06 |
-| ↳ | **[Associate, Systematic Trading Product Development](https://jobright.ai/jobs/info/698688500f6f7e7a2ce189b2?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Feb 06 |
+| **[Fidelity Bank](http://www.LionBank.com)** | **[Associate, Systematic Trading Product Development](https://jobright.ai/jobs/info/698688500f6f7e7a2ce189b2?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Feb 06 |
+| ↳ | **[Associate, Systematic Trading Product Development](https://jobright.ai/jobs/info/69867d8c8da7a61204614b4c?utm_campaign=Product%20Management&utm_source=1103)** | Boston, MA | Hybrid | Feb 06 |
 | **[Event Network, LLC](https://www.eventnetwork.com)** | **[Product Coordinator - SSC](https://jobright.ai/jobs/info/698673538da7a61204613e64?utm_campaign=Product%20Management&utm_source=1103)** | 9645 Granite Ridge Dr, San Diego, CA 92123, USA | On Site | Feb 06 |
 | **[Windfall](http://www.windfall.com)** | **[Product Operations Analyst](https://jobright.ai/jobs/info/69863ec68ca8121a3a686e51?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, CA | On Site | Feb 06 |
 | **[Zurn Elkay Water Solutions](https://zurnelkay.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/696a6fea350cf4380311699b?utm_campaign=Product%20Management&utm_source=1103)** | Downers Grove, IL | On Site | Feb 06 |
@@ -157,7 +159,6 @@ For a complete list, click the following sortable link below:
 | **[Centric Brands](https://centricbrands.com)** | **[Associate, Product Development](https://jobright.ai/jobs/info/69857a178da7a6120460181d?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Feb 05 |
 | **[Supermicro](http://www.supermicro.com)** | **[Associate Product Manager - Key Components](https://jobright.ai/jobs/info/6969d3411703f05405abe195?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA | On Site | Feb 05 |
 | **[PepsiCo](http://www.pepsico.com)** | **[Product Dev Associate Scientist](https://jobright.ai/jobs/info/696991bf1703f05405ab92fc?utm_campaign=Product%20Management&utm_source=1103)** | Valhalla, NY | On Site | Feb 05 |
-| **[Acuity Insurance](http://www.acuity.com)** | **[Product Analyst - Insights (small business)](https://jobright.ai/jobs/info/69311f1b4c474121999ec289?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Feb 05 |
 | **[Chicago Bears](http://www.chicagobears.com)** | **[DIGITAL PRODUCT ASSOCIATE](https://jobright.ai/jobs/info/6986b9a58da7a6120461a535?utm_campaign=Product%20Management&utm_source=1103)** | Lake Forest, IL | Hybrid | Feb 05 |
 | **[eDynamic Learning](http://edynamiclearning.com)** | **[Product Manager (EdTech)](https://jobright.ai/jobs/info/698541968da7a612045fb405?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Feb 05 |
 | **[lululemon](http://shop.lululemon.com)** | **[Product Operations Lead / Empire Mall](https://jobright.ai/jobs/info/698563e40f6f7e7a2ce020b4?utm_campaign=Product%20Management&utm_source=1103)** | Sioux Falls, SD | On Site | Feb 05 |
@@ -227,6 +228,4 @@ For a complete list, click the following sortable link below:
 | **[Genuine Comfort](http://www.genuinecomfort.com)** | **[Associate Product Manager, HVAC](https://jobright.ai/jobs/info/69830e6b348f733a5c361df8?utm_campaign=Product%20Management&utm_source=1103)** | Markham, ON, Canada | On Site | Feb 03 |
 | **[lululemon](http://shop.lululemon.com)** | **[Product Operations Lead / Crocker Park](https://jobright.ai/jobs/info/698292620f6f7e7a2cdbd275?utm_campaign=Product%20Management&utm_source=1103)** | Westlake, OH | On Site | Feb 03 |
 | **[Fiserv](http://www.fiserv.com)** | **[Corporate Analyst Program - Product Management (New York 1 Broadway, NY)](https://jobright.ai/jobs/info/6982713f348f733a5c354c8b?utm_campaign=Product%20Management&utm_source=1103)** | New York, New York | On Site | Feb 03 |
-| **[Nestlé Purina North America](https://www.nestlejobs.com/nestle-purina)** | **[Specialist Product Development](https://jobright.ai/jobs/info/698287450a9e07331f8da1e5?utm_campaign=Product%20Management&utm_source=1103)** | St Louis, MO | On Site | Feb 03 |
-| **[IsaacMorris](http://isaacmorris.com)** | **[Sample Coordinator - Licensing and Product Development Division](https://jobright.ai/jobs/info/698263bc0a9e07331f8d659c?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Feb 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
