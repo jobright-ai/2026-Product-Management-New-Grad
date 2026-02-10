@@ -57,14 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Genuine Comfort](http://www.genuinecomfort.com)** | **[Associate Product Manager, HVAC](https://jobright.ai/jobs/info/698bad92c5761b521a9b403b?utm_campaign=Product%20Management&utm_source=1103)** | Markham, Ontario, Canada | On Site | Feb 10 |
 | **[Creation Technologies](http://creationtech.com)** | **[Product Data Management Coordinator](https://jobright.ai/jobs/info/698b8afc06d9b0622495aec2?utm_campaign=Product%20Management&utm_source=1103)** | St Peter, MN | Hybrid | Feb 10 |
 | **[Ferguson](http://www.ferguson.com/)** | **[Product Data Specialist, E-commerce](https://jobright.ai/jobs/info/698b893706d9b0622495acdf?utm_campaign=Product%20Management&utm_source=1103)** | Newport News, VA | Hybrid | Feb 10 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management - Payments Conversion](https://jobright.ai/jobs/info/698b85fac5761b521a9b1383?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Feb 10 |
+| **[Camping World](https://investor.campingworld.com)** | **[Product Specialist Advisor-2](https://jobright.ai/jobs/info/698ba95306d9b0622495d242?utm_campaign=Product%20Management&utm_source=1103)** | Oklahoma City, OK | On Site | Feb 10 |
 | **[Creation Technologies](http://creationtech.com)** | **[Product Data Management Coordinator](https://jobright.ai/jobs/info/698b858e06d9b0622495a831?utm_campaign=Product%20Management&utm_source=1103)** | Everett, WA | Hybrid | Feb 10 |
 | **[Smart & Final](https://www.smartandfinal.com)** | **[Strategic Sourcing Coordinator](https://jobright.ai/jobs/info/698b827306d9b0622495a2a0?utm_campaign=Product%20Management&utm_source=1103)** | Commerce, CA | On Site | Feb 10 |
 | **[Capital One](http://www.capitalone.com)** | **[Sr. Associate - Product Management](https://jobright.ai/jobs/info/698b7e550f6f7e7a2ce6eef1?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Feb 10 |
 | ↳ | **[Senior Associate, Product Management - Payments Conversion](https://jobright.ai/jobs/info/698b7c460f6f7e7a2ce6eb6f?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Feb 10 |
 | **[Creation Technologies](http://creationtech.com)** | **[Product Data Management Coordinator](https://jobright.ai/jobs/info/698b99570f6f7e7a2ce7109f?utm_campaign=Product%20Management&utm_source=1103)** | Albuquerque, NM | Hybrid | Feb 10 |
+| ↳ | **[Product Data Management Coordinator](https://jobright.ai/jobs/info/698bacb10f6f7e7a2ce727ff?utm_campaign=Product%20Management&utm_source=1103)** | Boise, ID | Hybrid | Feb 10 |
+| ↳ | **[Product Data Management Coordinator](https://jobright.ai/jobs/info/698ba2310f6f7e7a2ce71ba3?utm_campaign=Product%20Management&utm_source=1103)** | Newark, NY | Hybrid | Feb 10 |
 | **[Capital One](http://www.capitalone.com)** | **[Sr. Associate - Product Management](https://jobright.ai/jobs/info/698b76e9c5761b521a9af7cc?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | Hybrid | Feb 10 |
 | **[Ferguson](http://www.ferguson.com/)** | **[Product Data Specialist, E-commerce](https://jobright.ai/jobs/info/698b9811c5761b521a9b27ef?utm_campaign=Product%20Management&utm_source=1103)** | Atlanta, GA | Hybrid | Feb 10 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management - Payments Conversion](https://jobright.ai/jobs/info/698b8c4c0f6f7e7a2ce70250?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | Hybrid | Feb 10 |
