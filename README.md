@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GamblingCareers.com](https://www.gamblingcareers.com/)** | **[Data Product Manager](https://jobright.ai/jobs/info/698bdcb906d9b06224960383?utm_campaign=Product%20Management&utm_source=1103)** | Tennessee, United States | Hybrid | Feb 10 |
 | **[Goldman Sachs](https://www.goldmansachs.com)** | **[Asset & Wealth Management, Private Wealth Management, Product Management, Analyst - New York](https://jobright.ai/jobs/info/698bb4ecc5761b521a9b45c7?utm_campaign=Product%20Management&utm_source=1103)** | New York, New York, United States | On Site | Feb 10 |
+| **[Genuine Comfort](http://www.genuinecomfort.com)** | **[Associate Product Manager, HVAC](https://jobright.ai/jobs/info/698bd6e1c5761b521a9b6692?utm_campaign=Product%20Management&utm_source=1103)** | Markham, Ontario, Canada | On Site | Feb 10 |
 | **[Creation Technologies](http://creationtech.com)** | **[Product Data Management Coordinator](https://jobright.ai/jobs/info/698b8afc06d9b0622495aec2?utm_campaign=Product%20Management&utm_source=1103)** | St Peter, MN | Hybrid | Feb 10 |
 | **[Ferguson](http://www.ferguson.com/)** | **[Product Data Specialist, E-commerce](https://jobright.ai/jobs/info/698b893706d9b0622495acdf?utm_campaign=Product%20Management&utm_source=1103)** | Newport News, VA | Hybrid | Feb 10 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management - Payments Conversion](https://jobright.ai/jobs/info/698b85fac5761b521a9b1383?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Feb 10 |
