@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Chamberlain Group](http://www.chamberlaingroup.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/697a3443b4589b4ee87c7290?utm_campaign=Product%20Management&utm_source=1103)** | Oak Brook, IL | On Site | Feb 11 |
 | **[Axial](http://www.axial.net)** | **[Product Manager](https://jobright.ai/jobs/info/698cf7950f6f7e7a2ce8a465?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Feb 11 |
 | **[Apple](https://www.apple.com)** | **[Product Design Engineering Program Manager](https://jobright.ai/jobs/info/698d111c0f6f7e7a2ce8c416?utm_campaign=Product%20Management&utm_source=1103)** | Cupertino, CA | On Site | Feb 11 |
 | **[Parts Town](https://www.partstown.com)** | **[Product Data Analyst](https://jobright.ai/jobs/info/698d05dc0f6f7e7a2ce8b47f?utm_campaign=Product%20Management&utm_source=1103)** | Plattsburgh, NY | Hybrid | Feb 11 |
+| ↳ | **[Product Data Analyst](https://jobright.ai/jobs/info/698d195078b4502f12a39d26?utm_campaign=Product%20Management&utm_source=1103)** | DuPage County, IL | Hybrid | Feb 11 |
 | **[Axial](http://www.axial.net)** | **[Product Manager](https://jobright.ai/jobs/info/698cfea00f6f7e7a2ce8aa94?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Feb 11 |
 | **[OMRON Group](http://www.omron.com)** | **[Data Product Analyst - 75% Remote](https://jobright.ai/jobs/info/698d0f200f6f7e7a2ce8c15d?utm_campaign=Product%20Management&utm_source=1103)** | Hoffman Estates, IL | Hybrid | Feb 11 |
 | **[Camping World](https://investor.campingworld.com)** | **[Product Specialist Advisor](https://jobright.ai/jobs/info/698d0cd00f6f7e7a2ce8bf2c?utm_campaign=Product%20Management&utm_source=1103)** | Sherwood, AR | On Site | Feb 11 |
@@ -81,8 +83,8 @@ For a complete list, click the following sortable link below:
 | **[Jostens](http://jostens.com)** | **[Assistant Product Manager](https://jobright.ai/jobs/info/698d0617f64d441a164ee2e8?utm_campaign=Product%20Management&utm_source=1103)** | Minneapolis, MN | Hybrid | Feb 10 |
 | **[ForgeOS](http://www.forgeos.co)** | **[Product Specialist](https://jobright.ai/jobs/info/698bf6b40f6f7e7a2ce77947?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Feb 10 |
 | **[lululemon](http://shop.lululemon.com)** | **[Product Operations Lead / Settlers Green Outlet Pop-Up (12 Month Contract)](https://jobright.ai/jobs/info/698bdf4706d9b062249608bc?utm_campaign=Product%20Management&utm_source=1103)** | North Conway, NH | On Site | Feb 10 |
-| **[StubHub](http://www.stubhub.com)** | **[Associate Product Manager - Consumer Experience](https://jobright.ai/jobs/info/698be1830f6f7e7a2ce75d90?utm_campaign=Product%20Management&utm_source=1103)** | New York, New York, United States | Hybrid | Feb 10 |
-| ↳ | **[Associate Product Manager - Consumer Experience](https://jobright.ai/jobs/info/698bf3d50f6f7e7a2ce77645?utm_campaign=Product%20Management&utm_source=1103)** | Los Angeles, California, United States | Hybrid | Feb 10 |
+| **[StubHub](http://www.stubhub.com)** | **[Associate Product Manager - Consumer Experience](https://jobright.ai/jobs/info/698bf3d50f6f7e7a2ce77645?utm_campaign=Product%20Management&utm_source=1103)** | Los Angeles, California, United States | Hybrid | Feb 10 |
+| ↳ | **[Associate Product Manager - Consumer Experience](https://jobright.ai/jobs/info/698be1830f6f7e7a2ce75d90?utm_campaign=Product%20Management&utm_source=1103)** | New York, New York, United States | Hybrid | Feb 10 |
 | **[Goldman Sachs](https://www.goldmansachs.com)** | **[Asset & Wealth Management, Private Wealth Management, Product Management, Analyst - New York](https://jobright.ai/jobs/info/698be57fc5761b521a9b7eb8?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Feb 10 |
 | ↳ | **[Asset & Wealth Management, Private Wealth Management, Product Management, Analyst - New York](https://jobright.ai/jobs/info/698bb4ecc5761b521a9b45c7?utm_campaign=Product%20Management&utm_source=1103)** | New York, New York, United States | On Site | Feb 10 |
 | **[Creation Technologies](http://creationtech.com)** | **[Product Data Management Coordinator](https://jobright.ai/jobs/info/698b8afc06d9b0622495aec2?utm_campaign=Product%20Management&utm_source=1103)** | St Peter, MN | Hybrid | Feb 10 |
@@ -142,7 +144,6 @@ For a complete list, click the following sortable link below:
 | **[lululemon](http://shop.lululemon.com)** | **[Product Operations Lead / Mashpee Commons (Contract to Aug 2026)](https://jobright.ai/jobs/info/698924548ca8121a3a6b6d97?utm_campaign=Product%20Management&utm_source=1103)** | Mashpee, MA | On Site | Feb 08 |
 | **[IXL Learning](https://www.ixl.com/)** | **[IXL Associate Product Manager](https://jobright.ai/jobs/info/68fc210c93c49825ab109fd2?utm_campaign=Product%20Management&utm_source=1103)** | San Mateo, CA | Hybrid | Feb 08 |
 | **[Paxos](https://www.paxos.com)** | **[Product Operations Associate](https://jobright.ai/jobs/info/696b5be55fc86241853ac6f5?utm_campaign=Product%20Management&utm_source=1103)** | New York, United States | On Site | Feb 08 |
-| **[BNY](https://www.bny.com)** | **[Associate, Product Management II](https://jobright.ai/jobs/info/6989838f0f6f7e7a2ce49344?utm_campaign=Product%20Management&utm_source=1103)** | Pittsburgh, PA | On Site | Feb 07 |
 | **[Blue Line Solutions](https://bluelinesolutions.org)** | **[Product Owner – Hardware](https://jobright.ai/jobs/info/69896dc547434001cc67a4b5?utm_campaign=Product%20Management&utm_source=1103)** | Chattanooga, TN | On Site | Feb 07 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Product Management Specialist III](https://jobright.ai/jobs/info/698804878ca8121a3a6a7e07?utm_campaign=Product%20Management&utm_source=1103)** | Rochester, NY | On Site | Feb 07 |
 | ↳ | **[Product Management Specialist III](https://jobright.ai/jobs/info/698804838ca8121a3a6a7e03?utm_campaign=Product%20Management&utm_source=1103)** | Waltham, MA | On Site | Feb 07 |
