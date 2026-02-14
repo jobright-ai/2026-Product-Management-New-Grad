@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Scotiabank](https://www.scotiabank.com)** | **[Analyst, Derivative Product Group](https://jobright.ai/jobs/info/694a13fac6f0e2546cef14d5?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Feb 14 |
 | **[Capital One](http://www.capitalone.com)** | **[Sr. Associate, Product Manager - Settlement Core Products](https://jobright.ai/jobs/info/69741612bc8e722e7b18f583?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Feb 13 |
 | **[Shoe Palace](https://www.shoepalace.com/)** | **[Product Development Assistant - Corp / Morgan Hill, CA](https://jobright.ai/jobs/info/699007f10f6f7e7a2cec5a3f?utm_campaign=Product%20Management&utm_source=1103)** | Morgan Hill, CA | On Site | Feb 13 |
 | **[Blain's Farm & Fleet (Blain Supply, Inc.)](https://www.farmandfleet.com/)** | **[Product Information Administrator](https://jobright.ai/jobs/info/698ff8c70f6f7e7a2cec3e74?utm_campaign=Product%20Management&utm_source=1103)** | Janesville, WI | On Site | Feb 13 |
@@ -151,8 +152,8 @@ For a complete list, click the following sortable link below:
 | **[Exact Sciences](https://www.exactsciences.com)** | **[Associate Product Owner](https://jobright.ai/jobs/info/698d3fac78b4502f12a3d8f3?utm_campaign=Product%20Management&utm_source=1103)** | US - CA - San Diego | On Site | Feb 11 |
 | **[AMD](http://www.amd.com)** | **[Product Management Coordinator](https://jobright.ai/jobs/info/698d77db78b4502f12a41c3e?utm_campaign=Product%20Management&utm_source=1103)** | MARKHAM, ON, CA | On Site | Feb 11 |
 | **[Chamberlain Group](http://www.chamberlaingroup.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/697a3443b4589b4ee87c7290?utm_campaign=Product%20Management&utm_source=1103)** | Oak Brook, IL | On Site | Feb 11 |
-| **[Snowflake](https://www.snowflake.com)** | **[Product Manager – Replication & Disaster Recovery](https://jobright.ai/jobs/info/698d34b7f64d441a164f30e8?utm_campaign=Product%20Management&utm_source=1103)** | Bellevue, WA | On Site | Feb 11 |
-| ↳ | **[Product Manager – Metadata Platform](https://jobright.ai/jobs/info/698d2c8af64d441a164f22ac?utm_campaign=Product%20Management&utm_source=1103)** | Bellevue, WA | On Site | Feb 11 |
+| **[Snowflake](https://www.snowflake.com)** | **[Product Manager – Metadata Platform](https://jobright.ai/jobs/info/698d2c8af64d441a164f22ac?utm_campaign=Product%20Management&utm_source=1103)** | Bellevue, WA | On Site | Feb 11 |
+| ↳ | **[Product Manager – Replication & Disaster Recovery](https://jobright.ai/jobs/info/698d34b7f64d441a164f30e8?utm_campaign=Product%20Management&utm_source=1103)** | Bellevue, WA | On Site | Feb 11 |
 | **[Axial](http://www.axial.net)** | **[Product Manager](https://jobright.ai/jobs/info/698cf7950f6f7e7a2ce8a465?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Feb 11 |
 | **[Snowflake](https://www.snowflake.com)** | **[Product Manager â€“ Replication & Disaster Recovery](https://jobright.ai/jobs/info/698d1ed70f6f7e7a2ce8db83?utm_campaign=Product%20Management&utm_source=1103)** | Bellevue, WA | On Site | Feb 11 |
 | **[Apple](https://www.apple.com)** | **[Product Design Engineering Program Manager](https://jobright.ai/jobs/info/698d111c0f6f7e7a2ce8c416?utm_campaign=Product%20Management&utm_source=1103)** | Cupertino, CA | On Site | Feb 11 |
@@ -173,6 +174,7 @@ For a complete list, click the following sortable link below:
 | **[Cirrus](http://cirrusaircraft.com)** | **[Product Management Specialist - Cirrus Next](https://jobright.ai/jobs/info/698cbc7d0f6f7e7a2ce870dd?utm_campaign=Product%20Management&utm_source=1103)** | Alcoa, TN | On Site | Feb 11 |
 | **[The Indoor Golf Shop](https://shopindoorgolf.com)** | **[Product Specialist for Golf Simulators](https://jobright.ai/jobs/info/698c6e200f6f7e7a2ce82a54?utm_campaign=Product%20Management&utm_source=1103)** | Celina, TX | On Site | Feb 11 |
 | **[S-Hand Group](https://www.linkedin.com/company/3626718)** | **[Product Technician I - Flowers](https://jobright.ai/jobs/info/698f1d726ea51a7610f14c93?utm_campaign=Product%20Management&utm_source=1103)** | Albion, ME | On Site | Feb 11 |
+| **[GamblingCareers.com](https://www.gamblingcareers.com/)** | **[Data Product Manager](https://jobright.ai/jobs/info/699036290f6f7e7a2ceca531?utm_campaign=Product%20Management&utm_source=1103)** | Austin, TX | Hybrid | Feb 10 |
 | **[Salem Church Products](http://www.salemchurchproducts.com)** | **[eCommerce Product Coordinator](https://jobright.ai/jobs/info/698c407e0f6f7e7a2ce7f9cd?utm_campaign=Product%20Management&utm_source=1103)** | US- | On Site | Feb 10 |
 | **[GamblingCareers.com](https://www.gamblingcareers.com/)** | **[Data Product Manager](https://jobright.ai/jobs/info/6990221e6ea51a7610f28a8d?utm_campaign=Product%20Management&utm_source=1103)** | Tennessee, United States | Hybrid | Feb 10 |
 | **[Salem Media Group](http://salemmedia.com/)** | **[eCommerce Product Coordinator](https://jobright.ai/jobs/info/698c21660f6f7e7a2ce7b628?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Feb 10 |
@@ -193,8 +195,8 @@ For a complete list, click the following sortable link below:
 | **[Smart & Final](https://www.smartandfinal.com)** | **[Strategic Sourcing Coordinator](https://jobright.ai/jobs/info/698b827306d9b0622495a2a0?utm_campaign=Product%20Management&utm_source=1103)** | Commerce, CA | On Site | Feb 10 |
 | **[Capital One](http://www.capitalone.com)** | **[Sr. Associate - Product Management](https://jobright.ai/jobs/info/698b7e550f6f7e7a2ce6eef1?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Feb 10 |
 | ↳ | **[Senior Associate, Product Management - Payments Conversion](https://jobright.ai/jobs/info/698b7c460f6f7e7a2ce6eb6f?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Feb 10 |
-| **[Creation Technologies](http://creationtech.com)** | **[Product Data Management Coordinator](https://jobright.ai/jobs/info/698bacb10f6f7e7a2ce727ff?utm_campaign=Product%20Management&utm_source=1103)** | Boise, ID | Hybrid | Feb 10 |
-| ↳ | **[Product Data Management Coordinator](https://jobright.ai/jobs/info/698b99570f6f7e7a2ce7109f?utm_campaign=Product%20Management&utm_source=1103)** | Albuquerque, NM | Hybrid | Feb 10 |
+| **[Creation Technologies](http://creationtech.com)** | **[Product Data Management Coordinator](https://jobright.ai/jobs/info/698b99570f6f7e7a2ce7109f?utm_campaign=Product%20Management&utm_source=1103)** | Albuquerque, NM | Hybrid | Feb 10 |
+| ↳ | **[Product Data Management Coordinator](https://jobright.ai/jobs/info/698bacb10f6f7e7a2ce727ff?utm_campaign=Product%20Management&utm_source=1103)** | Boise, ID | Hybrid | Feb 10 |
 | ↳ | **[Product Data Management Coordinator](https://jobright.ai/jobs/info/698bb9fc06d9b0622495e1f2?utm_campaign=Product%20Management&utm_source=1103)** | Milwaukee, WI | Hybrid | Feb 10 |
 | ↳ | **[Product Data Management Coordinator](https://jobright.ai/jobs/info/698ba2310f6f7e7a2ce71ba3?utm_campaign=Product%20Management&utm_source=1103)** | Newark, NY | Hybrid | Feb 10 |
 | **[Vivid Impact](http://vividimpact.com)** | **[Fulfillment Team Member](https://jobright.ai/jobs/info/698c2eb40f6f7e7a2ce7e1f0?utm_campaign=Product%20Management&utm_source=1103)** | Mesa,AZ,US | On Site | Feb 10 |
@@ -243,8 +245,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Management Specialist III](https://jobright.ai/jobs/info/698804838ca8121a3a6a7e03?utm_campaign=Product%20Management&utm_source=1103)** | Waltham, MA | On Site | Feb 07 |
 | ↳ | **[Product Management Specialist III](https://jobright.ai/jobs/info/6987cf2c8da7a6120462d70e?utm_campaign=Product%20Management&utm_source=1103)** | Waltham, MA | On Site | Feb 07 |
 | **[lululemon](http://shop.lululemon.com)** | **[Product Operations Lead / Fig Garden Village](https://jobright.ai/jobs/info/6987a2620f6f7e7a2ce2dd78?utm_campaign=Product%20Management&utm_source=1103)** | Fresno, CA | On Site | Feb 07 |
-| **[Capital One](http://www.capitalone.com)** | **[Sr. Associate, Product Management, DMDC](https://jobright.ai/jobs/info/698780228da7a612046299bc?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Feb 07 |
-| ↳ | **[Sr. Associate, Product Management, DMDC](https://jobright.ai/jobs/info/69877fd58da7a612046299a5?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Feb 07 |
-| **[PURE Insurance](https://www.pureinsurance.com/index)** | **[Product Development Specialist (P&C)](https://jobright.ai/jobs/info/69167e566f36db06ef0571b2?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | Hybrid | Feb 07 |
-| **[Capital One](http://www.capitalone.com)** | **[Sr. Associate, Product Management, DMDC](https://jobright.ai/jobs/info/69877d780f6f7e7a2ce2c42a?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Feb 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
