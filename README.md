@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[lululemon](http://shop.lululemon.com)** | **[Product Operations Lead / BOISE TOWNE SQUARE](https://jobright.ai/jobs/info/699b68ebce78e77b4fdff830?utm_campaign=Product%20Management&utm_source=1103)** | Boise, ID | On Site | Feb 22 |
 | **[WFH Seekers](https://wfhseekers.com)** | **[Work from Home - Product Specialist - $45 Per Hour USA Only](https://jobright.ai/jobs/info/699b28d8ce78e77b4fdfd2fe?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Feb 22 |
 | **[Camping World](https://investor.campingworld.com)** | **[Product Specialist Advisor](https://jobright.ai/jobs/info/691e935f3f782d2f1afb5ef1?utm_campaign=Product%20Management&utm_source=1103)** | Apollo, PA | On Site | Feb 22 |
 | **[Nordson Corporation](http://www.nordson.com)** | **[Product Line Manager I](https://jobright.ai/jobs/info/690bfa33221b890c277fa3a0?utm_campaign=Product%20Management&utm_source=1103)** | Loveland, CO | On Site | Feb 22 |
@@ -108,8 +109,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Manager, Specialist, School Experience](https://jobright.ai/jobs/info/6999318181476f6176b1bbfe?utm_campaign=Product%20Management&utm_source=1103)** | Montpelier, VT | On Site | Feb 20 |
 | ↳ | **[Product Manager, Specialist, School Experience](https://jobright.ai/jobs/info/69992aa3e0bddb6acac83599?utm_campaign=Product%20Management&utm_source=1103)** | Columbus, OH | On Site | Feb 20 |
 | ↳ | **[Product Manager, Specialist, School Experience](https://jobright.ai/jobs/info/6999374381476f6176b1c419?utm_campaign=Product%20Management&utm_source=1103)** | Honolulu, HI | On Site | Feb 20 |
-| ↳ | **[Product Manager, Specialist, School Experience](https://jobright.ai/jobs/info/699931a181476f6176b1bc1e?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Feb 20 |
 | ↳ | **[Product Manager, Specialist, School Experience](https://jobright.ai/jobs/info/69992c69ce78e77b4fdde1a3?utm_campaign=Product%20Management&utm_source=1103)** | Boise, ID | On Site | Feb 20 |
+| ↳ | **[Product Manager, Specialist, School Experience](https://jobright.ai/jobs/info/699931a181476f6176b1bc1e?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Feb 20 |
 | ↳ | **[Product Manager, Specialist, School Experience](https://jobright.ai/jobs/info/69992b1b81476f6176b1b3ad?utm_campaign=Product%20Management&utm_source=1103)** | Concord, NH | On Site | Feb 20 |
 | ↳ | **[Product Manager, Specialist, School Experience](https://jobright.ai/jobs/info/69993742ce78e77b4fddf248?utm_campaign=Product%20Management&utm_source=1103)** | Raleigh, NC | On Site | Feb 20 |
 | ↳ | **[Product Manager, Specialist, School Experience](https://jobright.ai/jobs/info/699928b2ce78e77b4fdddb35?utm_campaign=Product%20Management&utm_source=1103)** | Topeka, KS | On Site | Feb 20 |
@@ -200,17 +201,17 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Smart Home Product Trainer](https://jobright.ai/jobs/info/69966afcce78e77b4fda7584?utm_campaign=Product%20Management&utm_source=1103)** | US-TN-Nashville | On Site | Feb 18 |
 | **[Sun Life](https://www.sunlife.com.vn/vn/)** | **[Associate Product Manager, Life Insurance](https://jobright.ai/jobs/info/6996658fce78e77b4fda70c8?utm_campaign=Product%20Management&utm_source=1103)** | Waterloo, Ontario, Canada | Hybrid | Feb 18 |
 | **[BDS Connected Solutions, LLC.](https://www.bdssolutions.com)** | **[Smart Home Product Trainer](https://jobright.ai/jobs/info/699694b581476f6176ae78e9?utm_campaign=Product%20Management&utm_source=1103)** | US-ID-Lewiston | On Site | Feb 18 |
-| ↳ | **[Smart Home Product Trainer](https://jobright.ai/jobs/info/6996935b81476f6176ae7603?utm_campaign=Product%20Management&utm_source=1103)** | US-CA-Auburn | On Site | Feb 18 |
-| ↳ | **[Smart Home Product Trainer](https://jobright.ai/jobs/info/69969a9781476f6176ae81f6?utm_campaign=Product%20Management&utm_source=1103)** | US-LA-New Orleans | On Site | Feb 18 |
+| ↳ | **[Smart Home Product Trainer](https://jobright.ai/jobs/info/699698a5ce78e77b4fdaba6f?utm_campaign=Product%20Management&utm_source=1103)** | US-CA-Santa Rosa | On Site | Feb 18 |
 | ↳ | **[Smart Home Product Trainer](https://jobright.ai/jobs/info/69969815ce78e77b4fdab997?utm_campaign=Product%20Management&utm_source=1103)** | Elko, NV, US | On Site | Feb 18 |
 | ↳ | **[Smart Home Product Trainer](https://jobright.ai/jobs/info/69969aabce78e77b4fdabd35?utm_campaign=Product%20Management&utm_source=1103)** | US-MT-Billings | On Site | Feb 18 |
-| ↳ | **[Smart Home Product Trainer](https://jobright.ai/jobs/info/69968379ce78e77b4fda95b6?utm_campaign=Product%20Management&utm_source=1103)** | New Orleans, LA, US | On Site | Feb 18 |
-| ↳ | **[Smart Home Product Trainer](https://jobright.ai/jobs/info/699698a5ce78e77b4fdaba6f?utm_campaign=Product%20Management&utm_source=1103)** | US-CA-Santa Rosa | On Site | Feb 18 |
+| ↳ | **[Smart Home Product Trainer](https://jobright.ai/jobs/info/6996935b81476f6176ae7603?utm_campaign=Product%20Management&utm_source=1103)** | US-CA-Auburn | On Site | Feb 18 |
 | ↳ | **[Smart Home Product Trainer](https://jobright.ai/jobs/info/699693b0ce78e77b4fdab0fe?utm_campaign=Product%20Management&utm_source=1103)** | Auburn, CA, US | On Site | Feb 18 |
+| ↳ | **[Smart Home Product Trainer](https://jobright.ai/jobs/info/69968379ce78e77b4fda95b6?utm_campaign=Product%20Management&utm_source=1103)** | New Orleans, LA, US | On Site | Feb 18 |
+| ↳ | **[Smart Home Product Trainer](https://jobright.ai/jobs/info/69969a9781476f6176ae81f6?utm_campaign=Product%20Management&utm_source=1103)** | US-LA-New Orleans | On Site | Feb 18 |
 | ↳ | **[Smart Home Product Trainer](https://jobright.ai/jobs/info/6996998381476f6176ae8082?utm_campaign=Product%20Management&utm_source=1103)** | Spokane, WA, US | On Site | Feb 18 |
-| ↳ | **[Smart Home Product Trainer](https://jobright.ai/jobs/info/6996835dce78e77b4fda958f?utm_campaign=Product%20Management&utm_source=1103)** | US-TX-Austin | On Site | Feb 18 |
 | ↳ | **[Smart Home Product Trainer](https://jobright.ai/jobs/info/69967a1fce78e77b4fda8a23?utm_campaign=Product%20Management&utm_source=1103)** | US-UT-Washington | On Site | Feb 18 |
 | ↳ | **[Smart Home Product Trainer](https://jobright.ai/jobs/info/699682f681476f6176ae5bc4?utm_campaign=Product%20Management&utm_source=1103)** | Madison, WI, US | On Site | Feb 18 |
+| ↳ | **[Smart Home Product Trainer](https://jobright.ai/jobs/info/6996835dce78e77b4fda958f?utm_campaign=Product%20Management&utm_source=1103)** | US-TX-Austin | On Site | Feb 18 |
 | ↳ | **[Smart Home Product Trainer](https://jobright.ai/jobs/info/69968a2d81476f6176ae6714?utm_campaign=Product%20Management&utm_source=1103)** | Rock Springs, WY, US | On Site | Feb 18 |
 | **[Sun Life](https://www.sunlife.com.vn/vn/)** | **[Associate Product Manager, Life Insurance](https://jobright.ai/jobs/info/699679eace78e77b4fda89bb?utm_campaign=Product%20Management&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Feb 18 |
 | **[OE Federal Credit Union](https://www.oefederal.org)** | **[Product Management Junior Lead](https://jobright.ai/jobs/info/699697ab81476f6176ae7dd8?utm_campaign=Product%20Management&utm_source=1103)** | Livermore, CA | On Site | Feb 18 |
@@ -220,8 +221,8 @@ For a complete list, click the following sortable link below:
 | **[Chase](https://www.chase.com/)** | **[Product Analyst - Loan Servicing](https://jobright.ai/jobs/info/69965c21ce78e77b4fda64d7?utm_campaign=Product%20Management&utm_source=1103)** | 8181 Communications Pkwy Bldg B, Plano, TX, 75024, US | On Site | Feb 18 |
 | **[Sun Life](https://www.sunlife.com.vn/vn/)** | **[Associate Product Manager, Life Insurance](https://jobright.ai/jobs/info/69963ec4ce78e77b4fda36dc?utm_campaign=Product%20Management&utm_source=1103)** | Toronto, Ontario | Hybrid | Feb 18 |
 | **[dbt Labs](https://www.getdbt.com)** | **[Product Manager - Fusion](https://jobright.ai/jobs/info/69964d3d81476f6176ae11c4?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Feb 18 |
-| **[SharkNinja](http://www.sharkninja.com)** | **[Associate Product Developer](https://jobright.ai/jobs/info/69963955ce78e77b4fda2f08?utm_campaign=Product%20Management&utm_source=1103)** | Needham, MA, United States | On Site | Feb 18 |
-| ↳ | **[Associate Product Developer - Shark Floorcare](https://jobright.ai/jobs/info/699643a0ce78e77b4fda3e01?utm_campaign=Product%20Management&utm_source=1103)** | Needham, MA, United States | On Site | Feb 18 |
+| **[SharkNinja](http://www.sharkninja.com)** | **[Associate Product Developer - Shark Floorcare](https://jobright.ai/jobs/info/699643a0ce78e77b4fda3e01?utm_campaign=Product%20Management&utm_source=1103)** | Needham, MA, United States | On Site | Feb 18 |
+| ↳ | **[Associate Product Developer](https://jobright.ai/jobs/info/69963955ce78e77b4fda2f08?utm_campaign=Product%20Management&utm_source=1103)** | Needham, MA, United States | On Site | Feb 18 |
 | **[Thomson Reuters](http://thomsonreuters.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/69963f1f81476f6176adfbe3?utm_campaign=Product%20Management&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Feb 18 |
 | **[Bradshaw Home](https://bradshawhome.com/)** | **[Associate Product Manager](https://jobright.ai/jobs/info/6996371ee0bddb6acac498c9?utm_campaign=Product%20Management&utm_source=1103)** | Rancho Cucamonga, CA | Hybrid | Feb 18 |
 | **[Camping World](https://investor.campingworld.com)** | **[Product Specialist Advisor](https://jobright.ai/jobs/info/6996557481476f6176ae1e91?utm_campaign=Product%20Management&utm_source=1103)** | Summerfield, FL | On Site | Feb 18 |
