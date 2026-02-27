@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PepsiCo](http://www.pepsico.com)** | **[Product Dev Associate Scientist](https://jobright.ai/jobs/info/69853aa70f6f7e7a2cdfd40f?utm_campaign=Product%20Management&utm_source=1103)** | Valhalla, NY | On Site | Feb 27 |
 | **[Stanley Black & Decker, Inc.](https://www.stanleyblackanddecker.com)** | **[Associate Product Manager (CRAFTSMAN)](https://jobright.ai/jobs/info/698fff110f6f7e7a2cec47ee?utm_campaign=Product%20Management&utm_source=1103)** | Towson, MD | Hybrid | Feb 27 |
 | **[Supermicro](http://www.supermicro.com)** | **[Associate Product Manager - Key Components](https://jobright.ai/jobs/info/69915f4f6ea51a7610f3be57?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA | On Site | Feb 27 |
 | **[Prudential Financial](http://www.prudential.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/69852921348f733a5c395902?utm_campaign=Product%20Management&utm_source=1103)** | Newark, NJ | On Site | Feb 27 |
@@ -83,9 +84,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Senior Associate, Product Management- Upmarket Acquisitions](https://jobright.ai/jobs/info/69a0931481476f6176bae60f?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Feb 26 |
 | **[BMO](http://www.bmo.com)** | **[Product Manager](https://jobright.ai/jobs/info/69915e946ea51a7610f3bb03?utm_campaign=Product%20Management&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Feb 26 |
 | **[Corebridge Financial](https://www.corebridgefinancial.com)** | **[Product Filing Specialist](https://jobright.ai/jobs/info/697e97b3ce48107c0542b092?utm_campaign=Product%20Management&utm_source=1103)** | Los Angeles, CA | Hybrid | Feb 26 |
-| **[Aristocrat](http://www.aristocrat.com)** | **[Data Product Manager](https://jobright.ai/jobs/info/69a079bc0836fe79d86173fa?utm_campaign=Product%20Management&utm_source=1103)** | Austin | Hybrid | Feb 26 |
+| **[Aristocrat](http://www.aristocrat.com)** | **[Data Product Manager](https://jobright.ai/jobs/info/69a07d1e5218a81676719e53?utm_campaign=Product%20Management&utm_source=1103)** | Tennessee Main Office | Hybrid | Feb 26 |
+| ↳ | **[Data Product Manager](https://jobright.ai/jobs/info/69a079bc0836fe79d86173fa?utm_campaign=Product%20Management&utm_source=1103)** | Austin | Hybrid | Feb 26 |
 | ↳ | **[Data Product Manager](https://jobright.ai/jobs/info/69a07a7d81476f6176bab9da?utm_campaign=Product%20Management&utm_source=1103)** | Boston, MA, US | Hybrid | Feb 26 |
-| ↳ | **[Data Product Manager](https://jobright.ai/jobs/info/69a07d1e5218a81676719e53?utm_campaign=Product%20Management&utm_source=1103)** | Tennessee Main Office | Hybrid | Feb 26 |
 | **[Corebridge Financial](https://www.corebridgefinancial.com)** | **[Product Filing Specialist](https://jobright.ai/jobs/info/697be0ae0b88cc7d6422c0cf?utm_campaign=Product%20Management&utm_source=1103)** | Houston, TX | Hybrid | Feb 26 |
 | **[Equitable](https://equitable.com/)** | **[Product Manager - Group Retirement (HYBRID)](https://jobright.ai/jobs/info/699e9a2ace78e77b4fe41202?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Feb 26 |
 | **[Boeing](https://www.boeing.co.uk)** | **[Product Acceptance Specialist](https://jobright.ai/jobs/info/694c5e0f5d7312113470d527?utm_campaign=Product%20Management&utm_source=1103)** | North Charleston, SC | On Site | Feb 26 |
@@ -140,8 +141,8 @@ For a complete list, click the following sortable link below:
 | **[Crown Affair](https://www.crownaffair.com)** | **[Product Coordinator](https://jobright.ai/jobs/info/699e1175e0bddb6acacd73b9?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Feb 24 |
 | **[Camping World](https://investor.campingworld.com)** | **[Product Specialist](https://jobright.ai/jobs/info/699e0cbbe0bddb6acacd7077?utm_campaign=Product%20Management&utm_source=1103)** | Coldwater, MI | On Site | Feb 24 |
 | **[Salesforce](https://www.salesforce.com)** | **[Product Security Associate (College Grad)](https://jobright.ai/jobs/info/699e6aab81476f6176b7789c?utm_campaign=Product%20Management&utm_source=1103)** | California - San Francisco | On Site | Feb 24 |
-| ↳ | **[Product Security Associate (College Grad)](https://jobright.ai/jobs/info/699e5e74e0bddb6acacddbd9?utm_campaign=Product%20Management&utm_source=1103)** | Washington - Bellevue | On Site | Feb 24 |
 | ↳ | **[Product Security Associate (College Grad)](https://jobright.ai/jobs/info/699e4edfce78e77b4fe37435?utm_campaign=Product%20Management&utm_source=1103)** | Washington - Seattle | On Site | Feb 24 |
+| ↳ | **[Product Security Associate (College Grad)](https://jobright.ai/jobs/info/699e5e74e0bddb6acacddbd9?utm_campaign=Product%20Management&utm_source=1103)** | Washington - Bellevue | On Site | Feb 24 |
 | **[Bluberi](https://bluberi.com/)** | **[Associate Product Manager](https://jobright.ai/jobs/info/699e05c481476f6176b6f2f6?utm_campaign=Product%20Management&utm_source=1103)** | Las Vegas, NV | Hybrid | Feb 24 |
 | **[Calamos Investments](http://www.calamos.com/)** | **[Product Development Associate](https://jobright.ai/jobs/info/699e034181476f6176b6f19f?utm_campaign=Product%20Management&utm_source=1103)** | Naperville, Illinois, United States | On Site | Feb 24 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management - Enterprise Core Platform](https://jobright.ai/jobs/info/6965790d2cbf4e44756f0a7b?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Feb 24 |
@@ -235,13 +236,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Manager, Specialist, School Experience](https://jobright.ai/jobs/info/6999318181476f6176b1bbfe?utm_campaign=Product%20Management&utm_source=1103)** | Montpelier, VT | On Site | Feb 20 |
 | ↳ | **[Product Manager, Specialist, School Experience](https://jobright.ai/jobs/info/69992aa3e0bddb6acac83599?utm_campaign=Product%20Management&utm_source=1103)** | Columbus, OH | On Site | Feb 20 |
 | ↳ | **[Product Manager, Specialist, School Experience](https://jobright.ai/jobs/info/6999374381476f6176b1c419?utm_campaign=Product%20Management&utm_source=1103)** | Honolulu, HI | On Site | Feb 20 |
-| ↳ | **[Product Manager, Specialist, School Experience](https://jobright.ai/jobs/info/699931a181476f6176b1bc1e?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Feb 20 |
 | ↳ | **[Product Manager, Specialist, School Experience](https://jobright.ai/jobs/info/69992c69ce78e77b4fdde1a3?utm_campaign=Product%20Management&utm_source=1103)** | Boise, ID | On Site | Feb 20 |
+| ↳ | **[Product Manager, Specialist, School Experience](https://jobright.ai/jobs/info/699931a181476f6176b1bc1e?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Feb 20 |
 | ↳ | **[Product Manager, Specialist, School Experience](https://jobright.ai/jobs/info/69992b1b81476f6176b1b3ad?utm_campaign=Product%20Management&utm_source=1103)** | Concord, NH | On Site | Feb 20 |
 | ↳ | **[Product Manager, Specialist, School Experience](https://jobright.ai/jobs/info/69993742ce78e77b4fddf248?utm_campaign=Product%20Management&utm_source=1103)** | Raleigh, NC | On Site | Feb 20 |
 | ↳ | **[Product Manager, Specialist, School Experience](https://jobright.ai/jobs/info/699928b2ce78e77b4fdddb35?utm_campaign=Product%20Management&utm_source=1103)** | Topeka, KS | On Site | Feb 20 |
-| ↳ | **[Product Manager, Specialist, School Experience](https://jobright.ai/jobs/info/699928a081476f6176b1af83?utm_campaign=Product%20Management&utm_source=1103)** | Lansing, MI | On Site | Feb 20 |
 | ↳ | **[Product Manager, Specialist, School Experience](https://jobright.ai/jobs/info/69992ebf81476f6176b1b85f?utm_campaign=Product%20Management&utm_source=1103)** | Salt Lake City, UT | On Site | Feb 20 |
+| ↳ | **[Product Manager, Specialist, School Experience](https://jobright.ai/jobs/info/699928a081476f6176b1af83?utm_campaign=Product%20Management&utm_source=1103)** | Lansing, MI | On Site | Feb 20 |
 | ↳ | **[Product Manager, Specialist, School Experience](https://jobright.ai/jobs/info/69992dbcce78e77b4fdde359?utm_campaign=Product%20Management&utm_source=1103)** | Oklahoma City, OK | On Site | Feb 20 |
 | ↳ | **[Product Manager, Specialist, School Experience](https://jobright.ai/jobs/info/69993668ce78e77b4fddf116?utm_campaign=Product%20Management&utm_source=1103)** | Santa Fe, NM | On Site | Feb 20 |
 | ↳ | **[Product Manager, Specialist, School Experience](https://jobright.ai/jobs/info/69992e9a81476f6176b1b82f?utm_campaign=Product%20Management&utm_source=1103)** | Juneau, AK | On Site | Feb 20 |
