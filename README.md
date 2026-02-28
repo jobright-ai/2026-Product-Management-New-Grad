@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[eko](https://eko.com)** | **[Product Data Capture Associate - Weeknights](https://jobright.ai/jobs/info/69a27fbe359fe034b1cdc5d8?utm_campaign=Product%20Management&utm_source=1103)** | Bentonville, Arkansas | On Site | Feb 27 |
 | **[AdsWizz](https://www.adswizz.com)** | **[Associate Product Operations Specialist](https://jobright.ai/jobs/info/69a2562d0da45516f16b99e0?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Feb 27 |
 | **[BMC Software](http://www.bmc.com)** | **[Associate Product Developer](https://jobright.ai/jobs/info/69a259fc359fe034b1cd9369?utm_campaign=Product%20Management&utm_source=1103)** | Los Angeles, CA | Remote | Feb 27 |
 | **[SiriusXM](http://siriusxm.com)** | **[Associate Product Operations Specialist](https://jobright.ai/jobs/info/69a21a3ab600907a962866d2?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Feb 27 |
@@ -66,16 +67,16 @@ For a complete list, click the following sortable link below:
 | **[SiriusXM](http://siriusxm.com)** | **[Associate Product Operations Specialist](https://jobright.ai/jobs/info/69a22eff359fe034b1cd6c9b?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Feb 27 |
 | ↳ | **[Associate Product Operations Specialist](https://jobright.ai/jobs/info/69a22d37b600907a962879a7?utm_campaign=Product%20Management&utm_source=1103)** | Oakland, CA | Hybrid | Feb 27 |
 | **[Nasdaq](https://www.nasdaq.com)** | **[Product Strategy Analyst](https://jobright.ai/jobs/info/69a220deb600907a96286d33?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | Hybrid | Feb 27 |
-| **[AAA-The Auto Club Group](http://aaa.com)** | **[Product Management Analyst I](https://jobright.ai/jobs/info/69a228c3359fe034b1cd6642?utm_campaign=Product%20Management&utm_source=1103)** | Hybrid - SC | Hybrid | Feb 27 |
-| ↳ | **[Product Management Analyst I](https://jobright.ai/jobs/info/69a21d57b600907a962869b2?utm_campaign=Product%20Management&utm_source=1103)** | Hybrid - TN | Hybrid | Feb 27 |
-| ↳ | **[Product Management Analyst I](https://jobright.ai/jobs/info/69a21b0ab600907a96286784?utm_campaign=Product%20Management&utm_source=1103)** | Hybrid - GA | Hybrid | Feb 27 |
-| ↳ | **[Product Management Analyst I](https://jobright.ai/jobs/info/69a21e270da45516f16b66c7?utm_campaign=Product%20Management&utm_source=1103)** | Hybrid - WI | Hybrid | Feb 27 |
-| ↳ | **[Product Management Analyst I](https://jobright.ai/jobs/info/69a232b60da45516f16b7b35?utm_campaign=Product%20Management&utm_source=1103)** | MI-Fremont Insurance | Hybrid | Feb 27 |
-| ↳ | **[Product Management Analyst I](https://jobright.ai/jobs/info/69a2314fb600907a96287de3?utm_campaign=Product%20Management&utm_source=1103)** | Hybrid - ND | Hybrid | Feb 27 |
-| ↳ | **[Product Management Analyst I](https://jobright.ai/jobs/info/69a221a3359fe034b1cd5f0e?utm_campaign=Product%20Management&utm_source=1103)** | Hybrid - MI | Hybrid | Feb 27 |
-| ↳ | **[Product Management Analyst I](https://jobright.ai/jobs/info/69a21b86359fe034b1cd58e4?utm_campaign=Product%20Management&utm_source=1103)** | Hybrid - NC | Hybrid | Feb 27 |
-| ↳ | **[Product Management Analyst I](https://jobright.ai/jobs/info/69a21a810da45516f16b635b?utm_campaign=Product%20Management&utm_source=1103)** | Hybrid - IA | Hybrid | Feb 27 |
+| **[AAA-The Auto Club Group](http://aaa.com)** | **[Product Management Analyst I](https://jobright.ai/jobs/info/69a21b86359fe034b1cd58e4?utm_campaign=Product%20Management&utm_source=1103)** | Hybrid - NC | Hybrid | Feb 27 |
 | ↳ | **[Product Management Analyst I](https://jobright.ai/jobs/info/69a21d44359fe034b1cd5a8d?utm_campaign=Product%20Management&utm_source=1103)** | Hybrid - FL | Hybrid | Feb 27 |
+| ↳ | **[Product Management Analyst I](https://jobright.ai/jobs/info/69a2314fb600907a96287de3?utm_campaign=Product%20Management&utm_source=1103)** | Hybrid - ND | Hybrid | Feb 27 |
+| ↳ | **[Product Management Analyst I](https://jobright.ai/jobs/info/69a21d57b600907a962869b2?utm_campaign=Product%20Management&utm_source=1103)** | Hybrid - TN | Hybrid | Feb 27 |
+| ↳ | **[Product Management Analyst I](https://jobright.ai/jobs/info/69a21a810da45516f16b635b?utm_campaign=Product%20Management&utm_source=1103)** | Hybrid - IA | Hybrid | Feb 27 |
+| ↳ | **[Product Management Analyst I](https://jobright.ai/jobs/info/69a228c3359fe034b1cd6642?utm_campaign=Product%20Management&utm_source=1103)** | Hybrid - SC | Hybrid | Feb 27 |
+| ↳ | **[Product Management Analyst I](https://jobright.ai/jobs/info/69a221a3359fe034b1cd5f0e?utm_campaign=Product%20Management&utm_source=1103)** | Hybrid - MI | Hybrid | Feb 27 |
+| ↳ | **[Product Management Analyst I](https://jobright.ai/jobs/info/69a232b60da45516f16b7b35?utm_campaign=Product%20Management&utm_source=1103)** | MI-Fremont Insurance | Hybrid | Feb 27 |
+| ↳ | **[Product Management Analyst I](https://jobright.ai/jobs/info/69a21e270da45516f16b66c7?utm_campaign=Product%20Management&utm_source=1103)** | Hybrid - WI | Hybrid | Feb 27 |
+| ↳ | **[Product Management Analyst I](https://jobright.ai/jobs/info/69a21b0ab600907a96286784?utm_campaign=Product%20Management&utm_source=1103)** | Hybrid - GA | Hybrid | Feb 27 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management - Salesforce](https://jobright.ai/jobs/info/69694780f25a38006697d95d?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Feb 27 |
 | ↳ | **[Senior Associate, Product Management - Salesforce](https://jobright.ai/jobs/info/69694cf8639b452fb57f17df?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Feb 27 |
 | ↳ | **[Sr. Associate, Product Management,Card Data, Models, Decisioning, and Credit](https://jobright.ai/jobs/info/699a21e4e0bddb6acac94f86?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | Hybrid | Feb 27 |
@@ -117,9 +118,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Senior Associate, Product Management- Upmarket Acquisitions](https://jobright.ai/jobs/info/69a0931481476f6176bae60f?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Feb 26 |
 | **[BMO](http://www.bmo.com)** | **[Product Manager](https://jobright.ai/jobs/info/69915e946ea51a7610f3bb03?utm_campaign=Product%20Management&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Feb 26 |
 | **[Corebridge Financial](https://www.corebridgefinancial.com)** | **[Product Filing Specialist](https://jobright.ai/jobs/info/697e97b3ce48107c0542b092?utm_campaign=Product%20Management&utm_source=1103)** | Los Angeles, CA | Hybrid | Feb 26 |
-| **[Aristocrat](http://www.aristocrat.com)** | **[Data Product Manager](https://jobright.ai/jobs/info/69a079bc0836fe79d86173fa?utm_campaign=Product%20Management&utm_source=1103)** | Austin | Hybrid | Feb 26 |
+| **[Aristocrat](http://www.aristocrat.com)** | **[Data Product Manager](https://jobright.ai/jobs/info/69a07a7d81476f6176bab9da?utm_campaign=Product%20Management&utm_source=1103)** | Boston, MA, US | Hybrid | Feb 26 |
 | ↳ | **[Data Product Manager](https://jobright.ai/jobs/info/69a07d1e5218a81676719e53?utm_campaign=Product%20Management&utm_source=1103)** | Tennessee Main Office | Hybrid | Feb 26 |
-| ↳ | **[Data Product Manager](https://jobright.ai/jobs/info/69a07a7d81476f6176bab9da?utm_campaign=Product%20Management&utm_source=1103)** | Boston, MA, US | Hybrid | Feb 26 |
+| ↳ | **[Data Product Manager](https://jobright.ai/jobs/info/69a079bc0836fe79d86173fa?utm_campaign=Product%20Management&utm_source=1103)** | Austin | Hybrid | Feb 26 |
 | **[Corebridge Financial](https://www.corebridgefinancial.com)** | **[Product Filing Specialist](https://jobright.ai/jobs/info/697be0ae0b88cc7d6422c0cf?utm_campaign=Product%20Management&utm_source=1103)** | Houston, TX | Hybrid | Feb 26 |
 | **[Equitable](https://equitable.com/)** | **[Product Manager - Group Retirement (HYBRID)](https://jobright.ai/jobs/info/699e9a2ace78e77b4fe41202?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Feb 26 |
 | **[Boeing](https://www.boeing.co.uk)** | **[Product Acceptance Specialist](https://jobright.ai/jobs/info/694c5e0f5d7312113470d527?utm_campaign=Product%20Management&utm_source=1103)** | North Charleston, SC | On Site | Feb 26 |
