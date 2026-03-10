@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Brooklinen](https://www.brooklinen.com)** | **[Product Development Associate](https://jobright.ai/jobs/info/6993ae51ce78e77b4fd78262?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Mar 10 |
 | **[Camping World](https://investor.campingworld.com)** | **[Product Specialist Advisor](https://jobright.ai/jobs/info/695c7b75f1f8465b79f29f14?utm_campaign=Product%20Management&utm_source=1103)** | Wentzville, MO | On Site | Mar 10 |
 | **[Adobe](http://www.adobe.com)** | **[2026 MBA University Graduate - Product Manager](https://jobright.ai/jobs/info/69ac6043142d5b4265fdaa69?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA | On Site | Mar 10 |
 | **[Camping World](https://investor.campingworld.com)** | **[Product Specialist](https://jobright.ai/jobs/info/6994845fe0bddb6acac2f516?utm_campaign=Product%20Management&utm_source=1103)** | Sunbury, OH | On Site | Mar 10 |
@@ -82,13 +83,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Senior Associate, Product Management - Customer Services & Strategy (US Card)](https://jobright.ai/jobs/info/69aeb6bcbd1a716b43104893?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Mar 09 |
 | **[Capital One](http://www.capitalone.com)** | **[Sr. Associate, Product Management - Internal Enablement](https://jobright.ai/jobs/info/6974171f206da320f49e3794?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Mar 08 |
 | ↳ | **[Sr. Associate, Product Manager - Settlement Core Products](https://jobright.ai/jobs/info/6974155637785856350df8d0?utm_campaign=Product%20Management&utm_source=1103)** | Deerfield, IL | On Site | Mar 08 |
-| ↳ | **[Senior Associate, Product Management - Customer Services & Strategy (US Card)](https://jobright.ai/jobs/info/69ad9cdf7e1fab39d384f848?utm_campaign=Product%20Management&utm_source=1103)** | Riverwoods, IL | On Site | Mar 08 |
 | ↳ | **[Senior Associate, Product Management - Customer Services & Strategy (US Card)](https://jobright.ai/jobs/info/69ad9cdf7e1fab39d384f849?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Mar 08 |
+| ↳ | **[Senior Associate, Product Management - Customer Services & Strategy (US Card)](https://jobright.ai/jobs/info/69ad9cdf7e1fab39d384f848?utm_campaign=Product%20Management&utm_source=1103)** | Riverwoods, IL | On Site | Mar 08 |
 | ↳ | **[Senior Associate, Product Management - Customer Services & Strategy (US Card)](https://jobright.ai/jobs/info/69ad9ad72747003c3d530293?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Mar 08 |
 | ↳ | **[Senior Associate, Product Management - Customer Services & Strategy (US Card)](https://jobright.ai/jobs/info/69ad9ad6142d5b4265fea8a9?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Mar 08 |
 | ↳ | **[Senior Associate, Product Management - Customer Services & Strategy (US Card)](https://jobright.ai/jobs/info/69ad9ad62747003c3d530292?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Mar 08 |
-| ↳ | **[Senior Associate , Product Management –GPN Core Data Platform Services](https://jobright.ai/jobs/info/69740db837785856350df3b7?utm_campaign=Product%20Management&utm_source=1103)** | Deerfield, IL | On Site | Mar 08 |
 | ↳ | **[Sr. Associate, Product Management - Internal Enablement](https://jobright.ai/jobs/info/6974123e37785856350df692?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Mar 08 |
+| ↳ | **[Senior Associate , Product Management –GPN Core Data Platform Services](https://jobright.ai/jobs/info/69740db837785856350df3b7?utm_campaign=Product%20Management&utm_source=1103)** | Deerfield, IL | On Site | Mar 08 |
 | ↳ | **[Senior Associate , Product Management –GPN Core Data Platform Services](https://jobright.ai/jobs/info/697415be206da320f49e20be?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Mar 08 |
 | ↳ | **[Sr. Associate, Product Management - Internal Enablement](https://jobright.ai/jobs/info/6974114cbc8e722e7b18f1f6?utm_campaign=Product%20Management&utm_source=1103)** | Deerfield, IL | On Site | Mar 08 |
 | **[Nelson Mazda](http://nelsonmazda.com)** | **[Product Genius](https://jobright.ai/jobs/info/69ad8b037e1fab39d384f67e?utm_campaign=Product%20Management&utm_source=1103)** | Norman, OK | On Site | Mar 08 |
@@ -198,5 +199,4 @@ For a complete list, click the following sortable link below:
 | **[Western National Insurance](https://wnins.com)** | **[Insurance Product Development Analyst I](https://jobright.ai/jobs/info/69a932eb79f3f4037f43f9ad?utm_campaign=Product%20Management&utm_source=1103)** | Edina, MN | Hybrid | Mar 03 |
 | **[True Religion](https://www.truereligion.com)** | **[Product Development Coordinator](https://jobright.ai/jobs/info/69a764c376bbe83d3afac758?utm_campaign=Product%20Management&utm_source=1103)** | El Segundo, CA | Hybrid | Mar 03 |
 | **[lululemon](http://shop.lululemon.com)** | **[Product Operations Lead / North Park, Dallas](https://jobright.ai/jobs/info/69a7848e2672cb0acb4bfc4f?utm_campaign=Product%20Management&utm_source=1103)** | Dallas, TX | On Site | Mar 03 |
-| **[Kikoff](https://kikoff.com/)** | **[Product Operations Specialist](https://jobright.ai/jobs/info/69a89f9579f3f4037f42c0ea?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, CA | Hybrid | Mar 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
