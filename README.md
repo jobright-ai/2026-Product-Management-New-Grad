@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pink Rose Clothing](https://www.linkedin.com/company/79684456)** | **[Apparel Product Coordinator - Juniors](https://jobright.ai/jobs/info/69b04a87dfaeda6ff599e61b?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Mar 10 |
+| **[CVS Health](https://www.cvshealth.com/)** | **[Product Purchasing Assistant (Glasgow, KY)](https://jobright.ai/jobs/info/69b044a6dfaeda6ff599d62f?utm_campaign=Product%20Management&utm_source=1103)** | Glasgow, KY | On Site | Mar 10 |
+| **[NJM Insurance Group](https://www.njm.com)** | **[Product Solutions Analyst II](https://jobright.ai/jobs/info/69b042ce0b2db6275c03da06?utm_campaign=Product%20Management&utm_source=1103)** | Ewing, NJ | On Site | Mar 10 |
+| **[ConnectPay Payroll Services](https://www.connectpayusa.com/)** | **[Product Owner](https://jobright.ai/jobs/info/6978b95539f7f96cc6d123e1?utm_campaign=Product%20Management&utm_source=1103)** | Mansfield, MA | Hybrid | Mar 10 |
 | **[Church & Dwight Co., Inc.](https://www.churchdwight.ca/)** | **[Product Management Specialist](https://jobright.ai/jobs/info/69b039db749500645096102e?utm_campaign=Product%20Management&utm_source=1103)** | Mississauga, Ontario, Canada | Hybrid | Mar 10 |
 | **[Westin Furniture](https://westinfurniture.com)** | **[Product Information Management Assistant](https://jobright.ai/jobs/info/69b00cb5749500645095a8db?utm_campaign=Product%20Management&utm_source=1103)** | Ontario, CA | On Site | Mar 10 |
 | **[Brooklinen](https://www.brooklinen.com)** | **[Product Development Associate](https://jobright.ai/jobs/info/6993ae51ce78e77b4fd78262?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Mar 10 |
@@ -78,8 +82,8 @@ For a complete list, click the following sortable link below:
 | **[LOFT](https://www.loft.com/)** | **[Product Development Coordinator](https://jobright.ai/jobs/info/698e64f2f64d441a1650996a?utm_campaign=Product%20Management&utm_source=1103)** | NYC Metro Area | On Site | Mar 09 |
 | **[Actively AI](https://www.actively.ai)** | **[Product Operations](https://jobright.ai/jobs/info/69771273fdeb8243a279ec47?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Mar 09 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management - Customer Services & Strategy (US Card)](https://jobright.ai/jobs/info/69aeb7a7a4f2e119f26e122a?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | Hybrid | Mar 09 |
-| ↳ | **[Senior Associate, Product Management - Customer Services & Strategy (US Card)](https://jobright.ai/jobs/info/69aeb7765224a240f103bdec?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Mar 09 |
 | ↳ | **[Senior Associate, Product Management - Customer Services & Strategy (US Card)](https://jobright.ai/jobs/info/69aeb7765224a240f103bdea?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Mar 09 |
+| ↳ | **[Senior Associate, Product Management - Customer Services & Strategy (US Card)](https://jobright.ai/jobs/info/69aeb7765224a240f103bdec?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Mar 09 |
 | ↳ | **[Senior Associate, Product Management - Customer Services & Strategy (US Card)](https://jobright.ai/jobs/info/69aeb6c7bd1a716b431048a2?utm_campaign=Product%20Management&utm_source=1103)** | Deerfield, IL | Hybrid | Mar 09 |
 | ↳ | **[Senior Associate, Product Management - Customer Services & Strategy (US Card)](https://jobright.ai/jobs/info/69aeb6bcbd1a716b43104893?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Mar 09 |
 | **[Certinia](http://www.certinia.com)** | **[Product Operations Coordinator](https://jobright.ai/jobs/info/69ae9e4fbd1a716b43103f78?utm_campaign=Product%20Management&utm_source=1103)** | Austin, TX | Remote | Mar 09 |
@@ -88,10 +92,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Senior Associate, Product Management - Customer Services & Strategy (US Card)](https://jobright.ai/jobs/info/69ad9cdf7e1fab39d384f849?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Mar 08 |
 | ↳ | **[Senior Associate, Product Management - Customer Services & Strategy (US Card)](https://jobright.ai/jobs/info/69ad9cdf7e1fab39d384f848?utm_campaign=Product%20Management&utm_source=1103)** | Riverwoods, IL | On Site | Mar 08 |
 | ↳ | **[Senior Associate, Product Management - Customer Services & Strategy (US Card)](https://jobright.ai/jobs/info/69ad9ad72747003c3d530293?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Mar 08 |
-| ↳ | **[Senior Associate, Product Management - Customer Services & Strategy (US Card)](https://jobright.ai/jobs/info/69ad9ad6142d5b4265fea8a9?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Mar 08 |
 | ↳ | **[Senior Associate, Product Management - Customer Services & Strategy (US Card)](https://jobright.ai/jobs/info/69ad9ad62747003c3d530292?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Mar 08 |
-| ↳ | **[Senior Associate , Product Management –GPN Core Data Platform Services](https://jobright.ai/jobs/info/69740db837785856350df3b7?utm_campaign=Product%20Management&utm_source=1103)** | Deerfield, IL | On Site | Mar 08 |
+| ↳ | **[Senior Associate, Product Management - Customer Services & Strategy (US Card)](https://jobright.ai/jobs/info/69ad9ad6142d5b4265fea8a9?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Mar 08 |
 | ↳ | **[Sr. Associate, Product Management - Internal Enablement](https://jobright.ai/jobs/info/6974123e37785856350df692?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Mar 08 |
+| ↳ | **[Senior Associate , Product Management –GPN Core Data Platform Services](https://jobright.ai/jobs/info/69740db837785856350df3b7?utm_campaign=Product%20Management&utm_source=1103)** | Deerfield, IL | On Site | Mar 08 |
 | ↳ | **[Senior Associate , Product Management –GPN Core Data Platform Services](https://jobright.ai/jobs/info/697415be206da320f49e20be?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Mar 08 |
 | ↳ | **[Sr. Associate, Product Management - Internal Enablement](https://jobright.ai/jobs/info/6974114cbc8e722e7b18f1f6?utm_campaign=Product%20Management&utm_source=1103)** | Deerfield, IL | On Site | Mar 08 |
 | **[Nelson Mazda](http://nelsonmazda.com)** | **[Product Genius](https://jobright.ai/jobs/info/69ad8b037e1fab39d384f67e?utm_campaign=Product%20Management&utm_source=1103)** | Norman, OK | On Site | Mar 08 |
@@ -191,5 +195,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sr. Associate, Product Management, Decisioning Platform Orchestration](https://jobright.ai/jobs/info/69a82e0a7ac93962b707eb99?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | Hybrid | Mar 04 |
 | ↳ | **[Sr. Associate, Product Management, Decisioning Platform Orchestration](https://jobright.ai/jobs/info/69a926c379f3f4037f43e1c6?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Mar 04 |
 | **[Metro Inc.](https://www.metro.ca/en)** | **[Product Development Assistant](https://jobright.ai/jobs/info/69ae5d9d3de6821aaccdb3cc?utm_campaign=Product%20Management&utm_source=1103)** | Etobicoke, Ontario, Canada | On Site | Mar 03 |
-| **[Global Atlantic](https://www.globalatlantic.com/)** | **[Analyst, Product Operations](https://jobright.ai/jobs/info/697161ae333b6343a14deab2?utm_campaign=Product%20Management&utm_source=1103)** | Hartford, Connecticut, United States | On Site | Mar 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
