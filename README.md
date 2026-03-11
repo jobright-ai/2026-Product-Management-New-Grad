@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Arc](https://arcboats.com)** | **[Product Advisor, PNW](https://jobright.ai/jobs/info/69b0a7057495006450975abd?utm_campaign=Product%20Management&utm_source=1103)** | Seattle, WA | On Site | Mar 10 |
-| ↳ | **[Product Advisor, Southeast](https://jobright.ai/jobs/info/69b0a7057495006450975ab8?utm_campaign=Product%20Management&utm_source=1103)** | Torrance, CA | On Site | Mar 10 |
+| **[American Exchange Group](https://www.axnygroup.com)** | **[Product Development Coordinator, Fashion & Bridge Jewelry](https://jobright.ai/jobs/info/69b0afac0b2db6275c0513c3?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Mar 10 |
+| **[Super Micro Computer Spain, S.L.](http://www.supermicro.es)** | **[Associate Product Manager - Key Components](https://jobright.ai/jobs/info/69b0ac04dfaeda6ff59afa4f?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA | On Site | Mar 10 |
+| **[Arc](https://arcboats.com)** | **[Product Advisor, Southeast](https://jobright.ai/jobs/info/69b0a7057495006450975ab8?utm_campaign=Product%20Management&utm_source=1103)** | Torrance, CA | On Site | Mar 10 |
+| ↳ | **[Product Advisor, PNW](https://jobright.ai/jobs/info/69b0a7057495006450975abd?utm_campaign=Product%20Management&utm_source=1103)** | Seattle, WA | On Site | Mar 10 |
 | **[Aritzia](https://www.aritzia.com/)** | **[Product - Senior Analyst/Analyst, Planning](https://jobright.ai/jobs/info/69b0a1590b2db6275c04e7f1?utm_campaign=Product%20Management&utm_source=1103)** | Vancouver, British Columbia, Canada | On Site | Mar 10 |
 | **[Wilson Sporting Goods Co.](http://www.wilson.com)** | **[360 Athlete Product Specialist](https://jobright.ai/jobs/info/69b097f90b2db6275c04d323?utm_campaign=Product%20Management&utm_source=1103)** | Los Angeles, CA | Hybrid | Mar 10 |
 | **[The Hartford](http://www.thehartford.com)** | **[Associate, Product Leadership Development Program](https://jobright.ai/jobs/info/69b0944b0b2db6275c04ca07?utm_campaign=Product%20Management&utm_source=1103)** | Hartford, CT | Hybrid | Mar 10 |
@@ -97,8 +99,8 @@ For a complete list, click the following sortable link below:
 | **[LOFT](https://www.loft.com/)** | **[Product Development Coordinator](https://jobright.ai/jobs/info/698e64f2f64d441a1650996a?utm_campaign=Product%20Management&utm_source=1103)** | NYC Metro Area | On Site | Mar 09 |
 | **[Actively AI](https://www.actively.ai)** | **[Product Operations](https://jobright.ai/jobs/info/69771273fdeb8243a279ec47?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Mar 09 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management - Customer Services & Strategy (US Card)](https://jobright.ai/jobs/info/69aeb7a7a4f2e119f26e122a?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | Hybrid | Mar 09 |
-| ↳ | **[Senior Associate, Product Management - Customer Services & Strategy (US Card)](https://jobright.ai/jobs/info/69aeb7765224a240f103bdea?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Mar 09 |
 | ↳ | **[Senior Associate, Product Management - Customer Services & Strategy (US Card)](https://jobright.ai/jobs/info/69aeb7765224a240f103bdec?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Mar 09 |
+| ↳ | **[Senior Associate, Product Management - Customer Services & Strategy (US Card)](https://jobright.ai/jobs/info/69aeb7765224a240f103bdea?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Mar 09 |
 | ↳ | **[Senior Associate, Product Management - Customer Services & Strategy (US Card)](https://jobright.ai/jobs/info/69aeb6c7bd1a716b431048a2?utm_campaign=Product%20Management&utm_source=1103)** | Deerfield, IL | Hybrid | Mar 09 |
 | ↳ | **[Senior Associate, Product Management - Customer Services & Strategy (US Card)](https://jobright.ai/jobs/info/69aeb6bcbd1a716b43104893?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Mar 09 |
 | **[Certinia](http://www.certinia.com)** | **[Product Operations Coordinator](https://jobright.ai/jobs/info/69ae9e4fbd1a716b43103f78?utm_campaign=Product%20Management&utm_source=1103)** | Austin, TX | Remote | Mar 09 |
