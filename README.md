@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Horizon Hobby](https://www.horizonhobby.com/)** | **[Product Developer](https://jobright.ai/jobs/info/69b1ff95d04c69566c74a6a3?utm_campaign=Product%20Management&utm_source=1103)** | Champaign, IL | Hybrid | Mar 11 |
+| **[Amazon](https://amazon.com)** | **[Product Data Analyst, eero Software & Services](https://jobright.ai/jobs/info/69b1fb09d04c69566c749eb3?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, California, USA | On Site | Mar 11 |
 | **[Horizon Hobby](https://www.horizonhobby.com/)** | **[Product Developer](https://jobright.ai/jobs/info/69b1efda548f140066e80cac?utm_campaign=Product%20Management&utm_source=1103)** | Champaign, IL | Hybrid | Mar 11 |
 | **[TikTok](https://www.tiktok.com)** | **[TikTok Shop - FBT Product Solution Manager - Seattle](https://jobright.ai/jobs/info/69b1d57c548f140066e7bcf7?utm_campaign=Product%20Management&utm_source=1103)** | Seattle, WA | On Site | Mar 11 |
 | **[maurices](https://www.maurices.com)** | **[Assistant, Product Management & Sourcing (apparel/fashion)](https://jobright.ai/jobs/info/69b1d55565de58104c70fd1d?utm_campaign=Product%20Management&utm_source=1103)** | Duluth, MN | Hybrid | Mar 11 |
@@ -72,8 +74,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Senior Associate, Product Management - Digital Information Exchange & Analytics](https://jobright.ai/jobs/info/69a2a3620da45516f16c025c?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Mar 11 |
 | **[F.W. Webb Company](https://www.fwwebb.com)** | **[High Purity Customer Product Growth Specialist](https://jobright.ai/jobs/info/69b1c4a0d04c69566c740a6d?utm_campaign=Product%20Management&utm_source=1103)** | Cranston, RI | On Site | Mar 11 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management - Commercial Banking](https://jobright.ai/jobs/info/6995144ece78e77b4fd92cd5?utm_campaign=Product%20Management&utm_source=1103)** | Charlotte, NC | On Site | Mar 11 |
-| ↳ | **[Product Management Senior Associate, Commercial Banking](https://jobright.ai/jobs/info/69956a14e0bddb6acac3fe0f?utm_campaign=Product%20Management&utm_source=1103)** | Charlotte, NC | On Site | Mar 11 |
 | ↳ | **[Product Management Senior Associate, Commercial Banking](https://jobright.ai/jobs/info/699581dae0bddb6acac41a65?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Mar 11 |
+| ↳ | **[Product Management Senior Associate, Commercial Banking](https://jobright.ai/jobs/info/69956a14e0bddb6acac3fe0f?utm_campaign=Product%20Management&utm_source=1103)** | Charlotte, NC | On Site | Mar 11 |
 | ↳ | **[Senior Associate, Product Management - Commercial Banking](https://jobright.ai/jobs/info/69a283130da45516f16bd517?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Mar 11 |
 | **[Goldman Sachs](https://www.goldmansachs.com)** | **[Asset & Wealth Management, Product Management, Analyst - New York](https://jobright.ai/jobs/info/69b19b8c65de58104c70a4cf?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Mar 11 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management - Commercial Banking](https://jobright.ai/jobs/info/69951ce681476f6176acfa86?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Mar 11 |
