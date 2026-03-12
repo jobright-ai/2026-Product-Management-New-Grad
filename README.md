@@ -144,8 +144,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Senior Associate, Product Management - Customer Services & Strategy (US Card)](https://jobright.ai/jobs/info/69ad9cdf7e1fab39d384f848?utm_campaign=Product%20Management&utm_source=1103)** | Riverwoods, IL | On Site | Mar 08 |
 | ↳ | **[Senior Associate, Product Management - Customer Services & Strategy (US Card)](https://jobright.ai/jobs/info/69ad9cdf7e1fab39d384f849?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Mar 08 |
 | ↳ | **[Senior Associate, Product Management - Customer Services & Strategy (US Card)](https://jobright.ai/jobs/info/69ad9ad72747003c3d530293?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Mar 08 |
-| ↳ | **[Senior Associate, Product Management - Customer Services & Strategy (US Card)](https://jobright.ai/jobs/info/69ad9ad6142d5b4265fea8a9?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Mar 08 |
 | ↳ | **[Senior Associate, Product Management - Customer Services & Strategy (US Card)](https://jobright.ai/jobs/info/69ad9ad62747003c3d530292?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Mar 08 |
+| ↳ | **[Senior Associate, Product Management - Customer Services & Strategy (US Card)](https://jobright.ai/jobs/info/69ad9ad6142d5b4265fea8a9?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Mar 08 |
 | ↳ | **[Sr. Associate, Product Management - Internal Enablement](https://jobright.ai/jobs/info/6974123e37785856350df692?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Mar 08 |
 | ↳ | **[Senior Associate , Product Management –GPN Core Data Platform Services](https://jobright.ai/jobs/info/69740db837785856350df3b7?utm_campaign=Product%20Management&utm_source=1103)** | Deerfield, IL | On Site | Mar 08 |
 | ↳ | **[Senior Associate , Product Management –GPN Core Data Platform Services](https://jobright.ai/jobs/info/697415be206da320f49e20be?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Mar 08 |
@@ -219,5 +219,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Associate Product Manager, Rosetta Stone](https://jobright.ai/jobs/info/69a9caeb9ca4e908ec64fa10?utm_campaign=Product%20Management&utm_source=1103)** | San Mateo, CA | Hybrid | Mar 05 |
 | ↳ | **[Associate Product Manager, Dictionary Media Group](https://jobright.ai/jobs/info/69a9caa71f59c56275e27d30?utm_campaign=Product%20Management&utm_source=1103)** | San Mateo, CA | Hybrid | Mar 05 |
 | **[Jostens](http://jostens.com)** | **[Assistant Product Manager](https://jobright.ai/jobs/info/698d1d99f64d441a164f0b4c?utm_campaign=Product%20Management&utm_source=1103)** | Minneapolis, MN | Hybrid | Mar 05 |
-| **[IXL Learning](https://www.ixl.com/)** | **[IXL Associate Product Manager](https://jobright.ai/jobs/info/69a9bfc12ebd316bece14c7a?utm_campaign=Product%20Management&utm_source=1103)** | San Mateo, CA | Hybrid | Mar 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
