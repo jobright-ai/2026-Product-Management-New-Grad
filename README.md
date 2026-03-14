@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[New Era Cap](https://www.neweracap.com/)** | **[Product Developer, Sourcing Coordinator (Headwear and Apparel)](https://jobright.ai/jobs/info/69994e4fce78e77b4fde169b?utm_campaign=Product%20Management&utm_source=1103)** | Buffalo, NY | On Site | Mar 14 |
 | **[Steve Madden](http://www.stevemadden.com)** | **[Product Development Assistant](https://jobright.ai/jobs/info/69b5871d56973837413ad7a8?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Mar 14 |
 | **[PepsiCo](http://www.pepsico.com)** | **[Data Product Analyst](https://jobright.ai/jobs/info/69b56bc63b74eb1e2c830a4f?utm_campaign=Product%20Management&utm_source=1103)** | Mississauga, Ontario, Canada | On Site | Mar 14 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[(Hybrid) Pivotal Health Specialist](https://jobright.ai/jobs/info/697d235d3f57a3356966db1b?utm_campaign=Product%20Management&utm_source=1103)** | Chesterfield, MO | Hybrid | Mar 14 |
@@ -94,7 +95,7 @@ For a complete list, click the following sortable link below:
 | **[moomoo](https://www.moomoo.com)** | **[Product Manager, Derivatives Trading Platform](https://jobright.ai/jobs/info/695fdf8da112b402660e816a?utm_campaign=Product%20Management&utm_source=1103)** | Jersey City, NJ | On Site | Mar 13 |
 | **[AMEX Healthcare](https://www.amex-vienna.at/)** | **[Associate, Digital Product Management](https://jobright.ai/jobs/info/69b44c1106c1ba00c5458ebf?utm_campaign=Product%20Management&utm_source=1103)** | Palo Alto, CA | Hybrid | Mar 13 |
 | **[Universal Music Group](https://www.universalmusic.com)** | **[Coordinator, Product Development](https://jobright.ai/jobs/info/69b4364106c1ba00c5456b16?utm_campaign=Product%20Management&utm_source=1103)** | New York, New York | On Site | Mar 13 |
-| **[Abbott](https://www.abbott.com)** | **[Product Development Specialist](https://jobright.ai/jobs/info/69b436283b74eb1e2c8152de?utm_campaign=Product%20Management&utm_source=1103)** | United States - South Carolina - Liberty | On Site | Mar 13 |
+| **[Abbott](https://www.abbott.com)** | **[Product Development Specialist](https://jobright.ai/jobs/info/69b436283b74eb1e2c8152d9?utm_campaign=Product%20Management&utm_source=1103)** | United States - South Carolina - Liberty | On Site | Mar 13 |
 | ↳ | **[Product Development Specialist](https://jobright.ai/jobs/info/69b430a7569738374138d0d6?utm_campaign=Product%20Management&utm_source=1103)** | Liberty, SC | On Site | Mar 13 |
 | **[Santander Bank, N.A.](https://www.santanderbank.com)** | **[Letter of Credit Product Specialist - Analyst](https://jobright.ai/jobs/info/697b7e9c1423772304eba3d4?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Mar 13 |
 | **[Littelfuse](http://www.littelfuse.com)** | **[Associate Product Manager, Relays](https://jobright.ai/jobs/info/696fd2de3ed06875134abb2c?utm_campaign=Product%20Management&utm_source=1103)** | Rapid City, SD | On Site | Mar 13 |
@@ -221,8 +222,8 @@ For a complete list, click the following sortable link below:
 | **[Roblox](https://corp.roblox.com)** | **[Product Policy Specialist](https://jobright.ai/jobs/info/69993ebbe0bddb6acac85755?utm_campaign=Product%20Management&utm_source=1103)** | San Mateo, CA, United States | Hybrid | Mar 09 |
 | **[Actively AI](https://www.actively.ai)** | **[Product Operations](https://jobright.ai/jobs/info/69771273fdeb8243a279ec47?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Mar 09 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management - Customer Services & Strategy (US Card)](https://jobright.ai/jobs/info/69aeb7a7a4f2e119f26e122a?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | Hybrid | Mar 09 |
-| ↳ | **[Senior Associate, Product Management - Customer Services & Strategy (US Card)](https://jobright.ai/jobs/info/69aeb7765224a240f103bdea?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Mar 09 |
 | ↳ | **[Senior Associate, Product Management - Customer Services & Strategy (US Card)](https://jobright.ai/jobs/info/69aeb7765224a240f103bdec?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Mar 09 |
+| ↳ | **[Senior Associate, Product Management - Customer Services & Strategy (US Card)](https://jobright.ai/jobs/info/69aeb7765224a240f103bdea?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Mar 09 |
 | ↳ | **[Senior Associate, Product Management - Customer Services & Strategy (US Card)](https://jobright.ai/jobs/info/69aeb6c7bd1a716b431048a2?utm_campaign=Product%20Management&utm_source=1103)** | Deerfield, IL | Hybrid | Mar 09 |
 | ↳ | **[Senior Associate, Product Management - Customer Services & Strategy (US Card)](https://jobright.ai/jobs/info/69aeb6bcbd1a716b43104893?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Mar 09 |
 | **[Capital One](http://www.capitalone.com)** | **[Sr. Associate, Product Management - Internal Enablement](https://jobright.ai/jobs/info/6974171f206da320f49e3794?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Mar 08 |
