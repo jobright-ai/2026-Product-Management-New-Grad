@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Navitus Health Solutions](https://www.navitus.com/)** | **[Assoc. Product Manager, eHealth](https://jobright.ai/jobs/info/6943396850bbaf76505515e2?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Mar 14 |
 | **[Selective Insurance](https://www.selective.com/)** | **[Associate Business Analyst (Hybrid)](https://jobright.ai/jobs/info/69b52b1d56973837413a578d?utm_campaign=Product%20Management&utm_source=1103)** | Hartford, CT | Hybrid | Mar 14 |
 | **[Cintas Canada](https://www.cintas.ca/)** | **[Production Associate - Product Separator - 2nd Shift - Temporary](https://jobright.ai/jobs/info/69b5267256973837413a531d?utm_campaign=Product%20Management&utm_source=1103)** | Langley, British Columbia, Canada | On Site | Mar 14 |
 | **[Coursedog](https://www.coursedog.com)** | **[Product Owner](https://jobright.ai/jobs/info/69b4bdc906c1ba00c546320c?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Mar 13 |
@@ -140,6 +141,7 @@ For a complete list, click the following sortable link below:
 | **[lululemon](http://shop.lululemon.com)** | **[Product Manager / Merchandising, Planning & Allocation Systems](https://jobright.ai/jobs/info/6996312fce78e77b4fda2766?utm_campaign=Product%20Management&utm_source=1103)** | Vancouver, British Columbia, Canada | Hybrid | Mar 12 |
 | **[TP-Link Systems Inc.](https://www.tp-link.com/)** | **[Supply Planner, Global Product Lines - Early Careers](https://jobright.ai/jobs/info/69b45d8b5697383741391a2f?utm_campaign=Product%20Management&utm_source=1103)** | Irvine, CA, US | On Site | Mar 12 |
 | **[Camping World](https://investor.campingworld.com)** | **[Product Specialist Advisor](https://jobright.ai/jobs/info/6996557481476f6176ae1e91?utm_campaign=Product%20Management&utm_source=1103)** | Summerfield, FL | On Site | Mar 12 |
+| **[Gap Inc.](https://www.gapinc.com/en-us/)** | **[Product Manager I - Payments](https://jobright.ai/jobs/info/69b52d7956973837413a5d2d?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, CA | On Site | Mar 12 |
 | **[PIMCO](http://www.pimco.com)** | **[Associate, Product Manager – Credit Technology](https://jobright.ai/jobs/info/6968201a639b452fb57daf53?utm_campaign=Product%20Management&utm_source=1103)** | Newport Beach, CA | On Site | Mar 12 |
 | **[Microsoft](https://www.microsoft.com)** | **[Product Management IC2](https://jobright.ai/jobs/info/69b5125b56973837413a377f?utm_campaign=Product%20Management&utm_source=1103)** | Redmond, WA | Hybrid | Mar 12 |
 | **[GamblingCareers.com](https://www.gamblingcareers.com/)** | **[Digital Games Coordinator](https://jobright.ai/jobs/info/69b4f3bb06c1ba00c546901d?utm_campaign=Product%20Management&utm_source=1103)** | Boston, MA | On Site | Mar 11 |
@@ -183,7 +185,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Senior Associate, Product Management, DMDC Open Banking](https://jobright.ai/jobs/info/69b15f5c65de58104c70591c?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Mar 11 |
 | ↳ | **[Senior Associate, Product Management, DMDC Open Banking](https://jobright.ai/jobs/info/69b15bb4548f140066e720f9?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Mar 11 |
 | **[StubHub](http://www.stubhub.com)** | **[Associate Product Manager - Marketing Operations](https://jobright.ai/jobs/info/699522f7ce78e77b4fd93ab1?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Mar 11 |
-| **[Camping World](https://investor.campingworld.com)** | **[Product Specialist Advisor](https://jobright.ai/jobs/info/69b281c3ad360c0340a75c46?utm_campaign=Product%20Management&utm_source=1103)** | Wentzville, MO | On Site | Mar 11 |
 | **[Snowflake](https://www.snowflake.com)** | **[Product Manager - Cortex Code Enablement](https://jobright.ai/jobs/info/69b0e7f974950064509807f4?utm_campaign=Product%20Management&utm_source=1103)** | Menlo Park, CA | On Site | Mar 10 |
 | **[Gap](https://jobs.gapinc.com/gap-home)** | **[Assistant Manager, Product Operations - Queens Center](https://jobright.ai/jobs/info/69b391a8ad360c0340a8b636?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Mar 10 |
 | **[Pizza Hut](https://www.pizzahut.com/)** | **[New Product Development Coordinator](https://jobright.ai/jobs/info/69b0cd5e0b2db6275c056b13?utm_campaign=Product%20Management&utm_source=1103)** | Irvine, CA | Hybrid | Mar 10 |
@@ -227,8 +228,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Senior Associate, Product Management - Customer Services & Strategy (US Card)](https://jobright.ai/jobs/info/69ad9ad72747003c3d530293?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Mar 08 |
 | ↳ | **[Senior Associate, Product Management - Customer Services & Strategy (US Card)](https://jobright.ai/jobs/info/69ad9ad62747003c3d530292?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Mar 08 |
 | ↳ | **[Senior Associate, Product Management - Customer Services & Strategy (US Card)](https://jobright.ai/jobs/info/69ad9ad6142d5b4265fea8a9?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Mar 08 |
-| ↳ | **[Senior Associate , Product Management –GPN Core Data Platform Services](https://jobright.ai/jobs/info/69740db837785856350df3b7?utm_campaign=Product%20Management&utm_source=1103)** | Deerfield, IL | On Site | Mar 08 |
 | ↳ | **[Sr. Associate, Product Management - Internal Enablement](https://jobright.ai/jobs/info/6974123e37785856350df692?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Mar 08 |
+| ↳ | **[Senior Associate , Product Management –GPN Core Data Platform Services](https://jobright.ai/jobs/info/69740db837785856350df3b7?utm_campaign=Product%20Management&utm_source=1103)** | Deerfield, IL | On Site | Mar 08 |
 | ↳ | **[Senior Associate , Product Management –GPN Core Data Platform Services](https://jobright.ai/jobs/info/697415be206da320f49e20be?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Mar 08 |
 | ↳ | **[Sr. Associate, Product Management - Internal Enablement](https://jobright.ai/jobs/info/6974114cbc8e722e7b18f1f6?utm_campaign=Product%20Management&utm_source=1103)** | Deerfield, IL | On Site | Mar 08 |
 | **[Nelson Mazda](http://nelsonmazda.com)** | **[Product Genius](https://jobright.ai/jobs/info/69ad8b037e1fab39d384f67e?utm_campaign=Product%20Management&utm_source=1103)** | Norman, OK | On Site | Mar 08 |
