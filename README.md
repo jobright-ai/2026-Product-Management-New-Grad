@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Arc](https://arcboats.com)** | **[Product Advisor, Southeast](https://jobright.ai/jobs/info/69b7126d06c1ba00c548de83?utm_campaign=Product%20Management&utm_source=1103)** | Torrance, CA | On Site | Mar 15 |
+| **[Actabl](https://www.actabl.com)** | **[Product Owner](https://jobright.ai/jobs/info/69b7125206c1ba00c548de1f?utm_campaign=Product%20Management&utm_source=1103)** | Oldsmar, FL | Hybrid | Mar 15 |
 | **[Nordson Corporation](http://www.nordson.com)** | **[Product Line Manager I](https://jobright.ai/jobs/info/699fe03bce78e77b4fe5cc32?utm_campaign=Product%20Management&utm_source=1103)** | Loveland, CO | On Site | Mar 15 |
 | **[Camping World](https://investor.campingworld.com)** | **[Product Specialist Advisor](https://jobright.ai/jobs/info/695de69a62ca9111e7826333?utm_campaign=Product%20Management&utm_source=1103)** | Little Falls, MN | On Site | Mar 15 |
 | ↳ | **[Product Specialist](https://jobright.ai/jobs/info/694b6d0c1a572a617dddc1c6?utm_campaign=Product%20Management&utm_source=1103)** | Fountain, CO | On Site | Mar 15 |
@@ -177,8 +179,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Senior Associate, Product Management - Digital Information Exchange & Analytics](https://jobright.ai/jobs/info/69a2a3620da45516f16c025c?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Mar 11 |
 | **[F.W. Webb Company](https://www.fwwebb.com)** | **[High Purity Customer Product Growth Specialist](https://jobright.ai/jobs/info/69b1c4a0d04c69566c740a6d?utm_campaign=Product%20Management&utm_source=1103)** | Cranston, RI | On Site | Mar 11 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management - Commercial Banking](https://jobright.ai/jobs/info/6995144ece78e77b4fd92cd5?utm_campaign=Product%20Management&utm_source=1103)** | Charlotte, NC | On Site | Mar 11 |
-| ↳ | **[Product Management Senior Associate, Commercial Banking](https://jobright.ai/jobs/info/69956a14e0bddb6acac3fe0f?utm_campaign=Product%20Management&utm_source=1103)** | Charlotte, NC | On Site | Mar 11 |
 | ↳ | **[Product Management Senior Associate, Commercial Banking](https://jobright.ai/jobs/info/699581dae0bddb6acac41a65?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Mar 11 |
+| ↳ | **[Product Management Senior Associate, Commercial Banking](https://jobright.ai/jobs/info/69956a14e0bddb6acac3fe0f?utm_campaign=Product%20Management&utm_source=1103)** | Charlotte, NC | On Site | Mar 11 |
 | ↳ | **[Senior Associate, Product Management - Commercial Banking](https://jobright.ai/jobs/info/69a283130da45516f16bd517?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Mar 11 |
 | **[Goldman Sachs](https://www.goldmansachs.com)** | **[Asset & Wealth Management, Product Management, Analyst - New York](https://jobright.ai/jobs/info/69b19b8c65de58104c70a4cf?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Mar 11 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management - Commercial Banking](https://jobright.ai/jobs/info/69951ce681476f6176acfa86?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Mar 11 |
