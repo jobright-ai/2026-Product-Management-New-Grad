@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Camping World](https://investor.campingworld.com)** | **[Product Specialist](https://jobright.ai/jobs/info/694b6d0c1a572a617dddc1c6?utm_campaign=Product%20Management&utm_source=1103)** | Fountain, CO | On Site | Mar 15 |
+| **[Camping World](https://investor.campingworld.com)** | **[Product Specialist Advisor](https://jobright.ai/jobs/info/695de69a62ca9111e7826333?utm_campaign=Product%20Management&utm_source=1103)** | Little Falls, MN | On Site | Mar 15 |
+| ↳ | **[Product Specialist](https://jobright.ai/jobs/info/694b6d0c1a572a617dddc1c6?utm_campaign=Product%20Management&utm_source=1103)** | Fountain, CO | On Site | Mar 15 |
 | ↳ | **[Product Specialist](https://jobright.ai/jobs/info/6971a56a51f726477183fda2?utm_campaign=Product%20Management&utm_source=1103)** | Lakeville, MN | On Site | Mar 15 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Manager - Capital One Travel](https://jobright.ai/jobs/info/69991690e0bddb6acac8105b?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Mar 14 |
 | **[Red Ventures](http://www.redventures.com)** | **[Early Career: Associate Data Science Product Manager - NYC](https://jobright.ai/jobs/info/6998d16cce78e77b4fdd6216?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Mar 14 |
@@ -210,8 +211,8 @@ For a complete list, click the following sortable link below:
 | **[Supermicro](http://www.supermicro.com)** | **[Associate Product Manager - Key Components](https://jobright.ai/jobs/info/69b08bc80b2db6275c04b456?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA | On Site | Mar 10 |
 | **[Earthbound](https://earthboundbrands.com/)** | **[Licensing Product Coordinator](https://jobright.ai/jobs/info/69a8d62379f3f4037f435f98?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Mar 10 |
 | **[ROKiT](https://therokitgroup.com/)** | **[Web Product Developer](https://jobright.ai/jobs/info/69b0577ddfaeda6ff59a0baf?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco Bay Area | Remote | Mar 10 |
-| **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management, DMDC Open Banking](https://jobright.ai/jobs/info/69b0708a0b2db6275c045cd0?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Mar 10 |
-| ↳ | **[Senior Associate, Product Management, DMDC Open Banking](https://jobright.ai/jobs/info/69b076c2dfaeda6ff59a5523?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Mar 10 |
+| **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management, DMDC Open Banking](https://jobright.ai/jobs/info/69b076c2dfaeda6ff59a5523?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Mar 10 |
+| ↳ | **[Senior Associate, Product Management, DMDC Open Banking](https://jobright.ai/jobs/info/69b0708a0b2db6275c045cd0?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Mar 10 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Product Purchasing Assistant (Glasgow, KY)](https://jobright.ai/jobs/info/69b044a6dfaeda6ff599d62f?utm_campaign=Product%20Management&utm_source=1103)** | Glasgow, KY | On Site | Mar 10 |
 | **[ConnectPay Payroll Services](https://www.connectpayusa.com/)** | **[Product Owner](https://jobright.ai/jobs/info/6978b95539f7f96cc6d123e1?utm_campaign=Product%20Management&utm_source=1103)** | Mansfield, MA | Hybrid | Mar 10 |
 | **[Church & Dwight Co., Inc.](https://www.churchdwight.ca/)** | **[Product Management Specialist](https://jobright.ai/jobs/info/69b039db749500645096102e?utm_campaign=Product%20Management&utm_source=1103)** | Mississauga, Ontario, Canada | Hybrid | Mar 10 |
@@ -229,6 +230,4 @@ For a complete list, click the following sortable link below:
 | **[Prent Corporation](https://www.prent.com/)** | **[New Product Introduction Coordinator](https://jobright.ai/jobs/info/69aefe836b21de023e6016ff?utm_campaign=Product%20Management&utm_source=1103)** | Janesville, WI | On Site | Mar 09 |
 | **[Roblox](https://corp.roblox.com)** | **[Product Policy Specialist](https://jobright.ai/jobs/info/69993ebbe0bddb6acac85755?utm_campaign=Product%20Management&utm_source=1103)** | San Mateo, CA, United States | Hybrid | Mar 09 |
 | **[Actively AI](https://www.actively.ai)** | **[Product Operations](https://jobright.ai/jobs/info/69771273fdeb8243a279ec47?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Mar 09 |
-| **[Capital One](http://www.capitalone.com)** | **[Sr. Associate, Product Management - Internal Enablement](https://jobright.ai/jobs/info/6974171f206da320f49e3794?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Mar 08 |
-| ↳ | **[Sr. Associate, Product Manager - Settlement Core Products](https://jobright.ai/jobs/info/6974155637785856350df8d0?utm_campaign=Product%20Management&utm_source=1103)** | Deerfield, IL | On Site | Mar 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
