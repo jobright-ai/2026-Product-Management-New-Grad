@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Product Management Specialist III](https://jobright.ai/jobs/info/69b714df56973837413c4a7d?utm_campaign=Product%20Management&utm_source=1103)** | Rochester, NY | On Site | Mar 15 |
 | **[Arc](https://arcboats.com)** | **[Product Advisor, Southeast](https://jobright.ai/jobs/info/69b7126d06c1ba00c548de83?utm_campaign=Product%20Management&utm_source=1103)** | Torrance, CA | On Site | Mar 15 |
 | **[Actabl](https://www.actabl.com)** | **[Product Owner](https://jobright.ai/jobs/info/69b7125206c1ba00c548de1f?utm_campaign=Product%20Management&utm_source=1103)** | Oldsmar, FL | Hybrid | Mar 15 |
 | **[Nordson Corporation](http://www.nordson.com)** | **[Product Line Manager I](https://jobright.ai/jobs/info/699fe03bce78e77b4fe5cc32?utm_campaign=Product%20Management&utm_source=1103)** | Loveland, CO | On Site | Mar 15 |
