@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nordson Corporation](http://www.nordson.com)** | **[Product Line Manager I](https://jobright.ai/jobs/info/699fe03bce78e77b4fe5cc32?utm_campaign=Product%20Management&utm_source=1103)** | Loveland, CO | On Site | Mar 15 |
 | **[Camping World](https://investor.campingworld.com)** | **[Product Specialist Advisor](https://jobright.ai/jobs/info/695de69a62ca9111e7826333?utm_campaign=Product%20Management&utm_source=1103)** | Little Falls, MN | On Site | Mar 15 |
 | ↳ | **[Product Specialist](https://jobright.ai/jobs/info/694b6d0c1a572a617dddc1c6?utm_campaign=Product%20Management&utm_source=1103)** | Fountain, CO | On Site | Mar 15 |
 | ↳ | **[Product Specialist](https://jobright.ai/jobs/info/6971a56a51f726477183fda2?utm_campaign=Product%20Management&utm_source=1103)** | Lakeville, MN | On Site | Mar 15 |
