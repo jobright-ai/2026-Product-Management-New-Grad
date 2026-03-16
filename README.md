@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Aritzia](https://www.aritzia.com/)** | **[Product - Senior Associate/Associate, Production](https://jobright.ai/jobs/info/69b85f5706c1ba00c54a3a64?utm_campaign=Product%20Management&utm_source=1103)** | Support Office (Vancouver) | On Site | Mar 16 |
+| **[Camping World](https://investor.campingworld.com)** | **[Product Specialist Advisor](https://jobright.ai/jobs/info/69b85daf56973837413d9e82?utm_campaign=Product%20Management&utm_source=1103)** | Silverdale, WA | On Site | Mar 16 |
+| ↳ | **[Product Specialist](https://jobright.ai/jobs/info/69b85da756973837413d9e76?utm_campaign=Product%20Management&utm_source=1103)** | Fife, WA | On Site | Mar 16 |
+| ↳ | **[Product Specialist Advisor](https://jobright.ai/jobs/info/69b85d3c3b74eb1e2c8612f2?utm_campaign=Product%20Management&utm_source=1103)** | Alvarado, TX | On Site | Mar 16 |
+| ↳ | **[Product Specialist Advisor](https://jobright.ai/jobs/info/69b85d1406c1ba00c54a373e?utm_campaign=Product%20Management&utm_source=1103)** | North Little Rock, AR | On Site | Mar 16 |
 | **[Traveland RV Supercentre](https://www.travelandrvcanada.com)** | **[Product Advisor - RV Dealership](https://jobright.ai/jobs/info/69b857ca3b74eb1e2c860442?utm_campaign=Product%20Management&utm_source=1103)** | Airdrie, Alberta, Canada | On Site | Mar 16 |
 | **[Red Ventures](http://www.redventures.com)** | **[2026 Launch Program: Associate Data Science Product Manager](https://jobright.ai/jobs/info/68f0ba5aeb273a32d976cd44?utm_campaign=Product%20Management&utm_source=1103)** | Charlotte, NC | On Site | Mar 16 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Product Owner](https://jobright.ai/jobs/info/69b838983b74eb1e2c85d88d?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Mar 16 |
