@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ChromoLogic LLC](https://www.chromologic.com)** | **[Junior Product Manager](https://jobright.ai/jobs/info/69b9029b06c1ba00c54b0879?utm_campaign=Product%20Management&utm_source=1103)** | Monrovia, CA | On Site | Mar 17 |
 | **[National Assemblers Inc.](https://www.nationalassemblers.com)** | **[Ensamblador de Productos - ¡Pago Semanal!](https://jobright.ai/jobs/info/69b8c0853b74eb1e2c86ccf2?utm_campaign=Product%20Management&utm_source=1103)** | South Point, OH | On Site | Mar 16 |
 | ↳ | **[Ensamblador de Productos - ¡Pago Semanal!](https://jobright.ai/jobs/info/69b8c06f06c1ba00c54aeefa?utm_campaign=Product%20Management&utm_source=1103)** | Peoria, IL | On Site | Mar 16 |
 | **[HYUNDAI L&C USA](http://www.hyundailncusa.com)** | **[Product Operations Analyst (Bilingual Korean/ English)](https://jobright.ai/jobs/info/69b8c4623b74eb1e2c86ced8?utm_campaign=Product%20Management&utm_source=1103)** | Norcross, GA, US | On Site | Mar 16 |
@@ -124,7 +125,7 @@ For a complete list, click the following sortable link below:
 | **[moomoo](https://www.moomoo.com)** | **[Product Manager, Derivatives Trading Platform](https://jobright.ai/jobs/info/695fdf8da112b402660e816a?utm_campaign=Product%20Management&utm_source=1103)** | Jersey City, NJ | On Site | Mar 13 |
 | **[AMEX Healthcare](https://www.amex-vienna.at/)** | **[Associate, Digital Product Management](https://jobright.ai/jobs/info/69b44c1106c1ba00c5458ebf?utm_campaign=Product%20Management&utm_source=1103)** | Palo Alto, CA | Hybrid | Mar 13 |
 | **[Universal Music Group](https://www.universalmusic.com)** | **[Coordinator, Product Development](https://jobright.ai/jobs/info/69b4364106c1ba00c5456b16?utm_campaign=Product%20Management&utm_source=1103)** | New York, New York | On Site | Mar 13 |
-| **[Abbott](https://www.abbott.com)** | **[Product Development Specialist](https://jobright.ai/jobs/info/69b436283b74eb1e2c8152d9?utm_campaign=Product%20Management&utm_source=1103)** | United States - South Carolina - Liberty | On Site | Mar 13 |
+| **[Abbott](https://www.abbott.com)** | **[Product Development Specialist](https://jobright.ai/jobs/info/69b436283b74eb1e2c8152de?utm_campaign=Product%20Management&utm_source=1103)** | United States - South Carolina - Liberty | On Site | Mar 13 |
 | ↳ | **[Product Development Specialist](https://jobright.ai/jobs/info/69b430a7569738374138d0d6?utm_campaign=Product%20Management&utm_source=1103)** | Liberty, SC | On Site | Mar 13 |
 | **[Santander Bank, N.A.](https://www.santanderbank.com)** | **[Letter of Credit Product Specialist - Analyst](https://jobright.ai/jobs/info/697b7e9c1423772304eba3d4?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Mar 13 |
 | **[Littelfuse](http://www.littelfuse.com)** | **[Associate Product Manager, Relays](https://jobright.ai/jobs/info/696fd2de3ed06875134abb2c?utm_campaign=Product%20Management&utm_source=1103)** | Rapid City, SD | On Site | Mar 13 |
@@ -191,8 +192,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Senior Associate, Product Management - Digital Information Exchange & Analytics](https://jobright.ai/jobs/info/69a2a3620da45516f16c025c?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Mar 11 |
 | **[F.W. Webb Company](https://www.fwwebb.com)** | **[High Purity Customer Product Growth Specialist](https://jobright.ai/jobs/info/69b1c4a0d04c69566c740a6d?utm_campaign=Product%20Management&utm_source=1103)** | Cranston, RI | On Site | Mar 11 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management - Commercial Banking](https://jobright.ai/jobs/info/6995144ece78e77b4fd92cd5?utm_campaign=Product%20Management&utm_source=1103)** | Charlotte, NC | On Site | Mar 11 |
-| ↳ | **[Product Management Senior Associate, Commercial Banking](https://jobright.ai/jobs/info/69956a14e0bddb6acac3fe0f?utm_campaign=Product%20Management&utm_source=1103)** | Charlotte, NC | On Site | Mar 11 |
 | ↳ | **[Product Management Senior Associate, Commercial Banking](https://jobright.ai/jobs/info/699581dae0bddb6acac41a65?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Mar 11 |
+| ↳ | **[Product Management Senior Associate, Commercial Banking](https://jobright.ai/jobs/info/69956a14e0bddb6acac3fe0f?utm_campaign=Product%20Management&utm_source=1103)** | Charlotte, NC | On Site | Mar 11 |
 | ↳ | **[Senior Associate, Product Management - Commercial Banking](https://jobright.ai/jobs/info/69a283130da45516f16bd517?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Mar 11 |
 | **[Goldman Sachs](https://www.goldmansachs.com)** | **[Asset & Wealth Management, Product Management, Analyst - New York](https://jobright.ai/jobs/info/69b19b8c65de58104c70a4cf?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Mar 11 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management - Commercial Banking](https://jobright.ai/jobs/info/69951ce681476f6176acfa86?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Mar 11 |
@@ -228,6 +229,4 @@ For a complete list, click the following sortable link below:
 | **[ROKiT](https://therokitgroup.com/)** | **[Web Product Developer](https://jobright.ai/jobs/info/69b0577ddfaeda6ff59a0baf?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco Bay Area | Remote | Mar 10 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management, DMDC Open Banking](https://jobright.ai/jobs/info/69b0708a0b2db6275c045cd0?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Mar 10 |
 | ↳ | **[Senior Associate, Product Management, DMDC Open Banking](https://jobright.ai/jobs/info/69b076c2dfaeda6ff59a5523?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Mar 10 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Product Purchasing Assistant (Glasgow, KY)](https://jobright.ai/jobs/info/69b044a6dfaeda6ff599d62f?utm_campaign=Product%20Management&utm_source=1103)** | Glasgow, KY | On Site | Mar 10 |
-| **[ConnectPay Payroll Services](https://www.connectpayusa.com/)** | **[Product Owner](https://jobright.ai/jobs/info/6978b95539f7f96cc6d123e1?utm_campaign=Product%20Management&utm_source=1103)** | Mansfield, MA | Hybrid | Mar 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
