@@ -241,5 +241,4 @@ For a complete list, click the following sortable link below:
 | **[Snowshoe Mountain](http://www.snowshoemountain.com/jobs)** | **[Retail Product Coordinator](https://jobright.ai/jobs/info/69b815053b74eb1e2c85bb99?utm_campaign=Product%20Management&utm_source=1103)** | Snowshoe, WV | On Site | Mar 10 |
 | **[Westin Furniture](https://westinfurniture.com)** | **[Product Information Management Assistant](https://jobright.ai/jobs/info/69b00cb5749500645095a8db?utm_campaign=Product%20Management&utm_source=1103)** | Ontario, CA | On Site | Mar 10 |
 | **[Brooklinen](https://www.brooklinen.com)** | **[Product Development Associate](https://jobright.ai/jobs/info/6993ae51ce78e77b4fd78262?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Mar 10 |
-| **[Adobe](http://www.adobe.com)** | **[2026 MBA University Graduate - Product Manager](https://jobright.ai/jobs/info/69ac6043142d5b4265fdaa69?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA | On Site | Mar 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
