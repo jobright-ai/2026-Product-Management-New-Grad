@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Chadwell Supply](http://chadwellsupply.com)** | **[Product Data Specialist](https://jobright.ai/jobs/info/69cd37c6398fb071abf7317c?utm_campaign=Product%20Management&utm_source=1103)** | Tampa, FL | Hybrid | Apr 01 |
+| **[Canadian Tire Corporation](https://corp.canadiantire.ca)** | **[Product Management Analyst](https://jobright.ai/jobs/info/69cd35ea54f00230c6ced46b?utm_campaign=Product%20Management&utm_source=1103)** | Oakville, ON | On Site | Apr 01 |
 | **[Perry Ellis International](http://www.pery.com)** | **[Product Operations Temp](https://jobright.ai/jobs/info/69cd2a9bcfdc6132f9416132?utm_campaign=Product%20Management&utm_source=1103)** | New York, New York, United States | On Site | Apr 01 |
 | **[Nationwide](http://nationwide.com)** | **[Associate Product Manager - Underwriting Strategy](https://jobright.ai/jobs/info/69cd229d398fb071abf72851?utm_campaign=Product%20Management&utm_source=1103)** | Columbus, OH | On Site | Apr 01 |
 | **[Marriott International](https://www.marriott.com/hotels/travel/mkeak-hotel-metro-autograph-collection/)** | **[Technical Product Analyst](https://jobright.ai/jobs/info/69cd150bcdb525785fb85112?utm_campaign=Product%20Management&utm_source=1103)** | Bethesda, MD | Hybrid | Apr 01 |
@@ -186,5 +188,4 @@ For a complete list, click the following sortable link below:
 | **[Blue Line Solutions](https://bluelinesolutions.org)** | **[Product Owner](https://jobright.ai/jobs/info/69c5c5f21b5ad0288737911c?utm_campaign=Product%20Management&utm_source=1103)** | Chattanooga, TN | On Site | Mar 25 |
 | **[Kinective](https://www.kinective.io)** | **[Technical Business Analyst](https://jobright.ai/jobs/info/69c47e23d5a1016e98dbbd60?utm_campaign=Product%20Management&utm_source=1103)** | Gilbert, AZ | On Site | Mar 25 |
 | **[Moxie Pest Control](https://www.moxieservices.com)** | **[Product Lines Appointment Setter](https://jobright.ai/jobs/info/69c476b633eecf310794c934?utm_campaign=Product%20Management&utm_source=1103)** | Sheridan, CO | On Site | Mar 25 |
-| **[Meison](http://www.toula.com/)** | **[Product Development Assistant- Women's Apparel](https://jobright.ai/jobs/info/69c496abd5a1016e98dbe0d4?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Mar 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
