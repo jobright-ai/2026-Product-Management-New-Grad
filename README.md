@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[S&S Activewear](https://www.ssactivewear.com)** | **[Product Data Coordinator (Hybrid) Bolingbrook](https://jobright.ai/jobs/info/69cd4057cfdc6132f9416b64?utm_campaign=Product%20Management&utm_source=1103)** | Bolingbrook, IL, US | Hybrid | Apr 01 |
 | **[Chadwell Supply](http://chadwellsupply.com)** | **[Product Data Specialist](https://jobright.ai/jobs/info/69cd37c6398fb071abf7317c?utm_campaign=Product%20Management&utm_source=1103)** | Tampa, FL | Hybrid | Apr 01 |
 | **[Canadian Tire Corporation](https://corp.canadiantire.ca)** | **[Product Management Analyst](https://jobright.ai/jobs/info/69cd35ea54f00230c6ced46b?utm_campaign=Product%20Management&utm_source=1103)** | Oakville, ON | On Site | Apr 01 |
 | **[Perry Ellis International](http://www.pery.com)** | **[Product Operations Temp](https://jobright.ai/jobs/info/69cd2a9bcfdc6132f9416132?utm_campaign=Product%20Management&utm_source=1103)** | New York, New York, United States | On Site | Apr 01 |
@@ -64,6 +65,7 @@ For a complete list, click the following sortable link below:
 | **[Marriott International](https://www.marriott.com/hotels/travel/mkeak-hotel-metro-autograph-collection/)** | **[Technical Product Analyst](https://jobright.ai/jobs/info/69cd150bcdb525785fb85112?utm_campaign=Product%20Management&utm_source=1103)** | Bethesda, MD | Hybrid | Apr 01 |
 | **[StubHub](http://www.stubhub.com)** | **[Associate Product Manager - Marketing Operations](https://jobright.ai/jobs/info/699522f7ce78e77b4fd93ab1?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Apr 01 |
 | **[L1VE](https://l1ve.com)** | **[Junior Product Manager](https://jobright.ai/jobs/info/69ccf59ecfdc6132f9415149?utm_campaign=Product%20Management&utm_source=1103)** | New York, United States | Hybrid | Apr 01 |
+| **[nesto](https://www.nesto.ca)** | **[Product Analyst, Customer Experience](https://jobright.ai/jobs/info/69cd4c14cfdc6132f9417089?utm_campaign=Product%20Management&utm_source=1103)** | Vancouver, BC | Hybrid | Apr 01 |
 | **[Camping World](https://investor.campingworld.com)** | **[Product Specailist Advisor](https://jobright.ai/jobs/info/69b63bc556973837413b7c6a?utm_campaign=Product%20Management&utm_source=1103)** | Fort Worth, TX | On Site | Apr 01 |
 | **[TikTok](https://www.tiktok.com)** | **[TikTok Shop - FBT Product Solution Manager - Seattle](https://jobright.ai/jobs/info/69ccd80f366bb95ba54f7828?utm_campaign=Product%20Management&utm_source=1103)** | Seattle, WA | On Site | Apr 01 |
 | **[Kidde Global Solutions](https://www.kiddeglobalsolutions.com)** | **[Product Management Associate](https://jobright.ai/jobs/info/69ab9143142d5b4265fcaa0e?utm_campaign=Product%20Management&utm_source=1103)** | Mebane, NC | On Site | Apr 01 |
@@ -149,8 +151,8 @@ For a complete list, click the following sortable link below:
 | **[Capital One](http://www.capitalone.com)** | **[Sr. Associate, Product Manager - Global Payment Network](https://jobright.ai/jobs/info/698f3ee80f6f7e7a2ceb6382?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Mar 27 |
 | **[Think Academy U.S](http://www.thethinkacademy.com)** | **[Math Competition Product Manager](https://jobright.ai/jobs/info/69c6e53bb773006330b73eac?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA | On Site | Mar 27 |
 | ↳ | **[Math Competition Product Manager](https://jobright.ai/jobs/info/69c6e6a11b5ad02887388235?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA | On Site | Mar 27 |
-| **[American Express](http://www.americanexpress.com)** | **[Associate, Digital Product Management](https://jobright.ai/jobs/info/69cbfe78cfdc6132f9409b5d?utm_campaign=Product%20Management&utm_source=1103)** | New York, New York, United States | Hybrid | Mar 27 |
-| ↳ | **[Associate, Digital Product Management](https://jobright.ai/jobs/info/69cbfea3891d7b11cfca9cd2?utm_campaign=Product%20Management&utm_source=1103)** | Sunrise, Florida, United States | Hybrid | Mar 27 |
+| **[American Express](http://www.americanexpress.com)** | **[Associate, Digital Product Management](https://jobright.ai/jobs/info/69cbfea3891d7b11cfca9cd2?utm_campaign=Product%20Management&utm_source=1103)** | Sunrise, Florida, United States | Hybrid | Mar 27 |
+| ↳ | **[Associate, Digital Product Management](https://jobright.ai/jobs/info/69cbfe78cfdc6132f9409b5d?utm_campaign=Product%20Management&utm_source=1103)** | New York, New York, United States | Hybrid | Mar 27 |
 | **[JetBlue](http://www.jetblue.com/)** | **[Analyst Inflight Entertainment](https://jobright.ai/jobs/info/69c69cb21818a24cd84c73df?utm_campaign=Product%20Management&utm_source=1103)** | New York, New York, United States | On Site | Mar 27 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Associate Product Developer - Motorized Treats](https://jobright.ai/jobs/info/69c69483e565c26a70021289?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Mar 27 |
 | **[Samsara](http://www.samsara.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/698e251b0f6f7e7a2cea3333?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Mar 27 |
@@ -185,7 +187,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Operations Lead / Rosedale Center](https://jobright.ai/jobs/info/69c4dab6d5a1016e98dc3e45?utm_campaign=Product%20Management&utm_source=1103)** | Roseville, MN | On Site | Mar 26 |
 | **[A Leading Role](https://www.aleadingrole.com)** | **[Product Development Assistant](https://jobright.ai/jobs/info/69c4ccc433eecf3107953a82?utm_campaign=Product%20Management&utm_source=1103)** | Los Angeles, CA | On Site | Mar 25 |
 | **[Philip Morris International U.S.](https://www.uspmi.com/)** | **[Product Master Data Coordinator](https://jobright.ai/jobs/info/69c8a0b6aa3c2c1995e1fa2b?utm_campaign=Product%20Management&utm_source=1103)** | Owensboro, KY | On Site | Mar 25 |
-| **[Blue Line Solutions](https://bluelinesolutions.org)** | **[Product Owner](https://jobright.ai/jobs/info/69c5c5f21b5ad0288737911c?utm_campaign=Product%20Management&utm_source=1103)** | Chattanooga, TN | On Site | Mar 25 |
-| **[Kinective](https://www.kinective.io)** | **[Technical Business Analyst](https://jobright.ai/jobs/info/69c47e23d5a1016e98dbbd60?utm_campaign=Product%20Management&utm_source=1103)** | Gilbert, AZ | On Site | Mar 25 |
-| **[Moxie Pest Control](https://www.moxieservices.com)** | **[Product Lines Appointment Setter](https://jobright.ai/jobs/info/69c476b633eecf310794c934?utm_campaign=Product%20Management&utm_source=1103)** | Sheridan, CO | On Site | Mar 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
