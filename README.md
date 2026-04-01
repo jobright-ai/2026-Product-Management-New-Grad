@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[StubHub](http://www.stubhub.com)** | **[Associate Product Manager - Marketing Operations](https://jobright.ai/jobs/info/699522f7ce78e77b4fd93ab1?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Apr 01 |
+| **[L1VE](https://l1ve.com)** | **[Junior Product Manager](https://jobright.ai/jobs/info/69ccf59ecfdc6132f9415149?utm_campaign=Product%20Management&utm_source=1103)** | New York, United States | Hybrid | Apr 01 |
 | **[Camping World](https://investor.campingworld.com)** | **[Product Specailist Advisor](https://jobright.ai/jobs/info/69b63bc556973837413b7c6a?utm_campaign=Product%20Management&utm_source=1103)** | Fort Worth, TX | On Site | Apr 01 |
 | **[TikTok](https://www.tiktok.com)** | **[TikTok Shop - FBT Product Solution Manager - Seattle](https://jobright.ai/jobs/info/69ccd80f366bb95ba54f7828?utm_campaign=Product%20Management&utm_source=1103)** | Seattle, WA | On Site | Apr 01 |
+| **[Kidde Global Solutions](https://www.kiddeglobalsolutions.com)** | **[Product Management Associate](https://jobright.ai/jobs/info/69ab9143142d5b4265fcaa0e?utm_campaign=Product%20Management&utm_source=1103)** | Mebane, NC | On Site | Apr 01 |
 | **[Nationwide](http://nationwide.com)** | **[Associate Product Manager - Underwriting Strategy](https://jobright.ai/jobs/info/69ccabe3e1921223acc7b8f3?utm_campaign=Product%20Management&utm_source=1103)** | Ohio | On Site | Mar 31 |
 | ↳ | **[Associate Product Manager - Underwriting Strategy](https://jobright.ai/jobs/info/69ccabcb8130af1ac833e188?utm_campaign=Product%20Management&utm_source=1103)** | United States - Remote | Remote | Mar 31 |
 | **[TikTok](https://www.tiktok.com)** | **[Associate Product Manager - TikTok Safety Product (San Jose)](https://jobright.ai/jobs/info/69cc7a3f8130af1ac8338a5d?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA | On Site | Mar 31 |
@@ -186,11 +189,5 @@ For a complete list, click the following sortable link below:
 | **[Kinective](https://www.kinective.io)** | **[Technical Business Analyst](https://jobright.ai/jobs/info/69c48bb033eecf310794e49c?utm_campaign=Product%20Management&utm_source=1103)** | Gilbert,AZ,US | On Site | Mar 25 |
 | **[Delaware North](http://www.delawarenorth.com/)** | **[Workday Product Owner, Learning and Performance](https://jobright.ai/jobs/info/69c45a8433eecf310794a519?utm_campaign=Product%20Management&utm_source=1103)** | Buffalo, NY | On Site | Mar 25 |
 | **[JLG Industries](http://www.jlg.com/en)** | **[Supply Chain Associate (New Product Development)](https://jobright.ai/jobs/info/69c456016f4f855eeda6cac5?utm_campaign=Product%20Management&utm_source=1103)** | Hagerstown, MD | On Site | Mar 25 |
-| **[lululemon](http://shop.lululemon.com)** | **[Product Operations Lead / Santana Row, San Jose](https://jobright.ai/jobs/info/69c438096f4f855eeda69e90?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA | On Site | Mar 25 |
 | **[Oshkosh Corporation](https://www.oshkoshcorp.com/)** | **[Supply Chain Associate (New Product Development)](https://jobright.ai/jobs/info/69c459526f4f855eeda6cfa6?utm_campaign=Product%20Management&utm_source=1103)** | Hagerstown, Maryland, United States | On Site | Mar 25 |
-| **[Capital One](http://www.capitalone.com)** | **[Sr. Associate, Product Management, Decisioning Platform Orchestration](https://jobright.ai/jobs/info/69a82e0a7ac93962b707eb99?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Mar 25 |
-| ↳ | **[Senior Associate, Product Management - Prometheus Financial Core (PFC)](https://jobright.ai/jobs/info/69a926f079f3f4037f43e216?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Mar 25 |
-| ↳ | **[Sr. Associate, Product Management, Decisioning Platform Orchestration](https://jobright.ai/jobs/info/69a926c379f3f4037f43e1c6?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Mar 25 |
-| ↳ | **[Senior Associate, Product Management - Platform (CI/CD)](https://jobright.ai/jobs/info/69a8b17079f3f4037f430b08?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | Hybrid | Mar 25 |
-| **[American Express](http://www.americanexpress.com)** | **[Associate-Digital Product Management, Digital Lounge Services](https://jobright.ai/jobs/info/69cc18ade1921223acc73e9f?utm_campaign=Product%20Management&utm_source=1103)** | New York, New York, United States | Hybrid | Mar 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
