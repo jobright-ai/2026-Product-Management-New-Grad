@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[lululemon](http://shop.lululemon.com)** | **[Product Operations Lead / Orland Square Pop Up](https://jobright.ai/jobs/info/69d22a1e0b098b7a6708781a?utm_campaign=Product%20Management&utm_source=1103)** | Orland Park, IL | On Site | Apr 05 |
 | **[Alchemy Consulting Group](https://alchemy-consulting.com/)** | **[Purchasing Assistant](https://jobright.ai/jobs/info/69d1e919cfdc6132f94477c0?utm_campaign=Product%20Management&utm_source=1103)** | Remote job | Remote | Apr 04 |
 | **[New Era Cap](https://www.neweracap.com/)** | **[Product Developer, Sourcing Coordinator (Headwear and Apparel)](https://jobright.ai/jobs/info/69994e4fce78e77b4fde169b?utm_campaign=Product%20Management&utm_source=1103)** | Buffalo, NY | On Site | Apr 04 |
 | **[SCAN](https://www.thescangroup.org/)** | **[Desktop Product Owner](https://jobright.ai/jobs/info/69c110662c312363dcd3c6f9?utm_campaign=Product%20Management&utm_source=1103)** | Long Beach, CA | Remote | Apr 04 |
@@ -183,9 +184,9 @@ For a complete list, click the following sortable link below:
 | **[lululemon](http://shop.lululemon.com)** | **[Product Operations Lead / (N. Austin) Round Rock Premium Outlets Pop Up (12 month contract)](https://jobright.ai/jobs/info/69cc4874366bb95ba54ee9e7?utm_campaign=Product%20Management&utm_source=1103)** | Round Rock, TX | On Site | Mar 31 |
 | **[ECS (Expert Computer Solutions)](https://www.ecsoffice.com/)** | **[Service Product & Billing Coordinator](https://jobright.ai/jobs/info/69cc4c5a8130af1ac8337aef?utm_campaign=Product%20Management&utm_source=1103)** | Houston, TX | On Site | Mar 31 |
 | **[Urban Umbrella](http://www.urbanumbrella.com)** | **[Junior Product Manager](https://jobright.ai/jobs/info/69cc51a5cdb525785fb7adea?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Mar 31 |
-| **[Salesforce](https://www.salesforce.com)** | **[Product Manager (Early Career)](https://jobright.ai/jobs/info/69cc27bae1921223acc74452?utm_campaign=Product%20Management&utm_source=1103)** | Washington - Bellevue | On Site | Mar 31 |
-| ↳ | **[Product Manager (Early Career)](https://jobright.ai/jobs/info/69cc2849366bb95ba54edd7a?utm_campaign=Product%20Management&utm_source=1103)** | Washington - Seattle | On Site | Mar 31 |
+| **[Salesforce](https://www.salesforce.com)** | **[Product Manager (Early Career)](https://jobright.ai/jobs/info/69cc2849366bb95ba54edd7a?utm_campaign=Product%20Management&utm_source=1103)** | Washington - Seattle | On Site | Mar 31 |
 | ↳ | **[Product Manager (Early Career)](https://jobright.ai/jobs/info/69cc285acdb525785fb79d53?utm_campaign=Product%20Management&utm_source=1103)** | California - San Francisco | On Site | Mar 31 |
+| ↳ | **[Product Manager (Early Career)](https://jobright.ai/jobs/info/69cc27bae1921223acc74452?utm_campaign=Product%20Management&utm_source=1103)** | Washington - Bellevue | On Site | Mar 31 |
 | **[Church & Dwight Co., Inc.](https://www.churchdwight.ca/)** | **[Product Management Specialist](https://jobright.ai/jobs/info/69b039db749500645096102e?utm_campaign=Product%20Management&utm_source=1103)** | Mississauga, ON | Hybrid | Mar 31 |
 | **[Gourmet Home Products](https://www.gourmethomeproducts.com/)** | **[Product Development Assistant](https://jobright.ai/jobs/info/69cc510f891d7b11cfcabc06?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Mar 31 |
 | **[Amphenol Communications Solutions](http://www.mergeoptics.com)** | **[Associate Product Line Manager](https://jobright.ai/jobs/info/69af32e0dfaeda6ff5974b87?utm_campaign=Product%20Management&utm_source=1103)** | Santa Clara, CA | On Site | Mar 31 |
