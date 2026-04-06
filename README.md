@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Micron Technology](http://www.micron.com)** | **[(New College Grad) HBM Product Manager](https://jobright.ai/jobs/info/69d3f335cdb525785fbc4b00?utm_campaign=Product%20Management&utm_source=1103)** | Boise, ID - Main Site | On Site | Apr 06 |
+| ↳ | **[(New College Grad) HBM Product Manager](https://jobright.ai/jobs/info/69d3f320366bb95ba5538efc?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA | On Site | Apr 06 |
 | **[Cisco](http://www.cisco.com)** | **[Product Management Specialist II (Full Time) - United States](https://jobright.ai/jobs/info/69d3e3d254f00230c6d2bc04?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, California, US | On Site | Apr 06 |
 | ↳ | **[Product Management Specialist II (Full Time) - United States](https://jobright.ai/jobs/info/69d3e3c6cfdc6132f9455364?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, California, US | On Site | Apr 06 |
 | ↳ | **[Product Management Specialist II (Full Time) - United States](https://jobright.ai/jobs/info/69d3e335891d7b11cfcf4e61?utm_campaign=Product%20Management&utm_source=1103)** | Austin, Texas, US | On Site | Apr 06 |
@@ -156,9 +158,9 @@ For a complete list, click the following sortable link below:
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Manager - Global Payment Network](https://jobright.ai/jobs/info/69cd92a7891d7b11cfcbda61?utm_campaign=Product%20Management&utm_source=1103)** | Riverwoods, IL | On Site | Apr 01 |
 | ↳ | **[Senior Associate, Product Manager - Global Payment Network](https://jobright.ai/jobs/info/69cd929f366bb95ba550083f?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Apr 01 |
 | ↳ | **[Senior Associate, Product Manager - Global Payment Network](https://jobright.ai/jobs/info/69cd929fcdb525785fb8c8bd?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Apr 01 |
-| **[Broadridge](http://www.broadridge.com)** | **[Product Owner (Hybrid - Pittsburgh, PA, Newark, NJ or NYC)](https://jobright.ai/jobs/info/69cd8c8b891d7b11cfcbcdd0?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Apr 01 |
+| **[Broadridge](http://www.broadridge.com)** | **[Product Owner (Hybrid - Pittsburgh, PA, Newark, NJ or NYC)](https://jobright.ai/jobs/info/69cd8c8b891d7b11cfcbcdcf?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Apr 01 |
 | ↳ | **[Product Owner (Hybrid - Pittsburgh, PA, Newark, NJ or NYC)](https://jobright.ai/jobs/info/69cd8c0ecdb525785fb8bf6a?utm_campaign=Product%20Management&utm_source=1103)** | Newark, NJ | Hybrid | Apr 01 |
-| ↳ | **[Product Owner (Hybrid - Pittsburgh, PA, Newark, NJ or NYC)](https://jobright.ai/jobs/info/69cd8bffcfdc6132f941ce20?utm_campaign=Product%20Management&utm_source=1103)** | Pittsburgh, PA | Hybrid | Apr 01 |
+| ↳ | **[Product Owner (Hybrid - Pittsburgh, PA, Newark, NJ or NYC)](https://jobright.ai/jobs/info/69cd8bffcfdc6132f941ce22?utm_campaign=Product%20Management&utm_source=1103)** | Pittsburgh, PA | Hybrid | Apr 01 |
 | **[S&S Activewear](https://www.ssactivewear.com)** | **[Product Data Coordinator (Hybrid) Bolingbrook](https://jobright.ai/jobs/info/69cd8a6e398fb071abf79186?utm_campaign=Product%20Management&utm_source=1103)** | Bolingbrook, IL | Hybrid | Apr 01 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management - Commercial Banking](https://jobright.ai/jobs/info/6995144ece78e77b4fd92cd5?utm_campaign=Product%20Management&utm_source=1103)** | Charlotte, NC | On Site | Apr 01 |
 | ↳ | **[Senior Associate, Product Management - Client and Associate Platforms](https://jobright.ai/jobs/info/69951a9dce78e77b4fd931e5?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Apr 01 |
@@ -192,8 +194,8 @@ For a complete list, click the following sortable link below:
 | **[ImageTrend](http://www.imagetrend.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/69cc4ab5891d7b11cfcab8e4?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Mar 31 |
 | **[lululemon](http://shop.lululemon.com)** | **[Product Operations Lead / (N. Austin) Round Rock Premium Outlets Pop Up (12 month contract)](https://jobright.ai/jobs/info/69cc4874366bb95ba54ee9e7?utm_campaign=Product%20Management&utm_source=1103)** | Round Rock, TX | On Site | Mar 31 |
 | **[Urban Umbrella](http://www.urbanumbrella.com)** | **[Junior Product Manager](https://jobright.ai/jobs/info/69cc51a5cdb525785fb7adea?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Mar 31 |
-| **[Salesforce](https://www.salesforce.com)** | **[Product Manager (Early Career)](https://jobright.ai/jobs/info/69cc2849366bb95ba54edd7a?utm_campaign=Product%20Management&utm_source=1103)** | Washington - Seattle | On Site | Mar 31 |
-| ↳ | **[Product Manager (Early Career)](https://jobright.ai/jobs/info/69cc285acdb525785fb79d53?utm_campaign=Product%20Management&utm_source=1103)** | California - San Francisco | On Site | Mar 31 |
+| **[Salesforce](https://www.salesforce.com)** | **[Product Manager (Early Career)](https://jobright.ai/jobs/info/69cc285acdb525785fb79d53?utm_campaign=Product%20Management&utm_source=1103)** | California - San Francisco | On Site | Mar 31 |
+| ↳ | **[Product Manager (Early Career)](https://jobright.ai/jobs/info/69cc2849366bb95ba54edd7a?utm_campaign=Product%20Management&utm_source=1103)** | Washington - Seattle | On Site | Mar 31 |
 | ↳ | **[Product Manager (Early Career)](https://jobright.ai/jobs/info/69cc27bae1921223acc74452?utm_campaign=Product%20Management&utm_source=1103)** | Washington - Bellevue | On Site | Mar 31 |
 | **[Church & Dwight Co., Inc.](https://www.churchdwight.ca/)** | **[Product Management Specialist](https://jobright.ai/jobs/info/69b039db749500645096102e?utm_campaign=Product%20Management&utm_source=1103)** | Mississauga, ON | Hybrid | Mar 31 |
 | **[Gourmet Home Products](https://www.gourmethomeproducts.com/)** | **[Product Development Assistant](https://jobright.ai/jobs/info/69cc510f891d7b11cfcabc06?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Mar 31 |
@@ -208,6 +210,4 @@ For a complete list, click the following sortable link below:
 | **[Vitamin Well Group](https://www.vitaminwell.com)** | **[Product Developer Protein Bars USA - Barebells](https://jobright.ai/jobs/info/69cb5240466f1e133aaccc36?utm_campaign=Product%20Management&utm_source=1103)** | Nashville, TN | On Site | Mar 30 |
 | **[Aritzia](https://www.aritzia.com/)** | **[Product - Senior Associate/Associate, Production](https://jobright.ai/jobs/info/69d1d5aacfdc6132f9446bf4?utm_campaign=Product%20Management&utm_source=1103)** | Vancouver, BC | On Site | Mar 30 |
 | **[Spirit AeroSystems](http://www.spiritaero.com)** | **[Product Define & Change Planning Specialist](https://jobright.ai/jobs/info/69cb38058fc6090c5d455bc2?utm_campaign=Product%20Management&utm_source=1103)** | Wichita, KS | On Site | Mar 30 |
-| **[Arc](https://arcboats.com)** | **[Product Advisor, Midwest](https://jobright.ai/jobs/info/69cb34788fc6090c5d455b01?utm_campaign=Product%20Management&utm_source=1103)** | Traverse City, MI | On Site | Mar 30 |
-| ↳ | **[Product Advisor, Midwest](https://jobright.ai/jobs/info/69cb34758fc6090c5d455afc?utm_campaign=Product%20Management&utm_source=1103)** | Minneapolis, MN | On Site | Mar 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
