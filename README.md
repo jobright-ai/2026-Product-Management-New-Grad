@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Camping World](https://investor.campingworld.com)** | **[Product Specialist](https://jobright.ai/jobs/info/69bcc8f745e08b3dc1f994ad?utm_campaign=Product%20Management&utm_source=1103)** | Lakeville, MN | On Site | Apr 06 |
+| ↳ | **[Product Specialist](https://jobright.ai/jobs/info/69cc9524366bb95ba54f3308?utm_campaign=Product%20Management&utm_source=1103)** | Fountain, CO | On Site | Apr 06 |
 | **[Navan](https://navan.com)** | **[Product Manager, Navan Connect](https://jobright.ai/jobs/info/69d3703854f00230c6d27a9e?utm_campaign=Product%20Management&utm_source=1103)** | Palo Alto, CA | Hybrid | Apr 06 |
 | ↳ | **[Product Manager, Navan Connect](https://jobright.ai/jobs/info/69d36c8954f00230c6d27a7f?utm_campaign=Product%20Management&utm_source=1103)** | Palo Alto, CA or San Francisco, CA | On Site | Apr 06 |
 | **[Snowshoe Mountain](http://www.snowshoemountain.com/jobs)** | **[Retail Product Coordinator](https://jobright.ai/jobs/info/69d2fdae366bb95ba5530695?utm_campaign=Product%20Management&utm_source=1103)** | Snowshoe, WV | On Site | Apr 05 |
@@ -134,7 +136,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Senior Associate, Product Management - Enterprise Supplier Management](https://jobright.ai/jobs/info/69ce947acfdc6132f942998d?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Apr 02 |
 | **[Camping World](https://investor.campingworld.com)** | **[Product Specialist Advisor](https://jobright.ai/jobs/info/69cdd57354f00230c6cf6dd6?utm_campaign=Product%20Management&utm_source=1103)** | Chichester, NH | On Site | Apr 02 |
 | **[Heitman](http://www.heitman.com)** | **[Associate, Product Strategy & Development](https://jobright.ai/jobs/info/69ce0cd3cfdc6132f9423ecb?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | Hybrid | Apr 01 |
-| **[FASTSIGNS of Lancaster, PA](https://www.fastsigns.com/311-lancaster-pa)** | **[Product Development Associate/Specialist](https://jobright.ai/jobs/info/69d34fb9366bb95ba5532aea?utm_campaign=Product%20Management&utm_source=1103)** | Lancaster, PA | On Site | Apr 01 |
 | **[Savi](http://www.bysavi.com)** | **[Product Associate](https://jobright.ai/jobs/info/69cdf62a891d7b11cfcc37b1?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Apr 01 |
 | **[Broadridge](http://www.broadridge.com)** | **[Product Owner (Hybrid - Pittsburgh, PA, Newark, NJ or NYC)](https://jobright.ai/jobs/info/69d1d9e20b098b7a67084dd2?utm_campaign=Product%20Management&utm_source=1103)** | Pittsburgh, PA | Hybrid | Apr 01 |
 | **[Heitman](http://www.heitman.com)** | **[Associate, Product Strategy & Development](https://jobright.ai/jobs/info/69cdd820891d7b11cfcc0c4d?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, Illinois | Hybrid | Apr 01 |
@@ -187,8 +188,8 @@ For a complete list, click the following sortable link below:
 | **[lululemon](http://shop.lululemon.com)** | **[Product Operations Lead / (N. Austin) Round Rock Premium Outlets Pop Up (12 month contract)](https://jobright.ai/jobs/info/69cc4874366bb95ba54ee9e7?utm_campaign=Product%20Management&utm_source=1103)** | Round Rock, TX | On Site | Mar 31 |
 | **[ECS (Expert Computer Solutions)](https://www.ecsoffice.com/)** | **[Service Product & Billing Coordinator](https://jobright.ai/jobs/info/69cc4c5a8130af1ac8337aef?utm_campaign=Product%20Management&utm_source=1103)** | Houston, TX | On Site | Mar 31 |
 | **[Urban Umbrella](http://www.urbanumbrella.com)** | **[Junior Product Manager](https://jobright.ai/jobs/info/69cc51a5cdb525785fb7adea?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Mar 31 |
-| **[Salesforce](https://www.salesforce.com)** | **[Product Manager (Early Career)](https://jobright.ai/jobs/info/69cc27bae1921223acc74452?utm_campaign=Product%20Management&utm_source=1103)** | Washington - Bellevue | On Site | Mar 31 |
-| ↳ | **[Product Manager (Early Career)](https://jobright.ai/jobs/info/69cc285acdb525785fb79d53?utm_campaign=Product%20Management&utm_source=1103)** | California - San Francisco | On Site | Mar 31 |
+| **[Salesforce](https://www.salesforce.com)** | **[Product Manager (Early Career)](https://jobright.ai/jobs/info/69cc285acdb525785fb79d53?utm_campaign=Product%20Management&utm_source=1103)** | California - San Francisco | On Site | Mar 31 |
+| ↳ | **[Product Manager (Early Career)](https://jobright.ai/jobs/info/69cc27bae1921223acc74452?utm_campaign=Product%20Management&utm_source=1103)** | Washington - Bellevue | On Site | Mar 31 |
 | ↳ | **[Product Manager (Early Career)](https://jobright.ai/jobs/info/69cc2849366bb95ba54edd7a?utm_campaign=Product%20Management&utm_source=1103)** | Washington - Seattle | On Site | Mar 31 |
 | **[Church & Dwight Co., Inc.](https://www.churchdwight.ca/)** | **[Product Management Specialist](https://jobright.ai/jobs/info/69b039db749500645096102e?utm_campaign=Product%20Management&utm_source=1103)** | Mississauga, ON | Hybrid | Mar 31 |
 | **[Gourmet Home Products](https://www.gourmethomeproducts.com/)** | **[Product Development Assistant](https://jobright.ai/jobs/info/69cc510f891d7b11cfcabc06?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Mar 31 |
@@ -212,5 +213,4 @@ For a complete list, click the following sortable link below:
 | **[Camping World](https://investor.campingworld.com)** | **[Product Specialist Advisor](https://jobright.ai/jobs/info/69caeadea8c1822476e21bc6?utm_campaign=Product%20Management&utm_source=1103)** | Murfreesboro, TN | On Site | Mar 30 |
 | **[The Weather Company](https://www.weathercompany.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/69cae41b466f1e133aac8566?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Mar 30 |
 | **[Global Atlantic](https://www.globalatlantic.com/)** | **[Analyst, Product Operations](https://jobright.ai/jobs/info/697161ae333b6343a14deab2?utm_campaign=Product%20Management&utm_source=1103)** | Hartford, Connecticut, United States | On Site | Mar 30 |
-| **[kate spade new york](https://www.katespade.com/)** | **[Coordinator, Product Development](https://jobright.ai/jobs/info/69cbf4e9cdb525785fb78d1f?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Mar 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
