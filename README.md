@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cisco](http://www.cisco.com)** | **[Engineering Product Management Specialist I (Full-Time) - United States](https://jobright.ai/jobs/info/69d46b96cfdc6132f945a655?utm_campaign=Product%20Management&utm_source=1103)** | Durham, NC | On Site | Apr 06 |
 | **[Qualified Health](https://www.qualifiedhealthai.com)** | **[Product Analyst](https://jobright.ai/jobs/info/69b932be3b74eb1e2c87211e?utm_campaign=Product%20Management&utm_source=1103)** | Hybrid - Palo Alto, CA | Hybrid | Apr 06 |
 | **[Amphenol Communications Solutions](http://www.mergeoptics.com)** | **[Associate Product Line Manager](https://jobright.ai/jobs/info/69d426d5cdb525785fbc6e15?utm_campaign=Product%20Management&utm_source=1103)** | Santa Clara, CA | On Site | Apr 06 |
 | **[Cisco](http://www.cisco.com)** | **[Engineering Product Management Specialist I (Full-Time) - United States](https://jobright.ai/jobs/info/69d4247054f00230c6d2e7f6?utm_campaign=Product%20Management&utm_source=1103)** | RTP, North Carolina, US | Hybrid | Apr 06 |
@@ -204,8 +205,8 @@ For a complete list, click the following sortable link below:
 | **[ImageTrend](http://www.imagetrend.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/69cc4ab5891d7b11cfcab8e4?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Mar 31 |
 | **[lululemon](http://shop.lululemon.com)** | **[Product Operations Lead / (N. Austin) Round Rock Premium Outlets Pop Up (12 month contract)](https://jobright.ai/jobs/info/69cc4874366bb95ba54ee9e7?utm_campaign=Product%20Management&utm_source=1103)** | Round Rock, TX | On Site | Mar 31 |
 | **[Urban Umbrella](http://www.urbanumbrella.com)** | **[Junior Product Manager](https://jobright.ai/jobs/info/69cc51a5cdb525785fb7adea?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Mar 31 |
-| **[Salesforce](https://www.salesforce.com)** | **[Product Manager (Early Career)](https://jobright.ai/jobs/info/69cc285acdb525785fb79d53?utm_campaign=Product%20Management&utm_source=1103)** | California - San Francisco | On Site | Mar 31 |
-| ↳ | **[Product Manager (Early Career)](https://jobright.ai/jobs/info/69cc27bae1921223acc74452?utm_campaign=Product%20Management&utm_source=1103)** | Washington - Bellevue | On Site | Mar 31 |
+| **[Salesforce](https://www.salesforce.com)** | **[Product Manager (Early Career)](https://jobright.ai/jobs/info/69cc27bae1921223acc74452?utm_campaign=Product%20Management&utm_source=1103)** | Washington - Bellevue | On Site | Mar 31 |
+| ↳ | **[Product Manager (Early Career)](https://jobright.ai/jobs/info/69cc285acdb525785fb79d53?utm_campaign=Product%20Management&utm_source=1103)** | California - San Francisco | On Site | Mar 31 |
 | ↳ | **[Product Manager (Early Career)](https://jobright.ai/jobs/info/69cc2849366bb95ba54edd7a?utm_campaign=Product%20Management&utm_source=1103)** | Washington - Seattle | On Site | Mar 31 |
 | **[Church & Dwight Co., Inc.](https://www.churchdwight.ca/)** | **[Product Management Specialist](https://jobright.ai/jobs/info/69b039db749500645096102e?utm_campaign=Product%20Management&utm_source=1103)** | Mississauga, ON | Hybrid | Mar 31 |
 | **[Gourmet Home Products](https://www.gourmethomeproducts.com/)** | **[Product Development Assistant](https://jobright.ai/jobs/info/69cc510f891d7b11cfcabc06?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Mar 31 |
@@ -213,5 +214,4 @@ For a complete list, click the following sortable link below:
 | **[RCM Enterprise Services](https://www.rcm-eservices.com/)** | **[Soft Media Product Specialist](https://jobright.ai/jobs/info/69cbf343366bb95ba54ecd48?utm_campaign=Product%20Management&utm_source=1103)** | Clearwater, FL, US | On Site | Mar 31 |
 | **[Releventful](http://www.releventful.com)** | **[Product Specialist (Demos & Onboarding) — Contract to Hire](https://jobright.ai/jobs/info/69cc034a366bb95ba54ed13e?utm_campaign=Product%20Management&utm_source=1103)** | North Carolina, United States | Remote | Mar 31 |
 | **[Actively AI](https://www.actively.ai)** | **[Product Operations](https://jobright.ai/jobs/info/69771273fdeb8243a279ec47?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Mar 31 |
-| **[Renuity](http://renuityhome.com/)** | **[Product Representative](https://jobright.ai/jobs/info/69cb9c94e1921223acc7210a?utm_campaign=Product%20Management&utm_source=1103)** | Bensenville, IL | On Site | Mar 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
