@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ralph Lauren](https://corporate.ralphlauren.com)** | **[Product Management Assistant, RRL Men's and Women's Woven Shirts](https://jobright.ai/jobs/info/69d5264b706f771673ba0da4?utm_campaign=Product%20Management&utm_source=1103)** | New York, New York, United States | On Site | Apr 07 |
 | **[Global Atlantic](https://www.globalatlantic.com/)** | **[Analyst, Product Operations](https://jobright.ai/jobs/info/697161ae333b6343a14deab2?utm_campaign=Product%20Management&utm_source=1103)** | Hartford, Connecticut, United States | On Site | Apr 07 |
 | **[Fuze Health](https://www.fuzehealth.com/)** | **[Early Career Product Analyst, Supply Chain and Logistics - FuzeRx](https://jobright.ai/jobs/info/69b85ac43b74eb1e2c860deb?utm_campaign=Product%20Management&utm_source=1103)** | Texas, United States | On Site | Apr 07 |
 | **[Visa](https://www.visa.com)** | **[Associate Business Analyst, New College Grad - 2026, Austin](https://jobright.ai/jobs/info/69d4fa0b366bb95ba5541d81?utm_campaign=Product%20Management&utm_source=1103)** | Austin, TX | Hybrid | Apr 07 |
@@ -191,5 +192,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Associate Product Manager - Underwriting Strategy](https://jobright.ai/jobs/info/69ccabcb8130af1ac833e188?utm_campaign=Product%20Management&utm_source=1103)** | United States - Remote | Remote | Mar 31 |
 | **[Salesforce](https://www.salesforce.com)** | **[Product Manager (Early Career)](https://jobright.ai/jobs/info/69cc6dbf891d7b11cfcac50f?utm_campaign=Product%20Management&utm_source=1103)** | Seattle, WA | On Site | Mar 31 |
 | **[Think Academy U.S](http://www.thethinkacademy.com)** | **[Math Competition Product & User Operations Specialist](https://jobright.ai/jobs/info/69a8f3a87ac93962b708daa9?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA | On Site | Mar 31 |
-| **[Marriott International](https://www.marriott.com/hotels/travel/mkeak-hotel-metro-autograph-collection/)** | **[Technical Product Analyst](https://jobright.ai/jobs/info/69cc565a366bb95ba54eeffd?utm_campaign=Product%20Management&utm_source=1103)** | 7750 Wisconsin Ave, Bethesda, MD, 20814, US | Hybrid | Mar 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
