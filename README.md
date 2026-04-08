@@ -57,7 +57,24 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Philadelphia Insurance Companies](https://www.phly.com)** | **[Product Development Specialist](https://jobright.ai/jobs/info/69d588ffe63cea7a8b662126?utm_campaign=Product%20Management&utm_source=1103)** | Glastonbury, CT | On Site | Apr 07 |
+| **[Philadelphia Insurance Companies](https://www.phly.com)** | **[Product Development Specialist](https://jobright.ai/jobs/info/69d590d5cdb525785fbd1e2d?utm_campaign=Product%20Management&utm_source=1103)** | Bala-Cynwyd, PA | On Site | Apr 07 |
+| ↳ | **[Product Development Specialist](https://jobright.ai/jobs/info/69d590d4cdb525785fbd1e2c?utm_campaign=Product%20Management&utm_source=1103)** | Westminster, CO | On Site | Apr 07 |
+| ↳ | **[Product Development Specialist](https://jobright.ai/jobs/info/69d5907a366bb95ba5546165?utm_campaign=Product%20Management&utm_source=1103)** | Alpharetta, GA | On Site | Apr 07 |
+| ↳ | **[Product Development Specialist](https://jobright.ai/jobs/info/69d59071366bb95ba554615f?utm_campaign=Product%20Management&utm_source=1103)** | Charlotte, NC | On Site | Apr 07 |
+| ↳ | **[Product Development Specialist](https://jobright.ai/jobs/info/69d59071366bb95ba554615e?utm_campaign=Product%20Management&utm_source=1103)** | Roseville, CA | On Site | Apr 07 |
+| ↳ | **[Product Development Specialist](https://jobright.ai/jobs/info/69d5906e891d7b11cfd02f52?utm_campaign=Product%20Management&utm_source=1103)** | Harrisburg, PA | On Site | Apr 07 |
+| ↳ | **[Product Development Specialist](https://jobright.ai/jobs/info/69d5906c891d7b11cfd02f4f?utm_campaign=Product%20Management&utm_source=1103)** | Amherst, NY | On Site | Apr 07 |
+| ↳ | **[Product Development Specialist](https://jobright.ai/jobs/info/69d59050706f771673ba42ba?utm_campaign=Product%20Management&utm_source=1103)** | Alexandria, VA | On Site | Apr 07 |
+| ↳ | **[Product Development Specialist](https://jobright.ai/jobs/info/69d59050706f771673ba42b7?utm_campaign=Product%20Management&utm_source=1103)** | Beachwood, OH | On Site | Apr 07 |
+| ↳ | **[Product Development Specialist](https://jobright.ai/jobs/info/69d59048706f771673ba42b2?utm_campaign=Product%20Management&utm_source=1103)** | Leawood, KS | On Site | Apr 07 |
+| ↳ | **[Product Development Specialist](https://jobright.ai/jobs/info/69d59042e63cea7a8b66249f?utm_campaign=Product%20Management&utm_source=1103)** | Dublin, OH | On Site | Apr 07 |
+| ↳ | **[Product Development Specialist](https://jobright.ai/jobs/info/69d5903fcfdc6132f9463458?utm_campaign=Product%20Management&utm_source=1103)** | Timonium, MD | On Site | Apr 07 |
+| ↳ | **[Product Development Specialist](https://jobright.ai/jobs/info/69d59035e63cea7a8b662497?utm_campaign=Product%20Management&utm_source=1103)** | West Linn, OR | On Site | Apr 07 |
+| ↳ | **[Product Development Specialist](https://jobright.ai/jobs/info/69d59032cfdc6132f9463454?utm_campaign=Product%20Management&utm_source=1103)** | Ewing, NJ | On Site | Apr 07 |
+| ↳ | **[Product Development Specialist](https://jobright.ai/jobs/info/69d58dc9891d7b11cfd02e82?utm_campaign=Product%20Management&utm_source=1103)** | Jersey City, NJ | On Site | Apr 07 |
+| **[Klein Tools](https://www.kleintools.com/)** | **[Technical Associate Product Manager- Hybrid!](https://jobright.ai/jobs/info/69d58bd4cdb525785fbd1bcb?utm_campaign=Product%20Management&utm_source=1103)** | Lincolnshire, IL, USA | Hybrid | Apr 07 |
+| **[Philadelphia Insurance Companies](https://www.phly.com)** | **[Product Development Specialist](https://jobright.ai/jobs/info/69d58b6bcdb525785fbd1ab1?utm_campaign=Product%20Management&utm_source=1103)** | Naperville, IL | On Site | Apr 07 |
+| ↳ | **[Product Development Specialist](https://jobright.ai/jobs/info/69d588ffe63cea7a8b662126?utm_campaign=Product%20Management&utm_source=1103)** | Glastonbury, CT | On Site | Apr 07 |
 | **[JPMorganChase](https://www.jpmorganchase.com)** | **[Digital Markets Product Manager - Repo - Associate](https://jobright.ai/jobs/info/69d57bfd366bb95ba5545798?utm_campaign=Product%20Management&utm_source=1103)** | 270 Park Ave, New York, NY, 10017, US | On Site | Apr 07 |
 | **[Chase](https://www.chase.com/)** | **[Digital Markets Product Manager - Repo - Associate](https://jobright.ai/jobs/info/69d57be7891d7b11cfd0258c?utm_campaign=Product%20Management&utm_source=1103)** | 270 Park Ave, New York, NY, 10017, US | On Site | Apr 07 |
 | **[NYCM Insurance](https://www.nycm.com)** | **[Product Analyst (Hybrid)](https://jobright.ai/jobs/info/69d57be0891d7b11cfd0256e?utm_campaign=Product%20Management&utm_source=1103)** | Edmeston, New York, United States | Hybrid | Apr 07 |
