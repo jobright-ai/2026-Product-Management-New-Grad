@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Littelfuse](http://www.littelfuse.com)** | **[Associate Product Manager, Relays](https://jobright.ai/jobs/info/69d6cc8e52a5bf580012c1f4?utm_campaign=Product%20Management&utm_source=1103)** | Rapid City | On Site | Apr 08 |
+| **[DrFirst, Inc.](http://drfirst.com)** | **[Associate Product Analyst - ePrescribing Platform](https://jobright.ai/jobs/info/69d6c01a366bb95ba554f9aa?utm_campaign=Product%20Management&utm_source=1103)** | US- | Remote | Apr 08 |
+| ↳ | **[Associate Product Analyst - ePrescribing Platform](https://jobright.ai/jobs/info/69d6c018706f771673badb1a?utm_campaign=Product%20Management&utm_source=1103)** | UNAVAILABLE, UNAVAILABLE, US | Remote | Apr 08 |
 | **[Camping World](https://investor.campingworld.com)** | **[Product Specialist Advisor](https://jobright.ai/jobs/info/69d6b74dcfdc6132f946c83f?utm_campaign=Product%20Management&utm_source=1103)** | Salem, AL | On Site | Apr 08 |
 | **[Mutual of Omaha Mortgage](https://www.mutualmortgage.com)** | **[Product Manager – Analytics & Product Success](https://jobright.ai/jobs/info/69d6ac48366bb95ba554ee23?utm_campaign=Product%20Management&utm_source=1103)** | Irvine, CA | On Site | Apr 08 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Manager - Card Capabilities (Business Cards & Payments)](https://jobright.ai/jobs/info/69ba9bd03b74eb1e2c88bc0d?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Apr 08 |
@@ -72,6 +75,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sr Associate, Product Management - Network Authorization Data Team](https://jobright.ai/jobs/info/69d69fe0cfdc6132f946b025?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Apr 08 |
 | ↳ | **[Senior Associate, Product Management – GPN Core Data Platform Services](https://jobright.ai/jobs/info/69d69f7c52a5bf5800129d9b?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Apr 08 |
 | ↳ | **[Senior Associate, Product Management – GPN Core Data Platform Services](https://jobright.ai/jobs/info/69d69f6b52a5bf5800129d70?utm_campaign=Product%20Management&utm_source=1103)** | Deerfield, IL | On Site | Apr 08 |
+| ↳ | **[Senior Associate, Product Management - Enterprise Core Platform](https://jobright.ai/jobs/info/69657fe9a112b40266137351?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Apr 08 |
 | ↳ | **[Senior Associate, Product Management - Enterprise Services](https://jobright.ai/jobs/info/69d69f2948f0c8161d2f8e91?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Apr 08 |
 | ↳ | **[Sr Associate, Product Management - Network Authorization Data Team](https://jobright.ai/jobs/info/69d69f25366bb95ba554db73?utm_campaign=Product%20Management&utm_source=1103)** | Deerfield, IL | On Site | Apr 08 |
 | ↳ | **[Senior Associate , Product Management –GPN Core Data Platform Services](https://jobright.ai/jobs/info/69d69f10366bb95ba554db47?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Apr 08 |
@@ -96,7 +100,7 @@ For a complete list, click the following sortable link below:
 | **[Werfen](http://www.werfen.com/)** | **[Associate Product Manager, Autoimmunity](https://jobright.ai/jobs/info/69d61797a5c9786095e49597?utm_campaign=Product%20Management&utm_source=1103)** | Bedford, MA, US | On Site | Apr 08 |
 | ↳ | **[Associate Product Manager, Autoimmunity](https://jobright.ai/jobs/info/69d6178f72c86e289ed8026a?utm_campaign=Product%20Management&utm_source=1103)** | US-MA-Bedford | On Site | Apr 08 |
 | **[Boeing](https://www.boeing.co.uk)** | **[Associate Product Management Specialist – Program Management Systems](https://jobright.ai/jobs/info/69d5e62d706f771673ba7d52?utm_campaign=Product%20Management&utm_source=1103)** | USA - Berkeley, MO | Hybrid | Apr 07 |
-| ↳ | **[Associate Product Management Specialist – Program Management Systems](https://jobright.ai/jobs/info/69d5e62a891d7b11cfd06afe?utm_campaign=Product%20Management&utm_source=1103)** | USA - Seattle, WA | Hybrid | Apr 07 |
+| ↳ | **[Associate Product Management Specialist – Program Management Systems](https://jobright.ai/jobs/info/69d5e62a366bb95ba5549cef?utm_campaign=Product%20Management&utm_source=1103)** | USA - Seattle, WA | Hybrid | Apr 07 |
 | ↳ | **[Associate Product Management Specialist – Program Management Systems](https://jobright.ai/jobs/info/69d5e6294a12eb12c5e14794?utm_campaign=Product%20Management&utm_source=1103)** | USA - Berkeley, MO | Hybrid | Apr 07 |
 | **[Centric Brands](https://centricbrands.com)** | **[Product Development Assistant](https://jobright.ai/jobs/info/69d5dbb0706f771673ba74e5?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Apr 07 |
 | ↳ | **[Product Development Assistant](https://jobright.ai/jobs/info/69d5c3b9706f771673ba670f?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY, US | Hybrid | Apr 07 |
@@ -108,8 +112,8 @@ For a complete list, click the following sortable link below:
 | **[Philadelphia Insurance Companies](https://www.phly.com)** | **[Product Development Specialist](https://jobright.ai/jobs/info/69d590d5cdb525785fbd1e2d?utm_campaign=Product%20Management&utm_source=1103)** | Bala-Cynwyd, PA | On Site | Apr 07 |
 | ↳ | **[Product Development Specialist](https://jobright.ai/jobs/info/69d590d4cdb525785fbd1e2c?utm_campaign=Product%20Management&utm_source=1103)** | Westminster, CO | On Site | Apr 07 |
 | ↳ | **[Product Development Specialist](https://jobright.ai/jobs/info/69d5907a366bb95ba5546165?utm_campaign=Product%20Management&utm_source=1103)** | Alpharetta, GA | On Site | Apr 07 |
-| ↳ | **[Product Development Specialist](https://jobright.ai/jobs/info/69d59071366bb95ba554615e?utm_campaign=Product%20Management&utm_source=1103)** | Roseville, CA | On Site | Apr 07 |
 | ↳ | **[Product Development Specialist](https://jobright.ai/jobs/info/69d59071366bb95ba554615f?utm_campaign=Product%20Management&utm_source=1103)** | Charlotte, NC | On Site | Apr 07 |
+| ↳ | **[Product Development Specialist](https://jobright.ai/jobs/info/69d59071366bb95ba554615e?utm_campaign=Product%20Management&utm_source=1103)** | Roseville, CA | On Site | Apr 07 |
 | ↳ | **[Product Development Specialist](https://jobright.ai/jobs/info/69d5906e891d7b11cfd02f52?utm_campaign=Product%20Management&utm_source=1103)** | Harrisburg, PA | On Site | Apr 07 |
 | ↳ | **[Product Development Specialist](https://jobright.ai/jobs/info/69d5906c891d7b11cfd02f4f?utm_campaign=Product%20Management&utm_source=1103)** | Amherst, NY | On Site | Apr 07 |
 | ↳ | **[Product Development Specialist](https://jobright.ai/jobs/info/69d59050706f771673ba42ba?utm_campaign=Product%20Management&utm_source=1103)** | Alexandria, VA | On Site | Apr 07 |
@@ -170,6 +174,7 @@ For a complete list, click the following sortable link below:
 | **[lululemon](http://shop.lululemon.com)** | **[Product Operations Lead (Temporary 6 Month Contract) / The Shops at Wailea](https://jobright.ai/jobs/info/69d0dd100b098b7a6707e530?utm_campaign=Product%20Management&utm_source=1103)** | Wailea, HI | On Site | Apr 04 |
 | **[Camping World](https://investor.campingworld.com)** | **[Product Specialist](https://jobright.ai/jobs/info/69d5ff2a706f771673ba8d72?utm_campaign=Product%20Management&utm_source=1103)** | Center Conway, NH | On Site | Apr 03 |
 | **[Smith+Nephew](http://www.smith-nephew.com)** | **[Orthopaedics Product Management Specialist II](https://jobright.ai/jobs/info/69d5f96ecfdc6132f9467a1b?utm_campaign=Product%20Management&utm_source=1103)** | Memphis, TN | Hybrid | Apr 03 |
+| **[Shure](http://www.shure.com)** | **[Analyst I, Product Management](https://jobright.ai/jobs/info/69d6c73a48f0c8161d2fb1bd?utm_campaign=Product%20Management&utm_source=1103)** | Niles, IL, US | Hybrid | Apr 03 |
 | **[Best Buy](https://www.bestbuy.com/)** | **[Enterprise Product Management Operations Analyst](https://jobright.ai/jobs/info/69d02abdcfdc6132f94391a8?utm_campaign=Product%20Management&utm_source=1103)** | 7601 Penn Avenue South | Hybrid | Apr 03 |
 | ↳ | **[Enterprise Product Management Operations Analyst](https://jobright.ai/jobs/info/69d02a87891d7b11cfcd951f?utm_campaign=Product%20Management&utm_source=1103)** | Richfield Minnesota | Hybrid | Apr 03 |
 | **[Kinective](https://www.kinective.io)** | **[Technical Business Analyst](https://jobright.ai/jobs/info/69c47e23d5a1016e98dbbd60?utm_campaign=Product%20Management&utm_source=1103)** | Golden, CO | On Site | Apr 03 |
@@ -177,8 +182,8 @@ For a complete list, click the following sortable link below:
 | **[Santander Bank, N.A.](https://www.santanderbank.com)** | **[Letter of Credit Product Specialist - Analyst](https://jobright.ai/jobs/info/697b7e9c1423772304eba3d4?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Apr 03 |
 | **[Trystar](http://www.trystar.com)** | **[New Product Sourcing Specialist](https://jobright.ai/jobs/info/69d6aca0e63cea7a8b66b3e5?utm_campaign=Product%20Management&utm_source=1103)** | Houston, TX, US | On Site | Apr 03 |
 | **[Amentum](https://www.amentum.com/)** | **[Research and Product Development Analyst](https://jobright.ai/jobs/info/69d007840b098b7a67075aea?utm_campaign=Product%20Management&utm_source=1103)** | Spokane, WA | On Site | Apr 03 |
-| **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management - Authorization Gateway Team](https://jobright.ai/jobs/info/69b40e2206c1ba00c545317a?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Apr 03 |
-| ↳ | **[Senior Associate, Product Management - Authorization Gateway Team](https://jobright.ai/jobs/info/69b40e3806c1ba00c54531d1?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Apr 03 |
+| **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management - Authorization Gateway Team](https://jobright.ai/jobs/info/69b40e3806c1ba00c54531d1?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Apr 03 |
+| ↳ | **[Senior Associate, Product Management - Authorization Gateway Team](https://jobright.ai/jobs/info/69b40e2206c1ba00c545317a?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Apr 03 |
 | ↳ | **[Senior Associate, Product Management - Authorization Gateway Team](https://jobright.ai/jobs/info/69b40c5d3b74eb1e2c811676?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Apr 03 |
 | **[edkey](https://careertakes.edkey.com)** | **[Associate Product Manager (REMOTE)](https://jobright.ai/jobs/info/69d0039b54f00230c6d0e509?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Apr 03 |
 | **[Questrade Financial Group](http://www.questrade.com)** | **[Questbank - Associate Product Manager, Residential Lending](https://jobright.ai/jobs/info/6941897e14ee092a69ffa930?utm_campaign=Product%20Management&utm_source=1103)** | North York, ON | Hybrid | Apr 03 |
@@ -223,5 +228,4 @@ For a complete list, click the following sortable link below:
 | **[Upgrade, Inc.](http://www.upgrade.com)** | **[Product Data Analyst, Servicing](https://jobright.ai/jobs/info/69123a89ea9ab01b82bf090f?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, CA | Hybrid | Apr 02 |
 | **[Camping World](https://investor.campingworld.com)** | **[Product Specialist Advisor](https://jobright.ai/jobs/info/69cdd57354f00230c6cf6dd6?utm_campaign=Product%20Management&utm_source=1103)** | Chichester, NH | On Site | Apr 02 |
 | **[Heitman](http://www.heitman.com)** | **[Associate, Product Strategy & Development](https://jobright.ai/jobs/info/69ce0cd3cfdc6132f9423ecb?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | Hybrid | Apr 01 |
-| **[S&S Activewear](https://www.ssactivewear.com)** | **[Product Data Coordinator (Hybrid) Bolingbrook](https://jobright.ai/jobs/info/69d5e87ae63cea7a8b66622d?utm_campaign=Product%20Management&utm_source=1103)** | Bolingbrook, IL | Hybrid | Apr 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
