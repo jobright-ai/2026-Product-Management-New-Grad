@@ -57,14 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Associate Digital Product Manager](https://jobright.ai/jobs/info/69d5ab4acdb525785fbd27be?utm_campaign=Product%20Management&utm_source=1103)** | Collierville, TN | On Site | Apr 07 |
+| **[Fraserway RV](https://www.fraserway.com)** | **[Pricing Inventory Analyst](https://jobright.ai/jobs/info/69d5a8e6cfdc6132f9463d84?utm_campaign=Product%20Management&utm_source=1103)** | Abbotsford, BC | On Site | Apr 07 |
 | **[Klein Tools](https://www.kleintools.com/)** | **[Technical Associate Product Manager- Hybrid!](https://jobright.ai/jobs/info/69d5a3b2706f771673ba48fc?utm_campaign=Product%20Management&utm_source=1103)** | Lincolnshire, IL | Hybrid | Apr 07 |
 | **[Micron Technology](http://www.micron.com)** | **[(New College Grad) HBM Product Manager](https://jobright.ai/jobs/info/69d5a0e2366bb95ba55466e3?utm_campaign=Product%20Management&utm_source=1103)** | Boise, ID | On Site | Apr 07 |
 | **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Associate Digital Product Manager](https://jobright.ai/jobs/info/69d59f97366bb95ba55466af?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Apr 07 |
 | **[Philadelphia Insurance Companies](https://www.phly.com)** | **[Product Development Specialist](https://jobright.ai/jobs/info/69d590d5cdb525785fbd1e2d?utm_campaign=Product%20Management&utm_source=1103)** | Bala-Cynwyd, PA | On Site | Apr 07 |
 | ↳ | **[Product Development Specialist](https://jobright.ai/jobs/info/69d590d4cdb525785fbd1e2c?utm_campaign=Product%20Management&utm_source=1103)** | Westminster, CO | On Site | Apr 07 |
 | ↳ | **[Product Development Specialist](https://jobright.ai/jobs/info/69d5907a366bb95ba5546165?utm_campaign=Product%20Management&utm_source=1103)** | Alpharetta, GA | On Site | Apr 07 |
-| ↳ | **[Product Development Specialist](https://jobright.ai/jobs/info/69d59071366bb95ba554615f?utm_campaign=Product%20Management&utm_source=1103)** | Charlotte, NC | On Site | Apr 07 |
 | ↳ | **[Product Development Specialist](https://jobright.ai/jobs/info/69d59071366bb95ba554615e?utm_campaign=Product%20Management&utm_source=1103)** | Roseville, CA | On Site | Apr 07 |
+| ↳ | **[Product Development Specialist](https://jobright.ai/jobs/info/69d59071366bb95ba554615f?utm_campaign=Product%20Management&utm_source=1103)** | Charlotte, NC | On Site | Apr 07 |
 | ↳ | **[Product Development Specialist](https://jobright.ai/jobs/info/69d5906e891d7b11cfd02f52?utm_campaign=Product%20Management&utm_source=1103)** | Harrisburg, PA | On Site | Apr 07 |
 | ↳ | **[Product Development Specialist](https://jobright.ai/jobs/info/69d5906c891d7b11cfd02f4f?utm_campaign=Product%20Management&utm_source=1103)** | Amherst, NY | On Site | Apr 07 |
 | ↳ | **[Product Development Specialist](https://jobright.ai/jobs/info/69d59050706f771673ba42ba?utm_campaign=Product%20Management&utm_source=1103)** | Alexandria, VA | On Site | Apr 07 |
