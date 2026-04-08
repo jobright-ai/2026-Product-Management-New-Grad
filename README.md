@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Klein Tools](https://www.kleintools.com/)** | **[Technical Associate Product Manager- Hybrid!](https://jobright.ai/jobs/info/69d5a3b2706f771673ba48fc?utm_campaign=Product%20Management&utm_source=1103)** | Lincolnshire, IL | Hybrid | Apr 07 |
+| **[Micron Technology](http://www.micron.com)** | **[(New College Grad) HBM Product Manager](https://jobright.ai/jobs/info/69d5a0e2366bb95ba55466e3?utm_campaign=Product%20Management&utm_source=1103)** | Boise, ID | On Site | Apr 07 |
+| **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Associate Digital Product Manager](https://jobright.ai/jobs/info/69d59f97366bb95ba55466af?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Apr 07 |
 | **[Philadelphia Insurance Companies](https://www.phly.com)** | **[Product Development Specialist](https://jobright.ai/jobs/info/69d590d5cdb525785fbd1e2d?utm_campaign=Product%20Management&utm_source=1103)** | Bala-Cynwyd, PA | On Site | Apr 07 |
 | ↳ | **[Product Development Specialist](https://jobright.ai/jobs/info/69d590d4cdb525785fbd1e2c?utm_campaign=Product%20Management&utm_source=1103)** | Westminster, CO | On Site | Apr 07 |
 | ↳ | **[Product Development Specialist](https://jobright.ai/jobs/info/69d5907a366bb95ba5546165?utm_campaign=Product%20Management&utm_source=1103)** | Alpharetta, GA | On Site | Apr 07 |
@@ -143,7 +146,6 @@ For a complete list, click the following sortable link below:
 | **[Camping World](https://investor.campingworld.com)** | **[Product Specialist Advisor](https://jobright.ai/jobs/info/69d5111ecdb525785fbce153?utm_campaign=Product%20Management&utm_source=1103)** | Little Falls, MN | On Site | Apr 03 |
 | **[Aegon Asset Management](https://www.aegonam.com)** | **[Product Strategist - Transamerica AM](https://jobright.ai/jobs/info/69d50bbdcdb525785fbce0bc?utm_campaign=Product%20Management&utm_source=1103)** | Denver, CO | Hybrid | Apr 03 |
 | **[Camping World](https://investor.campingworld.com)** | **[Product Specialist Advisor](https://jobright.ai/jobs/info/69bc17ca4828227293fd476a?utm_campaign=Product%20Management&utm_source=1103)** | Denton, TX | On Site | Apr 03 |
-| **[Authorium](https://authorium.com/)** | **[Product Analyst](https://jobright.ai/jobs/info/69d0c801891d7b11cfcdf85c?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, CA | Remote | Apr 02 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Manager- Global Payment Network](https://jobright.ai/jobs/info/69cf5d43891d7b11cfcd2bb6?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Apr 02 |
 | ↳ | **[Senior Associate, Product Manager- Global Payment Network](https://jobright.ai/jobs/info/69cf5d2b54f00230c6d093b1?utm_campaign=Product%20Management&utm_source=1103)** | Deerfield, IL | Hybrid | Apr 02 |
 | **[Transamerica](http://www.transamerica.com)** | **[Product Strategist - Transamerica AM](https://jobright.ai/jobs/info/69cf1c78cdb525785fb9ec7e?utm_campaign=Product%20Management&utm_source=1103)** | Denver, CO | Hybrid | Apr 02 |
@@ -193,8 +195,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Senior Associate, Product Management - Enterprise Supplier Management](https://jobright.ai/jobs/info/69cdac3a54f00230c6cf51f7?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Apr 01 |
 | **[Broadridge](http://www.broadridge.com)** | **[Product Owner (Hybrid - Pittsburgh, PA, Newark, NJ or NYC)](https://jobright.ai/jobs/info/69cdeae4366bb95ba55044a1?utm_campaign=Product%20Management&utm_source=1103)** | Pittsburgh, PA | Hybrid | Apr 01 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Manager - Global Payment Network](https://jobright.ai/jobs/info/69cd92a7891d7b11cfcbda61?utm_campaign=Product%20Management&utm_source=1103)** | Riverwoods, IL | On Site | Apr 01 |
-| ↳ | **[Senior Associate, Product Manager - Global Payment Network](https://jobright.ai/jobs/info/69cd929f366bb95ba550083f?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Apr 01 |
 | ↳ | **[Senior Associate, Product Manager - Global Payment Network](https://jobright.ai/jobs/info/69cd929fcdb525785fb8c8bd?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Apr 01 |
+| ↳ | **[Senior Associate, Product Manager - Global Payment Network](https://jobright.ai/jobs/info/69cd929f366bb95ba550083f?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Apr 01 |
 | **[Broadridge](http://www.broadridge.com)** | **[Product Owner (Hybrid - Pittsburgh, PA, Newark, NJ or NYC)](https://jobright.ai/jobs/info/69cd8c8b891d7b11cfcbcdcf?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Apr 01 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management - Commercial Banking](https://jobright.ai/jobs/info/6995144ece78e77b4fd92cd5?utm_campaign=Product%20Management&utm_source=1103)** | Charlotte, NC | On Site | Apr 01 |
 | ↳ | **[Senior Associate, Product Management - Client and Associate Platforms](https://jobright.ai/jobs/info/69951a9dce78e77b4fd931e5?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Apr 01 |
@@ -214,5 +216,4 @@ For a complete list, click the following sortable link below:
 | **[Nationwide](http://nationwide.com)** | **[Associate Product Manager - Underwriting Strategy](https://jobright.ai/jobs/info/69cd229d398fb071abf72851?utm_campaign=Product%20Management&utm_source=1103)** | Columbus, OH | On Site | Apr 01 |
 | **[Marriott International](https://www.marriott.com/hotels/travel/mkeak-hotel-metro-autograph-collection/)** | **[Technical Product Analyst](https://jobright.ai/jobs/info/69cd150bcdb525785fb85112?utm_campaign=Product%20Management&utm_source=1103)** | Bethesda, MD | Hybrid | Apr 01 |
 | **[Salesforce](https://www.salesforce.com)** | **[Product Manager (Early Career)](https://jobright.ai/jobs/info/69cc75dccfdc6132f940c5a3?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, CA | On Site | Apr 01 |
-| **[Kidde Global Solutions](https://www.kiddeglobalsolutions.com)** | **[Product Management Associate](https://jobright.ai/jobs/info/69ab9143142d5b4265fcaa0e?utm_campaign=Product%20Management&utm_source=1103)** | Mebane, NC | On Site | Apr 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
