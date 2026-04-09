@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management](https://jobright.ai/jobs/info/69d7f1c19f97a42dc9c19222?utm_campaign=Product%20Management&utm_source=1103)** | Charlotte, NC | On Site | Apr 09 |
+| ↳ | **[Sr Associate, Product Management](https://jobright.ai/jobs/info/69d7f165f4ea471a51fe2a05?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Apr 09 |
+| ↳ | **[Senior Associate, Product Management - Enterprise Supplier Management (ESM) Team](https://jobright.ai/jobs/info/6983ac3f0f6f7e7a2cdd318c?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Apr 09 |
+| **[Fidelity Bank](http://www.LionBank.com)** | **[Associate, Electronic Trading Product](https://jobright.ai/jobs/info/69d7eecfb861c42857c47559?utm_campaign=Product%20Management&utm_source=1103)** | Boston, MA | Hybrid | Apr 09 |
+| **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management - Enterprise Core Platform](https://jobright.ai/jobs/info/696583ce5ad3a93f8230ccff?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Apr 09 |
+| **[TMX Group](http://www.tmx.com)** | **[Product and Analytics Analyst](https://jobright.ai/jobs/info/69d7ebddb861c42857c47370?utm_campaign=Product%20Management&utm_source=1103)** | New York - 225 Liberty Street | Hybrid | Apr 09 |
 | **[lululemon](http://shop.lululemon.com)** | **[Product Operations Lead / Fern Marketplace](https://jobright.ai/jobs/info/69d7d54a869c7e25d8591c1c?utm_campaign=Product%20Management&utm_source=1103)** | Shreveport, LA | On Site | Apr 09 |
 | ↳ | **[Product Operations Lead / Westfield Montgomery Mall](https://jobright.ai/jobs/info/69d7d52e738f2f099e8989aa?utm_campaign=Product%20Management&utm_source=1103)** | Bethesda, MD | On Site | Apr 09 |
 | **[Amazon](https://amazon.com)** | **[Assistant Category Manager, WWGS Private Brands](https://jobright.ai/jobs/info/6965bc70a112b4026613c692?utm_campaign=Product%20Management&utm_source=1103)** | Austin, TX | On Site | Apr 09 |
@@ -193,8 +199,8 @@ For a complete list, click the following sortable link below:
 | **[Santander Bank, N.A.](https://www.santanderbank.com)** | **[Letter of Credit Product Specialist - Analyst](https://jobright.ai/jobs/info/697b7e9c1423772304eba3d4?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Apr 03 |
 | **[Trystar](http://www.trystar.com)** | **[New Product Sourcing Specialist](https://jobright.ai/jobs/info/69d6aca0e63cea7a8b66b3e5?utm_campaign=Product%20Management&utm_source=1103)** | Houston, TX, US | On Site | Apr 03 |
 | **[Amentum](https://www.amentum.com/)** | **[Research and Product Development Analyst](https://jobright.ai/jobs/info/69d007840b098b7a67075aea?utm_campaign=Product%20Management&utm_source=1103)** | Spokane, WA | On Site | Apr 03 |
-| **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management - Authorization Gateway Team](https://jobright.ai/jobs/info/69b40e2206c1ba00c545317a?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Apr 03 |
-| ↳ | **[Senior Associate, Product Management - Authorization Gateway Team](https://jobright.ai/jobs/info/69b40e3806c1ba00c54531d1?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Apr 03 |
+| **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management - Authorization Gateway Team](https://jobright.ai/jobs/info/69b40e3806c1ba00c54531d1?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Apr 03 |
+| ↳ | **[Senior Associate, Product Management - Authorization Gateway Team](https://jobright.ai/jobs/info/69b40e2206c1ba00c545317a?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Apr 03 |
 | ↳ | **[Senior Associate, Product Management - Authorization Gateway Team](https://jobright.ai/jobs/info/69b40c5d3b74eb1e2c811676?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Apr 03 |
 | **[edkey](https://careertakes.edkey.com)** | **[Associate Product Manager (REMOTE)](https://jobright.ai/jobs/info/69d0039b54f00230c6d0e509?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Apr 03 |
 | **[Questrade Financial Group](http://www.questrade.com)** | **[Questbank - Associate Product Manager, Residential Lending](https://jobright.ai/jobs/info/6941897e14ee092a69ffa930?utm_campaign=Product%20Management&utm_source=1103)** | North York, ON | Hybrid | Apr 03 |
