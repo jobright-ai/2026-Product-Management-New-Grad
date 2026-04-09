@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[lululemon](http://shop.lululemon.com)** | **[Product Operations Lead / Fern Marketplace](https://jobright.ai/jobs/info/69d7d54a869c7e25d8591c1c?utm_campaign=Product%20Management&utm_source=1103)** | Shreveport, LA | On Site | Apr 09 |
+| ↳ | **[Product Operations Lead / Westfield Montgomery Mall](https://jobright.ai/jobs/info/69d7d52e738f2f099e8989aa?utm_campaign=Product%20Management&utm_source=1103)** | Bethesda, MD | On Site | Apr 09 |
+| **[Amazon](https://amazon.com)** | **[Assistant Category Manager, WWGS Private Brands](https://jobright.ai/jobs/info/6965bc70a112b4026613c692?utm_campaign=Product%20Management&utm_source=1103)** | Austin, TX | On Site | Apr 09 |
 | **[CME Group](http://www.cmegroup.com)** | **[BLM Analyst](https://jobright.ai/jobs/info/69d74078e63cea7a8b6700a9?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Apr 09 |
 | **[ICD Portal](http://icdportal.com)** | **[Junior Repo & Money Markets Product Manager](https://jobright.ai/jobs/info/69d7b6ff738f2f099e896c59?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY, United States | Hybrid | Apr 09 |
 | **[CentralReach](http://www.centralreach.com)** | **[Product Operations Coordinator](https://jobright.ai/jobs/info/69baf470569738374140cb8c?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Apr 09 |
@@ -110,7 +113,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Associate Product Manager, Autoimmunity](https://jobright.ai/jobs/info/69d6178f72c86e289ed8026a?utm_campaign=Product%20Management&utm_source=1103)** | US-MA-Bedford | On Site | Apr 08 |
 | **[Chedraui USA](https://chedrauiusa.com/)** | **[Strategic Sourcing Coordinator](https://jobright.ai/jobs/info/69d74472e63cea7a8b6703f7?utm_campaign=Product%20Management&utm_source=1103)** | Commerce, CA | On Site | Apr 07 |
 | **[Boeing](https://www.boeing.co.uk)** | **[Associate Product Management Specialist – Program Management Systems](https://jobright.ai/jobs/info/69d5e62d706f771673ba7d52?utm_campaign=Product%20Management&utm_source=1103)** | USA - Berkeley, MO | Hybrid | Apr 07 |
-| ↳ | **[Associate Product Management Specialist – Program Management Systems](https://jobright.ai/jobs/info/69d5e62a891d7b11cfd06afe?utm_campaign=Product%20Management&utm_source=1103)** | USA - Seattle, WA | Hybrid | Apr 07 |
+| ↳ | **[Associate Product Management Specialist – Program Management Systems](https://jobright.ai/jobs/info/69d5e62a366bb95ba5549cef?utm_campaign=Product%20Management&utm_source=1103)** | USA - Seattle, WA | Hybrid | Apr 07 |
 | ↳ | **[Associate Product Management Specialist – Program Management Systems](https://jobright.ai/jobs/info/69d5e6294a12eb12c5e14794?utm_campaign=Product%20Management&utm_source=1103)** | USA - Berkeley, MO | Hybrid | Apr 07 |
 | **[Centric Brands](https://centricbrands.com)** | **[Product Development Assistant](https://jobright.ai/jobs/info/69d5c3b9706f771673ba670f?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY, US | Hybrid | Apr 07 |
 | ↳ | **[Product Development Assistant](https://jobright.ai/jobs/info/69d5c3aa366bb95ba554867c?utm_campaign=Product%20Management&utm_source=1103)** | US-NY-New York | Hybrid | Apr 07 |
@@ -125,8 +128,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Development Specialist](https://jobright.ai/jobs/info/69d59071366bb95ba554615f?utm_campaign=Product%20Management&utm_source=1103)** | Charlotte, NC | On Site | Apr 07 |
 | ↳ | **[Product Development Specialist](https://jobright.ai/jobs/info/69d5906e891d7b11cfd02f52?utm_campaign=Product%20Management&utm_source=1103)** | Harrisburg, PA | On Site | Apr 07 |
 | ↳ | **[Product Development Specialist](https://jobright.ai/jobs/info/69d5906c891d7b11cfd02f4f?utm_campaign=Product%20Management&utm_source=1103)** | Amherst, NY | On Site | Apr 07 |
-| ↳ | **[Product Development Specialist](https://jobright.ai/jobs/info/69d59050706f771673ba42b7?utm_campaign=Product%20Management&utm_source=1103)** | Beachwood, OH | On Site | Apr 07 |
 | ↳ | **[Product Development Specialist](https://jobright.ai/jobs/info/69d59050706f771673ba42ba?utm_campaign=Product%20Management&utm_source=1103)** | Alexandria, VA | On Site | Apr 07 |
+| ↳ | **[Product Development Specialist](https://jobright.ai/jobs/info/69d59050706f771673ba42b7?utm_campaign=Product%20Management&utm_source=1103)** | Beachwood, OH | On Site | Apr 07 |
 | ↳ | **[Product Development Specialist](https://jobright.ai/jobs/info/69d59048706f771673ba42b2?utm_campaign=Product%20Management&utm_source=1103)** | Leawood, KS | On Site | Apr 07 |
 | ↳ | **[Product Development Specialist](https://jobright.ai/jobs/info/69d59042e63cea7a8b66249f?utm_campaign=Product%20Management&utm_source=1103)** | Dublin, OH | On Site | Apr 07 |
 | ↳ | **[Product Development Specialist](https://jobright.ai/jobs/info/69d5903fcfdc6132f9463458?utm_campaign=Product%20Management&utm_source=1103)** | Timonium, MD | On Site | Apr 07 |
@@ -149,7 +152,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Senior Associate, Product Management – GPN Core Data Platform Services](https://jobright.ai/jobs/info/69d532a9cdb525785fbcef03?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Apr 07 |
 | ↳ | **[Senior Associate, Product Management – GPN Core Data Platform Services](https://jobright.ai/jobs/info/69d53243891d7b11cfd00092?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Apr 07 |
 | ↳ | **[Senior Associate, Product Management – GPN Core Data Platform Services](https://jobright.ai/jobs/info/69d53200cfdc6132f9460572?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Apr 07 |
-| **[Canso Innovations](https://cansoinnovations.com/)** | **[Junior Venture & Product Analyst](https://jobright.ai/jobs/info/69d7ac54869c7e25d858ecb8?utm_campaign=Product%20Management&utm_source=1103)** | Greater Toronto Area, Canada | Hybrid | Apr 07 |
 | **[Ralph Lauren](https://corporate.ralphlauren.com)** | **[Product Management Assistant, RRL Men's and Women's Woven Shirts](https://jobright.ai/jobs/info/69d5264b706f771673ba0da4?utm_campaign=Product%20Management&utm_source=1103)** | New York, New York, United States | On Site | Apr 07 |
 | **[Camping World](https://investor.campingworld.com)** | **[Product Specialist Advisor-1](https://jobright.ai/jobs/info/69d5495ae63cea7a8b65fe1b?utm_campaign=Product%20Management&utm_source=1103)** | Pooler, GA | On Site | Apr 07 |
 | **[Global Atlantic](https://www.globalatlantic.com/)** | **[Analyst, Product Operations](https://jobright.ai/jobs/info/697161ae333b6343a14deab2?utm_campaign=Product%20Management&utm_source=1103)** | Hartford, Connecticut, United States | On Site | Apr 07 |
@@ -173,7 +175,6 @@ For a complete list, click the following sortable link below:
 | **[Micron Technology](http://www.micron.com)** | **[(New College Grad) HBM Product Manager](https://jobright.ai/jobs/info/69d3f335cdb525785fbc4b00?utm_campaign=Product%20Management&utm_source=1103)** | Boise, ID - Main Site | On Site | Apr 06 |
 | **[Cisco](http://www.cisco.com)** | **[Product Management Specialist II (Full Time) - United States](https://jobright.ai/jobs/info/69d3e32e366bb95ba55381ba?utm_campaign=Product%20Management&utm_source=1103)** | Atlanta, Georgia, US | On Site | Apr 06 |
 | **[Snowshoe Mountain](http://www.snowshoemountain.com/jobs)** | **[Retail Product Coordinator](https://jobright.ai/jobs/info/69d513f7366bb95ba55425c6?utm_campaign=Product%20Management&utm_source=1103)** | Snowshoe, WV | On Site | Apr 06 |
-| **[BD Nogales Norte](https://www.bd.com/es-mx/)** | **[Software Product Owner](https://jobright.ai/jobs/info/69d4e482366bb95ba554183b?utm_campaign=Product%20Management&utm_source=1103)** | San Diego, CA | Hybrid | Apr 06 |
 | **[Navan](https://navan.com)** | **[Product Manager, Navan Connect](https://jobright.ai/jobs/info/69d3703854f00230c6d27a9e?utm_campaign=Product%20Management&utm_source=1103)** | Palo Alto, CA | Hybrid | Apr 06 |
 | ↳ | **[Product Manager, Navan Connect](https://jobright.ai/jobs/info/69d36c8954f00230c6d27a7f?utm_campaign=Product%20Management&utm_source=1103)** | Palo Alto, CA or San Francisco, CA | On Site | Apr 06 |
 | **[lululemon](http://shop.lululemon.com)** | **[Product Operations Lead / Orland Square Pop Up](https://jobright.ai/jobs/info/69d22a1e0b098b7a6708781a?utm_campaign=Product%20Management&utm_source=1103)** | Orland Park, IL | On Site | Apr 05 |
