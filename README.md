@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[edkey](https://careertakes.edkey.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/69d6e52352a5bf580012cca5?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Apr 08 |
+| **[WellnessLiving](http://www.wellnessliving.com)** | **[Product Demo Specialist (SaaS) at WellnessLiving](https://jobright.ai/jobs/info/69d6db7f48f0c8161d2fb90b?utm_campaign=Product%20Management&utm_source=1103)** | Thornhill, Canada | Remote | Apr 08 |
 | **[Boeing](https://www.boeing.co.uk)** | **[Associate Product Management Specialist – Program Management Systems](https://jobright.ai/jobs/info/69d6d468366bb95ba5550312?utm_campaign=Product%20Management&utm_source=1103)** | Seattle, WA | On Site | Apr 08 |
 | **[WellnessLiving](http://www.wellnessliving.com)** | **[Product Demo Specialist (SaaS)](https://jobright.ai/jobs/info/69d6d151cfdc6132f946d73f?utm_campaign=Product%20Management&utm_source=1103)** | Vaughan, Ontario, Canada | Remote | Apr 08 |
 | **[Littelfuse](http://www.littelfuse.com)** | **[Associate Product Manager, Relays](https://jobright.ai/jobs/info/69d6cc8e52a5bf580012c1f4?utm_campaign=Product%20Management&utm_source=1103)** | Rapid City | On Site | Apr 08 |
@@ -211,7 +213,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Senior Associate, Product Management - Payments Conversion](https://jobright.ai/jobs/info/69b2f730a8ac8e70ff671ae1?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Apr 02 |
 | ↳ | **[Senior Associate, Product Management - Digital Information Exchange & Analytics](https://jobright.ai/jobs/info/69a25f97359fe034b1cd99fe?utm_campaign=Product%20Management&utm_source=1103)** | Charlotte, NC | On Site | Apr 02 |
 | ↳ | **[Senior Associate, Product Management - Digital Information Exchange & Analytics](https://jobright.ai/jobs/info/69a5ab62b600907a962b5bdd?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Apr 02 |
-| ↳ | **[Senior Associate, Product Management - Card Site Shopping](https://jobright.ai/jobs/info/69b2d834ad360c0340a7cb57?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Apr 02 |
 | ↳ | **[Senior Associate, Product Management - Payments Conversion](https://jobright.ai/jobs/info/69b2f3c8ae2a534885ea3f42?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Apr 02 |
 | **[IXL Learning](https://www.ixl.com/)** | **[Associate Product Manager, New Grad](https://jobright.ai/jobs/info/69ceb1b9cdb525785fb9a0fa?utm_campaign=Product%20Management&utm_source=1103)** | San Mateo, CA | On Site | Apr 02 |
 | **[Adirondack Beverages](https://www.adirondackbeverages.com)** | **[Product Development Associate](https://jobright.ai/jobs/info/69d49592e63cea7a8b65b62c?utm_campaign=Product%20Management&utm_source=1103)** | Schenectady, NY, US | On Site | Apr 02 |
