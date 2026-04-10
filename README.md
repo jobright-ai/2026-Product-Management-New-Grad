@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kinective](https://www.kinective.io)** | **[Product Owner](https://jobright.ai/jobs/info/69d8d668869c7e25d8597f0e?utm_campaign=Product%20Management&utm_source=1103)** | Gilbert,AZ,US | On Site | Apr 10 |
 | **[Alaska USA](https://globalcu.org/)** | **[Product Owner I, Marketing Technology](https://jobright.ai/jobs/info/69d8cd0d869c7e25d8597bf1?utm_campaign=Product%20Management&utm_source=1103)** | Anchorage, AK | On Site | Apr 10 |
 | ↳ | **[Product Owner I, Marketing Technology](https://jobright.ai/jobs/info/69d8cd0d869c7e25d8597bee?utm_campaign=Product%20Management&utm_source=1103)** | Glendale, AZ | On Site | Apr 10 |
 | **[lululemon](http://shop.lululemon.com)** | **[6 Month Contract Product Operations Lead / South Galena Street Aspen, Colorado](https://jobright.ai/jobs/info/69bc68c645e08b3dc1f9115b?utm_campaign=Product%20Management&utm_source=1103)** | Aspen, CO | On Site | Apr 10 |
@@ -64,9 +65,9 @@ For a complete list, click the following sortable link below:
 | **[Uplifter Inc.](https://www.uplifterinc.com/)** | **[Product Specialist GTA- Toronto](https://jobright.ai/jobs/info/69d898b6869c7e25d8596b9a?utm_campaign=Product%20Management&utm_source=1103)** | Toronto | Hybrid | Apr 09 |
 | **[Global Credit Union](https://globalcu.org/)** | **[Product Owner I, Marketing Technology](https://jobright.ai/jobs/info/69d840599f97a42dc9c1b442?utm_campaign=Product%20Management&utm_source=1103)** | Glendale, AZ | On Site | Apr 09 |
 | **[Spotify](http://www.spotify.com)** | **[Product Manager - Music Expression](https://jobright.ai/jobs/info/69d8376ff4ea471a51fe4b59?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Remote | Apr 09 |
-| **[LexisNexis Risk Solutions](https://risk.lexisnexis.com)** | **[Associate Product Manager (Data & Insights)](https://jobright.ai/jobs/info/69d8369a738f2f099e89b613?utm_campaign=Product%20Management&utm_source=1103)** | Home based-California | Remote | Apr 09 |
-| ↳ | **[Associate Product Manager (Data & Insights)](https://jobright.ai/jobs/info/69d8369ab67cec4f9b09b65e?utm_campaign=Product%20Management&utm_source=1103)** | Home based-New York | Remote | Apr 09 |
+| **[LexisNexis Risk Solutions](https://risk.lexisnexis.com)** | **[Associate Product Manager (Data & Insights)](https://jobright.ai/jobs/info/69d8369ab67cec4f9b09b65e?utm_campaign=Product%20Management&utm_source=1103)** | Home based-New York | Remote | Apr 09 |
 | ↳ | **[Associate Product Manager (Data & Insights)](https://jobright.ai/jobs/info/69d8369a738f2f099e89b614?utm_campaign=Product%20Management&utm_source=1103)** | Home based-Georgia | Remote | Apr 09 |
+| ↳ | **[Associate Product Manager (Data & Insights)](https://jobright.ai/jobs/info/69d8369a738f2f099e89b613?utm_campaign=Product%20Management&utm_source=1103)** | Home based-California | Remote | Apr 09 |
 | ↳ | **[Associate Product Manager (Data & Insights)](https://jobright.ai/jobs/info/69d83697f4ea471a51fe4a19?utm_campaign=Product%20Management&utm_source=1103)** | Home based-Pennsylvania | Remote | Apr 09 |
 | ↳ | **[Associate Product Manager (Data & Insights)](https://jobright.ai/jobs/info/69d83697f4ea471a51fe4a1a?utm_campaign=Product%20Management&utm_source=1103)** | Home based-Ohio | Remote | Apr 09 |
 | ↳ | **[Associate Product Manager (Data & Insights)](https://jobright.ai/jobs/info/69d836939f97a42dc9c1b18e?utm_campaign=Product%20Management&utm_source=1103)** | Home based-North Carolina | Remote | Apr 09 |
@@ -154,7 +155,7 @@ For a complete list, click the following sortable link below:
 | **[Centric Brands](https://centricbrands.com)** | **[Product Development Assistant](https://jobright.ai/jobs/info/69d8b15eb67cec4f9b09e36c?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Apr 07 |
 | **[Chedraui USA](https://chedrauiusa.com/)** | **[Strategic Sourcing Coordinator](https://jobright.ai/jobs/info/69d74472e63cea7a8b6703f7?utm_campaign=Product%20Management&utm_source=1103)** | Commerce, CA | On Site | Apr 07 |
 | **[Boeing](https://www.boeing.co.uk)** | **[Associate Product Management Specialist – Program Management Systems](https://jobright.ai/jobs/info/69d5e62d706f771673ba7d52?utm_campaign=Product%20Management&utm_source=1103)** | USA - Berkeley, MO | Hybrid | Apr 07 |
-| ↳ | **[Associate Product Management Specialist – Program Management Systems](https://jobright.ai/jobs/info/69d5e62a366bb95ba5549cef?utm_campaign=Product%20Management&utm_source=1103)** | USA - Seattle, WA | Hybrid | Apr 07 |
+| ↳ | **[Associate Product Management Specialist – Program Management Systems](https://jobright.ai/jobs/info/69d5e62a891d7b11cfd06afe?utm_campaign=Product%20Management&utm_source=1103)** | USA - Seattle, WA | Hybrid | Apr 07 |
 | ↳ | **[Associate Product Management Specialist – Program Management Systems](https://jobright.ai/jobs/info/69d5e6294a12eb12c5e14794?utm_campaign=Product%20Management&utm_source=1103)** | USA - Berkeley, MO | Hybrid | Apr 07 |
 | **[Centric Brands](https://centricbrands.com)** | **[Product Development Assistant](https://jobright.ai/jobs/info/69d5c3b9706f771673ba670f?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY, US | Hybrid | Apr 07 |
 | ↳ | **[Product Development Assistant](https://jobright.ai/jobs/info/69d5c3aa366bb95ba554867c?utm_campaign=Product%20Management&utm_source=1103)** | US-NY-New York | Hybrid | Apr 07 |
@@ -229,5 +230,4 @@ For a complete list, click the following sortable link below:
 | **[Best Buy](https://www.bestbuy.com/)** | **[Enterprise Product Management Operations Analyst](https://jobright.ai/jobs/info/69d02abdcfdc6132f94391a8?utm_campaign=Product%20Management&utm_source=1103)** | 7601 Penn Avenue South | Hybrid | Apr 03 |
 | ↳ | **[Enterprise Product Management Operations Analyst](https://jobright.ai/jobs/info/69d02a87891d7b11cfcd951f?utm_campaign=Product%20Management&utm_source=1103)** | Richfield Minnesota | Hybrid | Apr 03 |
 | **[Kinective](https://www.kinective.io)** | **[Technical Business Analyst](https://jobright.ai/jobs/info/69c47e23d5a1016e98dbbd60?utm_campaign=Product%20Management&utm_source=1103)** | Golden, CO | On Site | Apr 03 |
-| **[Santander Bank, N.A.](https://www.santanderbank.com)** | **[Letter of Credit Product Specialist - Analyst](https://jobright.ai/jobs/info/697b7e9c1423772304eba3d4?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Apr 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
