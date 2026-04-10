@@ -57,12 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Global Credit Union](https://globalcu.org/)** | **[Product Owner I, Marketing Technology](https://jobright.ai/jobs/info/69d840599f97a42dc9c1b442?utm_campaign=Product%20Management&utm_source=1103)** | Glendale, AZ | On Site | Apr 09 |
 | **[Spotify](http://www.spotify.com)** | **[Product Manager - Music Expression](https://jobright.ai/jobs/info/69d8376ff4ea471a51fe4b59?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Remote | Apr 09 |
-| **[LexisNexis Risk Solutions](https://risk.lexisnexis.com)** | **[Associate Product Manager (Data & Insights)](https://jobright.ai/jobs/info/69d8369a738f2f099e89b614?utm_campaign=Product%20Management&utm_source=1103)** | Home based-Georgia | Remote | Apr 09 |
+| **[LexisNexis Risk Solutions](https://risk.lexisnexis.com)** | **[Associate Product Manager (Data & Insights)](https://jobright.ai/jobs/info/69d8369a738f2f099e89b613?utm_campaign=Product%20Management&utm_source=1103)** | Home based-California | Remote | Apr 09 |
 | ↳ | **[Associate Product Manager (Data & Insights)](https://jobright.ai/jobs/info/69d8369ab67cec4f9b09b65e?utm_campaign=Product%20Management&utm_source=1103)** | Home based-New York | Remote | Apr 09 |
-| ↳ | **[Associate Product Manager (Data & Insights)](https://jobright.ai/jobs/info/69d8369a738f2f099e89b613?utm_campaign=Product%20Management&utm_source=1103)** | Home based-California | Remote | Apr 09 |
-| ↳ | **[Associate Product Manager (Data & Insights)](https://jobright.ai/jobs/info/69d83697f4ea471a51fe4a19?utm_campaign=Product%20Management&utm_source=1103)** | Home based-Pennsylvania | Remote | Apr 09 |
+| ↳ | **[Associate Product Manager (Data & Insights)](https://jobright.ai/jobs/info/69d8369a738f2f099e89b614?utm_campaign=Product%20Management&utm_source=1103)** | Home based-Georgia | Remote | Apr 09 |
 | ↳ | **[Associate Product Manager (Data & Insights)](https://jobright.ai/jobs/info/69d83697f4ea471a51fe4a1a?utm_campaign=Product%20Management&utm_source=1103)** | Home based-Ohio | Remote | Apr 09 |
+| ↳ | **[Associate Product Manager (Data & Insights)](https://jobright.ai/jobs/info/69d83697f4ea471a51fe4a19?utm_campaign=Product%20Management&utm_source=1103)** | Home based-Pennsylvania | Remote | Apr 09 |
 | ↳ | **[Associate Product Manager (Data & Insights)](https://jobright.ai/jobs/info/69d836939f97a42dc9c1b18e?utm_campaign=Product%20Management&utm_source=1103)** | Home based-North Carolina | Remote | Apr 09 |
 | ↳ | **[Associate Product Manager (Data & Insights)](https://jobright.ai/jobs/info/69d83591869c7e25d8594658?utm_campaign=Product%20Management&utm_source=1103)** | Home based-Texas | Remote | Apr 09 |
 | ↳ | **[Associate Product Manager (Data & Insights)](https://jobright.ai/jobs/info/69d83591869c7e25d859465a?utm_campaign=Product%20Management&utm_source=1103)** | Home based-Florida | Remote | Apr 09 |
@@ -73,11 +74,11 @@ For a complete list, click the following sortable link below:
 | **[Michigan Millers Mutual Insurance Company](http://mimillers.com)** | **[Insurance Product Development Analyst I](https://jobright.ai/jobs/info/69b334f8ae2a534885ea9c7a?utm_campaign=Product%20Management&utm_source=1103)** | Lansing, MI | Hybrid | Apr 09 |
 | **[Capital One](http://www.capitalone.com)** | **[Sr Associate, Product Management](https://jobright.ai/jobs/info/69d80a13b67cec4f9b09a0d0?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Apr 09 |
 | **[Camping World](https://investor.campingworld.com)** | **[Product Specialist Advisor](https://jobright.ai/jobs/info/69d809c7b67cec4f9b09a016?utm_campaign=Product%20Management&utm_source=1103)** | Rossford, OH | On Site | Apr 09 |
-| **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management](https://jobright.ai/jobs/info/69d809bbf4ea471a51fe3486?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Apr 09 |
-| ↳ | **[Senior Associate, Product Management](https://jobright.ai/jobs/info/69d809bbf4ea471a51fe3488?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Apr 09 |
+| **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management](https://jobright.ai/jobs/info/69d809bbf4ea471a51fe3488?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Apr 09 |
+| ↳ | **[Senior Associate, Product Management](https://jobright.ai/jobs/info/69d809bbf4ea471a51fe3486?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Apr 09 |
 | **[TMX Group](http://www.tmx.com)** | **[Product and Analytics Analyst](https://jobright.ai/jobs/info/69d80931f4ea471a51fe327c?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Apr 09 |
-| **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management - Tech and Data Risk Management Product Team](https://jobright.ai/jobs/info/696579ab2cbf4e44756f0b60?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Apr 09 |
-| ↳ | **[Senior Associate, Product Management](https://jobright.ai/jobs/info/69a297a10da45516f16becc7?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Apr 09 |
+| **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management](https://jobright.ai/jobs/info/69a297a10da45516f16becc7?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Apr 09 |
+| ↳ | **[Senior Associate, Product Management - Tech and Data Risk Management Product Team](https://jobright.ai/jobs/info/696579ab2cbf4e44756f0b60?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Apr 09 |
 | **[Littelfuse](http://www.littelfuse.com)** | **[Associate Product Manager, Relays](https://jobright.ai/jobs/info/69d80828f4ea471a51fe2ed8?utm_campaign=Product%20Management&utm_source=1103)** | Rapid City, SD | On Site | Apr 09 |
 | **[Tradeweb](http://www.tradeweb.com/)** | **[Junior Repo & Money Markets Product Manager](https://jobright.ai/jobs/info/69d7fe619f97a42dc9c195f2?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Apr 09 |
 | **[Fidelity Investments](https://www.fidelity.com)** | **[Associate, Electronic Trading Product](https://jobright.ai/jobs/info/69d7fe409f97a42dc9c19581?utm_campaign=Product%20Management&utm_source=1103)** | Boston, MA | Hybrid | Apr 09 |
