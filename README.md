@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Capital One](http://www.capitalone.com)** | **[Sr. Associate, Product Management - Auto](https://jobright.ai/jobs/info/69be8ca3b106024562840972?utm_campaign=Product%20Management&utm_source=1103)** | Plano, TX | On Site | Apr 11 |
+| ↳ | **[Manager, Product Management - - Network Authorizations Health & Compliance](https://jobright.ai/jobs/info/696940df639b452fb57f0b91?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Apr 11 |
+| ↳ | **[Manager, Product Management - - Network Authorizations Health & Compliance](https://jobright.ai/jobs/info/69693996f25a38006697cde2?utm_campaign=Product%20Management&utm_source=1103)** | Deerfield, IL | On Site | Apr 11 |
+| ↳ | **[Manager, Product Management - - Network Authorizations Health & Compliance](https://jobright.ai/jobs/info/69694dcc639b452fb57f18c1?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Apr 11 |
 | **[Stripe](https://stripe.com)** | **[Product Manager: New Grad Accelerator](https://jobright.ai/jobs/info/69ce1af354f00230c6cfbdf4?utm_campaign=Product%20Management&utm_source=1103)** | New York, United States | Hybrid | Apr 11 |
 | ↳ | **[Product Manager: New Grad Accelerator](https://jobright.ai/jobs/info/69ce1fdc366bb95ba5508178?utm_campaign=Product%20Management&utm_source=1103)** | Seattle, WA | Hybrid | Apr 11 |
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[Product Line Manager (Early in Career)](https://jobright.ai/jobs/info/69bd939f4828227293ffd17d?utm_campaign=Product%20Management&utm_source=1103)** | Santa Clara, CA | On Site | Apr 11 |
@@ -118,10 +122,10 @@ For a complete list, click the following sortable link below:
 | **[Uplifter Inc.](https://www.uplifterinc.com/)** | **[Product Specialist GTA- Toronto](https://jobright.ai/jobs/info/69d898b6869c7e25d8596b9a?utm_campaign=Product%20Management&utm_source=1103)** | Toronto | Hybrid | Apr 09 |
 | **[Spotify](http://www.spotify.com)** | **[Product Manager - Music Expression](https://jobright.ai/jobs/info/69d8376ff4ea471a51fe4b59?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Remote | Apr 09 |
 | **[LexisNexis Risk Solutions](https://risk.lexisnexis.com)** | **[Associate Product Manager (Data & Insights)](https://jobright.ai/jobs/info/69d8369ab67cec4f9b09b65e?utm_campaign=Product%20Management&utm_source=1103)** | Home based-New York | Remote | Apr 09 |
-| ↳ | **[Associate Product Manager (Data & Insights)](https://jobright.ai/jobs/info/69d8369a738f2f099e89b614?utm_campaign=Product%20Management&utm_source=1103)** | Home based-Georgia | Remote | Apr 09 |
 | ↳ | **[Associate Product Manager (Data & Insights)](https://jobright.ai/jobs/info/69d8369a738f2f099e89b613?utm_campaign=Product%20Management&utm_source=1103)** | Home based-California | Remote | Apr 09 |
-| ↳ | **[Associate Product Manager (Data & Insights)](https://jobright.ai/jobs/info/69d83697f4ea471a51fe4a1a?utm_campaign=Product%20Management&utm_source=1103)** | Home based-Ohio | Remote | Apr 09 |
+| ↳ | **[Associate Product Manager (Data & Insights)](https://jobright.ai/jobs/info/69d8369a738f2f099e89b614?utm_campaign=Product%20Management&utm_source=1103)** | Home based-Georgia | Remote | Apr 09 |
 | ↳ | **[Associate Product Manager (Data & Insights)](https://jobright.ai/jobs/info/69d83697f4ea471a51fe4a19?utm_campaign=Product%20Management&utm_source=1103)** | Home based-Pennsylvania | Remote | Apr 09 |
+| ↳ | **[Associate Product Manager (Data & Insights)](https://jobright.ai/jobs/info/69d83697f4ea471a51fe4a1a?utm_campaign=Product%20Management&utm_source=1103)** | Home based-Ohio | Remote | Apr 09 |
 | ↳ | **[Associate Product Manager (Data & Insights)](https://jobright.ai/jobs/info/69d836939f97a42dc9c1b18e?utm_campaign=Product%20Management&utm_source=1103)** | Home based-North Carolina | Remote | Apr 09 |
 | ↳ | **[Associate Product Manager (Data & Insights)](https://jobright.ai/jobs/info/69d83591869c7e25d8594658?utm_campaign=Product%20Management&utm_source=1103)** | Home based-Texas | Remote | Apr 09 |
 | ↳ | **[Associate Product Manager (Data & Insights)](https://jobright.ai/jobs/info/69d83591869c7e25d859465a?utm_campaign=Product%20Management&utm_source=1103)** | Home based-Florida | Remote | Apr 09 |
@@ -202,7 +206,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Associate Product Manager, Autoimmunity](https://jobright.ai/jobs/info/69d6178f72c86e289ed8026a?utm_campaign=Product%20Management&utm_source=1103)** | US-MA-Bedford | On Site | Apr 08 |
 | **[Centric Brands](https://centricbrands.com)** | **[Product Development Assistant](https://jobright.ai/jobs/info/69d8b15eb67cec4f9b09e36c?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Apr 07 |
 | **[Boeing](https://www.boeing.co.uk)** | **[Associate Product Management Specialist – Program Management Systems](https://jobright.ai/jobs/info/69d5e62d706f771673ba7d52?utm_campaign=Product%20Management&utm_source=1103)** | USA - Berkeley, MO | Hybrid | Apr 07 |
-| ↳ | **[Associate Product Management Specialist – Program Management Systems](https://jobright.ai/jobs/info/69d5e62a366bb95ba5549cef?utm_campaign=Product%20Management&utm_source=1103)** | USA - Seattle, WA | Hybrid | Apr 07 |
+| ↳ | **[Associate Product Management Specialist – Program Management Systems](https://jobright.ai/jobs/info/69d5e62a891d7b11cfd06afe?utm_campaign=Product%20Management&utm_source=1103)** | USA - Seattle, WA | Hybrid | Apr 07 |
 | ↳ | **[Associate Product Management Specialist – Program Management Systems](https://jobright.ai/jobs/info/69d5e6294a12eb12c5e14794?utm_campaign=Product%20Management&utm_source=1103)** | USA - Berkeley, MO | Hybrid | Apr 07 |
 | **[Centric Brands](https://centricbrands.com)** | **[Product Development Assistant](https://jobright.ai/jobs/info/69d5c3b9706f771673ba670f?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY, US | Hybrid | Apr 07 |
 | ↳ | **[Product Development Assistant](https://jobright.ai/jobs/info/69d5c3aa366bb95ba554867c?utm_campaign=Product%20Management&utm_source=1103)** | US-NY-New York | Hybrid | Apr 07 |
@@ -216,8 +220,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Development Specialist](https://jobright.ai/jobs/info/69d59071366bb95ba554615f?utm_campaign=Product%20Management&utm_source=1103)** | Charlotte, NC | On Site | Apr 07 |
 | ↳ | **[Product Development Specialist](https://jobright.ai/jobs/info/69d5906e891d7b11cfd02f52?utm_campaign=Product%20Management&utm_source=1103)** | Harrisburg, PA | On Site | Apr 07 |
 | ↳ | **[Product Development Specialist](https://jobright.ai/jobs/info/69d5906c891d7b11cfd02f4f?utm_campaign=Product%20Management&utm_source=1103)** | Amherst, NY | On Site | Apr 07 |
-| ↳ | **[Product Development Specialist](https://jobright.ai/jobs/info/69d59050706f771673ba42ba?utm_campaign=Product%20Management&utm_source=1103)** | Alexandria, VA | On Site | Apr 07 |
 | ↳ | **[Product Development Specialist](https://jobright.ai/jobs/info/69d59050706f771673ba42b7?utm_campaign=Product%20Management&utm_source=1103)** | Beachwood, OH | On Site | Apr 07 |
+| ↳ | **[Product Development Specialist](https://jobright.ai/jobs/info/69d59050706f771673ba42ba?utm_campaign=Product%20Management&utm_source=1103)** | Alexandria, VA | On Site | Apr 07 |
 | ↳ | **[Product Development Specialist](https://jobright.ai/jobs/info/69d59048706f771673ba42b2?utm_campaign=Product%20Management&utm_source=1103)** | Leawood, KS | On Site | Apr 07 |
 | ↳ | **[Product Development Specialist](https://jobright.ai/jobs/info/69d59042e63cea7a8b66249f?utm_campaign=Product%20Management&utm_source=1103)** | Dublin, OH | On Site | Apr 07 |
 | ↳ | **[Product Development Specialist](https://jobright.ai/jobs/info/69d5903fcfdc6132f9463458?utm_campaign=Product%20Management&utm_source=1103)** | Timonium, MD | On Site | Apr 07 |
@@ -248,7 +252,9 @@ For a complete list, click the following sortable link below:
 | **[Vitamin Well Group](https://www.vitaminwell.com)** | **[Product Developer Protein Bars USA - Barebells](https://jobright.ai/jobs/info/69cb5240466f1e133aaccc36?utm_campaign=Product%20Management&utm_source=1103)** | Tennessee, United States | On Site | Apr 07 |
 | **[lululemon](http://shop.lululemon.com)** | **[Product Operations Lead / Hillsdale Mall- Contract through April 15th](https://jobright.ai/jobs/info/69d9ca7b869c7e25d859d9c8?utm_campaign=Product%20Management&utm_source=1103)** | San Mateo, CA | On Site | Apr 06 |
 | **[Qualified Health](https://www.qualifiedhealthai.com)** | **[Product Analyst](https://jobright.ai/jobs/info/69b932be3b74eb1e2c87211e?utm_campaign=Product%20Management&utm_source=1103)** | Hybrid - Palo Alto, CA | Hybrid | Apr 06 |
+| **[Amphenol](http://www.amphenol-tcs.com/)** | **[Associate Product Line Manager](https://jobright.ai/jobs/info/69da9676738f2f099e8aad6b?utm_campaign=Product%20Management&utm_source=1103)** | Santa Clara, CA, US | On Site | Apr 06 |
 | **[Amphenol Communications Solutions](http://www.mergeoptics.com)** | **[Associate Product Line Manager](https://jobright.ai/jobs/info/69d426d5cdb525785fbc6e15?utm_campaign=Product%20Management&utm_source=1103)** | Santa Clara, CA | On Site | Apr 06 |
+| **[Arc'teryx Equipment](http://arcteryx.com)** | **[Product Guide](https://jobright.ai/jobs/info/69da96935356a60f40fe29e9?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY, US | On Site | Apr 06 |
 | **[Cisco](http://www.cisco.com)** | **[Product Management Specialist II (Full Time) - United States](https://jobright.ai/jobs/info/69d41c76cdb525785fbc66a6?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA | On Site | Apr 06 |
 | ↳ | **[Product Management Specialist II (Full Time) - United States](https://jobright.ai/jobs/info/69d415aacfdc6132f94575d8?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, CA | On Site | Apr 06 |
 | ↳ | **[Product Management Specialist II (Full Time) - United States](https://jobright.ai/jobs/info/69d4159bcfdc6132f94575ac?utm_campaign=Product%20Management&utm_source=1103)** | Atlanta, GA | On Site | Apr 06 |
