@@ -125,11 +125,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Owner I, Marketing Technology](https://jobright.ai/jobs/info/69d8cd0d869c7e25d8597bf1?utm_campaign=Product%20Management&utm_source=1103)** | Anchorage, AK | On Site | Apr 10 |
 | **[Uplifter Inc.](https://www.uplifterinc.com/)** | **[Product Specialist GTA- Toronto](https://jobright.ai/jobs/info/69d898b6869c7e25d8596b9a?utm_campaign=Product%20Management&utm_source=1103)** | Toronto | Hybrid | Apr 09 |
 | **[Spotify](http://www.spotify.com)** | **[Product Manager - Music Expression](https://jobright.ai/jobs/info/69d8376ff4ea471a51fe4b59?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Remote | Apr 09 |
-| **[LexisNexis Risk Solutions](https://risk.lexisnexis.com)** | **[Associate Product Manager (Data & Insights)](https://jobright.ai/jobs/info/69d8369a738f2f099e89b614?utm_campaign=Product%20Management&utm_source=1103)** | Home based-Georgia | Remote | Apr 09 |
-| ↳ | **[Associate Product Manager (Data & Insights)](https://jobright.ai/jobs/info/69d8369ab67cec4f9b09b65e?utm_campaign=Product%20Management&utm_source=1103)** | Home based-New York | Remote | Apr 09 |
+| **[LexisNexis Risk Solutions](https://risk.lexisnexis.com)** | **[Associate Product Manager (Data & Insights)](https://jobright.ai/jobs/info/69d8369ab67cec4f9b09b65e?utm_campaign=Product%20Management&utm_source=1103)** | Home based-New York | Remote | Apr 09 |
 | ↳ | **[Associate Product Manager (Data & Insights)](https://jobright.ai/jobs/info/69d8369a738f2f099e89b613?utm_campaign=Product%20Management&utm_source=1103)** | Home based-California | Remote | Apr 09 |
-| ↳ | **[Associate Product Manager (Data & Insights)](https://jobright.ai/jobs/info/69d83697f4ea471a51fe4a1a?utm_campaign=Product%20Management&utm_source=1103)** | Home based-Ohio | Remote | Apr 09 |
+| ↳ | **[Associate Product Manager (Data & Insights)](https://jobright.ai/jobs/info/69d8369a738f2f099e89b614?utm_campaign=Product%20Management&utm_source=1103)** | Home based-Georgia | Remote | Apr 09 |
 | ↳ | **[Associate Product Manager (Data & Insights)](https://jobright.ai/jobs/info/69d83697f4ea471a51fe4a19?utm_campaign=Product%20Management&utm_source=1103)** | Home based-Pennsylvania | Remote | Apr 09 |
+| ↳ | **[Associate Product Manager (Data & Insights)](https://jobright.ai/jobs/info/69d83697f4ea471a51fe4a1a?utm_campaign=Product%20Management&utm_source=1103)** | Home based-Ohio | Remote | Apr 09 |
 | ↳ | **[Associate Product Manager (Data & Insights)](https://jobright.ai/jobs/info/69d836939f97a42dc9c1b18e?utm_campaign=Product%20Management&utm_source=1103)** | Home based-North Carolina | Remote | Apr 09 |
 | ↳ | **[Associate Product Manager (Data & Insights)](https://jobright.ai/jobs/info/69d83591869c7e25d859465a?utm_campaign=Product%20Management&utm_source=1103)** | Home based-Florida | Remote | Apr 09 |
 | ↳ | **[Associate Product Manager (Data & Insights)](https://jobright.ai/jobs/info/69d83591869c7e25d8594658?utm_campaign=Product%20Management&utm_source=1103)** | Home based-Texas | Remote | Apr 09 |
@@ -220,8 +220,8 @@ For a complete list, click the following sortable link below:
 | **[Philadelphia Insurance Companies](https://www.phly.com)** | **[Product Development Specialist](https://jobright.ai/jobs/info/69d590d5cdb525785fbd1e2d?utm_campaign=Product%20Management&utm_source=1103)** | Bala-Cynwyd, PA | On Site | Apr 07 |
 | ↳ | **[Product Development Specialist](https://jobright.ai/jobs/info/69d590d4cdb525785fbd1e2c?utm_campaign=Product%20Management&utm_source=1103)** | Westminster, CO | On Site | Apr 07 |
 | ↳ | **[Product Development Specialist](https://jobright.ai/jobs/info/69d5907a366bb95ba5546165?utm_campaign=Product%20Management&utm_source=1103)** | Alpharetta, GA | On Site | Apr 07 |
-| ↳ | **[Product Development Specialist](https://jobright.ai/jobs/info/69d59071366bb95ba554615f?utm_campaign=Product%20Management&utm_source=1103)** | Charlotte, NC | On Site | Apr 07 |
 | ↳ | **[Product Development Specialist](https://jobright.ai/jobs/info/69d59071366bb95ba554615e?utm_campaign=Product%20Management&utm_source=1103)** | Roseville, CA | On Site | Apr 07 |
+| ↳ | **[Product Development Specialist](https://jobright.ai/jobs/info/69d59071366bb95ba554615f?utm_campaign=Product%20Management&utm_source=1103)** | Charlotte, NC | On Site | Apr 07 |
 | ↳ | **[Product Development Specialist](https://jobright.ai/jobs/info/69d5906e891d7b11cfd02f52?utm_campaign=Product%20Management&utm_source=1103)** | Harrisburg, PA | On Site | Apr 07 |
 | ↳ | **[Product Development Specialist](https://jobright.ai/jobs/info/69d5906c891d7b11cfd02f4f?utm_campaign=Product%20Management&utm_source=1103)** | Amherst, NY | On Site | Apr 07 |
 | ↳ | **[Product Development Specialist](https://jobright.ai/jobs/info/69d59050706f771673ba42b7?utm_campaign=Product%20Management&utm_source=1103)** | Beachwood, OH | On Site | Apr 07 |
