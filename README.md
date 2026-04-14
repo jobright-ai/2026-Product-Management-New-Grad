@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[dbt Labs](https://www.getdbt.com)** | **[Product Manager - Fusion](https://jobright.ai/jobs/info/69debb625913ad339813f9ed?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Apr 14 |
 | **[EchoStar Corporation](http://echostar.com)** | **[Digital Product Manager I](https://jobright.ai/jobs/info/69deb25a18cf504166e2f4a9?utm_campaign=Product%20Management&utm_source=1103)** | Englewood, CO | On Site | Apr 14 |
 | **[La Ligne LLC](https://www.lalignenyc.com/)** | **[Product Development Coordinator](https://jobright.ai/jobs/info/69deae2e18cf504166e2f30a?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Apr 14 |
 | **[dbt Labs](https://www.getdbt.com)** | **[Product Manager - Fusion](https://jobright.ai/jobs/info/69dea985433ac8430e0dbb6c?utm_campaign=Product%20Management&utm_source=1103)** | US - Remote | Remote | Apr 14 |
@@ -69,6 +70,7 @@ For a complete list, click the following sortable link below:
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[Product Line Manager (Early in Career)](https://jobright.ai/jobs/info/69bd939f4828227293ffd17d?utm_campaign=Product%20Management&utm_source=1103)** | Santa Clara, CA | On Site | Apr 14 |
 | **[Capital One](http://www.capitalone.com)** | **[Sr. Associate, Product Management](https://jobright.ai/jobs/info/69c2c09c94007a2195deb58c?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Apr 14 |
 | ↳ | **[Senior Associate, Product Management - Fraud Data Product Manager](https://jobright.ai/jobs/info/69c2b3b9ec22f8310ab0962a?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Apr 14 |
+| ↳ | **[Senior Associate,  Product Management - Customer Engagement (Business Cards & Payments)](https://jobright.ai/jobs/info/69deba775913ad339813f5d2?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Apr 14 |
 | **[Safety National](https://www.safetynational.com)** | **[Product Owner I](https://jobright.ai/jobs/info/69de7887433ac8430e0d9ea3?utm_campaign=Product%20Management&utm_source=1103)** | St Louis, MO | Hybrid | Apr 14 |
 | ↳ | **[Product Owner I](https://jobright.ai/jobs/info/69de77555913ad339813d4fa?utm_campaign=Product%20Management&utm_source=1103)** | Saint Louis, Missouri, United States | Hybrid | Apr 14 |
 | **[Capital One](http://www.capitalone.com)** | **[Sr. Associate, Product Management](https://jobright.ai/jobs/info/69c29fd894007a2195de9021?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Apr 14 |
@@ -138,8 +140,8 @@ For a complete list, click the following sortable link below:
 | **[Amount](http://www.amount.com)** | **[Jr. Product Manager](https://jobright.ai/jobs/info/69d9449e738f2f099e8a0d68?utm_campaign=Product%20Management&utm_source=1103)** | Chicago | Hybrid | Apr 10 |
 | **[Assurant](https://www.assurant.com/)** | **[Product Analyst](https://jobright.ai/jobs/info/69d94052b67cec4f9b0a0cfe?utm_campaign=Product%20Management&utm_source=1103)** | United States Virtual | Remote | Apr 10 |
 | **[Capital One](http://www.capitalone.com)** | **[Sr Associate, Product Management](https://jobright.ai/jobs/info/69d94041f748bc5d08a4a21a?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Apr 10 |
-| ↳ | **[Sr Associate, Product Management](https://jobright.ai/jobs/info/69d9403eb67cec4f9b0a0c85?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Apr 10 |
 | ↳ | **[Sr Associate, Product Management](https://jobright.ai/jobs/info/69d9403eb67cec4f9b0a0c87?utm_campaign=Product%20Management&utm_source=1103)** | Cambridge, MA | On Site | Apr 10 |
+| ↳ | **[Sr Associate, Product Management](https://jobright.ai/jobs/info/69d9403eb67cec4f9b0a0c85?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Apr 10 |
 | ↳ | **[Senior Associate, Product Management - Recoveries](https://jobright.ai/jobs/info/69bd3b99393a1008f7429bb1?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Apr 10 |
 | ↳ | **[Senior Associate, Product Management: Velocity Black Agent Tools (Remote)](https://jobright.ai/jobs/info/69a0aa6a81476f6176baf8e5?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | Remote | Apr 10 |
 | **[Girls Who Code](http://girlswhocode.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/69d92e43b67cec4f9b0a06e7?utm_campaign=Product%20Management&utm_source=1103)** | New York City | Remote | Apr 10 |
@@ -161,8 +163,8 @@ For a complete list, click the following sortable link below:
 | **[Uplifter Inc.](https://www.uplifterinc.com/)** | **[Product Specialist GTA- Toronto](https://jobright.ai/jobs/info/69d898b6869c7e25d8596b9a?utm_campaign=Product%20Management&utm_source=1103)** | Toronto | Hybrid | Apr 09 |
 | **[Spotify](http://www.spotify.com)** | **[Product Manager - Music Expression](https://jobright.ai/jobs/info/69d8376ff4ea471a51fe4b59?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Remote | Apr 09 |
 | **[LexisNexis Risk Solutions](https://risk.lexisnexis.com)** | **[Associate Product Manager (Data & Insights)](https://jobright.ai/jobs/info/69d8369ab67cec4f9b09b65e?utm_campaign=Product%20Management&utm_source=1103)** | Home based-New York | Remote | Apr 09 |
-| ↳ | **[Associate Product Manager (Data & Insights)](https://jobright.ai/jobs/info/69d8369a738f2f099e89b614?utm_campaign=Product%20Management&utm_source=1103)** | Home based-Georgia | Remote | Apr 09 |
 | ↳ | **[Associate Product Manager (Data & Insights)](https://jobright.ai/jobs/info/69d8369a738f2f099e89b613?utm_campaign=Product%20Management&utm_source=1103)** | Home based-California | Remote | Apr 09 |
+| ↳ | **[Associate Product Manager (Data & Insights)](https://jobright.ai/jobs/info/69d8369a738f2f099e89b614?utm_campaign=Product%20Management&utm_source=1103)** | Home based-Georgia | Remote | Apr 09 |
 | ↳ | **[Associate Product Manager (Data & Insights)](https://jobright.ai/jobs/info/69d83697f4ea471a51fe4a1a?utm_campaign=Product%20Management&utm_source=1103)** | Home based-Ohio | Remote | Apr 09 |
 | ↳ | **[Associate Product Manager (Data & Insights)](https://jobright.ai/jobs/info/69d83697f4ea471a51fe4a19?utm_campaign=Product%20Management&utm_source=1103)** | Home based-Pennsylvania | Remote | Apr 09 |
 | ↳ | **[Associate Product Manager (Data & Insights)](https://jobright.ai/jobs/info/69d836939f97a42dc9c1b18e?utm_campaign=Product%20Management&utm_source=1103)** | Home based-North Carolina | Remote | Apr 09 |
@@ -175,8 +177,8 @@ For a complete list, click the following sortable link below:
 | **[Michigan Millers Mutual Insurance Company](http://mimillers.com)** | **[Insurance Product Development Analyst I](https://jobright.ai/jobs/info/69b334f8ae2a534885ea9c7a?utm_campaign=Product%20Management&utm_source=1103)** | Lansing, MI | Hybrid | Apr 09 |
 | **[Capital One](http://www.capitalone.com)** | **[Sr Associate, Product Management](https://jobright.ai/jobs/info/69d80a13b67cec4f9b09a0d0?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Apr 09 |
 | **[Camping World](https://investor.campingworld.com)** | **[Product Specialist Advisor](https://jobright.ai/jobs/info/69d809c7b67cec4f9b09a016?utm_campaign=Product%20Management&utm_source=1103)** | Rossford, OH | On Site | Apr 09 |
-| **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management](https://jobright.ai/jobs/info/69d809bbf4ea471a51fe3486?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Apr 09 |
-| ↳ | **[Senior Associate, Product Management](https://jobright.ai/jobs/info/69d809bbf4ea471a51fe3488?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Apr 09 |
+| **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management](https://jobright.ai/jobs/info/69d809bbf4ea471a51fe3488?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Apr 09 |
+| ↳ | **[Senior Associate, Product Management](https://jobright.ai/jobs/info/69d809bbf4ea471a51fe3486?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Apr 09 |
 | **[TMX Group](http://www.tmx.com)** | **[Product and Analytics Analyst](https://jobright.ai/jobs/info/69d80931f4ea471a51fe327c?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Apr 09 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management](https://jobright.ai/jobs/info/69a297a10da45516f16becc7?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Apr 09 |
 | ↳ | **[Senior Associate, Product Management - Tech and Data Risk Management Product Team](https://jobright.ai/jobs/info/696579ab2cbf4e44756f0b60?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Apr 09 |
@@ -197,7 +199,6 @@ For a complete list, click the following sortable link below:
 | **[CME Group](http://www.cmegroup.com)** | **[BLM Analyst](https://jobright.ai/jobs/info/69d74078e63cea7a8b6700a9?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Apr 09 |
 | **[ICD Portal](http://icdportal.com)** | **[Junior Repo & Money Markets Product Manager](https://jobright.ai/jobs/info/69d7b6ff738f2f099e896c59?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY, United States | Hybrid | Apr 09 |
 | **[CentralReach](http://www.centralreach.com)** | **[Product Operations Coordinator](https://jobright.ai/jobs/info/69baf470569738374140cb8c?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Apr 09 |
-| **[DraftKings Inc.](https://www.draftkings.com)** | **[Analyst I, Casino Product](https://jobright.ai/jobs/info/69d5f4f44a12eb12c5e14e7e?utm_campaign=Product%20Management&utm_source=1103)** | Boston, MA | On Site | Apr 09 |
 | **[Capital One](http://www.capitalone.com)** | **[Sr Associate - Product Management](https://jobright.ai/jobs/info/69ba9ba23b74eb1e2c88ba5b?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | Hybrid | Apr 08 |
 | **[Leap Tools](http://www.leaptools.com/)** | **[Associate Product Manager](https://jobright.ai/jobs/info/69d809e2f4ea471a51fe3505?utm_campaign=Product%20Management&utm_source=1103)** | Toronto, ON | Remote | Apr 08 |
 | **[edkey](https://careertakes.edkey.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/69d6e52352a5bf580012cca5?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Apr 08 |
@@ -238,6 +239,4 @@ For a complete list, click the following sortable link below:
 | **[lululemon](http://shop.lululemon.com)** | **[Product Operations Lead / Woodbury Common Premium Outlet / PM/Overnight Shift](https://jobright.ai/jobs/info/69ba7b6856973837413fe979?utm_campaign=Product%20Management&utm_source=1103)** | Central Valley, NY | On Site | Apr 08 |
 | **[Werfen](http://www.werfen.com/)** | **[Associate Product Manager, Autoimmunity](https://jobright.ai/jobs/info/69d61797a5c9786095e49597?utm_campaign=Product%20Management&utm_source=1103)** | Bedford, MA, US | On Site | Apr 08 |
 | ↳ | **[Associate Product Manager, Autoimmunity](https://jobright.ai/jobs/info/69d6178f72c86e289ed8026a?utm_campaign=Product%20Management&utm_source=1103)** | US-MA-Bedford | On Site | Apr 08 |
-| **[Centric Brands](https://centricbrands.com)** | **[Product Development Assistant](https://jobright.ai/jobs/info/69d8b15eb67cec4f9b09e36c?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Apr 07 |
-| **[EFECTIMEDIOS S.A.](https://www.efectimedios.com)** | **[Asistente de producto](https://jobright.ai/jobs/info/69ddf799e34484770f1a05e2?utm_campaign=Product%20Management&utm_source=1103)** | Denver County, CO | On Site | Apr 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
