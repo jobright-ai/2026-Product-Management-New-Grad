@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Paxos](https://www.paxos.com)** | **[Product Operations Associate](https://jobright.ai/jobs/info/696b5be55fc86241853ac6f5?utm_campaign=Product%20Management&utm_source=1103)** | New York, United States | On Site | Apr 14 |
 | **[Brooklinen](https://www.brooklinen.com)** | **[Assistant Product Developer (Color & Textiles)](https://jobright.ai/jobs/info/69c1c99879e36d3a847ed5a0?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Apr 14 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Coordinator, Product Development, rhode](https://jobright.ai/jobs/info/69c19db375f7ff1cd80fe081?utm_campaign=Product%20Management&utm_source=1103)** | Beverly Hills, CA | On Site | Apr 14 |
 | **[TikTok](https://www.tiktok.com)** | **[Brand Ads Product Manager Graduate (Creative and Brand Innovation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69a55ac80da45516f16e03e0?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA | On Site | Apr 14 |
@@ -64,13 +65,10 @@ For a complete list, click the following sortable link below:
 | **[All Systems Broadband](https://findeight.com/)** | **[Product Manager I](https://jobright.ai/jobs/info/69dddc13e34484770f19fb51?utm_campaign=Product%20Management&utm_source=1103)** | Liberty Lake, WA | On Site | Apr 13 |
 | **[Amphenol](http://www.amphenol-tcs.com/)** | **[Product Manager I](https://jobright.ai/jobs/info/69dda7caaba61f1417311403?utm_campaign=Product%20Management&utm_source=1103)** | Liberty Lake, WA, USA | On Site | Apr 13 |
 | **[Amphenol Network Solutions](https://amphenol-ns.com/)** | **[Product Manager I](https://jobright.ai/jobs/info/69dda23f8182b27d347404f3?utm_campaign=Product%20Management&utm_source=1103)** | Liberty Lake, WA | On Site | Apr 13 |
-| **[Zebra Technologies](https://www.zebra.com)** | **[Product Manager, I](https://jobright.ai/jobs/info/69dda1aa5913ad3398139081?utm_campaign=Product%20Management&utm_source=1103)** | Holtsville, NY | Hybrid | Apr 13 |
-| ↳ | **[Product Manager, I](https://jobright.ai/jobs/info/69dda13faba61f14173109d4?utm_campaign=Product%20Management&utm_source=1103)** | Lincolnshire, IL | Hybrid | Apr 13 |
 | **[IonQ](https://ionq.com)** | **[Product Manager, Applications](https://jobright.ai/jobs/info/69dda3388182b27d347407bb?utm_campaign=Product%20Management&utm_source=1103)** | Remote, US | Remote | Apr 13 |
 | **[lululemon](http://shop.lululemon.com)** | **[Assistant Technical Product Developer](https://jobright.ai/jobs/info/69dd6d335356a60f40fee27e?utm_campaign=Product%20Management&utm_source=1103)** | Vancouver, BC | On Site | Apr 13 |
 | **[Boeing](https://www.boeing.co.uk)** | **[Product Acceptance Spec](https://jobright.ai/jobs/info/69dd451761f6ed54321fc3c5?utm_campaign=Product%20Management&utm_source=1103)** | USA - West Jordan, UT | On Site | Apr 13 |
 | ↳ | **[Product Acceptance Spec](https://jobright.ai/jobs/info/69dd447d5356a60f40fed307?utm_campaign=Product%20Management&utm_source=1103)** | USA - Salt Lake City, UT | On Site | Apr 13 |
-| **[Zebra Technologies](https://www.zebra.com)** | **[Product Manager, I](https://jobright.ai/jobs/info/69dd36635356a60f40fed0de?utm_campaign=Product%20Management&utm_source=1103)** | Lincolnshire, IL | Hybrid | Apr 13 |
 | **[Boston Scientific](http://www.bostonscientific.com)** | **[Product Builder I](https://jobright.ai/jobs/info/69dd54ab61f6ed54321fcc2b?utm_campaign=Product%20Management&utm_source=1103)** | Quincy, MA | On Site | Apr 13 |
 | **[Lincoln Financial](https://www.lincolnfinancial.com/)** | **[Associate Product Manager, Supp Health](https://jobright.ai/jobs/info/69c15a392c312363dcd417af?utm_campaign=Product%20Management&utm_source=1103)** | Radnor, PA | Hybrid | Apr 13 |
 | **[Mutual of Omaha Mortgage](https://www.mutualmortgage.com)** | **[Product Manager ? Analytics & Product Success](https://jobright.ai/jobs/info/69dd1860f748bc5d08a5e03a?utm_campaign=Product%20Management&utm_source=1103)** | Irvine, CA | Hybrid | Apr 13 |
@@ -148,14 +146,14 @@ For a complete list, click the following sortable link below:
 | **[Camping World](https://investor.campingworld.com)** | **[Product Specialist](https://jobright.ai/jobs/info/69c358237a7a0045db88f198?utm_campaign=Product%20Management&utm_source=1103)** | Thornburg, VA | On Site | Apr 10 |
 | **[Uplifter Inc.](https://www.uplifterinc.com/)** | **[Product Specialist GTA- Toronto](https://jobright.ai/jobs/info/69d898b6869c7e25d8596b9a?utm_campaign=Product%20Management&utm_source=1103)** | Toronto | Hybrid | Apr 09 |
 | **[Spotify](http://www.spotify.com)** | **[Product Manager - Music Expression](https://jobright.ai/jobs/info/69d8376ff4ea471a51fe4b59?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Remote | Apr 09 |
-| **[LexisNexis Risk Solutions](https://risk.lexisnexis.com)** | **[Associate Product Manager (Data & Insights)](https://jobright.ai/jobs/info/69d8369ab67cec4f9b09b65e?utm_campaign=Product%20Management&utm_source=1103)** | Home based-New York | Remote | Apr 09 |
+| **[LexisNexis Risk Solutions](https://risk.lexisnexis.com)** | **[Associate Product Manager (Data & Insights)](https://jobright.ai/jobs/info/69d8369a738f2f099e89b613?utm_campaign=Product%20Management&utm_source=1103)** | Home based-California | Remote | Apr 09 |
+| ↳ | **[Associate Product Manager (Data & Insights)](https://jobright.ai/jobs/info/69d8369ab67cec4f9b09b65e?utm_campaign=Product%20Management&utm_source=1103)** | Home based-New York | Remote | Apr 09 |
 | ↳ | **[Associate Product Manager (Data & Insights)](https://jobright.ai/jobs/info/69d8369a738f2f099e89b614?utm_campaign=Product%20Management&utm_source=1103)** | Home based-Georgia | Remote | Apr 09 |
-| ↳ | **[Associate Product Manager (Data & Insights)](https://jobright.ai/jobs/info/69d8369a738f2f099e89b613?utm_campaign=Product%20Management&utm_source=1103)** | Home based-California | Remote | Apr 09 |
-| ↳ | **[Associate Product Manager (Data & Insights)](https://jobright.ai/jobs/info/69d83697f4ea471a51fe4a19?utm_campaign=Product%20Management&utm_source=1103)** | Home based-Pennsylvania | Remote | Apr 09 |
 | ↳ | **[Associate Product Manager (Data & Insights)](https://jobright.ai/jobs/info/69d83697f4ea471a51fe4a1a?utm_campaign=Product%20Management&utm_source=1103)** | Home based-Ohio | Remote | Apr 09 |
+| ↳ | **[Associate Product Manager (Data & Insights)](https://jobright.ai/jobs/info/69d83697f4ea471a51fe4a19?utm_campaign=Product%20Management&utm_source=1103)** | Home based-Pennsylvania | Remote | Apr 09 |
 | ↳ | **[Associate Product Manager (Data & Insights)](https://jobright.ai/jobs/info/69d836939f97a42dc9c1b18e?utm_campaign=Product%20Management&utm_source=1103)** | Home based-North Carolina | Remote | Apr 09 |
-| ↳ | **[Associate Product Manager (Data & Insights)](https://jobright.ai/jobs/info/69d83591869c7e25d8594658?utm_campaign=Product%20Management&utm_source=1103)** | Home based-Texas | Remote | Apr 09 |
 | ↳ | **[Associate Product Manager (Data & Insights)](https://jobright.ai/jobs/info/69d83591869c7e25d859465a?utm_campaign=Product%20Management&utm_source=1103)** | Home based-Florida | Remote | Apr 09 |
+| ↳ | **[Associate Product Manager (Data & Insights)](https://jobright.ai/jobs/info/69d83591869c7e25d8594658?utm_campaign=Product%20Management&utm_source=1103)** | Home based-Texas | Remote | Apr 09 |
 | **[Intelliswift - An LTTS Company](https://www.intelliswift.com)** | **[Product Manager 1- ​​​​​​​Mobile Product Operations and Management](https://jobright.ai/jobs/info/69d82aea869c7e25d859427d?utm_campaign=Product%20Management&utm_source=1103)** | Plano, TX | On Site | Apr 09 |
 | **[BlackRock](http://www.blackrock.com)** | **[Analyst, Technology Product Management / Wilmington, DE](https://jobright.ai/jobs/info/69d82629b67cec4f9b09afec?utm_campaign=Product%20Management&utm_source=1103)** | Wilmington, DE | Hybrid | Apr 09 |
 | **[Bectran, Inc.](http://www.bectran.com)** | **[Product Specialist](https://jobright.ai/jobs/info/69d82537738f2f099e89aec2?utm_campaign=Product%20Management&utm_source=1103)** | Greater Chicago Area | Remote | Apr 09 |
@@ -237,12 +235,12 @@ For a complete list, click the following sortable link below:
 | **[Philadelphia Insurance Companies](https://www.phly.com)** | **[Product Development Specialist](https://jobright.ai/jobs/info/69d590d5cdb525785fbd1e2d?utm_campaign=Product%20Management&utm_source=1103)** | Bala-Cynwyd, PA | On Site | Apr 07 |
 | ↳ | **[Product Development Specialist](https://jobright.ai/jobs/info/69d590d4cdb525785fbd1e2c?utm_campaign=Product%20Management&utm_source=1103)** | Westminster, CO | On Site | Apr 07 |
 | ↳ | **[Product Development Specialist](https://jobright.ai/jobs/info/69d5907a366bb95ba5546165?utm_campaign=Product%20Management&utm_source=1103)** | Alpharetta, GA | On Site | Apr 07 |
-| ↳ | **[Product Development Specialist](https://jobright.ai/jobs/info/69d59071366bb95ba554615e?utm_campaign=Product%20Management&utm_source=1103)** | Roseville, CA | On Site | Apr 07 |
 | ↳ | **[Product Development Specialist](https://jobright.ai/jobs/info/69d59071366bb95ba554615f?utm_campaign=Product%20Management&utm_source=1103)** | Charlotte, NC | On Site | Apr 07 |
+| ↳ | **[Product Development Specialist](https://jobright.ai/jobs/info/69d59071366bb95ba554615e?utm_campaign=Product%20Management&utm_source=1103)** | Roseville, CA | On Site | Apr 07 |
 | ↳ | **[Product Development Specialist](https://jobright.ai/jobs/info/69d5906e891d7b11cfd02f52?utm_campaign=Product%20Management&utm_source=1103)** | Harrisburg, PA | On Site | Apr 07 |
 | ↳ | **[Product Development Specialist](https://jobright.ai/jobs/info/69d5906c891d7b11cfd02f4f?utm_campaign=Product%20Management&utm_source=1103)** | Amherst, NY | On Site | Apr 07 |
-| ↳ | **[Product Development Specialist](https://jobright.ai/jobs/info/69d59050706f771673ba42b7?utm_campaign=Product%20Management&utm_source=1103)** | Beachwood, OH | On Site | Apr 07 |
 | ↳ | **[Product Development Specialist](https://jobright.ai/jobs/info/69d59050706f771673ba42ba?utm_campaign=Product%20Management&utm_source=1103)** | Alexandria, VA | On Site | Apr 07 |
+| ↳ | **[Product Development Specialist](https://jobright.ai/jobs/info/69d59050706f771673ba42b7?utm_campaign=Product%20Management&utm_source=1103)** | Beachwood, OH | On Site | Apr 07 |
 | ↳ | **[Product Development Specialist](https://jobright.ai/jobs/info/69d59048706f771673ba42b2?utm_campaign=Product%20Management&utm_source=1103)** | Leawood, KS | On Site | Apr 07 |
 | ↳ | **[Product Development Specialist](https://jobright.ai/jobs/info/69d59042e63cea7a8b66249f?utm_campaign=Product%20Management&utm_source=1103)** | Dublin, OH | On Site | Apr 07 |
 | ↳ | **[Product Development Specialist](https://jobright.ai/jobs/info/69d5903fcfdc6132f9463458?utm_campaign=Product%20Management&utm_source=1103)** | Timonium, MD | On Site | Apr 07 |
@@ -252,8 +250,4 @@ For a complete list, click the following sortable link below:
 | **[Klein Tools](https://www.kleintools.com/)** | **[Technical Associate Product Manager- Hybrid!](https://jobright.ai/jobs/info/69d58bd4cdb525785fbd1bcb?utm_campaign=Product%20Management&utm_source=1103)** | Lincolnshire, IL, USA | Hybrid | Apr 07 |
 | **[Philadelphia Insurance Companies](https://www.phly.com)** | **[Product Development Specialist](https://jobright.ai/jobs/info/69d58b6bcdb525785fbd1ab1?utm_campaign=Product%20Management&utm_source=1103)** | Naperville, IL | On Site | Apr 07 |
 | ↳ | **[Product Development Specialist](https://jobright.ai/jobs/info/69d588ffe63cea7a8b662126?utm_campaign=Product%20Management&utm_source=1103)** | Glastonbury, CT | On Site | Apr 07 |
-| **[JPMorganChase](https://www.jpmorganchase.com)** | **[Digital Markets Product Manager - Repo - Associate](https://jobright.ai/jobs/info/69d57bfd366bb95ba5545798?utm_campaign=Product%20Management&utm_source=1103)** | 270 Park Ave, New York, NY, 10017, US | On Site | Apr 07 |
-| **[Chase](https://www.chase.com/)** | **[Digital Markets Product Manager - Repo - Associate](https://jobright.ai/jobs/info/69d57be7891d7b11cfd0258c?utm_campaign=Product%20Management&utm_source=1103)** | 270 Park Ave, New York, NY, 10017, US | On Site | Apr 07 |
-| **[NYCM Insurance](https://www.nycm.com)** | **[Product Analyst (Hybrid)](https://jobright.ai/jobs/info/69d57be0891d7b11cfd0256e?utm_campaign=Product%20Management&utm_source=1103)** | Edmeston, New York, United States | Hybrid | Apr 07 |
-| **[Western National Insurance](https://wnins.com)** | **[Insurance Product Development Analyst I](https://jobright.ai/jobs/info/69a932eb79f3f4037f43f9ad?utm_campaign=Product%20Management&utm_source=1103)** | Edina, MN | Hybrid | Apr 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
