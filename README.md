@@ -57,7 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management - Commercial Bank](https://jobright.ai/jobs/info/69c5520caa9a29199e80333a?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Apr 16 |
+| **[Capital One](http://www.capitalone.com)** | **[Sr. Associate, Product Management - Zelle Mobile](https://jobright.ai/jobs/info/69e135eaacc736112f5c26e4?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Apr 16 |
+| ↳ | **[Sr. Associate, Product Management - Zelle Mobile](https://jobright.ai/jobs/info/69e135a06c20aa114953fdea?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Apr 16 |
+| ↳ | **[Senior Associate, Product Management - Commercial Bank](https://jobright.ai/jobs/info/69c5550183ea553769fc8cb7?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Apr 16 |
+| ↳ | **[Sr. Associate, Product Management, Decisioning Platform Orchestration](https://jobright.ai/jobs/info/69a82e0a7ac93962b707eb99?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Apr 16 |
+| ↳ | **[Sr. Associate, Product Management - Zelle Mobile](https://jobright.ai/jobs/info/69e13325ff71e82d604b5a18?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Apr 16 |
+| ↳ | **[Senior Associate, Product Management - Commercial Bank](https://jobright.ai/jobs/info/69c5520caa9a29199e80333a?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Apr 16 |
 | ↳ | **[Sr. Associate, Product Management](https://jobright.ai/jobs/info/69c560f283ea553769fc9340?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Apr 16 |
 | ↳ | **[Sr. Associate, Product Management](https://jobright.ai/jobs/info/69c5584daa3c2c1995dfdb60?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Apr 16 |
 | ↳ | **[Senior Associate, Product Management - Platform (CI/CD)](https://jobright.ai/jobs/info/69a8b17079f3f4037f430b08?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Apr 16 |
@@ -92,8 +97,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Specialist Advisor](https://jobright.ai/jobs/info/69dff21ee34484770f1ab73c?utm_campaign=Product%20Management&utm_source=1103)** | Windham, ME | On Site | Apr 15 |
 | **[Harbor Freight Tools](https://www.harborfreightjobs.com/)** | **[Internal and External Asset Recovery Associate- Monday-Friday](https://jobright.ai/jobs/info/69dfe8da14bf245fc7a6e8d7?utm_campaign=Product%20Management&utm_source=1103)** | Dillon, SC | On Site | Apr 15 |
 | **[TaylorMade Golf Company](http://taylormadegolf.com/careers)** | **[Associate Product Evaluation Analyst](https://jobright.ai/jobs/info/6996afe7e0bddb6acac549ae?utm_campaign=Product%20Management&utm_source=1103)** | Carlsbad, CA | On Site | Apr 15 |
-| **[Capital One](http://www.capitalone.com)** | **[Sr. Associate, Product Management](https://jobright.ai/jobs/info/69dfe414aba61f141731e10f?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Apr 15 |
-| ↳ | **[Sr. Associate, Product Management](https://jobright.ai/jobs/info/69dfdb014920452a85dcfeb9?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Apr 15 |
+| **[Capital One](http://www.capitalone.com)** | **[Sr. Associate, Product Management](https://jobright.ai/jobs/info/69dfdb014920452a85dcfeb9?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Apr 15 |
 | ↳ | **[Sr. Associate, Product Management](https://jobright.ai/jobs/info/69dfdacf433ac8430e0e2a3d?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Apr 15 |
 | **[Gemini, Inc.](https://geminimade.com)** | **[Sales, Product & Marketing Leadership Program](https://jobright.ai/jobs/info/69dfd452aba61f141731da42?utm_campaign=Product%20Management&utm_source=1103)** | Garland, TX, US | On Site | Apr 15 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management- Pulse Network](https://jobright.ai/jobs/info/69a956597f9271426f883c44?utm_campaign=Product%20Management&utm_source=1103)** | Houston, TX | On Site | Apr 15 |
@@ -156,8 +160,8 @@ For a complete list, click the following sortable link below:
 | **[Eva NYC](https://eva-nyc.com)** | **[Product Development and Regulatory Coordinator](https://jobright.ai/jobs/info/69dacc99b67cec4f9b0ac381?utm_campaign=Product%20Management&utm_source=1103)** | Brooklyn, NY | Hybrid | Apr 11 |
 | **[Capital One](http://www.capitalone.com)** | **[Sr. Associate, Product Management - Auto](https://jobright.ai/jobs/info/69be8ca3b106024562840972?utm_campaign=Product%20Management&utm_source=1103)** | Plano, TX | On Site | Apr 11 |
 | ↳ | **[Manager, Product Management - - Network Authorizations Health & Compliance](https://jobright.ai/jobs/info/696940df639b452fb57f0b91?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Apr 11 |
-| ↳ | **[Manager, Product Management - - Network Authorizations Health & Compliance](https://jobright.ai/jobs/info/69693996f25a38006697cde2?utm_campaign=Product%20Management&utm_source=1103)** | Deerfield, IL | On Site | Apr 11 |
 | ↳ | **[Manager, Product Management - - Network Authorizations Health & Compliance](https://jobright.ai/jobs/info/69694dcc639b452fb57f18c1?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Apr 11 |
+| ↳ | **[Manager, Product Management - - Network Authorizations Health & Compliance](https://jobright.ai/jobs/info/69693996f25a38006697cde2?utm_campaign=Product%20Management&utm_source=1103)** | Deerfield, IL | On Site | Apr 11 |
 | **[SiriusXM](http://siriusxm.com)** | **[Associate Product Operations Specialist](https://jobright.ai/jobs/info/69a22d37b600907a962879a7?utm_campaign=Product%20Management&utm_source=1103)** | Oakland, CA | Hybrid | Apr 11 |
 | **[William Blair](http://www.williamblair.com)** | **[Associate Equity Research Product Manager](https://jobright.ai/jobs/info/698519c1348f733a5c39455f?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Apr 11 |
 | **[SiriusXM](http://siriusxm.com)** | **[Associate Product Operations Specialist](https://jobright.ai/jobs/info/69a22eff359fe034b1cd6c9b?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Apr 11 |
