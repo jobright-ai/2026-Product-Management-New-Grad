@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kikoff](https://kikoff.com/)** | **[Product Operations Specialist](https://jobright.ai/jobs/info/69a89f9579f3f4037f42c0ea?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, CA | On Site | Apr 16 |
+| **[RealPage, Inc.](https://www.realpage.com)** | **[Product Manager - Remote](https://jobright.ai/jobs/info/69c61f5083ea553769fd4074?utm_campaign=Product%20Management&utm_source=1103)** | Boston, MA | Remote | Apr 16 |
+| **[JPMorganChase](https://www.jpmorganchase.com)** | **[Product Associate - Mobile Services - Payments](https://jobright.ai/jobs/info/69e116396c20aa114953f4d8?utm_campaign=Product%20Management&utm_source=1103)** | 1333 N California Blvd, Walnut Creek, CA, 94596, US | On Site | Apr 16 |
 | **[Chase](https://www.chase.com/)** | **[Product Associate - Mobile Services - Payments](https://jobright.ai/jobs/info/69e110a9acc736112f5c1c44?utm_campaign=Product%20Management&utm_source=1103)** | 1333 N California Blvd, Walnut Creek, CA, 94596, US | On Site | Apr 16 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate Product Management](https://jobright.ai/jobs/info/69e11077acc736112f5c1bfd?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Apr 16 |
 | ↳ | **[Senior Associate Product Management](https://jobright.ai/jobs/info/69e11073ff71e82d604b4fec?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Apr 16 |
@@ -67,7 +70,6 @@ For a complete list, click the following sortable link below:
 | **[KKR](http://www.kkr.com)** | **[Analyst, Product Operations](https://jobright.ai/jobs/info/69e05d54cf5a9e0c33c8603d?utm_campaign=Product%20Management&utm_source=1103)** | Hartford, CT | On Site | Apr 15 |
 | **[David Yurman](http://www.davidyurman.com)** | **[Coordinator, Product Development Operations](https://jobright.ai/jobs/info/69e0549fb20fd532b4ae0ce0?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Apr 15 |
 | **[Paramount](https://www.paramount.com)** | **[Analyst, Product Management](https://jobright.ai/jobs/info/69e04dedb20fd532b4ae09e1?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Apr 15 |
-| **[Littelfuse](http://www.littelfuse.com)** | **[Associate Product Manager, Relays](https://jobright.ai/jobs/info/69e10d7cd612782e61146aba?utm_campaign=Product%20Management&utm_source=1103)** | Rapid City, SD | On Site | Apr 15 |
 | **[KKR](http://www.kkr.com)** | **[Analyst, Product Operations](https://jobright.ai/jobs/info/69e0369f4920452a85dd241e?utm_campaign=Product%20Management&utm_source=1103)** | Hartford, CT | On Site | Apr 15 |
 | **[Gemini, Inc.](https://geminimade.com)** | **[Sales, Product & Marketing Leadership Program](https://jobright.ai/jobs/info/69e02ac34920452a85dd1f03?utm_campaign=Product%20Management&utm_source=1103)** | Garland, TX | On Site | Apr 15 |
 | **[GALLO](http://www.gallocareers.com)** | **[Product Developer Assistant](https://jobright.ai/jobs/info/69e02a565913ad3398148103?utm_campaign=Product%20Management&utm_source=1103)** | Modesto, CA | On Site | Apr 15 |
@@ -150,8 +152,8 @@ For a complete list, click the following sortable link below:
 | **[Eva NYC](https://eva-nyc.com)** | **[Product Development and Regulatory Coordinator](https://jobright.ai/jobs/info/69dacc99b67cec4f9b0ac381?utm_campaign=Product%20Management&utm_source=1103)** | Brooklyn, NY | Hybrid | Apr 11 |
 | **[Capital One](http://www.capitalone.com)** | **[Sr. Associate, Product Management - Auto](https://jobright.ai/jobs/info/69be8ca3b106024562840972?utm_campaign=Product%20Management&utm_source=1103)** | Plano, TX | On Site | Apr 11 |
 | ↳ | **[Manager, Product Management - - Network Authorizations Health & Compliance](https://jobright.ai/jobs/info/696940df639b452fb57f0b91?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Apr 11 |
-| ↳ | **[Manager, Product Management - - Network Authorizations Health & Compliance](https://jobright.ai/jobs/info/69694dcc639b452fb57f18c1?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Apr 11 |
 | ↳ | **[Manager, Product Management - - Network Authorizations Health & Compliance](https://jobright.ai/jobs/info/69693996f25a38006697cde2?utm_campaign=Product%20Management&utm_source=1103)** | Deerfield, IL | On Site | Apr 11 |
+| ↳ | **[Manager, Product Management - - Network Authorizations Health & Compliance](https://jobright.ai/jobs/info/69694dcc639b452fb57f18c1?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Apr 11 |
 | **[SiriusXM](http://siriusxm.com)** | **[Associate Product Operations Specialist](https://jobright.ai/jobs/info/69a22d37b600907a962879a7?utm_campaign=Product%20Management&utm_source=1103)** | Oakland, CA | Hybrid | Apr 11 |
 | **[William Blair](http://www.williamblair.com)** | **[Associate Equity Research Product Manager](https://jobright.ai/jobs/info/698519c1348f733a5c39455f?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Apr 11 |
 | **[SiriusXM](http://siriusxm.com)** | **[Associate Product Operations Specialist](https://jobright.ai/jobs/info/69a22eff359fe034b1cd6c9b?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Apr 11 |
@@ -180,8 +182,8 @@ For a complete list, click the following sortable link below:
 | **[Amount](http://www.amount.com)** | **[Jr. Product Manager](https://jobright.ai/jobs/info/69d9449e738f2f099e8a0d68?utm_campaign=Product%20Management&utm_source=1103)** | Chicago | Hybrid | Apr 10 |
 | **[Assurant](https://www.assurant.com/)** | **[Product Analyst](https://jobright.ai/jobs/info/69d94052b67cec4f9b0a0cfe?utm_campaign=Product%20Management&utm_source=1103)** | United States Virtual | Remote | Apr 10 |
 | **[Capital One](http://www.capitalone.com)** | **[Sr Associate, Product Management](https://jobright.ai/jobs/info/69d94041f748bc5d08a4a21a?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Apr 10 |
-| ↳ | **[Sr Associate, Product Management](https://jobright.ai/jobs/info/69d9403eb67cec4f9b0a0c87?utm_campaign=Product%20Management&utm_source=1103)** | Cambridge, MA | On Site | Apr 10 |
 | ↳ | **[Sr Associate, Product Management](https://jobright.ai/jobs/info/69d9403eb67cec4f9b0a0c85?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Apr 10 |
+| ↳ | **[Sr Associate, Product Management](https://jobright.ai/jobs/info/69d9403eb67cec4f9b0a0c87?utm_campaign=Product%20Management&utm_source=1103)** | Cambridge, MA | On Site | Apr 10 |
 | ↳ | **[Senior Associate, Product Management - Recoveries](https://jobright.ai/jobs/info/69bd3b99393a1008f7429bb1?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Apr 10 |
 | **[Girls Who Code](http://girlswhocode.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/69d92e43b67cec4f9b0a06e7?utm_campaign=Product%20Management&utm_source=1103)** | New York City | Remote | Apr 10 |
 | **[Acushnet Company](http://employment.acushnetgolf.com/)** | **[Associate Product Developer](https://jobright.ai/jobs/info/69bc57f95b89c002acf1e380?utm_campaign=Product%20Management&utm_source=1103)** | Fairhaven, MA | On Site | Apr 10 |
