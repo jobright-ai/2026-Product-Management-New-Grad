@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Zoro.com](http://zoro.com)** | **[Product Analyst](https://jobright.ai/jobs/info/69e1514aacc736112f5c30ce?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, Illinois, United States | Hybrid | Apr 16 |
+| **[Camping World](https://investor.campingworld.com)** | **[Product Specialist Advisor](https://jobright.ai/jobs/info/69e14f6340a62c1fa93b7c12?utm_campaign=Product%20Management&utm_source=1103)** | Sherman, TX | On Site | Apr 16 |
 | **[Capital One](http://www.capitalone.com)** | **[Sr. Associate, Product Management - Zelle Mobile](https://jobright.ai/jobs/info/69e135eaacc736112f5c26e4?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Apr 16 |
 | ↳ | **[Sr. Associate, Product Management - Zelle Mobile](https://jobright.ai/jobs/info/69e135a06c20aa114953fdea?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Apr 16 |
 | ↳ | **[Senior Associate, Product Management - Commercial Bank](https://jobright.ai/jobs/info/69c5550183ea553769fc8cb7?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Apr 16 |
@@ -121,8 +123,8 @@ For a complete list, click the following sortable link below:
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[Product Line Manager (Early in Career)](https://jobright.ai/jobs/info/69bd939f4828227293ffd17d?utm_campaign=Product%20Management&utm_source=1103)** | Santa Clara, CA | On Site | Apr 14 |
 | **[Capital One](http://www.capitalone.com)** | **[Sr. Associate, Product Management](https://jobright.ai/jobs/info/69c2c09c94007a2195deb58c?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Apr 14 |
 | ↳ | **[Senior Associate, Product Management - Fraud Data Product Manager](https://jobright.ai/jobs/info/69c2b3b9ec22f8310ab0962a?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Apr 14 |
-| ↳ | **[Sr. Associate, Product Management - Zelle Mobile](https://jobright.ai/jobs/info/69e0ac98e7504b3764730f2f?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Apr 14 |
 | ↳ | **[Sr. Associate, Product Management - Zelle Mobile](https://jobright.ai/jobs/info/69e0ae81ff71e82d604b2b72?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Apr 14 |
+| ↳ | **[Sr. Associate, Product Management - Zelle Mobile](https://jobright.ai/jobs/info/69e0ac98e7504b3764730f2f?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Apr 14 |
 | ↳ | **[Sr. Associate, Product Management - Zelle Mobile](https://jobright.ai/jobs/info/69e0ab636c20aa114953cda3?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Apr 14 |
 | ↳ | **[Senior Associate,  Product Management - Customer Engagement (Business Cards & Payments)](https://jobright.ai/jobs/info/69deba775913ad339813f5d2?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Apr 14 |
 | **[Safety National](https://www.safetynational.com)** | **[Product Owner I](https://jobright.ai/jobs/info/69de7887433ac8430e0d9ea3?utm_campaign=Product%20Management&utm_source=1103)** | St Louis, MO | Hybrid | Apr 14 |
