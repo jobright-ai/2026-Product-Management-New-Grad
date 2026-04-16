@@ -57,11 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Chase](https://www.chase.com/)** | **[Product Associate - Mobile Services - Payments](https://jobright.ai/jobs/info/69e110a9acc736112f5c1c44?utm_campaign=Product%20Management&utm_source=1103)** | 1333 N California Blvd, Walnut Creek, CA, 94596, US | On Site | Apr 16 |
+| **[Capital One](http://www.capitalone.com)** | **[Senior Associate Product Management](https://jobright.ai/jobs/info/69e11077acc736112f5c1bfd?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Apr 16 |
+| ↳ | **[Senior Associate Product Management](https://jobright.ai/jobs/info/69e11073ff71e82d604b4fec?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Apr 16 |
+| ↳ | **[Senior Associate Product Management](https://jobright.ai/jobs/info/69e1106d40a62c1fa93b67a8?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Apr 16 |
+| ↳ | **[Senior Associate Product Management](https://jobright.ai/jobs/info/69e1101cfd1c0456f3fac5c1?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Apr 16 |
 | **[lululemon](http://shop.lululemon.com)** | **[Product Operations Lead / Settlers Green Outlet Pop-Up (12 Month Contract)](https://jobright.ai/jobs/info/69c4fbd433eecf31079577eb?utm_campaign=Product%20Management&utm_source=1103)** | North Conway, NH | On Site | Apr 16 |
 | **[Businessolver](https://www.businessolver.com)** | **[Product Manager (Remote)](https://jobright.ai/jobs/info/69e073f4b20fd532b4ae1b47?utm_campaign=Product%20Management&utm_source=1103)** | Marion County, IN | Remote | Apr 15 |
 | **[KKR](http://www.kkr.com)** | **[Analyst, Product Operations](https://jobright.ai/jobs/info/69e05d54cf5a9e0c33c8603d?utm_campaign=Product%20Management&utm_source=1103)** | Hartford, CT | On Site | Apr 15 |
 | **[David Yurman](http://www.davidyurman.com)** | **[Coordinator, Product Development Operations](https://jobright.ai/jobs/info/69e0549fb20fd532b4ae0ce0?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Apr 15 |
 | **[Paramount](https://www.paramount.com)** | **[Analyst, Product Management](https://jobright.ai/jobs/info/69e04dedb20fd532b4ae09e1?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Apr 15 |
+| **[Littelfuse](http://www.littelfuse.com)** | **[Associate Product Manager, Relays](https://jobright.ai/jobs/info/69e10d7cd612782e61146aba?utm_campaign=Product%20Management&utm_source=1103)** | Rapid City, SD | On Site | Apr 15 |
 | **[KKR](http://www.kkr.com)** | **[Analyst, Product Operations](https://jobright.ai/jobs/info/69e0369f4920452a85dd241e?utm_campaign=Product%20Management&utm_source=1103)** | Hartford, CT | On Site | Apr 15 |
 | **[Gemini, Inc.](https://geminimade.com)** | **[Sales, Product & Marketing Leadership Program](https://jobright.ai/jobs/info/69e02ac34920452a85dd1f03?utm_campaign=Product%20Management&utm_source=1103)** | Garland, TX | On Site | Apr 15 |
 | **[GALLO](http://www.gallocareers.com)** | **[Product Developer Assistant](https://jobright.ai/jobs/info/69e02a565913ad3398148103?utm_campaign=Product%20Management&utm_source=1103)** | Modesto, CA | On Site | Apr 15 |
@@ -106,9 +112,9 @@ For a complete list, click the following sortable link below:
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[Product Line Manager (Early in Career)](https://jobright.ai/jobs/info/69bd939f4828227293ffd17d?utm_campaign=Product%20Management&utm_source=1103)** | Santa Clara, CA | On Site | Apr 14 |
 | **[Capital One](http://www.capitalone.com)** | **[Sr. Associate, Product Management](https://jobright.ai/jobs/info/69c2c09c94007a2195deb58c?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Apr 14 |
 | ↳ | **[Senior Associate, Product Management - Fraud Data Product Manager](https://jobright.ai/jobs/info/69c2b3b9ec22f8310ab0962a?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Apr 14 |
-| ↳ | **[Sr. Associate, Product Management - Zelle Mobile](https://jobright.ai/jobs/info/69e0ab636c20aa114953cda3?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Apr 14 |
-| ↳ | **[Sr. Associate, Product Management - Zelle Mobile](https://jobright.ai/jobs/info/69e0ae81ff71e82d604b2b72?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Apr 14 |
 | ↳ | **[Sr. Associate, Product Management - Zelle Mobile](https://jobright.ai/jobs/info/69e0ac98e7504b3764730f2f?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Apr 14 |
+| ↳ | **[Sr. Associate, Product Management - Zelle Mobile](https://jobright.ai/jobs/info/69e0ae81ff71e82d604b2b72?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Apr 14 |
+| ↳ | **[Sr. Associate, Product Management - Zelle Mobile](https://jobright.ai/jobs/info/69e0ab636c20aa114953cda3?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Apr 14 |
 | ↳ | **[Senior Associate,  Product Management - Customer Engagement (Business Cards & Payments)](https://jobright.ai/jobs/info/69deba775913ad339813f5d2?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Apr 14 |
 | **[Safety National](https://www.safetynational.com)** | **[Product Owner I](https://jobright.ai/jobs/info/69de7887433ac8430e0d9ea3?utm_campaign=Product%20Management&utm_source=1103)** | St Louis, MO | Hybrid | Apr 14 |
 | ↳ | **[Product Owner I](https://jobright.ai/jobs/info/69de77555913ad339813d4fa?utm_campaign=Product%20Management&utm_source=1103)** | Saint Louis, Missouri, United States | Hybrid | Apr 14 |
@@ -179,7 +185,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Senior Associate, Product Management - Recoveries](https://jobright.ai/jobs/info/69bd3b99393a1008f7429bb1?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Apr 10 |
 | **[Girls Who Code](http://girlswhocode.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/69d92e43b67cec4f9b0a06e7?utm_campaign=Product%20Management&utm_source=1103)** | New York City | Remote | Apr 10 |
 | **[Acushnet Company](http://employment.acushnetgolf.com/)** | **[Associate Product Developer](https://jobright.ai/jobs/info/69bc57f95b89c002acf1e380?utm_campaign=Product%20Management&utm_source=1103)** | Fairhaven, MA | On Site | Apr 10 |
-| **[Acosta](https://www.acosta.com)** | **[Product Demonstrator PT- BBQ](https://jobright.ai/jobs/info/69d927cc9f97a42dc9c1fd7f?utm_campaign=Product%20Management&utm_source=1103)** | Washington, DC, United States | On Site | Apr 10 |
 | **[lululemon](http://shop.lululemon.com)** | **[Product Operations Lead 7 Month Contract / Chestnut Hill](https://jobright.ai/jobs/info/69d92108869c7e25d8598fa3?utm_campaign=Product%20Management&utm_source=1103)** | Chestnut Hill, MA | On Site | Apr 10 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management - Recoveries](https://jobright.ai/jobs/info/69bd6dc9b10602456282504b?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Apr 10 |
 | ↳ | **[Sr. Associate, Product Management, DepEco](https://jobright.ai/jobs/info/69bd5573393a1008f742b571?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Apr 10 |
