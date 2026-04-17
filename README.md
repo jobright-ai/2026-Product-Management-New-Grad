@@ -57,8 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IXL Learning](https://www.ixl.com/)** | **[IXL Associate Product Manager](https://jobright.ai/jobs/info/69a9d08c9ca4e908ec64fd04?utm_campaign=Product%20Management&utm_source=1103)** | San Mateo, CA | Hybrid | Apr 17 |
+| **[Winchester Interconnect](https://www.winconn.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/69e27bff3770bd5361cd8aa5?utm_campaign=Product%20Management&utm_source=1103)** | Orange, CA | On Site | Apr 17 |
+| **[Teradyne](http://www.teradyne.com)** | **[Product Manager (Teradyne CTD, North Reading, MA)](https://jobright.ai/jobs/info/69a885fe2580d3183f008ca6?utm_campaign=Product%20Management&utm_source=1103)** | North Reading, MA | On Site | Apr 17 |
 | **[Engramec](http://www.engramec.com)** | **[Product Development Coordinator](https://jobright.ai/jobs/info/69e26f2cfcfcbd43860a2cc6?utm_campaign=Product%20Management&utm_source=1103)** | Oldsmar, FL | On Site | Apr 17 |
 | **[Winchester Interconnect](https://www.winconn.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/69e25fdffcfcbd43860a2b11?utm_campaign=Product%20Management&utm_source=1103)** | Orange, CA | On Site | Apr 17 |
+| **[Uphold](https://uphold.com/)** | **[Junior Product Manager, Daily Finances](https://jobright.ai/jobs/info/69e271ba5c44d4710fe253d2?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Apr 17 |
+| **[Capital One](http://www.capitalone.com)** | **[Sr. Associate, Product Management](https://jobright.ai/jobs/info/69c551f01818a24cd84b3d67?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Apr 17 |
+| **[Roblox](https://corp.roblox.com)** | **[Product Policy Specialist](https://jobright.ai/jobs/info/69bc67515b89c002acf20c50?utm_campaign=Product%20Management&utm_source=1103)** | San Mateo, CA | Hybrid | Apr 17 |
 | **[Camping World](https://investor.campingworld.com)** | **[Product Specialist](https://jobright.ai/jobs/info/69cf7067398fb071abf902ba?utm_campaign=Product%20Management&utm_source=1103)** | Fort Myers, FL | On Site | Apr 17 |
 | **[Sensor Tower](http://sensortower.com)** | **[Product Analyst (Digital Advertising)](https://jobright.ai/jobs/info/69e2314d6523147bd0d87e9a?utm_campaign=Product%20Management&utm_source=1103)** | Boston, MA | Remote | Apr 17 |
 | **[AAA Auto Club Enterprises](https://careers.ace.aaa.com/)** | **[Contact Center Product Owner Assistant – Sales](https://jobright.ai/jobs/info/69e1da1940a62c1fa93bab45?utm_campaign=Product%20Management&utm_source=1103)** | Costa Mesa, CA | On Site | Apr 16 |
@@ -135,9 +141,9 @@ For a complete list, click the following sortable link below:
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[Product Line Manager (Early in Career)](https://jobright.ai/jobs/info/69bd939f4828227293ffd17d?utm_campaign=Product%20Management&utm_source=1103)** | Santa Clara, CA | On Site | Apr 14 |
 | **[Capital One](http://www.capitalone.com)** | **[Sr. Associate, Product Management](https://jobright.ai/jobs/info/69c2c09c94007a2195deb58c?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Apr 14 |
 | ↳ | **[Senior Associate, Product Management - Fraud Data Product Manager](https://jobright.ai/jobs/info/69c2b3b9ec22f8310ab0962a?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Apr 14 |
+| ↳ | **[Sr. Associate, Product Management - Zelle Mobile](https://jobright.ai/jobs/info/69e0ab636c20aa114953cda3?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Apr 14 |
 | ↳ | **[Sr. Associate, Product Management - Zelle Mobile](https://jobright.ai/jobs/info/69e0ac98e7504b3764730f2f?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Apr 14 |
 | ↳ | **[Sr. Associate, Product Management - Zelle Mobile](https://jobright.ai/jobs/info/69e0ae81ff71e82d604b2b72?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Apr 14 |
-| ↳ | **[Sr. Associate, Product Management - Zelle Mobile](https://jobright.ai/jobs/info/69e0ab636c20aa114953cda3?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Apr 14 |
 | ↳ | **[Senior Associate,  Product Management - Customer Engagement (Business Cards & Payments)](https://jobright.ai/jobs/info/69deba775913ad339813f5d2?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Apr 14 |
 | **[Safety National](https://www.safetynational.com)** | **[Product Owner I](https://jobright.ai/jobs/info/69de7887433ac8430e0d9ea3?utm_campaign=Product%20Management&utm_source=1103)** | St Louis, MO | Hybrid | Apr 14 |
 | ↳ | **[Product Owner I](https://jobright.ai/jobs/info/69de77555913ad339813d4fa?utm_campaign=Product%20Management&utm_source=1103)** | Saint Louis, Missouri, United States | Hybrid | Apr 14 |
@@ -173,8 +179,8 @@ For a complete list, click the following sortable link below:
 | **[Eva NYC](https://eva-nyc.com)** | **[Product Development and Regulatory Coordinator](https://jobright.ai/jobs/info/69dacc99b67cec4f9b0ac381?utm_campaign=Product%20Management&utm_source=1103)** | Brooklyn, NY | Hybrid | Apr 11 |
 | **[Capital One](http://www.capitalone.com)** | **[Sr. Associate, Product Management - Auto](https://jobright.ai/jobs/info/69be8ca3b106024562840972?utm_campaign=Product%20Management&utm_source=1103)** | Plano, TX | On Site | Apr 11 |
 | ↳ | **[Manager, Product Management - - Network Authorizations Health & Compliance](https://jobright.ai/jobs/info/696940df639b452fb57f0b91?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Apr 11 |
-| ↳ | **[Manager, Product Management - - Network Authorizations Health & Compliance](https://jobright.ai/jobs/info/69693996f25a38006697cde2?utm_campaign=Product%20Management&utm_source=1103)** | Deerfield, IL | On Site | Apr 11 |
 | ↳ | **[Manager, Product Management - - Network Authorizations Health & Compliance](https://jobright.ai/jobs/info/69694dcc639b452fb57f18c1?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Apr 11 |
+| ↳ | **[Manager, Product Management - - Network Authorizations Health & Compliance](https://jobright.ai/jobs/info/69693996f25a38006697cde2?utm_campaign=Product%20Management&utm_source=1103)** | Deerfield, IL | On Site | Apr 11 |
 | **[SiriusXM](http://siriusxm.com)** | **[Associate Product Operations Specialist](https://jobright.ai/jobs/info/69a22d37b600907a962879a7?utm_campaign=Product%20Management&utm_source=1103)** | Oakland, CA | Hybrid | Apr 11 |
 | **[William Blair](http://www.williamblair.com)** | **[Associate Equity Research Product Manager](https://jobright.ai/jobs/info/698519c1348f733a5c39455f?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Apr 11 |
 | **[SiriusXM](http://siriusxm.com)** | **[Associate Product Operations Specialist](https://jobright.ai/jobs/info/69a22eff359fe034b1cd6c9b?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Apr 11 |
@@ -183,5 +189,4 @@ For a complete list, click the following sortable link below:
 | **[lululemon](http://shop.lululemon.com)** | **[Product Operations Lead / Empire Mall](https://jobright.ai/jobs/info/69bbcd807ac0602a372c8d35?utm_campaign=Product%20Management&utm_source=1103)** | Sioux Falls, SD | On Site | Apr 11 |
 | **[Authorium](https://authorium.com/)** | **[Product Analyst](https://jobright.ai/jobs/info/69e1d225d612782e6114a825?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, CA | Remote | Apr 10 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management - Recoveries](https://jobright.ai/jobs/info/69db401a869c7e25d85a7231?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Apr 10 |
-| **[madhappy](https://www.madhappy.com)** | **[Product Development Associate](https://jobright.ai/jobs/info/69d9aebe5356a60f40fdb9ee?utm_campaign=Product%20Management&utm_source=1103)** | Los Angeles, CA | On Site | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
