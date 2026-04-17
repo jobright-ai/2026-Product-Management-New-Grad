@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Engramec](http://www.engramec.com)** | **[Product Development Coordinator](https://jobright.ai/jobs/info/69e26f2cfcfcbd43860a2cc6?utm_campaign=Product%20Management&utm_source=1103)** | Oldsmar, FL | On Site | Apr 17 |
 | **[Winchester Interconnect](https://www.winconn.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/69e25fdffcfcbd43860a2b11?utm_campaign=Product%20Management&utm_source=1103)** | Orange, CA | On Site | Apr 17 |
 | **[Camping World](https://investor.campingworld.com)** | **[Product Specialist](https://jobright.ai/jobs/info/69cf7067398fb071abf902ba?utm_campaign=Product%20Management&utm_source=1103)** | Fort Myers, FL | On Site | Apr 17 |
 | **[Sensor Tower](http://sensortower.com)** | **[Product Analyst (Digital Advertising)](https://jobright.ai/jobs/info/69e2314d6523147bd0d87e9a?utm_campaign=Product%20Management&utm_source=1103)** | Boston, MA | Remote | Apr 17 |
@@ -172,8 +173,8 @@ For a complete list, click the following sortable link below:
 | **[Eva NYC](https://eva-nyc.com)** | **[Product Development and Regulatory Coordinator](https://jobright.ai/jobs/info/69dacc99b67cec4f9b0ac381?utm_campaign=Product%20Management&utm_source=1103)** | Brooklyn, NY | Hybrid | Apr 11 |
 | **[Capital One](http://www.capitalone.com)** | **[Sr. Associate, Product Management - Auto](https://jobright.ai/jobs/info/69be8ca3b106024562840972?utm_campaign=Product%20Management&utm_source=1103)** | Plano, TX | On Site | Apr 11 |
 | ↳ | **[Manager, Product Management - - Network Authorizations Health & Compliance](https://jobright.ai/jobs/info/696940df639b452fb57f0b91?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Apr 11 |
-| ↳ | **[Manager, Product Management - - Network Authorizations Health & Compliance](https://jobright.ai/jobs/info/69694dcc639b452fb57f18c1?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Apr 11 |
 | ↳ | **[Manager, Product Management - - Network Authorizations Health & Compliance](https://jobright.ai/jobs/info/69693996f25a38006697cde2?utm_campaign=Product%20Management&utm_source=1103)** | Deerfield, IL | On Site | Apr 11 |
+| ↳ | **[Manager, Product Management - - Network Authorizations Health & Compliance](https://jobright.ai/jobs/info/69694dcc639b452fb57f18c1?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Apr 11 |
 | **[SiriusXM](http://siriusxm.com)** | **[Associate Product Operations Specialist](https://jobright.ai/jobs/info/69a22d37b600907a962879a7?utm_campaign=Product%20Management&utm_source=1103)** | Oakland, CA | Hybrid | Apr 11 |
 | **[William Blair](http://www.williamblair.com)** | **[Associate Equity Research Product Manager](https://jobright.ai/jobs/info/698519c1348f733a5c39455f?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Apr 11 |
 | **[SiriusXM](http://siriusxm.com)** | **[Associate Product Operations Specialist](https://jobright.ai/jobs/info/69a22eff359fe034b1cd6c9b?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Apr 11 |
@@ -183,6 +184,4 @@ For a complete list, click the following sortable link below:
 | **[Authorium](https://authorium.com/)** | **[Product Analyst](https://jobright.ai/jobs/info/69e1d225d612782e6114a825?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, CA | Remote | Apr 10 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management - Recoveries](https://jobright.ai/jobs/info/69db401a869c7e25d85a7231?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Apr 10 |
 | **[madhappy](https://www.madhappy.com)** | **[Product Development Associate](https://jobright.ai/jobs/info/69d9aebe5356a60f40fdb9ee?utm_campaign=Product%20Management&utm_source=1103)** | Los Angeles, CA | On Site | Apr 10 |
-| **[Roku](https://www.roku.com)** | **[Associate Product Manager, Ad Experiences](https://jobright.ai/jobs/info/69d9a51c869c7e25d859c8b5?utm_campaign=Product%20Management&utm_source=1103)** | New York, New York | Hybrid | Apr 10 |
-| **[Think Academy U.S](http://www.thethinkacademy.com)** | **[Math Competition Product & User Operations Specialist](https://jobright.ai/jobs/info/69a8f3a87ac93962b708daa9?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA | On Site | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
