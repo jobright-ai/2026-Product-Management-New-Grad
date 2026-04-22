@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[AEG](http://www.aegworldwide.com)** | **[Associate Product Manager - Consumer Product (LA28)](https://jobright.ai/jobs/info/69e816d73aa0c4796439dcdf?utm_campaign=Product%20Management&utm_source=1103)** | Los Angeles, CA | Hybrid | Apr 21 |
+| **[Fivetran](https://fivetran.com)** | **[Product Growth Partner](https://jobright.ai/jobs/info/69e84f957820c036924dbcc3?utm_campaign=Product%20Management&utm_source=1103)** | Denver, CO | Hybrid | Apr 21 |
+| **[AEG](http://www.aegworldwide.com)** | **[Associate Product Manager - Consumer Product (LA28)](https://jobright.ai/jobs/info/69e84f78e0cd471b2f131008?utm_campaign=Product%20Management&utm_source=1103)** | Los Angeles, CA | Hybrid | Apr 21 |
+| ↳ | **[Associate Product Manager - Consumer Product (LA28)](https://jobright.ai/jobs/info/69e816d73aa0c4796439dcdf?utm_campaign=Product%20Management&utm_source=1103)** | Los Angeles, CA | Hybrid | Apr 21 |
 | **[AXS](https://www.axs.com/)** | **[Associate Product Manager - Consumer Product (LA28)](https://jobright.ai/jobs/info/69e816d43aa0c4796439dcdb?utm_campaign=Product%20Management&utm_source=1103)** | Los Angeles, CA | Hybrid | Apr 21 |
 | **[Edwards Lifesciences](http://www.edwards.com)** | **[Assoc. Product Manager, TMTT](https://jobright.ai/jobs/info/69e814a3e0cd471b2f12f4b4?utm_campaign=Product%20Management&utm_source=1103)** | Irvine, CA | On Site | Apr 21 |
 | **[Pearl Health](https://pearlhealth.com)** | **[Product Manager -Data Platform](https://jobright.ai/jobs/info/69e80b823aa0c4796439d8e8?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, CA | Remote | Apr 21 |
@@ -200,9 +202,9 @@ For a complete list, click the following sortable link below:
 | **[Global Atlantic](https://www.globalatlantic.com/)** | **[Analyst, Product Operations](https://jobright.ai/jobs/info/6971648a51f726477183af83?utm_campaign=Product%20Management&utm_source=1103)** | Hartford, CT | On Site | Apr 16 |
 | **[JPMorganChase](https://www.jpmorganchase.com)** | **[Product Associate - Mobile Services - Payments](https://jobright.ai/jobs/info/69e116396c20aa114953f4d8?utm_campaign=Product%20Management&utm_source=1103)** | 1333 N California Blvd, Walnut Creek, CA, 94596, US | On Site | Apr 16 |
 | **[Chase](https://www.chase.com/)** | **[Product Associate - Mobile Services - Payments](https://jobright.ai/jobs/info/69e110a9acc736112f5c1c44?utm_campaign=Product%20Management&utm_source=1103)** | 1333 N California Blvd, Walnut Creek, CA, 94596, US | On Site | Apr 16 |
-| **[Capital One](http://www.capitalone.com)** | **[Senior Associate Product Management - Enterprise Core Platform](https://jobright.ai/jobs/info/69e1106d40a62c1fa93b67a8?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Apr 16 |
-| ↳ | **[Senior Associate Product Management - Enterprise Core Platform](https://jobright.ai/jobs/info/69e1101cfd1c0456f3fac5c1?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Apr 16 |
+| **[Capital One](http://www.capitalone.com)** | **[Senior Associate Product Management - Enterprise Core Platform](https://jobright.ai/jobs/info/69e1101cfd1c0456f3fac5c1?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Apr 16 |
 | ↳ | **[Senior Associate Product Management - Enterprise Core Platform](https://jobright.ai/jobs/info/69e11073ff71e82d604b4fec?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Apr 16 |
+| ↳ | **[Senior Associate Product Management - Enterprise Core Platform](https://jobright.ai/jobs/info/69e1106d40a62c1fa93b67a8?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Apr 16 |
 | **[Aristocrat Interactive](https://aristocratinteractive.com/)** | **[Data Product Manager](https://jobright.ai/jobs/info/69a7debd1fc3d83b78095bf8?utm_campaign=Product%20Management&utm_source=1103)** | Franklin, TN | Hybrid | Apr 16 |
 | **[lululemon](http://shop.lululemon.com)** | **[Product Operations Lead / Settlers Green Outlet Pop-Up (12 Month Contract)](https://jobright.ai/jobs/info/69c4fbd433eecf31079577eb?utm_campaign=Product%20Management&utm_source=1103)** | North Conway, NH | On Site | Apr 16 |
 | **[Businessolver](https://www.businessolver.com)** | **[Product Manager (Remote)](https://jobright.ai/jobs/info/69e073f4b20fd532b4ae1b47?utm_campaign=Product%20Management&utm_source=1103)** | Marion County, IN | Remote | Apr 15 |
@@ -221,5 +223,4 @@ For a complete list, click the following sortable link below:
 | **[Rally House](http://rallyhouse.com)** | **[Product Development Coordinator](https://jobright.ai/jobs/info/69dfb2eee34484770f1a9ccf?utm_campaign=Product%20Management&utm_source=1103)** | Summit Head Office | On Site | Apr 15 |
 | **[FOX Tech](https://tech.fox.com/)** | **[Product Manager, FOX Forward Deployed](https://jobright.ai/jobs/info/69c3664e753c101b21572599?utm_campaign=Product%20Management&utm_source=1103)** | Los Angeles, CA | Hybrid | Apr 15 |
 | **[Global Atlantic](https://www.globalatlantic.com/)** | **[Analyst, Product Operations](https://jobright.ai/jobs/info/697161ae333b6343a14deab2?utm_campaign=Product%20Management&utm_source=1103)** | Hartford, Connecticut, United States | On Site | Apr 15 |
-| **[Philip Morris International U.S.](https://www.uspmi.com/)** | **[Product Master Data Coordinator](https://jobright.ai/jobs/info/69c8a0b6aa3c2c1995e1fa2b?utm_campaign=Product%20Management&utm_source=1103)** | Owensboro, KY | On Site | Apr 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
