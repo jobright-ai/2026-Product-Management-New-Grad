@@ -57,8 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Think Academy U.S](http://www.thethinkacademy.com)** | **[Math Competition Product & User Operations Specialist](https://jobright.ai/jobs/info/69a8f3a87ac93962b708daa9?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA | On Site | Apr 24 |
+| **[Axos Bank](https://www.axosbank.com/)** | **[Associate Product Manager](https://jobright.ai/jobs/info/69ec25ac4b0fa35a70781063?utm_campaign=Product%20Management&utm_source=1103)** | San Diego, CA | On Site | Apr 24 |
+| **[Foot Locker](http://www.footlocker-inc.com)** | **[Associate Product Manager, eCommerce](https://jobright.ai/jobs/info/69ec25a84b0fa35a70781060?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Apr 24 |
 | **[Cornerstone OnDemand](http://www.cornerstoneondemand.com)** | **[Product Associate](https://jobright.ai/jobs/info/69ec17c57820c036924f90f7?utm_campaign=Product%20Management&utm_source=1103)** | Dublin, CA | Hybrid | Apr 24 |
 | **[Axos Bank](https://www.axosbank.com/)** | **[Associate Product Manager](https://jobright.ai/jobs/info/69ec0f7d4b0fa35a707807a5?utm_campaign=Product%20Management&utm_source=1103)** | HQ - San Diego, CA, US | On Site | Apr 24 |
+| **[Nanometrics Inc.](https://www.nanometrics.ca)** | **[Product Manager, Instrumentation (Early Career/Intermediate)](https://jobright.ai/jobs/info/69c71975aa3c2c1995e1534c?utm_campaign=Product%20Management&utm_source=1103)** | Ottawa, Ontario, Canada | Hybrid | Apr 24 |
 | **[Zelig](https://www.zelig.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/69ebe52958811370cb13d70f?utm_campaign=Product%20Management&utm_source=1103)** | West Hollywood, CA | On Site | Apr 24 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management (Anti-Money Laundering)](https://jobright.ai/jobs/info/69ebe5257820c036924f7ddb?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA, US | On Site | Apr 24 |
 | **[Tinder](http://www.tinder.com)** | **[Product Analyst](https://jobright.ai/jobs/info/69ebdc300a6e09555304ac03?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Apr 24 |
@@ -144,8 +148,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Manager (Early Career)](https://jobright.ai/jobs/info/69cc6dbf891d7b11cfcac50f?utm_campaign=Product%20Management&utm_source=1103)** | Seattle, WA | On Site | Apr 22 |
 | **[Assurant](https://www.assurant.com/)** | **[Product Analyst](https://jobright.ai/jobs/info/69e912fb3aa0c479643a6bdb?utm_campaign=Product%20Management&utm_source=1103)** | United States Virtual, US | Remote | Apr 22 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management - Digital Information Exchange & Analytics](https://jobright.ai/jobs/info/69a2a3620da45516f16c025c?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Apr 22 |
-| **[Paxos](https://www.paxos.com)** | **[Product Operations Associate](https://jobright.ai/jobs/info/696b5be55fc86241853ac6f5?utm_campaign=Product%20Management&utm_source=1103)** | New York, United States | On Site | Apr 22 |
-| ↳ | **[Product Operations Associate](https://jobright.ai/jobs/info/69e96b647820c036924e7fda?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Apr 22 |
+| **[Paxos](https://www.paxos.com)** | **[Product Operations Associate](https://jobright.ai/jobs/info/69e96b647820c036924e7fda?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Apr 22 |
+| ↳ | **[Product Operations Associate](https://jobright.ai/jobs/info/696b5be55fc86241853ac6f5?utm_campaign=Product%20Management&utm_source=1103)** | New York, United States | On Site | Apr 22 |
 | **[Raft](https://teamraft.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/69e901f4e0cd471b2f139c2b?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Apr 22 |
 | **[insightsoftware](https://www.insightsoftware.com)** | **[Product Owner, Batch Processing - Equity](https://jobright.ai/jobs/info/69ea530edc35f7132c4a95cb?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Apr 22 |
 | **[Leadly](https://www.leadly.co.uk/)** | **[Product Operations Analyst](https://jobright.ai/jobs/info/69e8fbe658811370cb1298a2?utm_campaign=Product%20Management&utm_source=1103)** | Manchester Area, United Kingdom | Hybrid | Apr 22 |
