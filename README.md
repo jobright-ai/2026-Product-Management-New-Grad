@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[New Era Cap](https://www.neweracap.com/)** | **[Product Developer, Sourcing Coordinator (Headwear and Apparel)](https://jobright.ai/jobs/info/69994e4fce78e77b4fde169b?utm_campaign=Product%20Management&utm_source=1103)** | Buffalo, NY | On Site | Apr 25 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management - Authorization Gateway Team](https://jobright.ai/jobs/info/69b40c5d3b74eb1e2c811676?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Apr 25 |
 | **[Santander US](https://www.santanderbank.com)** | **[Corporate & Investment Banking Letter of Credit Product Specialist - Analyst](https://jobright.ai/jobs/info/697b7e9c1423772304eba3d4?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Apr 25 |
 | **[Cintas Canada](https://www.cintas.ca/)** | **[Production Associate - Product Separator - 2nd Shift - Temporary](https://jobright.ai/jobs/info/69b5267256973837413a531d?utm_campaign=Product%20Management&utm_source=1103)** | Langley, British Columbia, Canada | On Site | Apr 25 |
