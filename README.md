@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management - Authorization Gateway Team](https://jobright.ai/jobs/info/69b40e3806c1ba00c54531d1?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Apr 25 |
 | **[SCAN](https://www.thescangroup.org/)** | **[Product Owner l - Provider](https://jobright.ai/jobs/info/69c110662c312363dcd3c6f9?utm_campaign=Product%20Management&utm_source=1103)** | Long Beach, CA | Remote | Apr 25 |
 | **[New Era Cap](https://www.neweracap.com/)** | **[Product Developer, Sourcing Coordinator (Headwear and Apparel)](https://jobright.ai/jobs/info/69994e4fce78e77b4fde169b?utm_campaign=Product%20Management&utm_source=1103)** | Buffalo, NY | On Site | Apr 25 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management - Authorization Gateway Team](https://jobright.ai/jobs/info/69b40c5d3b74eb1e2c811676?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Apr 25 |
@@ -66,8 +67,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Senior Associate, Product Management (Anti-Money Laundering)](https://jobright.ai/jobs/info/69ecfda4dc35f7132c4b7fe1?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Apr 25 |
 | **[Kiss Beauty Group](https://www.kissusa.com)** | **[Associate, Product Development/Management](https://jobright.ai/jobs/info/697d2638727747250d57e23d?utm_campaign=Product%20Management&utm_source=1103)** | Port Washington, NY | On Site | Apr 25 |
 | **[Camping World](https://investor.campingworld.com)** | **[Product Specialist Advisor](https://jobright.ai/jobs/info/69d74801cfdc6132f94717b2?utm_campaign=Product%20Management&utm_source=1103)** | Kodak, TN | On Site | Apr 25 |
-| ↳ | **[Product Specialist Advisor](https://jobright.ai/jobs/info/69d7ac24869c7e25d858ec7a?utm_campaign=Product%20Management&utm_source=1103)** | Alvarado, TX | On Site | Apr 25 |
 | ↳ | **[Product Specialist Advisor](https://jobright.ai/jobs/info/69bc17ca4828227293fd476a?utm_campaign=Product%20Management&utm_source=1103)** | Denton, TX | On Site | Apr 25 |
+| ↳ | **[Product Specialist Advisor](https://jobright.ai/jobs/info/69d7ac24869c7e25d858ec7a?utm_campaign=Product%20Management&utm_source=1103)** | Alvarado, TX | On Site | Apr 25 |
 | **[Think Academy U.S](http://www.thethinkacademy.com)** | **[Math Competition Product & User Operations Specialist](https://jobright.ai/jobs/info/69a8f3a87ac93962b708daa9?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA | On Site | Apr 24 |
 | **[Axos Bank](https://www.axosbank.com/)** | **[Associate Product Manager](https://jobright.ai/jobs/info/69ec25ac4b0fa35a70781063?utm_campaign=Product%20Management&utm_source=1103)** | San Diego, CA | On Site | Apr 24 |
 | **[Foot Locker](http://www.footlocker-inc.com)** | **[Associate Product Manager, eCommerce](https://jobright.ai/jobs/info/69ec25a84b0fa35a70781060?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Apr 24 |
