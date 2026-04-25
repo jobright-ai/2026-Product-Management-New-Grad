@@ -59,8 +59,8 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Kiss Beauty Group](https://www.kissusa.com)** | **[Associate, Product Development/Management](https://jobright.ai/jobs/info/697d2638727747250d57e23d?utm_campaign=Product%20Management&utm_source=1103)** | Port Washington, NY | On Site | Apr 25 |
 | **[Camping World](https://investor.campingworld.com)** | **[Product Specialist Advisor](https://jobright.ai/jobs/info/69d74801cfdc6132f94717b2?utm_campaign=Product%20Management&utm_source=1103)** | Kodak, TN | On Site | Apr 25 |
-| ↳ | **[Product Specialist Advisor](https://jobright.ai/jobs/info/69bc17ca4828227293fd476a?utm_campaign=Product%20Management&utm_source=1103)** | Denton, TX | On Site | Apr 25 |
 | ↳ | **[Product Specialist Advisor](https://jobright.ai/jobs/info/69d7ac24869c7e25d858ec7a?utm_campaign=Product%20Management&utm_source=1103)** | Alvarado, TX | On Site | Apr 25 |
+| ↳ | **[Product Specialist Advisor](https://jobright.ai/jobs/info/69bc17ca4828227293fd476a?utm_campaign=Product%20Management&utm_source=1103)** | Denton, TX | On Site | Apr 25 |
 | **[Think Academy U.S](http://www.thethinkacademy.com)** | **[Math Competition Product & User Operations Specialist](https://jobright.ai/jobs/info/69a8f3a87ac93962b708daa9?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA | On Site | Apr 24 |
 | **[Axos Bank](https://www.axosbank.com/)** | **[Associate Product Manager](https://jobright.ai/jobs/info/69ec25ac4b0fa35a70781063?utm_campaign=Product%20Management&utm_source=1103)** | San Diego, CA | On Site | Apr 24 |
 | **[Foot Locker](http://www.footlocker-inc.com)** | **[Associate Product Manager, eCommerce](https://jobright.ai/jobs/info/69ec25a84b0fa35a70781060?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Apr 24 |
