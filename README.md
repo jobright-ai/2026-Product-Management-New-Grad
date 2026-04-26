@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NFP, an Aon company](http://www.nfp.com)** | **[(Hybrid) Pivotal Health Specialist](https://jobright.ai/jobs/info/697d235d3f57a3356966db1b?utm_campaign=Product%20Management&utm_source=1103)** | Chesterfield, MO | Hybrid | Apr 26 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management - Authorization Gateway Team](https://jobright.ai/jobs/info/69b40e3806c1ba00c54531d1?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Apr 25 |
 | **[SCAN](https://www.thescangroup.org/)** | **[Product Owner l - Provider](https://jobright.ai/jobs/info/69c110662c312363dcd3c6f9?utm_campaign=Product%20Management&utm_source=1103)** | Long Beach, CA | Remote | Apr 25 |
 | **[New Era Cap](https://www.neweracap.com/)** | **[Product Developer, Sourcing Coordinator (Headwear and Apparel)](https://jobright.ai/jobs/info/69994e4fce78e77b4fde169b?utm_campaign=Product%20Management&utm_source=1103)** | Buffalo, NY | On Site | Apr 25 |
@@ -67,8 +68,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Senior Associate, Product Management (Anti-Money Laundering)](https://jobright.ai/jobs/info/69ecfda4dc35f7132c4b7fe1?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Apr 25 |
 | **[Kiss Beauty Group](https://www.kissusa.com)** | **[Associate, Product Development/Management](https://jobright.ai/jobs/info/697d2638727747250d57e23d?utm_campaign=Product%20Management&utm_source=1103)** | Port Washington, NY | On Site | Apr 25 |
 | **[Camping World](https://investor.campingworld.com)** | **[Product Specialist Advisor](https://jobright.ai/jobs/info/69d74801cfdc6132f94717b2?utm_campaign=Product%20Management&utm_source=1103)** | Kodak, TN | On Site | Apr 25 |
-| ↳ | **[Product Specialist Advisor](https://jobright.ai/jobs/info/69d7ac24869c7e25d858ec7a?utm_campaign=Product%20Management&utm_source=1103)** | Alvarado, TX | On Site | Apr 25 |
 | ↳ | **[Product Specialist Advisor](https://jobright.ai/jobs/info/69bc17ca4828227293fd476a?utm_campaign=Product%20Management&utm_source=1103)** | Denton, TX | On Site | Apr 25 |
+| ↳ | **[Product Specialist Advisor](https://jobright.ai/jobs/info/69d7ac24869c7e25d858ec7a?utm_campaign=Product%20Management&utm_source=1103)** | Alvarado, TX | On Site | Apr 25 |
 | **[lululemon](http://shop.lululemon.com)** | **[Product Operations Lead (Temporary 6 Month Contract) / The Shops at Wailea](https://jobright.ai/jobs/info/69d0dd100b098b7a6707e530?utm_campaign=Product%20Management&utm_source=1103)** | Wailea, HI | On Site | Apr 25 |
 | **[Think Academy U.S](http://www.thethinkacademy.com)** | **[Math Competition Product & User Operations Specialist](https://jobright.ai/jobs/info/69a8f3a87ac93962b708daa9?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA | On Site | Apr 24 |
 | **[Axos Bank](https://www.axosbank.com/)** | **[Associate Product Manager](https://jobright.ai/jobs/info/69ec25ac4b0fa35a70781063?utm_campaign=Product%20Management&utm_source=1103)** | San Diego, CA | On Site | Apr 24 |
@@ -227,8 +228,8 @@ For a complete list, click the following sortable link below:
 | **[Capital One](http://www.capitalone.com)** | **[Sr Associate, Product Management, LoB Enablement](https://jobright.ai/jobs/info/69e664c7e0cd471b2f1257c6?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Apr 20 |
 | ↳ | **[Sr Associate, Product Management, LoB Enablement](https://jobright.ai/jobs/info/69e664b23cfd986aa6f8584f?utm_campaign=Product%20Management&utm_source=1103)** | Cambridge, MA | On Site | Apr 20 |
 | **[Bank of America](https://www.bankofamerica.com)** | **[Treasury Product Associate - Payments](https://jobright.ai/jobs/info/69e6494d3aa0c47964392eb1?utm_campaign=Product%20Management&utm_source=1103)** | New York | On Site | Apr 20 |
-| ↳ | **[Treasury Product Associate - Payments](https://jobright.ai/jobs/info/69e6494c3aa0c47964392eab?utm_campaign=Product%20Management&utm_source=1103)** | Charlotte | On Site | Apr 20 |
 | ↳ | **[Treasury Product Associate - Payments](https://jobright.ai/jobs/info/69e6494c9b6eb37e26f7f0e8?utm_campaign=Product%20Management&utm_source=1103)** | Charlotte | On Site | Apr 20 |
+| ↳ | **[Treasury Product Associate - Payments](https://jobright.ai/jobs/info/69e6494c3aa0c47964392eab?utm_campaign=Product%20Management&utm_source=1103)** | Charlotte | On Site | Apr 20 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate , Product Management –GPN Core Data Platform Services](https://jobright.ai/jobs/info/69d6a88a706f771673bacefe?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Apr 20 |
 | **[RealPage, Inc.](https://www.realpage.com)** | **[Product Manager - Remote](https://jobright.ai/jobs/info/69c61f5083ea553769fd4074?utm_campaign=Product%20Management&utm_source=1103)** | Boston, MA | Remote | Apr 20 |
 | **[Yami](http://www.yamibuy.com/en/)** | **[Category Management Specialist\- Beauty](https://jobright.ai/jobs/info/69bd92bf4828227293ffd113?utm_campaign=Product%20Management&utm_source=1103)** | Brea, California, United States | On Site | Apr 20 |
