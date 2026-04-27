@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[lululemon](http://shop.lululemon.com)** | **[Product Operations Lead / North Virginia](https://jobright.ai/jobs/info/69eec808dc35f7132c4bb50d?utm_campaign=Product%20Management&utm_source=1103)** | Fairfax, VA | On Site | Apr 26 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[(Hybrid) Pivotal Health Specialist](https://jobright.ai/jobs/info/697d235d3f57a3356966db1b?utm_campaign=Product%20Management&utm_source=1103)** | Chesterfield, MO | Hybrid | Apr 26 |
 | **[Vintage Cash Cow](https://www.vintagecashcow.co.uk/)** | **[Vintage Product Assessor - Fine Jewellery](https://jobright.ai/jobs/info/69eb3b4416b2612c2a11a4a9?utm_campaign=Product%20Management&utm_source=1103)** | Leeds, England, United Kingdom | On Site | Apr 26 |
 | **[Morgan Stanley](http://www.morganstanley.com)** | **[Associate, Platforms - EquityZen](https://jobright.ai/jobs/info/69cff89754f00230c6d0e0ce?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Apr 25 |
