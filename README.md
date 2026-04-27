@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Navan](https://navan.com)** | **[Product Manager, Navan Connect](https://jobright.ai/jobs/info/69d3703854f00230c6d27a9e?utm_campaign=Product%20Management&utm_source=1103)** | Palo Alto, CA | Hybrid | Apr 27 |
 | **[Think Academy U.S](http://www.thethinkacademy.com)** | **[Math Competition Product & User Operations Specialist](https://jobright.ai/jobs/info/69a8f3a87ac93962b708daa9?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA | On Site | Apr 26 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[(Hybrid) Pivotal Health Specialist](https://jobright.ai/jobs/info/697d235d3f57a3356966db1b?utm_campaign=Product%20Management&utm_source=1103)** | Chesterfield, MO | Hybrid | Apr 26 |
 | **[Vintage Cash Cow](https://www.vintagecashcow.co.uk/)** | **[Vintage Product Assessor - Fine Jewellery](https://jobright.ai/jobs/info/69eb3b4416b2612c2a11a4a9?utm_campaign=Product%20Management&utm_source=1103)** | Leeds, England, United Kingdom | On Site | Apr 26 |
@@ -71,8 +72,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Senior Associate, Product Management (Anti-Money Laundering)](https://jobright.ai/jobs/info/69ecfda4dc35f7132c4b7fe1?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Apr 25 |
 | **[Kiss Beauty Group](https://www.kissusa.com)** | **[Associate, Product Development/Management](https://jobright.ai/jobs/info/697d2638727747250d57e23d?utm_campaign=Product%20Management&utm_source=1103)** | Port Washington, NY | On Site | Apr 25 |
 | **[Camping World](https://investor.campingworld.com)** | **[Product Specialist Advisor](https://jobright.ai/jobs/info/69d74801cfdc6132f94717b2?utm_campaign=Product%20Management&utm_source=1103)** | Kodak, TN | On Site | Apr 25 |
-| ↳ | **[Product Specialist Advisor](https://jobright.ai/jobs/info/69bc17ca4828227293fd476a?utm_campaign=Product%20Management&utm_source=1103)** | Denton, TX | On Site | Apr 25 |
 | ↳ | **[Product Specialist Advisor](https://jobright.ai/jobs/info/69d7ac24869c7e25d858ec7a?utm_campaign=Product%20Management&utm_source=1103)** | Alvarado, TX | On Site | Apr 25 |
+| ↳ | **[Product Specialist Advisor](https://jobright.ai/jobs/info/69bc17ca4828227293fd476a?utm_campaign=Product%20Management&utm_source=1103)** | Denton, TX | On Site | Apr 25 |
 | **[lululemon](http://shop.lululemon.com)** | **[Product Operations Lead (Temporary 6 Month Contract) / The Shops at Wailea](https://jobright.ai/jobs/info/69d0dd100b098b7a6707e530?utm_campaign=Product%20Management&utm_source=1103)** | Wailea, HI | On Site | Apr 25 |
 | **[Axos Bank](https://www.axosbank.com/)** | **[Associate Product Manager](https://jobright.ai/jobs/info/69ec25ac4b0fa35a70781063?utm_campaign=Product%20Management&utm_source=1103)** | San Diego, CA | On Site | Apr 24 |
 | **[Foot Locker](http://www.footlocker-inc.com)** | **[Associate Product Manager, eCommerce](https://jobright.ai/jobs/info/69ec25a84b0fa35a70781060?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Apr 24 |
@@ -225,5 +226,4 @@ For a complete list, click the following sortable link below:
 | **[Camping World](https://investor.campingworld.com)** | **[Product Specialist Advisor](https://jobright.ai/jobs/info/69e698169b6eb37e26f81224?utm_campaign=Product%20Management&utm_source=1103)** | Clermont, FL | On Site | Apr 20 |
 | **[Snowflake](https://www.snowflake.com)** | **[Product Analyst](https://jobright.ai/jobs/info/69e6b3733aa0c47964395aa5?utm_campaign=Product%20Management&utm_source=1103)** | Bellevue, WA | On Site | Apr 20 |
 | **[Urban Outfitters](https://www.urbanoutfitters.com/)** | **[Urban Outfitters Product Flow Specialist](https://jobright.ai/jobs/info/69e6912a3cfd986aa6f867a1?utm_campaign=Product%20Management&utm_source=1103)** | Bellevue, WA | On Site | Apr 20 |
-| **[Camping World](https://investor.campingworld.com)** | **[Product Specialist Advisor](https://jobright.ai/jobs/info/69e14f6340a62c1fa93b7c12?utm_campaign=Product%20Management&utm_source=1103)** | Sherman, TX | On Site | Apr 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
