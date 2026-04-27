@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bright Horizons](https://www.brighthorizons.com/)** | **[Product Manager](https://jobright.ai/jobs/info/69efabcd4b0fa35a7078adc4?utm_campaign=Product%20Management&utm_source=1103)** | Newton Massachusetts 02459, US | Hybrid | Apr 27 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management - Premium Products & Experiences](https://jobright.ai/jobs/info/69ef851458811370cb146c6d?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA, US | On Site | Apr 27 |
 | ↳ | **[Senior Associate, Product Management - Premium Products & Experiences](https://jobright.ai/jobs/info/69ef84dbfbe0994a40eb6ad5?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY, US | On Site | Apr 27 |
 | ↳ | **[Senior Associate, Product Management - Premium Products & Experiences](https://jobright.ai/jobs/info/69ef84cc16b2612c2a129e28?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA, US | On Site | Apr 27 |
@@ -169,8 +170,8 @@ For a complete list, click the following sortable link below:
 | **[Assurant](https://www.assurant.com/)** | **[Product Analyst](https://jobright.ai/jobs/info/69e912fb3aa0c479643a6bdb?utm_campaign=Product%20Management&utm_source=1103)** | United States Virtual, US | Remote | Apr 22 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management - Digital Information Exchange & Analytics](https://jobright.ai/jobs/info/69a2a3620da45516f16c025c?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Apr 22 |
 | **[BW Retail Solutions](https://www.bwretail.com)** | **[Product Developer (Hard Parts for Powersports & Outdoor Power Equipment)](https://jobright.ai/jobs/info/69ec32f07820c036924f9b79?utm_campaign=Product%20Management&utm_source=1103)** | New Dundee, Ontario | On Site | Apr 22 |
-| **[Paxos](https://www.paxos.com)** | **[Product Operations Associate](https://jobright.ai/jobs/info/69e96b647820c036924e7fda?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Apr 22 |
-| ↳ | **[Product Operations Associate](https://jobright.ai/jobs/info/696b5be55fc86241853ac6f5?utm_campaign=Product%20Management&utm_source=1103)** | New York, United States | On Site | Apr 22 |
+| **[Paxos](https://www.paxos.com)** | **[Product Operations Associate](https://jobright.ai/jobs/info/696b5be55fc86241853ac6f5?utm_campaign=Product%20Management&utm_source=1103)** | New York, United States | On Site | Apr 22 |
+| ↳ | **[Product Operations Associate](https://jobright.ai/jobs/info/69e96b647820c036924e7fda?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Apr 22 |
 | **[Raft](https://teamraft.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/69e901f4e0cd471b2f139c2b?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Apr 22 |
 | **[insightsoftware](https://www.insightsoftware.com)** | **[Product Owner, Batch Processing - Equity](https://jobright.ai/jobs/info/69ea530edc35f7132c4a95cb?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Apr 22 |
 | **[Leadly](https://www.leadly.co.uk/)** | **[Product Operations Analyst](https://jobright.ai/jobs/info/69e8fbe658811370cb1298a2?utm_campaign=Product%20Management&utm_source=1103)** | Manchester Area, United Kingdom | Hybrid | Apr 22 |
@@ -216,6 +217,4 @@ For a complete list, click the following sortable link below:
 | **[lululemon](http://shop.lululemon.com)** | **[Product Operations Lead / Shoppes at Stadium](https://jobright.ai/jobs/info/69ca976ea8c1822476e1e1c8?utm_campaign=Product%20Management&utm_source=1103)** | Columbia, MO | On Site | Apr 21 |
 | **[Camping World](https://investor.campingworld.com)** | **[Product Specialist Advisor](https://jobright.ai/jobs/info/69cfefbccdb525785fba5ca9?utm_campaign=Product%20Management&utm_source=1103)** | Swedesboro, NJ | On Site | Apr 21 |
 | **[Epic for Kids](https://www.getepic.com/)** | **[Product Manager](https://jobright.ai/jobs/info/69e6ff593cfd986aa6f883c3?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Apr 20 |
-| **[OLG](https://www.olg.ca/en/home.html)** | **[Lottery Product Coordinator](https://jobright.ai/jobs/info/69e716f6e0cd471b2f12855f?utm_campaign=Product%20Management&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Apr 20 |
-| **[Qualified Health](https://www.qualifiedhealthai.com)** | **[Product Analyst](https://jobright.ai/jobs/info/69b932be3b74eb1e2c87211e?utm_campaign=Product%20Management&utm_source=1103)** | Hybrid - Palo Alto, CA | Hybrid | Apr 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
