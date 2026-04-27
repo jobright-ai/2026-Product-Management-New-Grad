@@ -218,7 +218,4 @@ For a complete list, click the following sortable link below:
 | **[Epic for Kids](https://www.getepic.com/)** | **[Product Manager](https://jobright.ai/jobs/info/69e6ff593cfd986aa6f883c3?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Apr 20 |
 | **[OLG](https://www.olg.ca/en/home.html)** | **[Lottery Product Coordinator](https://jobright.ai/jobs/info/69e716f6e0cd471b2f12855f?utm_campaign=Product%20Management&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Apr 20 |
 | **[Qualified Health](https://www.qualifiedhealthai.com)** | **[Product Analyst](https://jobright.ai/jobs/info/69b932be3b74eb1e2c87211e?utm_campaign=Product%20Management&utm_source=1103)** | Hybrid - Palo Alto, CA | Hybrid | Apr 20 |
-| **[ImageTrend](http://www.imagetrend.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/69e749bc3aa0c47964399286?utm_campaign=Product%20Management&utm_source=1103)** | Remote in Eagan, MN | Remote | Apr 20 |
-| **[Jefferies](http://www.jefferies.com)** | **[Equity Research Associate - Product Management](https://jobright.ai/jobs/info/69e6d54d9b6eb37e26f823e6?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Apr 20 |
-| **[NJM Insurance Group](https://www.njm.com)** | **[Insurance Product Management Analyst - Hybrid](https://jobright.ai/jobs/info/69e6cf427820c036924d24ed?utm_campaign=Product%20Management&utm_source=1103)** | Trenton, NJ | Hybrid | Apr 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
