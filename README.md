@@ -57,10 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Renuity](http://renuityhome.com/)** | **[Product Representative](https://jobright.ai/jobs/info/69f021b82b095843b0311810?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Apr 27 |
+| **[Gap](https://jobs.gapinc.com/gap-home)** | **[Assistant Manager, Product Operations -  Broadway & Maiden](https://jobright.ai/jobs/info/69f06d06a4aa3545d8a5e200?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Apr 28 |
+| **[Renuity](http://renuityhome.com/)** | **[Product Representative](https://jobright.ai/jobs/info/69f021f0825a315d7ca31085?utm_campaign=Product%20Management&utm_source=1103)** | Mettawa, IL | On Site | Apr 27 |
 | ↳ | **[Product Representative](https://jobright.ai/jobs/info/69f021f2b27fee43e8cd2343?utm_campaign=Product%20Management&utm_source=1103)** | Lake in the Hills, IL | On Site | Apr 27 |
 | ↳ | **[Product Representative](https://jobright.ai/jobs/info/69f021bba4aa3545d8a5d21f?utm_campaign=Product%20Management&utm_source=1103)** | Yorkville, IL | On Site | Apr 27 |
-| ↳ | **[Product Representative](https://jobright.ai/jobs/info/69f021f0825a315d7ca31085?utm_campaign=Product%20Management&utm_source=1103)** | Mettawa, IL | On Site | Apr 27 |
+| ↳ | **[Product Representative](https://jobright.ai/jobs/info/69f021b82b095843b0311810?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Apr 27 |
 | **[Bright Horizons](https://www.brighthorizons.com/)** | **[Product Manager](https://jobright.ai/jobs/info/69efee700a6e09555305875a?utm_campaign=Product%20Management&utm_source=1103)** | Newton Centre, MA | Hybrid | Apr 27 |
 | **[ICD Portal](http://icdportal.com)** | **[Associate Technical Product Owner - Credit](https://jobright.ai/jobs/info/69efb04416b2612c2a12af6d?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY, United States | Hybrid | Apr 27 |
 | **[Bright Horizons](https://www.brighthorizons.com/)** | **[Product Manager](https://jobright.ai/jobs/info/69efabcd4b0fa35a7078adc4?utm_campaign=Product%20Management&utm_source=1103)** | Newton Massachusetts 02459, US | Hybrid | Apr 27 |
@@ -152,7 +153,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data & Analytics Products & Solutions Specialist](https://jobright.ai/jobs/info/69cdc5a1cfdc6132f941f5e6?utm_campaign=Product%20Management&utm_source=1103)** | New York, United States | Hybrid | Apr 23 |
 | **[Dreamwear](https://www.dreamwear.com/)** | **[Product Development Assistant](https://jobright.ai/jobs/info/69ef5680e624fe645d530a78?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY, US | On Site | Apr 23 |
 | **[Gemini, Inc.](https://geminimade.com)** | **[Sales, Product & Marketing Leadership Program](https://jobright.ai/jobs/info/69ef4d91e624fe645d5305e4?utm_campaign=Product%20Management&utm_source=1103)** | Liberty Lake, WA, US | On Site | Apr 23 |
-| **[MPB](https://www.mpb.com)** | **[Product Specialist](https://jobright.ai/jobs/info/69bd55ae393a1008f742b5c9?utm_campaign=Product%20Management&utm_source=1103)** | Brooklyn, NY | On Site | Apr 22 |
 | **[THE·TEAM](http://the.team)** | **[Junior Product Manager](https://jobright.ai/jobs/info/69e99df10a6e09555303cf9d?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Apr 22 |
 | **[Anthropologie](https://www.anthropologie.com)** | **[Free People Product Flow Manager](https://jobright.ai/jobs/info/69e948bb7820c036924e703e?utm_campaign=Product%20Management&utm_source=1103)** | US-TX-Austin | On Site | Apr 22 |
 | ↳ | **[Free People Product Flow Manager](https://jobright.ai/jobs/info/69e948493aa0c479643a8ccf?utm_campaign=Product%20Management&utm_source=1103)** | Austin, TX, US | On Site | Apr 22 |
@@ -204,6 +204,4 @@ For a complete list, click the following sortable link below:
 | **[Church & Dwight Co., Inc.](https://www.churchdwight.ca/)** | **[Product Management Specialist](https://jobright.ai/jobs/info/69d5bf20706f771673ba53f1?utm_campaign=Product%20Management&utm_source=1103)** | Mississauga, Ontario, Canada | Hybrid | Apr 21 |
 | **[Monster Energy](http://www.monsterenergy.com/)** | **[Product Supply Analyst](https://jobright.ai/jobs/info/69e7bd143aa0c4796439b87d?utm_campaign=Product%20Management&utm_source=1103)** | USA - Corona, CA | On Site | Apr 21 |
 | **[Canadian Tire Corporation](https://corp.canadiantire.ca)** | **[Online Assortment Analyst - 12 Month Contract](https://jobright.ai/jobs/info/69e7b636e0cd471b2f12d0d7?utm_campaign=Product%20Management&utm_source=1103)** | Toronto, ON | On Site | Apr 21 |
-| **[Holstein Parts](http://www.holsteinparts.com)** | **[Automotive Aftermarket Product Analyst](https://jobright.ai/jobs/info/69e7ac077820c036924d7b40?utm_campaign=Product%20Management&utm_source=1103)** | Pensacola, FL | On Site | Apr 21 |
-| **[Fishs Eddy](https://www.fishseddy.com)** | **[Item Coordinator](https://jobright.ai/jobs/info/69e7a24c3aa0c4796439b15a?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Apr 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
