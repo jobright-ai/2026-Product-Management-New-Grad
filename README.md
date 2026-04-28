@@ -58,8 +58,8 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Renuity](http://renuityhome.com/)** | **[Product Representative](https://jobright.ai/jobs/info/69f021bba4aa3545d8a5d21f?utm_campaign=Product%20Management&utm_source=1103)** | Yorkville, IL | On Site | Apr 27 |
-| ↳ | **[Product Representative](https://jobright.ai/jobs/info/69f021f2b27fee43e8cd2343?utm_campaign=Product%20Management&utm_source=1103)** | Lake in the Hills, IL | On Site | Apr 27 |
 | ↳ | **[Product Representative](https://jobright.ai/jobs/info/69f021b82b095843b0311810?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Apr 27 |
+| ↳ | **[Product Representative](https://jobright.ai/jobs/info/69f021f2b27fee43e8cd2343?utm_campaign=Product%20Management&utm_source=1103)** | Lake in the Hills, IL | On Site | Apr 27 |
 | ↳ | **[Product Representative](https://jobright.ai/jobs/info/69f021f0825a315d7ca31085?utm_campaign=Product%20Management&utm_source=1103)** | Mettawa, IL | On Site | Apr 27 |
 | **[Bright Horizons](https://www.brighthorizons.com/)** | **[Product Manager](https://jobright.ai/jobs/info/69efee700a6e09555305875a?utm_campaign=Product%20Management&utm_source=1103)** | Newton Centre, MA | Hybrid | Apr 27 |
 | **[ICD Portal](http://icdportal.com)** | **[Associate Technical Product Owner - Credit](https://jobright.ai/jobs/info/69efb04416b2612c2a12af6d?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY, United States | Hybrid | Apr 27 |
@@ -83,7 +83,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Senior Associate, Product Management (Anti-Money Laundering)](https://jobright.ai/jobs/info/69ecfda4dc35f7132c4b7fe1?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Apr 25 |
 | **[Kiss Beauty Group](https://www.kissusa.com)** | **[Associate, Product Development/Management](https://jobright.ai/jobs/info/697d2638727747250d57e23d?utm_campaign=Product%20Management&utm_source=1103)** | Port Washington, NY | On Site | Apr 25 |
 | **[Camping World](https://investor.campingworld.com)** | **[Product Specialist Advisor](https://jobright.ai/jobs/info/69d74801cfdc6132f94717b2?utm_campaign=Product%20Management&utm_source=1103)** | Kodak, TN | On Site | Apr 25 |
-| ↳ | **[Product Specialist Advisor](https://jobright.ai/jobs/info/69d7ac24869c7e25d858ec7a?utm_campaign=Product%20Management&utm_source=1103)** | Alvarado, TX | On Site | Apr 25 |
 | **[lululemon](http://shop.lululemon.com)** | **[Product Operations Lead (Temporary 6 Month Contract) / The Shops at Wailea](https://jobright.ai/jobs/info/69d0dd100b098b7a6707e530?utm_campaign=Product%20Management&utm_source=1103)** | Wailea, HI | On Site | Apr 25 |
 | **[Axos Bank](https://www.axosbank.com/)** | **[Associate Product Manager](https://jobright.ai/jobs/info/69ec25ac4b0fa35a70781063?utm_campaign=Product%20Management&utm_source=1103)** | San Diego, CA | On Site | Apr 24 |
 | **[Cornerstone OnDemand](http://www.cornerstoneondemand.com)** | **[Product Associate](https://jobright.ai/jobs/info/69ec17c57820c036924f90f7?utm_campaign=Product%20Management&utm_source=1103)** | Dublin, CA | Hybrid | Apr 24 |
@@ -172,8 +171,8 @@ For a complete list, click the following sortable link below:
 | **[Assurant](https://www.assurant.com/)** | **[Product Analyst](https://jobright.ai/jobs/info/69e912fb3aa0c479643a6bdb?utm_campaign=Product%20Management&utm_source=1103)** | United States Virtual, US | Remote | Apr 22 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management - Digital Information Exchange & Analytics](https://jobright.ai/jobs/info/69a2a3620da45516f16c025c?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Apr 22 |
 | **[BW Retail Solutions](https://www.bwretail.com)** | **[Product Developer (Hard Parts for Powersports & Outdoor Power Equipment)](https://jobright.ai/jobs/info/69ec32f07820c036924f9b79?utm_campaign=Product%20Management&utm_source=1103)** | New Dundee, Ontario | On Site | Apr 22 |
-| **[Paxos](https://www.paxos.com)** | **[Product Operations Associate](https://jobright.ai/jobs/info/69e96b647820c036924e7fda?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Apr 22 |
-| ↳ | **[Product Operations Associate](https://jobright.ai/jobs/info/696b5be55fc86241853ac6f5?utm_campaign=Product%20Management&utm_source=1103)** | New York, United States | On Site | Apr 22 |
+| **[Paxos](https://www.paxos.com)** | **[Product Operations Associate](https://jobright.ai/jobs/info/696b5be55fc86241853ac6f5?utm_campaign=Product%20Management&utm_source=1103)** | New York, United States | On Site | Apr 22 |
+| ↳ | **[Product Operations Associate](https://jobright.ai/jobs/info/69e96b647820c036924e7fda?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Apr 22 |
 | **[Raft](https://teamraft.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/69e901f4e0cd471b2f139c2b?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Apr 22 |
 | **[insightsoftware](https://www.insightsoftware.com)** | **[Product Owner, Batch Processing - Equity](https://jobright.ai/jobs/info/69ea530edc35f7132c4a95cb?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Apr 22 |
 | **[Leadly](https://www.leadly.co.uk/)** | **[Product Operations Analyst](https://jobright.ai/jobs/info/69e8fbe658811370cb1298a2?utm_campaign=Product%20Management&utm_source=1103)** | Manchester Area, United Kingdom | Hybrid | Apr 22 |
@@ -210,7 +209,4 @@ For a complete list, click the following sortable link below:
 | **[Canadian Tire Corporation](https://corp.canadiantire.ca)** | **[Online Assortment Analyst - 12 Month Contract](https://jobright.ai/jobs/info/69e7b636e0cd471b2f12d0d7?utm_campaign=Product%20Management&utm_source=1103)** | Toronto, ON | On Site | Apr 21 |
 | **[Holstein Parts](http://www.holsteinparts.com)** | **[Automotive Aftermarket Product Analyst](https://jobright.ai/jobs/info/69e7ac077820c036924d7b40?utm_campaign=Product%20Management&utm_source=1103)** | Pensacola, FL | On Site | Apr 21 |
 | **[Fishs Eddy](https://www.fishseddy.com)** | **[Item Coordinator](https://jobright.ai/jobs/info/69e7a24c3aa0c4796439b15a?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Apr 21 |
-| **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management - Trade Credit](https://jobright.ai/jobs/info/69e77ddb0a6e09555302ab9e?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Apr 21 |
-| ↳ | **[Senior Associate, Product Management - Trade Credit](https://jobright.ai/jobs/info/69e77dcf58811370cb11ce81?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Apr 21 |
-| **[kate spade new york](https://www.katespade.com/)** | **[Coordinator, Product Development](https://jobright.ai/jobs/info/69cbf4e9cdb525785fb78d1f?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Apr 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
