@@ -57,10 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management- CAPS](https://jobright.ai/jobs/info/69f0c289b27fee43e8cd49b7?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Apr 28 |
 | **[Gap](https://jobs.gapinc.com/gap-home)** | **[Assistant Manager, Product Operations -  Broadway & Maiden](https://jobright.ai/jobs/info/69f06d06a4aa3545d8a5e200?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Apr 28 |
-| **[Renuity](http://renuityhome.com/)** | **[Product Representative](https://jobright.ai/jobs/info/69f021f0825a315d7ca31085?utm_campaign=Product%20Management&utm_source=1103)** | Mettawa, IL | On Site | Apr 27 |
+| **[Renuity](http://renuityhome.com/)** | **[Product Representative](https://jobright.ai/jobs/info/69f021bba4aa3545d8a5d21f?utm_campaign=Product%20Management&utm_source=1103)** | Yorkville, IL | On Site | Apr 27 |
+| ↳ | **[Product Representative](https://jobright.ai/jobs/info/69f021f0825a315d7ca31085?utm_campaign=Product%20Management&utm_source=1103)** | Mettawa, IL | On Site | Apr 27 |
 | ↳ | **[Product Representative](https://jobright.ai/jobs/info/69f021f2b27fee43e8cd2343?utm_campaign=Product%20Management&utm_source=1103)** | Lake in the Hills, IL | On Site | Apr 27 |
-| ↳ | **[Product Representative](https://jobright.ai/jobs/info/69f021bba4aa3545d8a5d21f?utm_campaign=Product%20Management&utm_source=1103)** | Yorkville, IL | On Site | Apr 27 |
 | ↳ | **[Product Representative](https://jobright.ai/jobs/info/69f021b82b095843b0311810?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Apr 27 |
 | **[Bright Horizons](https://www.brighthorizons.com/)** | **[Product Manager](https://jobright.ai/jobs/info/69efee700a6e09555305875a?utm_campaign=Product%20Management&utm_source=1103)** | Newton Centre, MA | Hybrid | Apr 27 |
 | ↳ | **[Product Manager](https://jobright.ai/jobs/info/69efabcd4b0fa35a7078adc4?utm_campaign=Product%20Management&utm_source=1103)** | Newton Massachusetts 02459, US | Hybrid | Apr 27 |
@@ -156,9 +157,7 @@ For a complete list, click the following sortable link below:
 | **[Anthropologie](https://www.anthropologie.com)** | **[Free People Product Flow Manager](https://jobright.ai/jobs/info/69e948bb7820c036924e703e?utm_campaign=Product%20Management&utm_source=1103)** | US-TX-Austin | On Site | Apr 22 |
 | ↳ | **[Free People Product Flow Manager](https://jobright.ai/jobs/info/69e948493aa0c479643a8ccf?utm_campaign=Product%20Management&utm_source=1103)** | Austin, TX, US | On Site | Apr 22 |
 | **[KeyBank](https://www.key.com)** | **[Product Analyst, Supplier Enablement Product](https://jobright.ai/jobs/info/69e940b74b0fa35a7076d236?utm_campaign=Product%20Management&utm_source=1103)** | Cleveland, OH, US | Hybrid | Apr 22 |
-| **[Wasserman](https://the.team/)** | **[Junior Product Manager](https://jobright.ai/jobs/info/69e940b14b0fa35a7076d203?utm_campaign=Product%20Management&utm_source=1103)** | USA-CA - Los Angeles HQ, US | On Site | Apr 22 |
-| ↳ | **[Junior Product Manager](https://jobright.ai/jobs/info/69e940a40a6e09555303a990?utm_campaign=Product%20Management&utm_source=1103)** | USA-NY - New York City Office (One Liberty Plaza), US | On Site | Apr 22 |
-| ↳ | **[Junior Product Manager](https://jobright.ai/jobs/info/69e94083e0cd471b2f13c1af?utm_campaign=Product%20Management&utm_source=1103)** | USA-NC - Raleigh Office, US | On Site | Apr 22 |
+| **[Wasserman](https://the.team/)** | **[Junior Product Manager](https://jobright.ai/jobs/info/69e940a40a6e09555303a990?utm_campaign=Product%20Management&utm_source=1103)** | USA-NY - New York City Office (One Liberty Plaza), US | On Site | Apr 22 |
 | **[Fiserv](http://www.fiserv.com)** | **[Product Analyst](https://jobright.ai/jobs/info/69e95ca80a6e09555303b6a2?utm_campaign=Product%20Management&utm_source=1103)** | Hagerstown, MD | On Site | Apr 22 |
 | **[Talento Divergente](www.talentodivergente.com)** | **[Asistente de Ventas Jr](https://jobright.ai/jobs/info/69e95ca84b0fa35a7076ded8?utm_campaign=Product%20Management&utm_source=1103)** | Florida, United States | On Site | Apr 22 |
 | **[Fiserv](http://www.fiserv.com)** | **[Product Analyst](https://jobright.ai/jobs/info/69e92350e0cd471b2f13af72?utm_campaign=Product%20Management&utm_source=1103)** | Hagerstown, Maryland, US | On Site | Apr 22 |
