@@ -57,12 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Gap Inc.](https://www.gapinc.com/en-us/)** | **[Assistant Manager, Product Operations](https://jobright.ai/jobs/info/69f098458feca91f1491af3a?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Apr 28 |
 | **[Gap](https://jobs.gapinc.com/gap-home)** | **[Assistant Manager, Product Operations -  Broadway & Maiden](https://jobright.ai/jobs/info/69f06d06a4aa3545d8a5e200?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Apr 28 |
-| **[Renuity](http://renuityhome.com/)** | **[Product Representative](https://jobright.ai/jobs/info/69f021bba4aa3545d8a5d21f?utm_campaign=Product%20Management&utm_source=1103)** | Yorkville, IL | On Site | Apr 27 |
-| ↳ | **[Product Representative](https://jobright.ai/jobs/info/69f021b82b095843b0311810?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Apr 27 |
+| **[Renuity](http://renuityhome.com/)** | **[Product Representative](https://jobright.ai/jobs/info/69f021f0825a315d7ca31085?utm_campaign=Product%20Management&utm_source=1103)** | Mettawa, IL | On Site | Apr 27 |
 | ↳ | **[Product Representative](https://jobright.ai/jobs/info/69f021f2b27fee43e8cd2343?utm_campaign=Product%20Management&utm_source=1103)** | Lake in the Hills, IL | On Site | Apr 27 |
-| ↳ | **[Product Representative](https://jobright.ai/jobs/info/69f021f0825a315d7ca31085?utm_campaign=Product%20Management&utm_source=1103)** | Mettawa, IL | On Site | Apr 27 |
+| ↳ | **[Product Representative](https://jobright.ai/jobs/info/69f021bba4aa3545d8a5d21f?utm_campaign=Product%20Management&utm_source=1103)** | Yorkville, IL | On Site | Apr 27 |
+| ↳ | **[Product Representative](https://jobright.ai/jobs/info/69f021b82b095843b0311810?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Apr 27 |
 | **[Bright Horizons](https://www.brighthorizons.com/)** | **[Product Manager](https://jobright.ai/jobs/info/69efee700a6e09555305875a?utm_campaign=Product%20Management&utm_source=1103)** | Newton Centre, MA | Hybrid | Apr 27 |
 | **[ICD Portal](http://icdportal.com)** | **[Associate Technical Product Owner - Credit](https://jobright.ai/jobs/info/69efb04416b2612c2a12af6d?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY, United States | Hybrid | Apr 27 |
 | **[Bright Horizons](https://www.brighthorizons.com/)** | **[Product Manager](https://jobright.ai/jobs/info/69efabcd4b0fa35a7078adc4?utm_campaign=Product%20Management&utm_source=1103)** | Newton Massachusetts 02459, US | Hybrid | Apr 27 |
@@ -154,7 +153,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data & Analytics Products & Solutions Specialist](https://jobright.ai/jobs/info/69cdc5a1cfdc6132f941f5e6?utm_campaign=Product%20Management&utm_source=1103)** | New York, United States | Hybrid | Apr 23 |
 | **[Dreamwear](https://www.dreamwear.com/)** | **[Product Development Assistant](https://jobright.ai/jobs/info/69ef5680e624fe645d530a78?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY, US | On Site | Apr 23 |
 | **[Gemini, Inc.](https://geminimade.com)** | **[Sales, Product & Marketing Leadership Program](https://jobright.ai/jobs/info/69ef4d91e624fe645d5305e4?utm_campaign=Product%20Management&utm_source=1103)** | Liberty Lake, WA, US | On Site | Apr 23 |
-| **[THE·TEAM](http://the.team)** | **[Junior Product Manager](https://jobright.ai/jobs/info/69e99df10a6e09555303cf9d?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Apr 22 |
+| **[THE·TEAM](https://www.linkedin.com/redir/suspicious-page?url=http%3A%2F%2Fthe%2eteam)** | **[Junior Product Manager](https://jobright.ai/jobs/info/69e99df10a6e09555303cf9d?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Apr 22 |
 | **[Anthropologie](https://www.anthropologie.com)** | **[Free People Product Flow Manager](https://jobright.ai/jobs/info/69e948bb7820c036924e703e?utm_campaign=Product%20Management&utm_source=1103)** | US-TX-Austin | On Site | Apr 22 |
 | ↳ | **[Free People Product Flow Manager](https://jobright.ai/jobs/info/69e948493aa0c479643a8ccf?utm_campaign=Product%20Management&utm_source=1103)** | Austin, TX, US | On Site | Apr 22 |
 | **[KeyBank](https://www.key.com)** | **[Product Analyst, Supplier Enablement Product](https://jobright.ai/jobs/info/69e940b74b0fa35a7076d236?utm_campaign=Product%20Management&utm_source=1103)** | Cleveland, OH, US | Hybrid | Apr 22 |
@@ -192,10 +191,4 @@ For a complete list, click the following sortable link below:
 | **[AEG](http://www.aegworldwide.com)** | **[Associate Product Manager - Consumer Product (LA28)](https://jobright.ai/jobs/info/69e84f78e0cd471b2f131008?utm_campaign=Product%20Management&utm_source=1103)** | Los Angeles, CA | Hybrid | Apr 21 |
 | ↳ | **[Associate Product Manager - Consumer Product (LA28)](https://jobright.ai/jobs/info/69e816d73aa0c4796439dcdf?utm_campaign=Product%20Management&utm_source=1103)** | Los Angeles, CA | Hybrid | Apr 21 |
 | **[AXS](https://www.axs.com/)** | **[Associate Product Manager - Consumer Product (LA28)](https://jobright.ai/jobs/info/69e816d43aa0c4796439dcdb?utm_campaign=Product%20Management&utm_source=1103)** | Los Angeles, CA | Hybrid | Apr 21 |
-| **[Opiniion Inc.](https://www.opiniion.com/blog/)** | **[Junior Product Manager](https://jobright.ai/jobs/info/69e7e201e0cd471b2f12dfbc?utm_campaign=Product%20Management&utm_source=1103)** | Lehi, UT | On Site | Apr 21 |
-| **[Camping World](https://investor.campingworld.com)** | **[Product Specialist Advisor](https://jobright.ai/jobs/info/69e7e1ca58811370cb11ee96?utm_campaign=Product%20Management&utm_source=1103)** | Benton, AR | On Site | Apr 21 |
-| **[Anduril Industries](https://www.anduril.com)** | **[Strategic Finance, Product Development](https://jobright.ai/jobs/info/69e7ddfae0cd471b2f12dd45?utm_campaign=Product%20Management&utm_source=1103)** | Costa Mesa, California, United States | On Site | Apr 21 |
-| **[Capital One](http://www.capitalone.com)** | **[Sr Associate, Product Management, LoB Enablement](https://jobright.ai/jobs/info/69e7dcab7820c036924d8951?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Apr 21 |
-| ↳ | **[Sr Associate, Product Management, LoB Enablement](https://jobright.ai/jobs/info/69e7db2158811370cb11ec7f?utm_campaign=Product%20Management&utm_source=1103)** | Cambridge, MA | On Site | Apr 21 |
-| ↳ | **[Sr Associate, Product Management, LoB Enablement](https://jobright.ai/jobs/info/69e7db1d3aa0c4796439c1ef?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Apr 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
