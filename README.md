@@ -57,12 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Aristocrat Interactive](https://aristocratinteractive.com/)** | **[Data Product Manager](https://jobright.ai/jobs/info/69e45ddae0cd471b2f11feee?utm_campaign=Product%20Management&utm_source=1103)** | Austin, TX | Hybrid | Apr 28 |
 | **[Fuze Health](https://www.fuzehealth.com/)** | **[Early Career Product Analyst, Supply Chain and Logistics - FuzeRx](https://jobright.ai/jobs/info/69b85ac43b74eb1e2c860deb?utm_campaign=Product%20Management&utm_source=1103)** | Texas, United States | On Site | Apr 28 |
+| **[Hach](http://www.hach.com)** | **[Technical Product Advisor I](https://jobright.ai/jobs/info/69f0df38825a315d7ca34ab2?utm_campaign=Product%20Management&utm_source=1103)** | Loveland, CO | On Site | Apr 28 |
 | **[Gap](https://jobs.gapinc.com/gap-home)** | **[Assistant Manager, Product Operations -  Broadway & Maiden](https://jobright.ai/jobs/info/69f06d06a4aa3545d8a5e200?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Apr 28 |
 | **[Renuity](http://renuityhome.com/)** | **[Product Representative](https://jobright.ai/jobs/info/69f021bba4aa3545d8a5d21f?utm_campaign=Product%20Management&utm_source=1103)** | Yorkville, IL | On Site | Apr 27 |
+| ↳ | **[Product Representative](https://jobright.ai/jobs/info/69f021f2b27fee43e8cd2343?utm_campaign=Product%20Management&utm_source=1103)** | Lake in the Hills, IL | On Site | Apr 27 |
 | ↳ | **[Product Representative](https://jobright.ai/jobs/info/69f021f0825a315d7ca31085?utm_campaign=Product%20Management&utm_source=1103)** | Mettawa, IL | On Site | Apr 27 |
 | ↳ | **[Product Representative](https://jobright.ai/jobs/info/69f021b82b095843b0311810?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Apr 27 |
-| ↳ | **[Product Representative](https://jobright.ai/jobs/info/69f021f2b27fee43e8cd2343?utm_campaign=Product%20Management&utm_source=1103)** | Lake in the Hills, IL | On Site | Apr 27 |
 | **[Bright Horizons](https://www.brighthorizons.com/)** | **[Product Manager](https://jobright.ai/jobs/info/69efee700a6e09555305875a?utm_campaign=Product%20Management&utm_source=1103)** | Newton Centre, MA | Hybrid | Apr 27 |
 | ↳ | **[Product Manager](https://jobright.ai/jobs/info/69efabcd4b0fa35a7078adc4?utm_campaign=Product%20Management&utm_source=1103)** | Newton Massachusetts 02459, US | Hybrid | Apr 27 |
 | **[KeyBank](https://www.key.com)** | **[Product Analyst, Supplier Enablement Product](https://jobright.ai/jobs/info/69e96b453aa0c479643a9d6a?utm_campaign=Product%20Management&utm_source=1103)** | Cleveland, OH | Hybrid | Apr 27 |
@@ -137,6 +139,7 @@ For a complete list, click the following sortable link below:
 | **[Broadridge](http://www.broadridge.com)** | **[Product Owner (Hybrid - Pittsburgh, PA, Newark, NJ or NYC)](https://jobright.ai/jobs/info/69d1d9e20b098b7a67084dd2?utm_campaign=Product%20Management&utm_source=1103)** | Pittsburgh, PA | Hybrid | Apr 23 |
 | **[Chai Vision](https://www.linkedin.com/company/103778001)** | **[Junior Product Developer](https://jobright.ai/jobs/info/69ea566e0a6e0955530404af?utm_campaign=Product%20Management&utm_source=1103)** | howell, New Jersey, United States | On Site | Apr 23 |
 | **[Axos Bank](https://www.axosbank.com/)** | **[Product Rotational Analyst](https://jobright.ai/jobs/info/69ea53ad58811370cb13285d?utm_campaign=Product%20Management&utm_source=1103)** | HQ - San Diego, CA, US | On Site | Apr 23 |
+| **[Heitman](http://www.heitman.com)** | **[Associate, Product Strategy & Development](https://jobright.ai/jobs/info/69ce0cd3cfdc6132f9423ecb?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | Hybrid | Apr 23 |
 | **[Oregon Tool](https://www.oregontool.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/69ea739a3aa0c479643b00b5?utm_campaign=Product%20Management&utm_source=1103)** | Portland, OR, United States | On Site | Apr 23 |
 | **[SiriusXM](http://siriusxm.com)** | **[Associate Product Operations Specialist](https://jobright.ai/jobs/info/69ea7f9258811370cb133b63?utm_campaign=Product%20Management&utm_source=1103)** | Oakland, CA | Hybrid | Apr 23 |
 | **[Harbor Freight Tools](https://www.harborfreightjobs.com/)** | **[Product Specialist I](https://jobright.ai/jobs/info/69ea2c8cdc35f7132c4a893b?utm_campaign=Product%20Management&utm_source=1103)** | Piedmont, SC | On Site | Apr 23 |
@@ -166,8 +169,8 @@ For a complete list, click the following sortable link below:
 | **[Assurant](https://www.assurant.com/)** | **[Product Analyst](https://jobright.ai/jobs/info/69e912fb3aa0c479643a6bdb?utm_campaign=Product%20Management&utm_source=1103)** | United States Virtual, US | Remote | Apr 22 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management - Digital Information Exchange & Analytics](https://jobright.ai/jobs/info/69a2a3620da45516f16c025c?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Apr 22 |
 | **[BW Retail Solutions](https://www.bwretail.com)** | **[Product Developer (Hard Parts for Powersports & Outdoor Power Equipment)](https://jobright.ai/jobs/info/69ec32f07820c036924f9b79?utm_campaign=Product%20Management&utm_source=1103)** | New Dundee, Ontario | On Site | Apr 22 |
-| **[Paxos](https://www.paxos.com)** | **[Product Operations Associate](https://jobright.ai/jobs/info/696b5be55fc86241853ac6f5?utm_campaign=Product%20Management&utm_source=1103)** | New York, United States | On Site | Apr 22 |
-| ↳ | **[Product Operations Associate](https://jobright.ai/jobs/info/69e96b647820c036924e7fda?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Apr 22 |
+| **[Paxos](https://www.paxos.com)** | **[Product Operations Associate](https://jobright.ai/jobs/info/69e96b647820c036924e7fda?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Apr 22 |
+| ↳ | **[Product Operations Associate](https://jobright.ai/jobs/info/696b5be55fc86241853ac6f5?utm_campaign=Product%20Management&utm_source=1103)** | New York, United States | On Site | Apr 22 |
 | **[Raft](https://teamraft.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/69e901f4e0cd471b2f139c2b?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Apr 22 |
 | **[insightsoftware](https://www.insightsoftware.com)** | **[Product Owner, Batch Processing - Equity](https://jobright.ai/jobs/info/69ea530edc35f7132c4a95cb?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Apr 22 |
 | **[Leadly](https://www.leadly.co.uk/)** | **[Product Operations Analyst](https://jobright.ai/jobs/info/69e8fbe658811370cb1298a2?utm_campaign=Product%20Management&utm_source=1103)** | Manchester Area, United Kingdom | Hybrid | Apr 22 |
@@ -185,6 +188,4 @@ For a complete list, click the following sortable link below:
 | **[Leaf Home](https://www.leafhome.com/)** | **[Product Demonstrator ($18/hr ++ Commission)](https://jobright.ai/jobs/info/69e8af3a4b0fa35a70767cc5?utm_campaign=Product%20Management&utm_source=1103)** | 1622 Madison St, Clarksville, TN 37043, USA | On Site | Apr 22 |
 | **[Fivetran](https://fivetran.com)** | **[Product Growth Partner](https://jobright.ai/jobs/info/69e84f957820c036924dbcc3?utm_campaign=Product%20Management&utm_source=1103)** | Denver, CO | Hybrid | Apr 21 |
 | **[AEG](http://www.aegworldwide.com)** | **[Associate Product Manager - Consumer Product (LA28)](https://jobright.ai/jobs/info/69e84f78e0cd471b2f131008?utm_campaign=Product%20Management&utm_source=1103)** | Los Angeles, CA | Hybrid | Apr 21 |
-| ↳ | **[Associate Product Manager - Consumer Product (LA28)](https://jobright.ai/jobs/info/69e816d73aa0c4796439dcdf?utm_campaign=Product%20Management&utm_source=1103)** | Los Angeles, CA | Hybrid | Apr 21 |
-| **[AXS](https://www.axs.com/)** | **[Associate Product Manager - Consumer Product (LA28)](https://jobright.ai/jobs/info/69e816d43aa0c4796439dcdb?utm_campaign=Product%20Management&utm_source=1103)** | Los Angeles, CA | Hybrid | Apr 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
