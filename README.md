@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Talento Divergente](www.talentodivergente.com)** | **[Asistente de Ventas](https://jobright.ai/jobs/info/69f1730e8d8d624381a9c0cf?utm_campaign=Product%20Management&utm_source=1103)** | Florida, United States | On Site | Apr 28 |
 | **[Snowflake](https://www.snowflake.com)** | **[Product Analyst](https://jobright.ai/jobs/info/69f157f0825a315d7ca377bd?utm_campaign=Product%20Management&utm_source=1103)** | Menlo Park, CA | On Site | Apr 28 |
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[Product Line Manager (Early in Career)](https://jobright.ai/jobs/info/69f153c8825a315d7ca375a1?utm_campaign=Product%20Management&utm_source=1103)** | Santa Clara, CA | On Site | Apr 28 |
 | **[Anduril Industries](https://www.anduril.com)** | **[Product Operations Technical Specialist](https://jobright.ai/jobs/info/69f1502f825a315d7ca37509?utm_campaign=Product%20Management&utm_source=1103)** | Costa Mesa, California, United States | On Site | Apr 28 |
@@ -212,5 +213,4 @@ For a complete list, click the following sortable link below:
 | **[Vitamin Well Group](https://www.vitaminwell.com)** | **[Product Developer Protein Bars USA - Barebells](https://jobright.ai/jobs/info/69e8a8763aa0c479643a4790?utm_campaign=Product%20Management&utm_source=1103)** | Nashville, United States, US | Hybrid | Apr 22 |
 | **[Kidde Global Solutions](https://www.kiddeglobalsolutions.com)** | **[Product Management Associate](https://jobright.ai/jobs/info/69ab9143142d5b4265fcaa0e?utm_campaign=Product%20Management&utm_source=1103)** | Mebane, NC | On Site | Apr 22 |
 | **[Actively AI](https://www.actively.ai)** | **[Product Operations](https://jobright.ai/jobs/info/69771273fdeb8243a279ec47?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Apr 22 |
-| **[Kidde Global Solutions](https://www.kiddeglobalsolutions.com)** | **[Product Management Associate](https://jobright.ai/jobs/info/69abb00c7e1fab39d3833413?utm_campaign=Product%20Management&utm_source=1103)** | Mebane, NC, USA | On Site | Apr 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
