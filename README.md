@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Micron Technology](http://www.micron.com)** | **[(New College Grad) HBM Product Manager](https://jobright.ai/jobs/info/69f1ddc9ecbc8c2f73208203?utm_campaign=Product%20Management&utm_source=1103)** | Boise, ID | On Site | Apr 29 |
+| **[maurices](https://www.maurices.com)** | **[Assistant, Product Management & Sourcing (fashion/apparel)](https://jobright.ai/jobs/info/69f1d51e8d8d624381a9e5f2?utm_campaign=Product%20Management&utm_source=1103)** | Duluth, MN | Hybrid | Apr 29 |
 | **[Camping World](https://investor.campingworld.com)** | **[Product Specialist](https://jobright.ai/jobs/info/69d5e84a891d7b11cfd06c20?utm_campaign=Product%20Management&utm_source=1103)** | Fife, WA | On Site | Apr 29 |
 | **[FCC / FAC](https://www.fcc-fac.ca/en.html)** | **[Product Analyst (AgExpert)](https://jobright.ai/jobs/info/69f1ba12ecbc8c2f73207f92?utm_campaign=Product%20Management&utm_source=1103)** | Regina, Saskatchewan, Canada | Hybrid | Apr 29 |
 | ↳ | **[Product Analyst (AgExpert)](https://jobright.ai/jobs/info/69f1b9958feca91f1492230d?utm_campaign=Product%20Management&utm_source=1103)** | Alberta, Canada | Hybrid | Apr 29 |
@@ -100,10 +102,10 @@ For a complete list, click the following sortable link below:
 | **[Fuze Health](https://www.fuzehealth.com/)** | **[Early Career Product Analyst, Supply Chain and Logistics - FuzeRx](https://jobright.ai/jobs/info/69b85ac43b74eb1e2c860deb?utm_campaign=Product%20Management&utm_source=1103)** | Texas, United States | On Site | Apr 28 |
 | **[Hach](http://www.hach.com)** | **[Technical Product Advisor I](https://jobright.ai/jobs/info/69f0df38825a315d7ca34ab2?utm_campaign=Product%20Management&utm_source=1103)** | Loveland, CO | On Site | Apr 28 |
 | **[Gap](https://jobs.gapinc.com/gap-home)** | **[Assistant Manager, Product Operations -  Broadway & Maiden](https://jobright.ai/jobs/info/69f06d06a4aa3545d8a5e200?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Apr 28 |
-| **[Renuity](http://renuityhome.com/)** | **[Product Representative](https://jobright.ai/jobs/info/69f021b82b095843b0311810?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Apr 27 |
+| **[Renuity](http://renuityhome.com/)** | **[Product Representative](https://jobright.ai/jobs/info/69f021f2b27fee43e8cd2343?utm_campaign=Product%20Management&utm_source=1103)** | Lake in the Hills, IL | On Site | Apr 27 |
 | ↳ | **[Product Representative](https://jobright.ai/jobs/info/69f021f0825a315d7ca31085?utm_campaign=Product%20Management&utm_source=1103)** | Mettawa, IL | On Site | Apr 27 |
-| ↳ | **[Product Representative](https://jobright.ai/jobs/info/69f021f2b27fee43e8cd2343?utm_campaign=Product%20Management&utm_source=1103)** | Lake in the Hills, IL | On Site | Apr 27 |
 | ↳ | **[Product Representative](https://jobright.ai/jobs/info/69f021bba4aa3545d8a5d21f?utm_campaign=Product%20Management&utm_source=1103)** | Yorkville, IL | On Site | Apr 27 |
+| ↳ | **[Product Representative](https://jobright.ai/jobs/info/69f021b82b095843b0311810?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Apr 27 |
 | **[Bright Horizons](https://www.brighthorizons.com/)** | **[Product Manager](https://jobright.ai/jobs/info/69efee700a6e09555305875a?utm_campaign=Product%20Management&utm_source=1103)** | Newton Centre, MA | Hybrid | Apr 27 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management- CAPS](https://jobright.ai/jobs/info/69f10e5062b48c6838793558?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA, US | On Site | Apr 27 |
 | **[Bright Horizons](https://www.brighthorizons.com/)** | **[Product Manager](https://jobright.ai/jobs/info/69efabcd4b0fa35a7078adc4?utm_campaign=Product%20Management&utm_source=1103)** | Newton Massachusetts 02459, US | Hybrid | Apr 27 |
@@ -198,11 +200,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Free People Product Flow Manager](https://jobright.ai/jobs/info/69e948493aa0c479643a8ccf?utm_campaign=Product%20Management&utm_source=1103)** | Austin, TX, US | On Site | Apr 22 |
 | **[Fiserv](http://www.fiserv.com)** | **[Product Analyst](https://jobright.ai/jobs/info/69e95ca80a6e09555303b6a2?utm_campaign=Product%20Management&utm_source=1103)** | Hagerstown, MD | On Site | Apr 22 |
 | ↳ | **[Product Analyst](https://jobright.ai/jobs/info/69e92350e0cd471b2f13af72?utm_campaign=Product%20Management&utm_source=1103)** | Hagerstown, Maryland, US | On Site | Apr 22 |
-| **[Wizards of the Coast](http://company.wizards.com/)** | **[Associate Producer](https://jobright.ai/jobs/info/69e9175e7820c036924e4e87?utm_campaign=Product%20Management&utm_source=1103)** | Renton, WA | On Site | Apr 22 |
-| **[Salesforce](https://www.salesforce.com)** | **[Product Manager (Early Career)](https://jobright.ai/jobs/info/69cc75dccfdc6132f940c5a3?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, CA | On Site | Apr 22 |
-| ↳ | **[Product Manager (Early Career)](https://jobright.ai/jobs/info/69cc7ae6e1921223acc761ec?utm_campaign=Product%20Management&utm_source=1103)** | Bellevue, WA | On Site | Apr 22 |
-| ↳ | **[Product Manager (Early Career)](https://jobright.ai/jobs/info/69cc6dbf891d7b11cfcac50f?utm_campaign=Product%20Management&utm_source=1103)** | Seattle, WA | On Site | Apr 22 |
-| **[Assurant](https://www.assurant.com/)** | **[Product Analyst](https://jobright.ai/jobs/info/69e912fb3aa0c479643a6bdb?utm_campaign=Product%20Management&utm_source=1103)** | United States Virtual, US | Remote | Apr 22 |
-| **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management - Digital Information Exchange & Analytics](https://jobright.ai/jobs/info/69a2a3620da45516f16c025c?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Apr 22 |
-| **[BW Retail Solutions](https://www.bwretail.com)** | **[Product Developer (Hard Parts for Powersports & Outdoor Power Equipment)](https://jobright.ai/jobs/info/69ec32f07820c036924f9b79?utm_campaign=Product%20Management&utm_source=1103)** | New Dundee, Ontario | On Site | Apr 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
