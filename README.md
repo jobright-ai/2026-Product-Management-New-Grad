@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Snowflake](https://www.snowflake.com)** | **[Product Analyst](https://jobright.ai/jobs/info/69f157f0825a315d7ca377bd?utm_campaign=Product%20Management&utm_source=1103)** | Menlo Park, CA | On Site | Apr 28 |
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[Product Line Manager (Early in Career)](https://jobright.ai/jobs/info/69f153c8825a315d7ca375a1?utm_campaign=Product%20Management&utm_source=1103)** | Santa Clara, CA | On Site | Apr 28 |
 | **[Anduril Industries](https://www.anduril.com)** | **[Product Operations Technical Specialist](https://jobright.ai/jobs/info/69f1502f825a315d7ca37509?utm_campaign=Product%20Management&utm_source=1103)** | Costa Mesa, California, United States | On Site | Apr 28 |
 | **[TP-Link Systems Inc.](https://www.tp-link.com/)** | **[Product Security Coordinator](https://jobright.ai/jobs/info/69f1502db27fee43e8cd8832?utm_campaign=Product%20Management&utm_source=1103)** | Irvine, CA | On Site | Apr 28 |
@@ -88,10 +89,10 @@ For a complete list, click the following sortable link below:
 | **[Fuze Health](https://www.fuzehealth.com/)** | **[Early Career Product Analyst, Supply Chain and Logistics - FuzeRx](https://jobright.ai/jobs/info/69b85ac43b74eb1e2c860deb?utm_campaign=Product%20Management&utm_source=1103)** | Texas, United States | On Site | Apr 28 |
 | **[Hach](http://www.hach.com)** | **[Technical Product Advisor I](https://jobright.ai/jobs/info/69f0df38825a315d7ca34ab2?utm_campaign=Product%20Management&utm_source=1103)** | Loveland, CO | On Site | Apr 28 |
 | **[Gap](https://jobs.gapinc.com/gap-home)** | **[Assistant Manager, Product Operations -  Broadway & Maiden](https://jobright.ai/jobs/info/69f06d06a4aa3545d8a5e200?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Apr 28 |
-| **[Renuity](http://renuityhome.com/)** | **[Product Representative](https://jobright.ai/jobs/info/69f021bba4aa3545d8a5d21f?utm_campaign=Product%20Management&utm_source=1103)** | Yorkville, IL | On Site | Apr 27 |
-| ↳ | **[Product Representative](https://jobright.ai/jobs/info/69f021b82b095843b0311810?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Apr 27 |
-| ↳ | **[Product Representative](https://jobright.ai/jobs/info/69f021f0825a315d7ca31085?utm_campaign=Product%20Management&utm_source=1103)** | Mettawa, IL | On Site | Apr 27 |
+| **[Renuity](http://renuityhome.com/)** | **[Product Representative](https://jobright.ai/jobs/info/69f021f0825a315d7ca31085?utm_campaign=Product%20Management&utm_source=1103)** | Mettawa, IL | On Site | Apr 27 |
+| ↳ | **[Product Representative](https://jobright.ai/jobs/info/69f021bba4aa3545d8a5d21f?utm_campaign=Product%20Management&utm_source=1103)** | Yorkville, IL | On Site | Apr 27 |
 | ↳ | **[Product Representative](https://jobright.ai/jobs/info/69f021f2b27fee43e8cd2343?utm_campaign=Product%20Management&utm_source=1103)** | Lake in the Hills, IL | On Site | Apr 27 |
+| ↳ | **[Product Representative](https://jobright.ai/jobs/info/69f021b82b095843b0311810?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Apr 27 |
 | **[Bright Horizons](https://www.brighthorizons.com/)** | **[Product Manager](https://jobright.ai/jobs/info/69efee700a6e09555305875a?utm_campaign=Product%20Management&utm_source=1103)** | Newton Centre, MA | Hybrid | Apr 27 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management- CAPS](https://jobright.ai/jobs/info/69f10e5062b48c6838793558?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA, US | On Site | Apr 27 |
 | **[Bright Horizons](https://www.brighthorizons.com/)** | **[Product Manager](https://jobright.ai/jobs/info/69efabcd4b0fa35a7078adc4?utm_campaign=Product%20Management&utm_source=1103)** | Newton Massachusetts 02459, US | Hybrid | Apr 27 |
@@ -211,5 +212,4 @@ For a complete list, click the following sortable link below:
 | **[Kidde Global Solutions](https://www.kiddeglobalsolutions.com)** | **[Product Management Associate](https://jobright.ai/jobs/info/69ab9143142d5b4265fcaa0e?utm_campaign=Product%20Management&utm_source=1103)** | Mebane, NC | On Site | Apr 22 |
 | **[Actively AI](https://www.actively.ai)** | **[Product Operations](https://jobright.ai/jobs/info/69771273fdeb8243a279ec47?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Apr 22 |
 | **[Kidde Global Solutions](https://www.kiddeglobalsolutions.com)** | **[Product Management Associate](https://jobright.ai/jobs/info/69abb00c7e1fab39d3833413?utm_campaign=Product%20Management&utm_source=1103)** | Mebane, NC, USA | On Site | Apr 22 |
-| **[Leaf Home](https://www.leafhome.com/)** | **[Product Demonstrator ($18/hr ++ Commission)](https://jobright.ai/jobs/info/69e8af3a4b0fa35a70767cc5?utm_campaign=Product%20Management&utm_source=1103)** | 1622 Madison St, Clarksville, TN 37043, USA | On Site | Apr 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
