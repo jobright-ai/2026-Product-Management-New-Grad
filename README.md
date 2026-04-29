@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Applied Materials](http://www.appliedmaterials.com)** | **[Product Line Manager (Early in Career)](https://jobright.ai/jobs/info/69f153c8825a315d7ca375a1?utm_campaign=Product%20Management&utm_source=1103)** | Santa Clara, CA | On Site | Apr 28 |
+| **[Anduril Industries](https://www.anduril.com)** | **[Product Operations Technical Specialist](https://jobright.ai/jobs/info/69f1502f825a315d7ca37509?utm_campaign=Product%20Management&utm_source=1103)** | Costa Mesa, California, United States | On Site | Apr 28 |
+| **[TP-Link Systems Inc.](https://www.tp-link.com/)** | **[Product Security Coordinator](https://jobright.ai/jobs/info/69f1502db27fee43e8cd8832?utm_campaign=Product%20Management&utm_source=1103)** | Irvine, CA | On Site | Apr 28 |
 | **[Dollar Tree Stores](http://dollartree.com)** | **[Associate Merchant - Tableware/Bags/Fresheners](https://jobright.ai/jobs/info/69f1449ab27fee43e8cd859f?utm_campaign=Product%20Management&utm_source=1103)** | 500 Volvo Parkway, Chesapeake, Virginia, 23320 | On Site | Apr 28 |
 | **[PointClickCare](http://www.pointclickcare.com)** | **[Associate Product Manager - Data Projects](https://jobright.ai/jobs/info/69f13bbdecbc8c2f73204bf2?utm_campaign=Product%20Management&utm_source=1103)** | Mississauga, Ontario | Hybrid | Apr 28 |
 | ↳ | **[Associate Product Manager - Data Projects](https://jobright.ai/jobs/info/69f13b10825a315d7ca36d42?utm_campaign=Product%20Management&utm_source=1103)** | Remote, USA | Remote | Apr 28 |
@@ -112,8 +115,7 @@ For a complete list, click the following sortable link below:
 | **[Kiss Beauty Group](https://www.kissusa.com)** | **[Associate, Product Development/Management](https://jobright.ai/jobs/info/697d2638727747250d57e23d?utm_campaign=Product%20Management&utm_source=1103)** | Port Washington, NY | On Site | Apr 25 |
 | **[lululemon](http://shop.lululemon.com)** | **[Product Operations Lead (Temporary 6 Month Contract) / The Shops at Wailea](https://jobright.ai/jobs/info/69d0dd100b098b7a6707e530?utm_campaign=Product%20Management&utm_source=1103)** | Wailea, HI | On Site | Apr 25 |
 | **[Axos Bank](https://www.axosbank.com/)** | **[Associate Product Manager](https://jobright.ai/jobs/info/69ec25ac4b0fa35a70781063?utm_campaign=Product%20Management&utm_source=1103)** | San Diego, CA | On Site | Apr 24 |
-| **[Cornerstone OnDemand](http://www.cornerstoneondemand.com)** | **[Product Associate](https://jobright.ai/jobs/info/69ec17c57820c036924f90f7?utm_campaign=Product%20Management&utm_source=1103)** | Dublin, CA | Hybrid | Apr 24 |
-| **[Axos Bank](https://www.axosbank.com/)** | **[Associate Product Manager](https://jobright.ai/jobs/info/69ec0f7d4b0fa35a707807a5?utm_campaign=Product%20Management&utm_source=1103)** | HQ - San Diego, CA, US | On Site | Apr 24 |
+| ↳ | **[Associate Product Manager](https://jobright.ai/jobs/info/69ec0f7d4b0fa35a707807a5?utm_campaign=Product%20Management&utm_source=1103)** | HQ - San Diego, CA, US | On Site | Apr 24 |
 | **[Nanometrics Inc.](https://www.nanometrics.ca)** | **[Product Manager, Instrumentation (Early Career/Intermediate)](https://jobright.ai/jobs/info/69c71975aa3c2c1995e1534c?utm_campaign=Product%20Management&utm_source=1103)** | Ottawa, Ontario, Canada | Hybrid | Apr 24 |
 | **[Zelig](https://www.zelig.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/69ebe52958811370cb13d70f?utm_campaign=Product%20Management&utm_source=1103)** | West Hollywood, CA | On Site | Apr 24 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management (Anti-Money Laundering)](https://jobright.ai/jobs/info/69ebe5257820c036924f7ddb?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA, US | On Site | Apr 24 |
