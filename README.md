@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Banner Engineering](https://www.bannerengineering.com/us/en.html)** | **[Associate Global Product Manager](https://jobright.ai/jobs/info/69ba8ac256973837414026c1?utm_campaign=Product%20Management&utm_source=1103)** | Plymouth, MN | On Site | Apr 29 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management - Customer Services & Strategy (US Card)](https://jobright.ai/jobs/info/69f215f7ab4ec4779fff7257?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA, US | On Site | Apr 29 |
 | ↳ | **[Senior Associate, Product Management - Customer Services & Strategy (US Card)](https://jobright.ai/jobs/info/69f215de825a315d7ca3aadc?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL, US | On Site | Apr 29 |
 | ↳ | **[Senior Associate, Product Management - Customer Services & Strategy (US Card)](https://jobright.ai/jobs/info/69f215d78feca91f14922fd2?utm_campaign=Product%20Management&utm_source=1103)** | Riverwoods, IL, US | On Site | Apr 29 |
@@ -79,8 +80,8 @@ For a complete list, click the following sortable link below:
 | **[Camping World](https://investor.campingworld.com)** | **[Product Specialist Advisor](https://jobright.ai/jobs/info/69f18f92b27fee43e8cda1a4?utm_campaign=Product%20Management&utm_source=1103)** | Ridgeland, SC | On Site | Apr 28 |
 | **[Silvus Technologies](http://silvustechnologies.com)** | **[Product Management Analyst – Command Center Voice Software](https://jobright.ai/jobs/info/69f20d0f825a315d7ca3a7e9?utm_campaign=Product%20Management&utm_source=1103)** | Plantation, FL | On Site | Apr 28 |
 | ↳ | **[Product Management Analyst – Command Center Voice Software](https://jobright.ai/jobs/info/69f1fc2fab4ec4779fff6be3?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Apr 28 |
-| ↳ | **[Product Management Analyst – Command Center Voice Software](https://jobright.ai/jobs/info/69f1fc528d8d624381a9ea7c?utm_campaign=Product%20Management&utm_source=1103)** | Brooklyn, NY | On Site | Apr 28 |
 | ↳ | **[Product Management Analyst – Command Center Voice Software](https://jobright.ai/jobs/info/69f1fc02ecbc8c2f732084f5?utm_campaign=Product%20Management&utm_source=1103)** | Waltham, MA | On Site | Apr 28 |
+| ↳ | **[Product Management Analyst – Command Center Voice Software](https://jobright.ai/jobs/info/69f1fc528d8d624381a9ea7c?utm_campaign=Product%20Management&utm_source=1103)** | Brooklyn, NY | On Site | Apr 28 |
 | ↳ | **[Product Management Analyst – Command Center Voice Software](https://jobright.ai/jobs/info/69f224fe8d8d624381a9f5c7?utm_campaign=Product%20Management&utm_source=1103)** | Massachusetts, United States | On Site | Apr 28 |
 | **[Talento Divergente](www.talentodivergente.com)** | **[Asistente de Ventas](https://jobright.ai/jobs/info/69f1730e8d8d624381a9c0cf?utm_campaign=Product%20Management&utm_source=1103)** | Florida, United States | On Site | Apr 28 |
 | **[Snowflake](https://www.snowflake.com)** | **[Product Analyst](https://jobright.ai/jobs/info/69f157f0825a315d7ca377bd?utm_campaign=Product%20Management&utm_source=1103)** | Menlo Park, CA | On Site | Apr 28 |
