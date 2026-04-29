@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[FCC / FAC](https://www.fcc-fac.ca/en.html)** | **[Product Analyst (AgExpert)](https://jobright.ai/jobs/info/69f1b097825a315d7ca39731?utm_campaign=Product%20Management&utm_source=1103)** | Various FCC office locations in Ontario may be considered, CA | Hybrid | Apr 29 |
+| ↳ | **[Product Analyst (AgExpert)](https://jobright.ai/jobs/info/69f1b04cb27fee43e8cdabbe?utm_campaign=Product%20Management&utm_source=1103)** | Various FCC office locations in Alberta may be considered, CA | Hybrid | Apr 29 |
 | **[Camping World](https://investor.campingworld.com)** | **[Product Specialist Advisor](https://jobright.ai/jobs/info/69f18f92b27fee43e8cda1a4?utm_campaign=Product%20Management&utm_source=1103)** | Ridgeland, SC | On Site | Apr 28 |
 | **[Talento Divergente](www.talentodivergente.com)** | **[Asistente de Ventas](https://jobright.ai/jobs/info/69f1730e8d8d624381a9c0cf?utm_campaign=Product%20Management&utm_source=1103)** | Florida, United States | On Site | Apr 28 |
 | **[Snowflake](https://www.snowflake.com)** | **[Product Analyst](https://jobright.ai/jobs/info/69f157f0825a315d7ca377bd?utm_campaign=Product%20Management&utm_source=1103)** | Menlo Park, CA | On Site | Apr 28 |
@@ -91,10 +93,10 @@ For a complete list, click the following sortable link below:
 | **[Fuze Health](https://www.fuzehealth.com/)** | **[Early Career Product Analyst, Supply Chain and Logistics - FuzeRx](https://jobright.ai/jobs/info/69b85ac43b74eb1e2c860deb?utm_campaign=Product%20Management&utm_source=1103)** | Texas, United States | On Site | Apr 28 |
 | **[Hach](http://www.hach.com)** | **[Technical Product Advisor I](https://jobright.ai/jobs/info/69f0df38825a315d7ca34ab2?utm_campaign=Product%20Management&utm_source=1103)** | Loveland, CO | On Site | Apr 28 |
 | **[Gap](https://jobs.gapinc.com/gap-home)** | **[Assistant Manager, Product Operations -  Broadway & Maiden](https://jobright.ai/jobs/info/69f06d06a4aa3545d8a5e200?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Apr 28 |
-| **[Renuity](http://renuityhome.com/)** | **[Product Representative](https://jobright.ai/jobs/info/69f021f2b27fee43e8cd2343?utm_campaign=Product%20Management&utm_source=1103)** | Lake in the Hills, IL | On Site | Apr 27 |
+| **[Renuity](http://renuityhome.com/)** | **[Product Representative](https://jobright.ai/jobs/info/69f021b82b095843b0311810?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Apr 27 |
 | ↳ | **[Product Representative](https://jobright.ai/jobs/info/69f021f0825a315d7ca31085?utm_campaign=Product%20Management&utm_source=1103)** | Mettawa, IL | On Site | Apr 27 |
+| ↳ | **[Product Representative](https://jobright.ai/jobs/info/69f021f2b27fee43e8cd2343?utm_campaign=Product%20Management&utm_source=1103)** | Lake in the Hills, IL | On Site | Apr 27 |
 | ↳ | **[Product Representative](https://jobright.ai/jobs/info/69f021bba4aa3545d8a5d21f?utm_campaign=Product%20Management&utm_source=1103)** | Yorkville, IL | On Site | Apr 27 |
-| ↳ | **[Product Representative](https://jobright.ai/jobs/info/69f021b82b095843b0311810?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Apr 27 |
 | **[Bright Horizons](https://www.brighthorizons.com/)** | **[Product Manager](https://jobright.ai/jobs/info/69efee700a6e09555305875a?utm_campaign=Product%20Management&utm_source=1103)** | Newton Centre, MA | Hybrid | Apr 27 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management- CAPS](https://jobright.ai/jobs/info/69f10e5062b48c6838793558?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA, US | On Site | Apr 27 |
 | **[Bright Horizons](https://www.brighthorizons.com/)** | **[Product Manager](https://jobright.ai/jobs/info/69efabcd4b0fa35a7078adc4?utm_campaign=Product%20Management&utm_source=1103)** | Newton Massachusetts 02459, US | Hybrid | Apr 27 |
@@ -202,7 +204,4 @@ For a complete list, click the following sortable link below:
 | **[insightsoftware](https://www.insightsoftware.com)** | **[Product Owner, Batch Processing - Equity](https://jobright.ai/jobs/info/69ea530edc35f7132c4a95cb?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Apr 22 |
 | **[Leadly](https://www.leadly.co.uk/)** | **[Product Operations Analyst](https://jobright.ai/jobs/info/69e8fbe658811370cb1298a2?utm_campaign=Product%20Management&utm_source=1103)** | Manchester Area, United Kingdom | Hybrid | Apr 22 |
 | **[insightsoftware](https://www.insightsoftware.com)** | **[Product Owner, Batch Processing - Equity](https://jobright.ai/jobs/info/69e8f5a67820c036924e3ede?utm_campaign=Product%20Management&utm_source=1103)** | USA - Remote, US | Remote | Apr 22 |
-| **[AXS](https://www.axs.com/)** | **[Associate Product Manager - Consumer Product (LA28)](https://jobright.ai/jobs/info/69e8e9347820c036924e38f0?utm_campaign=Product%20Management&utm_source=1103)** | Los Angeles, CA | Hybrid | Apr 22 |
-| **[Capital One](http://www.capitalone.com)** | **[Sr. Associate - Product Management (HR, RIsk, or Finance)](https://jobright.ai/jobs/info/69e8e3ad7820c036924e378e?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Apr 22 |
-| ↳ | **[Sr. Associate - Product Management (HR, RIsk, or Finance)](https://jobright.ai/jobs/info/69e91874e0cd471b2f13a3e6?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Apr 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
