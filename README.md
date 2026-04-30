@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Qualcomm](http://www.qualcomm.com)** | **[Product Manager - Developer Relations](https://jobright.ai/jobs/info/69f37369c78b9e4518954c16?utm_campaign=Product%20Management&utm_source=1103)** | San Diego, CA | On Site | Apr 30 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management - Customer Services & Strategy (US Card)](https://jobright.ai/jobs/info/69f36a931f90bd6ae23cf246?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Apr 30 |
 | ↳ | **[Senior Associate, Product Management - Customer Services & Strategy (US Card)](https://jobright.ai/jobs/info/69f36a82461b9b613a6203a7?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Apr 30 |
 | ↳ | **[Senior Associate, Product Management - Customer Services & Strategy (US Card)](https://jobright.ai/jobs/info/69f36a7fc78b9e4518954abb?utm_campaign=Product%20Management&utm_source=1103)** | Deerfield, IL | On Site | Apr 30 |
@@ -140,10 +141,10 @@ For a complete list, click the following sortable link below:
 | **[Hach](http://www.hach.com)** | **[Technical Product Advisor I](https://jobright.ai/jobs/info/69f0df38825a315d7ca34ab2?utm_campaign=Product%20Management&utm_source=1103)** | Loveland, CO | On Site | Apr 28 |
 | **[Questrade Financial Group](http://www.questrade.com)** | **[Product CoE - Product Operations Specialist](https://jobright.ai/jobs/info/69e2826a3ce36005badbe7c0?utm_campaign=Product%20Management&utm_source=1103)** | North York, ON | Hybrid | Apr 28 |
 | **[Gap](https://jobs.gapinc.com/gap-home)** | **[Assistant Manager, Product Operations -  Broadway & Maiden](https://jobright.ai/jobs/info/69f06d06a4aa3545d8a5e200?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Apr 28 |
-| **[Renuity](http://renuityhome.com/)** | **[Product Representative](https://jobright.ai/jobs/info/69f021bba4aa3545d8a5d21f?utm_campaign=Product%20Management&utm_source=1103)** | Yorkville, IL | On Site | Apr 27 |
-| ↳ | **[Product Representative](https://jobright.ai/jobs/info/69f021b82b095843b0311810?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Apr 27 |
-| ↳ | **[Product Representative](https://jobright.ai/jobs/info/69f021f2b27fee43e8cd2343?utm_campaign=Product%20Management&utm_source=1103)** | Lake in the Hills, IL | On Site | Apr 27 |
+| **[Renuity](http://renuityhome.com/)** | **[Product Representative](https://jobright.ai/jobs/info/69f021f2b27fee43e8cd2343?utm_campaign=Product%20Management&utm_source=1103)** | Lake in the Hills, IL | On Site | Apr 27 |
 | ↳ | **[Product Representative](https://jobright.ai/jobs/info/69f021f0825a315d7ca31085?utm_campaign=Product%20Management&utm_source=1103)** | Mettawa, IL | On Site | Apr 27 |
+| ↳ | **[Product Representative](https://jobright.ai/jobs/info/69f021bba4aa3545d8a5d21f?utm_campaign=Product%20Management&utm_source=1103)** | Yorkville, IL | On Site | Apr 27 |
+| ↳ | **[Product Representative](https://jobright.ai/jobs/info/69f021b82b095843b0311810?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Apr 27 |
 | **[Bright Horizons](https://www.brighthorizons.com/)** | **[Product Manager](https://jobright.ai/jobs/info/69efee700a6e09555305875a?utm_campaign=Product%20Management&utm_source=1103)** | Newton Centre, MA | Hybrid | Apr 27 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management- CAPS](https://jobright.ai/jobs/info/69f10e5062b48c6838793558?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA, US | On Site | Apr 27 |
 | **[Bright Horizons](https://www.brighthorizons.com/)** | **[Product Manager](https://jobright.ai/jobs/info/69efabcd4b0fa35a7078adc4?utm_campaign=Product%20Management&utm_source=1103)** | Newton Massachusetts 02459, US | Hybrid | Apr 27 |
@@ -199,7 +200,4 @@ For a complete list, click the following sortable link below:
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management - Client and Associate Platforms](https://jobright.ai/jobs/info/6995252481476f6176ad02ce?utm_campaign=Product%20Management&utm_source=1103)** | Charlotte, NC | On Site | Apr 24 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management - Client and Associate Platforms](https://jobright.ai/jobs/info/69951a9dce78e77b4fd931e5?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Apr 23 |
 | **[Dreamwear](https://www.dreamwear.com/)** | **[Product Development Assistant](https://jobright.ai/jobs/info/69eab5f6dc35f7132c4ab9b9?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY, US | On Site | Apr 23 |
-| **[ServiceTitan](http://www.servicetitan.com)** | **[Solutions Engineer, Pro Products](https://jobright.ai/jobs/info/69eaad9558811370cb134b56?utm_campaign=Product%20Management&utm_source=1103)** | US Remote, US | Remote | Apr 23 |
-| **[American Express](http://www.americanexpress.com)** | **[Associate-Digital Product Management](https://jobright.ai/jobs/info/69eb413b58811370cb137f14?utm_campaign=Product%20Management&utm_source=1103)** | Phoenix, AZ | Hybrid | Apr 23 |
-| **[MidwayUSA](http://midwayusa.com)** | **[Product Specialist - Knives & Tools](https://jobright.ai/jobs/info/69eb3fbe0a6e095553045e01?utm_campaign=Product%20Management&utm_source=1103)** | Columbia, MO | On Site | Apr 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
