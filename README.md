@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management - Customer Services & Strategy (US Card)](https://jobright.ai/jobs/info/69f36a931f90bd6ae23cf246?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Apr 30 |
+| ↳ | **[Senior Associate, Product Management - Customer Services & Strategy (US Card)](https://jobright.ai/jobs/info/69f36a82461b9b613a6203a7?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Apr 30 |
+| ↳ | **[Senior Associate, Product Management - Customer Services & Strategy (US Card)](https://jobright.ai/jobs/info/69f36a7fc78b9e4518954abb?utm_campaign=Product%20Management&utm_source=1103)** | Deerfield, IL | On Site | Apr 30 |
+| ↳ | **[Senior Associate, Product Management - Customer Services & Strategy (US Card)](https://jobright.ai/jobs/info/69f36a7ec78b9e4518954aba?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Apr 30 |
+| ↳ | **[Senior Associate, Product Management - Customer Services & Strategy (US Card)](https://jobright.ai/jobs/info/69f36a786942c746fa69125a?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Apr 30 |
 | **[Leaf Home](https://www.leafhome.com/)** | **[Product Demonstrator ($18/hr + Commission)](https://jobright.ai/jobs/info/69f3356b58b23a2329da33ec?utm_campaign=Product%20Management&utm_source=1103)** | League City, TX | On Site | Apr 30 |
 | **[Gap](https://jobs.gapinc.com/gap-home)** | **[Assistant Manager, Product Operations - Outlet Collct Seattle](https://jobright.ai/jobs/info/69f311c7ecbc8c2f7320ffc3?utm_campaign=Product%20Management&utm_source=1103)** | Auburn, WA | On Site | Apr 30 |
 | **[Grid](https://getgrid.app)** | **[Product Analyst / San Francisco on-site](https://jobright.ai/jobs/info/69f2a824ab4ec4779fffa4be?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, California | On Site | Apr 29 |
@@ -78,7 +83,7 @@ For a complete list, click the following sortable link below:
 | **[Signet Jewelers](http://www.signetjewelers.com)** | **[Detail Assistant](https://jobright.ai/jobs/info/69f28a878d8d624381aa1601?utm_campaign=Product%20Management&utm_source=1103)** | Dallas, TX | Hybrid | Apr 29 |
 | **[Kiss Beauty Group](https://www.kissusa.com)** | **[Product Associate](https://jobright.ai/jobs/info/69f245fbecbc8c2f73209b3c?utm_campaign=Product%20Management&utm_source=1103)** | Port Washington, NY | On Site | Apr 29 |
 | **[Spirit Halloween](http://www.spirithalloween.com)** | **[Assistant Product Manager](https://jobright.ai/jobs/info/69f23df5ecbc8c2f73209951?utm_campaign=Product%20Management&utm_source=1103)** | US-NJ-Egg Harbor Township | On Site | Apr 29 |
-| ↳ | **[Assistant Product Manager](https://jobright.ai/jobs/info/69f23df28feca91f14923d91?utm_campaign=Product%20Management&utm_source=1103)** | Egg Harbor Township, NJ, US | On Site | Apr 29 |
+| ↳ | **[Assistant Product Manager](https://jobright.ai/jobs/info/69f23df28feca91f14923d95?utm_campaign=Product%20Management&utm_source=1103)** | Egg Harbor Township, NJ, US | On Site | Apr 29 |
 | **[NJM Insurance Group](https://www.njm.com)** | **[Insurance Product Management Analyst - Hybrid](https://jobright.ai/jobs/info/69e6cf427820c036924d24ed?utm_campaign=Product%20Management&utm_source=1103)** | Trenton, NJ | Hybrid | Apr 29 |
 | **[F.W. Webb Company](https://www.fwwebb.com)** | **[Customer Product Growth Specialist- Water Systems](https://jobright.ai/jobs/info/69f3355a6942c746fa69039b?utm_campaign=Product%20Management&utm_source=1103)** | Queensbury, NY | On Site | Apr 29 |
 | **[Banner Engineering](https://www.bannerengineering.com/us/en.html)** | **[Associate Global Product Manager](https://jobright.ai/jobs/info/69ba8ac256973837414026c1?utm_campaign=Product%20Management&utm_source=1103)** | Plymouth, MN | On Site | Apr 29 |
@@ -197,6 +202,4 @@ For a complete list, click the following sortable link below:
 | **[ServiceTitan](http://www.servicetitan.com)** | **[Solutions Engineer, Pro Products](https://jobright.ai/jobs/info/69eaad9558811370cb134b56?utm_campaign=Product%20Management&utm_source=1103)** | US Remote, US | Remote | Apr 23 |
 | **[American Express](http://www.americanexpress.com)** | **[Associate-Digital Product Management](https://jobright.ai/jobs/info/69eb413b58811370cb137f14?utm_campaign=Product%20Management&utm_source=1103)** | Phoenix, AZ | Hybrid | Apr 23 |
 | **[MidwayUSA](http://midwayusa.com)** | **[Product Specialist - Knives & Tools](https://jobright.ai/jobs/info/69eb3fbe0a6e095553045e01?utm_campaign=Product%20Management&utm_source=1103)** | Columbia, MO | On Site | Apr 23 |
-| **[Monster Energy](http://www.monsterenergy.com/)** | **[Product Master Steward](https://jobright.ai/jobs/info/69eaa17f4b0fa35a70775871?utm_campaign=Product%20Management&utm_source=1103)** | USA - Corona, CA | On Site | Apr 23 |
-| **[Smith+Nephew](http://www.smith-nephew.com)** | **[Orthopaedics Product Management Specialist II](https://jobright.ai/jobs/info/69ea9d52dc35f7132c4ab3f8?utm_campaign=Product%20Management&utm_source=1103)** | Memphis, TN, US | Hybrid | Apr 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
