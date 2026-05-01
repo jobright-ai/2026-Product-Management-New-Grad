@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Goldman Sachs](https://www.goldmansachs.com)** | **[AWM-GS Ayco-Wealth Strategies Group-Insurance Product-Analyst-Albany](https://jobright.ai/jobs/info/69f4c8ea81706a5bd2162ee7?utm_campaign=Product%20Management&utm_source=1103)** | Albany, New York, United States | On Site | May 01 |
+| **[BNY](https://www.bny.com)** | **[Fixed Income Product Specialist](https://jobright.ai/jobs/info/69f4c8e9db88714bcdfafe1c?utm_campaign=Product%20Management&utm_source=1103)** | 240 Greenwich Street, New York, NY, 10286, US | On Site | May 01 |
+| **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management - Athena Data Model Lead](https://jobright.ai/jobs/info/69f4c7bedb88714bcdfafd79?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | May 01 |
+| **[Wasserman](https://the.team/)** | **[Junior Product Manager](https://jobright.ai/jobs/info/69f4c70edb88714bcdfafbf4?utm_campaign=Product%20Management&utm_source=1103)** | USA-NY - New York City Office (One Liberty Plaza), US | On Site | May 01 |
+| **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management - Athena Data Model Lead](https://jobright.ai/jobs/info/69f4c4f981706a5bd2162c8f?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | May 01 |
+| ↳ | **[Senior Associate, Product Management - Athena Data Model Lead](https://jobright.ai/jobs/info/69f4c4f981706a5bd2162c97?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | May 01 |
 | **[Camping World](https://investor.campingworld.com)** | **[Product Specialist Advisor](https://jobright.ai/jobs/info/69d809c7b67cec4f9b09a016?utm_campaign=Product%20Management&utm_source=1103)** | Rossford, OH | On Site | May 01 |
 | **[TMX Group](http://www.tmx.com)** | **[Product and Analytics Analyst](https://jobright.ai/jobs/info/69d80931f4ea471a51fe327c?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | May 01 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Associate Product Developer - Floorcare Extraction](https://jobright.ai/jobs/info/69ab209d142d5b4265fc595c?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | May 01 |
