@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Camping World](https://investor.campingworld.com)** | **[Product Specialist Advisor](https://jobright.ai/jobs/info/69d809c7b67cec4f9b09a016?utm_campaign=Product%20Management&utm_source=1103)** | Rossford, OH | On Site | May 01 |
 | **[TMX Group](http://www.tmx.com)** | **[Product and Analytics Analyst](https://jobright.ai/jobs/info/69d80931f4ea471a51fe327c?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | May 01 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Associate Product Developer - Floorcare Extraction](https://jobright.ai/jobs/info/69ab209d142d5b4265fc595c?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | May 01 |
 | **[Honda Canada Inc.](https://www.honda.ca/)** | **[Coordinator, Company Product Distribution](https://jobright.ai/jobs/info/69f12cc6ecbc8c2f73203eb7?utm_campaign=Product%20Management&utm_source=1103)** | Markham, Ontario, Canada | Hybrid | May 01 |
@@ -115,7 +116,7 @@ For a complete list, click the following sortable link below:
 | **[Signet Jewelers](http://www.signetjewelers.com)** | **[Detail Assistant](https://jobright.ai/jobs/info/69f28a878d8d624381aa1601?utm_campaign=Product%20Management&utm_source=1103)** | Dallas, TX | Hybrid | Apr 29 |
 | **[Kiss Beauty Group](https://www.kissusa.com)** | **[Product Associate](https://jobright.ai/jobs/info/69f245fbecbc8c2f73209b3c?utm_campaign=Product%20Management&utm_source=1103)** | Port Washington, NY | On Site | Apr 29 |
 | **[Spirit Halloween](http://www.spirithalloween.com)** | **[Assistant Product Manager](https://jobright.ai/jobs/info/69f23df5ecbc8c2f73209951?utm_campaign=Product%20Management&utm_source=1103)** | US-NJ-Egg Harbor Township | On Site | Apr 29 |
-| ↳ | **[Assistant Product Manager](https://jobright.ai/jobs/info/69f23df28feca91f14923d95?utm_campaign=Product%20Management&utm_source=1103)** | Egg Harbor Township, NJ, US | On Site | Apr 29 |
+| ↳ | **[Assistant Product Manager](https://jobright.ai/jobs/info/69f23df28feca91f14923d91?utm_campaign=Product%20Management&utm_source=1103)** | Egg Harbor Township, NJ, US | On Site | Apr 29 |
 | **[NJM Insurance Group](https://www.njm.com)** | **[Insurance Product Management Analyst - Hybrid](https://jobright.ai/jobs/info/69e6cf427820c036924d24ed?utm_campaign=Product%20Management&utm_source=1103)** | Trenton, NJ | Hybrid | Apr 29 |
 | **[F.W. Webb Company](https://www.fwwebb.com)** | **[Customer Product Growth Specialist- Water Systems](https://jobright.ai/jobs/info/69f3355a6942c746fa69039b?utm_campaign=Product%20Management&utm_source=1103)** | Queensbury, NY | On Site | Apr 29 |
 | **[Banner Engineering](https://www.bannerengineering.com/us/en.html)** | **[Associate Global Product Manager](https://jobright.ai/jobs/info/69ba8ac256973837414026c1?utm_campaign=Product%20Management&utm_source=1103)** | Plymouth, MN | On Site | Apr 29 |
@@ -192,6 +193,4 @@ For a complete list, click the following sortable link below:
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management (Anti-Money Laundering)](https://jobright.ai/jobs/info/69ebe5257820c036924f7ddb?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA, US | On Site | Apr 24 |
 | **[Tinder](http://www.tinder.com)** | **[Product Analyst](https://jobright.ai/jobs/info/69ebdc300a6e09555304ac03?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Apr 24 |
 | **[Match](http://www.lifeatmatch.com)** | **[Product Analyst](https://jobright.ai/jobs/info/69ebd31658811370cb13d0e9?utm_campaign=Product%20Management&utm_source=1103)** | New York, New York | Hybrid | Apr 24 |
-| **[Edwards Lifesciences](http://www.edwards.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/69ebc9d77820c036924f7524?utm_campaign=Product%20Management&utm_source=1103)** | Mississauga, Ontario, Canada | On Site | Apr 24 |
-| **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management - Digital Information Exchange & Analytics](https://jobright.ai/jobs/info/69a5ab62b600907a962b5bdd?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
