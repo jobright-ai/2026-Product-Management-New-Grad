@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TMX Group](http://www.tmx.com)** | **[Product and Analytics Analyst](https://jobright.ai/jobs/info/69d80931f4ea471a51fe327c?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | May 01 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Associate Product Developer - Floorcare Extraction](https://jobright.ai/jobs/info/69ab209d142d5b4265fc595c?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | May 01 |
 | **[Honda Canada Inc.](https://www.honda.ca/)** | **[Coordinator, Company Product Distribution](https://jobright.ai/jobs/info/69f12cc6ecbc8c2f73203eb7?utm_campaign=Product%20Management&utm_source=1103)** | Markham, Ontario, Canada | Hybrid | May 01 |
 | **[Compass Group Canada](http://www.compass-canada.com)** | **[Category Development Specialist](https://jobright.ai/jobs/info/69f4632b81706a5bd21603b9?utm_campaign=Product%20Management&utm_source=1103)** | Mississauga, Ontario, Canada | On Site | Apr 30 |
@@ -193,7 +194,4 @@ For a complete list, click the following sortable link below:
 | **[Match](http://www.lifeatmatch.com)** | **[Product Analyst](https://jobright.ai/jobs/info/69ebd31658811370cb13d0e9?utm_campaign=Product%20Management&utm_source=1103)** | New York, New York | Hybrid | Apr 24 |
 | **[Edwards Lifesciences](http://www.edwards.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/69ebc9d77820c036924f7524?utm_campaign=Product%20Management&utm_source=1103)** | Mississauga, Ontario, Canada | On Site | Apr 24 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management - Digital Information Exchange & Analytics](https://jobright.ai/jobs/info/69a5ab62b600907a962b5bdd?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Apr 24 |
-| **[Micron Technology](http://www.micron.com)** | **[(New College Grad) HBM Product Manager](https://jobright.ai/jobs/info/69ebbc40dc35f7132c4b2c9a?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA, US | On Site | Apr 24 |
-| ↳ | **[(New College Grad) HBM Product Manager](https://jobright.ai/jobs/info/69ebbc130a6e095553049d0f?utm_campaign=Product%20Management&utm_source=1103)** | Boise, ID - Main Site, US | On Site | Apr 24 |
-| **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management - Authorization Gateway Team](https://jobright.ai/jobs/info/69b40e2206c1ba00c545317a?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
