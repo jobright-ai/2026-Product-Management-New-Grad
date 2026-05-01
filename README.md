@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Acosta](https://www.acosta.com)** | **[Product Demonstrator PT - BBQ](https://jobright.ai/jobs/info/69f50651a3d34b4f76f53364?utm_campaign=Product%20Management&utm_source=1103)** | Washington, DC, United States | On Site | May 01 |
 | **[Health Union](https://health-union.com)** | **[Product Owner](https://jobright.ai/jobs/info/69f5016112f2811ab5a625a3?utm_campaign=Product%20Management&utm_source=1103)** | Philadelphia - Philadelphia, PA 19107 | Hybrid | May 01 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management - Recoveries](https://jobright.ai/jobs/info/69bd6dc9b10602456282504b?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | May 01 |
 | ↳ | **[Senior Associate, Product Management - Tech and Data Risk Management Product Team](https://jobright.ai/jobs/info/696579ab2cbf4e44756f0b60?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | May 01 |
