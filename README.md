@@ -195,5 +195,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Senior Associate, Product Management (Anti-Money Laundering)](https://jobright.ai/jobs/info/69ecfda4dc35f7132c4b7fe1?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Apr 25 |
 | **[Kiss Beauty Group](https://www.kissusa.com)** | **[Associate, Product Development/Management](https://jobright.ai/jobs/info/697d2638727747250d57e23d?utm_campaign=Product%20Management&utm_source=1103)** | Port Washington, NY | On Site | Apr 25 |
 | **[lululemon](http://shop.lululemon.com)** | **[Product Operations Lead (Temporary 6 Month Contract) / The Shops at Wailea](https://jobright.ai/jobs/info/69d0dd100b098b7a6707e530?utm_campaign=Product%20Management&utm_source=1103)** | Wailea, HI | On Site | Apr 25 |
-| **[Nanometrics Inc.](https://www.nanometrics.ca)** | **[Product Manager, Instrumentation (Early Career/Intermediate)](https://jobright.ai/jobs/info/69c71975aa3c2c1995e1534c?utm_campaign=Product%20Management&utm_source=1103)** | Ottawa, Ontario, Canada | Hybrid | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
