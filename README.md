@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IXL Learning](https://www.ixl.com/)** | **[Associate Product Manager, New Grad](https://jobright.ai/jobs/info/69f40493461b9b613a6255c9?utm_campaign=Product%20Management&utm_source=1103)** | San Mateo, CA | On Site | Apr 30 |
 | **[ALO](https://www.aloyoga.com/)** | **[Web Operations Coordinator](https://jobright.ai/jobs/info/69f3d9aa6942c746fa6957c2?utm_campaign=Product%20Management&utm_source=1103)** | Beverly Hills, California, United States | On Site | Apr 30 |
 | ↳ | **[Web Operations Coordinator](https://jobright.ai/jobs/info/69f3d28c6942c746fa6950f8?utm_campaign=Product%20Management&utm_source=1103)** | Beverly Hills, CA | On Site | Apr 30 |
 | **[Pure Storage](http://www.purestorage.com)** | **[Software Asset Analyst](https://jobright.ai/jobs/info/69f3ba8158b23a2329da7c90?utm_campaign=Product%20Management&utm_source=1103)** | Santa Clara, CA | On Site | Apr 30 |
@@ -212,7 +213,4 @@ For a complete list, click the following sortable link below:
 | **[Transamerica](http://www.transamerica.com)** | **[Product Strategist - Transamerica AM](https://jobright.ai/jobs/info/69cf1c78cdb525785fb9ec7e?utm_campaign=Product%20Management&utm_source=1103)** | Denver, CO | Hybrid | Apr 24 |
 | **[Anduril Industries](https://www.anduril.com)** | **[Strategic Finance, Product Development](https://jobright.ai/jobs/info/69e9f1fe58811370cb12f738?utm_campaign=Product%20Management&utm_source=1103)** | Costa Mesa, CA | On Site | Apr 24 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Product Owner](https://jobright.ai/jobs/info/69eb89d658811370cb139a97?utm_campaign=Product%20Management&utm_source=1103)** | Burbank, CA | On Site | Apr 24 |
-| **[Helen of Troy](https://www.helenoftroy.com)** | **[Product Development Coordinator, Beauty](https://jobright.ai/jobs/info/69cebf44366bb95ba550eee2?utm_campaign=Product%20Management&utm_source=1103)** | Boston, MA | Hybrid | Apr 24 |
-| **[Nationwide](http://nationwide.com)** | **[Associate Product Manager - Underwriting Strategy](https://jobright.ai/jobs/info/69eb6e714b0fa35a7077b6d9?utm_campaign=Product%20Management&utm_source=1103)** | Columbus, OH | On Site | Apr 24 |
-| **[Camping World](https://investor.campingworld.com)** | **[Product Specialist Advisor](https://jobright.ai/jobs/info/69d86a02869c7e25d85955b7?utm_campaign=Product%20Management&utm_source=1103)** | Little Falls, MN | On Site | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
