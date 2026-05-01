@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Paramount+](https://www.paramount.com/brand/paramount-plus)** | **[Associate Product Manager](https://jobright.ai/jobs/info/69f41e006942c746fa696a1f?utm_campaign=Product%20Management&utm_source=1103)** | Burbank, CA | On Site | Apr 30 |
 | **[IXL Learning](https://www.ixl.com/)** | **[Associate Product Manager, New Grad](https://jobright.ai/jobs/info/69f40493461b9b613a6255c9?utm_campaign=Product%20Management&utm_source=1103)** | San Mateo, CA | On Site | Apr 30 |
 | **[ALO](https://www.aloyoga.com/)** | **[Web Operations Coordinator](https://jobright.ai/jobs/info/69f3d9aa6942c746fa6957c2?utm_campaign=Product%20Management&utm_source=1103)** | Beverly Hills, California, United States | On Site | Apr 30 |
 | ↳ | **[Web Operations Coordinator](https://jobright.ai/jobs/info/69f3d28c6942c746fa6950f8?utm_campaign=Product%20Management&utm_source=1103)** | Beverly Hills, CA | On Site | Apr 30 |
@@ -166,7 +167,6 @@ For a complete list, click the following sortable link below:
 | **[Hach](http://www.hach.com)** | **[Technical Product Advisor I](https://jobright.ai/jobs/info/69f0df38825a315d7ca34ab2?utm_campaign=Product%20Management&utm_source=1103)** | Loveland, CO | On Site | Apr 28 |
 | **[Gap](https://jobs.gapinc.com/gap-home)** | **[Assistant Manager, Product Operations -  Broadway & Maiden](https://jobright.ai/jobs/info/69f06d06a4aa3545d8a5e200?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Apr 28 |
 | **[Renuity](http://renuityhome.com/)** | **[Product Representative](https://jobright.ai/jobs/info/69f021bba4aa3545d8a5d21f?utm_campaign=Product%20Management&utm_source=1103)** | Yorkville, IL | On Site | Apr 27 |
-| ↳ | **[Product Representative](https://jobright.ai/jobs/info/69f021f0825a315d7ca31085?utm_campaign=Product%20Management&utm_source=1103)** | Mettawa, IL | On Site | Apr 27 |
 | **[Bright Horizons](https://www.brighthorizons.com/)** | **[Product Manager](https://jobright.ai/jobs/info/69efee700a6e09555305875a?utm_campaign=Product%20Management&utm_source=1103)** | Newton Centre, MA | Hybrid | Apr 27 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management- CAPS](https://jobright.ai/jobs/info/69f10e5062b48c6838793558?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA, US | On Site | Apr 27 |
 | **[Bright Horizons](https://www.brighthorizons.com/)** | **[Product Manager](https://jobright.ai/jobs/info/69efabcd4b0fa35a7078adc4?utm_campaign=Product%20Management&utm_source=1103)** | Newton Massachusetts 02459, US | Hybrid | Apr 27 |
@@ -212,5 +212,4 @@ For a complete list, click the following sortable link below:
 | **[Smith+Nephew](http://www.smith-nephew.com)** | **[Orthopaedics Product Management Specialist II](https://jobright.ai/jobs/info/69eb933d7820c036924f4ed7?utm_campaign=Product%20Management&utm_source=1103)** | Memphis, TN | Hybrid | Apr 24 |
 | **[Transamerica](http://www.transamerica.com)** | **[Product Strategist - Transamerica AM](https://jobright.ai/jobs/info/69cf1c78cdb525785fb9ec7e?utm_campaign=Product%20Management&utm_source=1103)** | Denver, CO | Hybrid | Apr 24 |
 | **[Anduril Industries](https://www.anduril.com)** | **[Strategic Finance, Product Development](https://jobright.ai/jobs/info/69e9f1fe58811370cb12f738?utm_campaign=Product%20Management&utm_source=1103)** | Costa Mesa, CA | On Site | Apr 24 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Product Owner](https://jobright.ai/jobs/info/69eb89d658811370cb139a97?utm_campaign=Product%20Management&utm_source=1103)** | Burbank, CA | On Site | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
