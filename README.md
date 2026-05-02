@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management- Developer Tooling](https://jobright.ai/jobs/info/69f5aab581706a5bd2166f17?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | May 02 |
 | **[Camping World](https://investor.campingworld.com)** | **[Product Specialist Advisor](https://jobright.ai/jobs/info/69f56e4443a25828a8d188f3?utm_campaign=Product%20Management&utm_source=1103)** | Avondale, AZ | On Site | May 01 |
+| ↳ | **[Product Specialist Advisor](https://jobright.ai/jobs/info/69f59fd712f2811ab5a65338?utm_campaign=Product%20Management&utm_source=1103)** | Arizona, United States | On Site | May 01 |
 | **[Think Academy U.S](http://www.thethinkacademy.com)** | **[Math Competition Product & User Operations Specialist](https://jobright.ai/jobs/info/69a8f3a87ac93962b708daa9?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA | On Site | May 01 |
 | **[Movado Group, Inc](http://www.movadogroup.com/)** | **[Coordinator Product Development](https://jobright.ai/jobs/info/69e6c728e0cd471b2f1276d8?utm_campaign=Product%20Management&utm_source=1103)** | Paramus, NJ | On Site | May 01 |
 | **[Adobe](http://www.adobe.com)** | **[Product Manager – Adobe Target](https://jobright.ai/jobs/info/69f53bc9db88714bcdfb2f3f?utm_campaign=Product%20Management&utm_source=1103)** | Lehi, UT | On Site | May 01 |
@@ -142,7 +144,7 @@ For a complete list, click the following sortable link below:
 | **[Signet Jewelers](http://www.signetjewelers.com)** | **[Detail Assistant](https://jobright.ai/jobs/info/69f28a878d8d624381aa1601?utm_campaign=Product%20Management&utm_source=1103)** | Dallas, TX | Hybrid | Apr 29 |
 | **[Kiss Beauty Group](https://www.kissusa.com)** | **[Product Associate](https://jobright.ai/jobs/info/69f245fbecbc8c2f73209b3c?utm_campaign=Product%20Management&utm_source=1103)** | Port Washington, NY | On Site | Apr 29 |
 | **[Spirit Halloween](http://www.spirithalloween.com)** | **[Assistant Product Manager](https://jobright.ai/jobs/info/69f23df5ecbc8c2f73209951?utm_campaign=Product%20Management&utm_source=1103)** | US-NJ-Egg Harbor Township | On Site | Apr 29 |
-| ↳ | **[Assistant Product Manager](https://jobright.ai/jobs/info/69f23df28feca91f14923d91?utm_campaign=Product%20Management&utm_source=1103)** | Egg Harbor Township, NJ, US | On Site | Apr 29 |
+| ↳ | **[Assistant Product Manager](https://jobright.ai/jobs/info/69f23df28feca91f14923d95?utm_campaign=Product%20Management&utm_source=1103)** | Egg Harbor Township, NJ, US | On Site | Apr 29 |
 | **[NJM Insurance Group](https://www.njm.com)** | **[Insurance Product Management Analyst - Hybrid](https://jobright.ai/jobs/info/69e6cf427820c036924d24ed?utm_campaign=Product%20Management&utm_source=1103)** | Trenton, NJ | Hybrid | Apr 29 |
 | **[F.W. Webb Company](https://www.fwwebb.com)** | **[Customer Product Growth Specialist- Water Systems](https://jobright.ai/jobs/info/69f3355a6942c746fa69039b?utm_campaign=Product%20Management&utm_source=1103)** | Queensbury, NY | On Site | Apr 29 |
 | **[Banner Engineering](https://www.bannerengineering.com/us/en.html)** | **[Associate Global Product Manager](https://jobright.ai/jobs/info/69ba8ac256973837414026c1?utm_campaign=Product%20Management&utm_source=1103)** | Plymouth, MN | On Site | Apr 29 |
@@ -186,7 +188,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Senior Associate, Product Management- CAPS](https://jobright.ai/jobs/info/69f12dc58d8d624381a9ab95?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Apr 28 |
 | ↳ | **[Senior Associate, Product Management - Premium Products & Experiences](https://jobright.ai/jobs/info/69f12e00ecbc8c2f73204365?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Apr 28 |
 | **[Camping World](https://investor.campingworld.com)** | **[Product Specialist Advisor](https://jobright.ai/jobs/info/69f12cf9825a315d7ca36267?utm_campaign=Product%20Management&utm_source=1103)** | Buford, GA | On Site | Apr 28 |
-| **[Gemini, Inc.](https://geminimade.com)** | **[Sales, Product & Marketing Leadership Program](https://jobright.ai/jobs/info/69f1087e62b48c68387933de?utm_campaign=Product%20Management&utm_source=1103)** | Liberty Lake, WA | On Site | Apr 28 |
 | **[Ralph Lauren](https://corporate.ralphlauren.com)** | **[Product Management Assistant, RRL Men's and Women's Woven Shirts](https://jobright.ai/jobs/info/69ea18f3dc35f7132c4a863d?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Apr 28 |
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[Associate Product Manager  New College Grad (Bachelors - Austin, TX)](https://jobright.ai/jobs/info/69f0f508ecbc8c2f73202c09?utm_campaign=Product%20Management&utm_source=1103)** | Austin, TX | On Site | Apr 28 |
 | **[Sprocket Sports](https://sprocketsports.com)** | **[Product Analyst](https://jobright.ai/jobs/info/69f118aab27fee43e8cd7341?utm_campaign=Product%20Management&utm_source=1103)** | Greater Chicago Area | Hybrid | Apr 28 |
@@ -204,6 +205,4 @@ For a complete list, click the following sortable link below:
 | **[SCAN](https://www.thescangroup.org/)** | **[Product Owner l - Provider](https://jobright.ai/jobs/info/69c110662c312363dcd3c6f9?utm_campaign=Product%20Management&utm_source=1103)** | Long Beach, CA | Remote | Apr 25 |
 | **[New Era Cap](https://www.neweracap.com/)** | **[Product Developer, Sourcing Coordinator (Headwear and Apparel)](https://jobright.ai/jobs/info/69994e4fce78e77b4fde169b?utm_campaign=Product%20Management&utm_source=1103)** | Buffalo, NY | On Site | Apr 25 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management - Authorization Gateway Team](https://jobright.ai/jobs/info/69b40c5d3b74eb1e2c811676?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Apr 25 |
-| **[Cintas Canada](https://www.cintas.ca/)** | **[Production Associate - Product Separator - 2nd Shift - Temporary](https://jobright.ai/jobs/info/69b5267256973837413a531d?utm_campaign=Product%20Management&utm_source=1103)** | Langley, British Columbia, Canada | On Site | Apr 25 |
-| **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management (Anti-Money Laundering)](https://jobright.ai/jobs/info/69ecd92016b2612c2a12354b?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Apr 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
