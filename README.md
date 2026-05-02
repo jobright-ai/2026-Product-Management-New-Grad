@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Snowshoe Mountain](http://www.snowshoemountain.com/jobs)** | **[Retail Product Coordinator](https://jobright.ai/jobs/info/69f5519fdb88714bcdfb3391?utm_campaign=Product%20Management&utm_source=1103)** | Snowshoe, WV | On Site | May 01 |
+| **[Movado Group, Inc](http://www.movadogroup.com/)** | **[Coordinator Product Development](https://jobright.ai/jobs/info/69e6c728e0cd471b2f1276d8?utm_campaign=Product%20Management&utm_source=1103)** | Paramus, NJ | On Site | May 01 |
 | **[Adobe](http://www.adobe.com)** | **[Product Manager – Adobe Target](https://jobright.ai/jobs/info/69f53bc9db88714bcdfb2f3f?utm_campaign=Product%20Management&utm_source=1103)** | Lehi, UT | On Site | May 01 |
 | **[EA SPORTS](http://www.EASports.com)** | **[Game Product Manager](https://jobright.ai/jobs/info/69f51bcc0b36ff03547507ea?utm_campaign=Product%20Management&utm_source=1103)** | Vancouver, British Columbia, Canada | On Site | May 01 |
 | **[MSCI Inc.](http://msci.com)** | **[Analyst, Private Assets Product Management](https://jobright.ai/jobs/info/69f51b4a43a25828a8d16dd2?utm_campaign=Product%20Management&utm_source=1103)** | US-NY-New York | On Site | May 01 |
@@ -209,5 +211,4 @@ For a complete list, click the following sortable link below:
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management (Anti-Money Laundering)](https://jobright.ai/jobs/info/69ecd92016b2612c2a12354b?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Apr 25 |
 | ↳ | **[Senior Associate, Product Management (Anti-Money Laundering)](https://jobright.ai/jobs/info/69ecfda4dc35f7132c4b7fe1?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Apr 25 |
 | **[Kiss Beauty Group](https://www.kissusa.com)** | **[Associate, Product Development/Management](https://jobright.ai/jobs/info/697d2638727747250d57e23d?utm_campaign=Product%20Management&utm_source=1103)** | Port Washington, NY | On Site | Apr 25 |
-| **[lululemon](http://shop.lululemon.com)** | **[Product Operations Lead (Temporary 6 Month Contract) / The Shops at Wailea](https://jobright.ai/jobs/info/69d0dd100b098b7a6707e530?utm_campaign=Product%20Management&utm_source=1103)** | Wailea, HI | On Site | Apr 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
