@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Camping World](https://investor.campingworld.com)** | **[Product Specialist](https://jobright.ai/jobs/info/69c358237a7a0045db88f198?utm_campaign=Product%20Management&utm_source=1103)** | Thornburg, VA | On Site | May 02 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management- Developer Tooling](https://jobright.ai/jobs/info/69f5aab581706a5bd2166f17?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | May 01 |
 | **[Camping World](https://investor.campingworld.com)** | **[Product Specialist Advisor](https://jobright.ai/jobs/info/69f56e4443a25828a8d188f3?utm_campaign=Product%20Management&utm_source=1103)** | Avondale, AZ | On Site | May 01 |
 | ↳ | **[Product Specialist Advisor](https://jobright.ai/jobs/info/69f59fd712f2811ab5a65338?utm_campaign=Product%20Management&utm_source=1103)** | Arizona, United States | On Site | May 01 |
@@ -75,8 +76,8 @@ For a complete list, click the following sortable link below:
 | **[insightsoftware](https://www.insightsoftware.com)** | **[Product Owner, Batch Processing - Equity](https://jobright.ai/jobs/info/69f4ed05db88714bcdfb0cbe?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | May 01 |
 | **[Electronic Arts (EA)](https://www.ea.com)** | **[Game Product Manager](https://jobright.ai/jobs/info/69f4e375db88714bcdfb0a1a?utm_campaign=Product%20Management&utm_source=1103)** | : Vancouver, British Columbia, Canada | Hybrid | May 01 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management](https://jobright.ai/jobs/info/69d809bbf4ea471a51fe3486?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | May 01 |
-| **[Acosta](https://www.acosta.com)** | **[Product Demonstrator PT- BBQ](https://jobright.ai/jobs/info/69f4fef3a3d34b4f76f52c76?utm_campaign=Product%20Management&utm_source=1103)** | Washington, DC, United States | On Site | May 01 |
-| ↳ | **[Product Demonstrator-BBQ](https://jobright.ai/jobs/info/69f4feeedb88714bcdfb0f33?utm_campaign=Product%20Management&utm_source=1103)** | Washington, DC, United States | On Site | May 01 |
+| **[Acosta](https://www.acosta.com)** | **[Product Demonstrator-BBQ](https://jobright.ai/jobs/info/69f4feeedb88714bcdfb0f33?utm_campaign=Product%20Management&utm_source=1103)** | Washington, DC, United States | On Site | May 01 |
+| ↳ | **[Product Demonstrator PT- BBQ](https://jobright.ai/jobs/info/69f4fef3a3d34b4f76f52c76?utm_campaign=Product%20Management&utm_source=1103)** | Washington, DC, United States | On Site | May 01 |
 | **[Goldman Sachs](https://www.goldmansachs.com)** | **[AWM-GS Ayco-Wealth Strategies Group-Insurance Product-Analyst-Albany](https://jobright.ai/jobs/info/69f500bcdb88714bcdfb1239?utm_campaign=Product%20Management&utm_source=1103)** | Albany, NY | On Site | May 01 |
 | **[Deluxe](http://www.deluxe.com)** | **[Technical Product Analyst I](https://jobright.ai/jobs/info/69f4dc08db88714bcdfb0893?utm_campaign=Product%20Management&utm_source=1103)** | Remote, , USA, US | Remote | May 01 |
 | **[Adobe](http://www.adobe.com)** | **[Product Manager – Adobe Target](https://jobright.ai/jobs/info/69f4dc0743a25828a8d158e3?utm_campaign=Product%20Management&utm_source=1103)** | Lehi, US | On Site | May 01 |
