@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management - Client & Associate Platforms (Mobile & Web)](https://jobright.ai/jobs/info/69f8b42d0b36ff035475a8a7?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA, US | On Site | May 04 |
+| ↳ | **[Senior Associate, Product Management - Client & Associate Platforms (Mobile & Web)](https://jobright.ai/jobs/info/69f8b3d5582f810f9c8cdf62?utm_campaign=Product%20Management&utm_source=1103)** | Charlotte, NC, US | On Site | May 04 |
+| **[Bank of America](https://www.bankofamerica.com)** | **[Digital Manager](https://jobright.ai/jobs/info/69f8b138a3d34b4f76f5d781?utm_campaign=Product%20Management&utm_source=1103)** | Boston, US | On Site | May 04 |
+| ↳ | **[Digital Manager](https://jobright.ai/jobs/info/69f8b138a3d34b4f76f5d782?utm_campaign=Product%20Management&utm_source=1103)** | New York, US | On Site | May 04 |
+| ↳ | **[Digital Manager](https://jobright.ai/jobs/info/69f8b130db88714bcdfbb2c2?utm_campaign=Product%20Management&utm_source=1103)** | Charlotte, US | On Site | May 04 |
+| ↳ | **[Digital Manager](https://jobright.ai/jobs/info/69f8b130db88714bcdfbb2c0?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, US | On Site | May 04 |
+| ↳ | **[Digital Manager](https://jobright.ai/jobs/info/69f8b10c582f810f9c8cdd87?utm_campaign=Product%20Management&utm_source=1103)** | Atlanta, US | On Site | May 04 |
+| **[Europ Assistance](https://europ-assistance.com/)** | **[Product Associate](https://jobright.ai/jobs/info/69d693b0e63cea7a8b669c9b?utm_campaign=Product%20Management&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | May 04 |
 | **[Think Academy U.S](http://www.thethinkacademy.com)** | **[Math Competition Product & User Operations Specialist](https://jobright.ai/jobs/info/69a8f3a87ac93962b708daa9?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA | On Site | May 04 |
 | **[Qualified Health](https://www.qualifiedhealthai.com)** | **[Product Analyst](https://jobright.ai/jobs/info/69b932be3b74eb1e2c87211e?utm_campaign=Product%20Management&utm_source=1103)** | Hybrid - Palo Alto, CA | Hybrid | May 03 |
 | **[Brooklinen](https://www.brooklinen.com)** | **[Assistant Product Developer (Color & Textiles)](https://jobright.ai/jobs/info/69c1c99879e36d3a847ed5a0?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | May 03 |
@@ -153,10 +161,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Senior Associate, Product Management – GPN Core Data Platform Services](https://jobright.ai/jobs/info/69d69febcfdc6132f946b047?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Apr 29 |
 | **[Keenfinity Group](https://www.keenfinity-group.com)** | **[Associate Product Manager, Sensors & Devices](https://jobright.ai/jobs/info/69f254dd8d8d624381aa0758?utm_campaign=Product%20Management&utm_source=1103)** | Fairport, NY | On Site | Apr 29 |
 | **[Spencer's](http://www.spencersonline.com/)** | **[Assistant Product Manager](https://jobright.ai/jobs/info/69f254a1ab4ec4779fff8882?utm_campaign=Product%20Management&utm_source=1103)** | Egg Harbor, NJ | On Site | Apr 29 |
-| **[Signet Jewelers](http://www.signetjewelers.com)** | **[Detail Assistant](https://jobright.ai/jobs/info/69f28a878d8d624381aa1601?utm_campaign=Product%20Management&utm_source=1103)** | Dallas, TX | Hybrid | Apr 29 |
 | **[Kiss Beauty Group](https://www.kissusa.com)** | **[Product Associate](https://jobright.ai/jobs/info/69f245fbecbc8c2f73209b3c?utm_campaign=Product%20Management&utm_source=1103)** | Port Washington, NY | On Site | Apr 29 |
 | **[Spirit Halloween](http://www.spirithalloween.com)** | **[Assistant Product Manager](https://jobright.ai/jobs/info/69f23df5ecbc8c2f73209951?utm_campaign=Product%20Management&utm_source=1103)** | US-NJ-Egg Harbor Township | On Site | Apr 29 |
-| ↳ | **[Assistant Product Manager](https://jobright.ai/jobs/info/69f23df28feca91f14923d95?utm_campaign=Product%20Management&utm_source=1103)** | Egg Harbor Township, NJ, US | On Site | Apr 29 |
+| ↳ | **[Assistant Product Manager](https://jobright.ai/jobs/info/69f23df28feca91f14923d91?utm_campaign=Product%20Management&utm_source=1103)** | Egg Harbor Township, NJ, US | On Site | Apr 29 |
 | **[NJM Insurance Group](https://www.njm.com)** | **[Insurance Product Management Analyst - Hybrid](https://jobright.ai/jobs/info/69e6cf427820c036924d24ed?utm_campaign=Product%20Management&utm_source=1103)** | Trenton, NJ | Hybrid | Apr 29 |
 | **[Banner Engineering](https://www.bannerengineering.com/us/en.html)** | **[Associate Global Product Manager](https://jobright.ai/jobs/info/69ba8ac256973837414026c1?utm_campaign=Product%20Management&utm_source=1103)** | Plymouth, MN | On Site | Apr 29 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management - Customer Services & Strategy (US Card)](https://jobright.ai/jobs/info/69f215f7ab4ec4779fff7257?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA, US | On Site | Apr 29 |
