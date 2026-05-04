@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Givinga](http://www.givinga.com)** | **[Product Manager](https://jobright.ai/jobs/info/69f8efe80b36ff035475bb4a?utm_campaign=Product%20Management&utm_source=1103)** | Boston, MA | Remote | May 04 |
+| **[CoinBridge](http://coinbridge.us)** | **[Digital Asset Product Analyst](https://jobright.ai/jobs/info/69f8ffbc582f810f9c8cfb3c?utm_campaign=Product%20Management&utm_source=1103)** | Jersey City, NJ | On Site | May 04 |
+| **[JPMorganChase](https://www.jpmorganchase.com)** | **[Product Manager – Small Business Launch and Capabilities](https://jobright.ai/jobs/info/69f8f76281706a5bd216f94e?utm_campaign=Product%20Management&utm_source=1103)** | 301 N Walnut St, Wilmington, DE, 19801, US | On Site | May 04 |
+| **[Chase](https://www.chase.com/)** | **[Product Manager – Small Business Launch and Capabilities](https://jobright.ai/jobs/info/69f8f723db88714bcdfbcbfa?utm_campaign=Product%20Management&utm_source=1103)** | 301 N Walnut St, Wilmington, DE, 19801, US | On Site | May 04 |
 | **[AAMC](https://www.aamc.org/)** | **[Product Specialist, MCAT & PREview Test Preparation](https://jobright.ai/jobs/info/69f8c243a3d34b4f76f5dc3a?utm_campaign=Product%20Management&utm_source=1103)** | Washington DC, US | Remote | May 04 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management - Client & Associate Platforms (Mobile & Web)](https://jobright.ai/jobs/info/69f8b42d0b36ff035475a8a7?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA, US | On Site | May 04 |
 | ↳ | **[Senior Associate, Product Management - Client & Associate Platforms (Mobile & Web)](https://jobright.ai/jobs/info/69f8b3d5582f810f9c8cdf62?utm_campaign=Product%20Management&utm_source=1103)** | Charlotte, NC, US | On Site | May 04 |
@@ -105,8 +107,8 @@ For a complete list, click the following sortable link below:
 | **[insightsoftware](https://www.insightsoftware.com)** | **[Product Owner, Batch Processing - Equity](https://jobright.ai/jobs/info/69f4ed05db88714bcdfb0cbe?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | May 01 |
 | **[Electronic Arts (EA)](https://www.ea.com)** | **[Game Product Manager](https://jobright.ai/jobs/info/69f4e375db88714bcdfb0a1a?utm_campaign=Product%20Management&utm_source=1103)** | : Vancouver, British Columbia, Canada | Hybrid | May 01 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management](https://jobright.ai/jobs/info/69d809bbf4ea471a51fe3486?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | May 01 |
-| **[Acosta](https://www.acosta.com)** | **[Product Demonstrator PT- BBQ](https://jobright.ai/jobs/info/69f4fef3a3d34b4f76f52c76?utm_campaign=Product%20Management&utm_source=1103)** | Washington, DC, United States | On Site | May 01 |
-| ↳ | **[Product Demonstrator-BBQ](https://jobright.ai/jobs/info/69f4feeedb88714bcdfb0f33?utm_campaign=Product%20Management&utm_source=1103)** | Washington, DC, United States | On Site | May 01 |
+| **[Acosta](https://www.acosta.com)** | **[Product Demonstrator-BBQ](https://jobright.ai/jobs/info/69f4feeedb88714bcdfb0f33?utm_campaign=Product%20Management&utm_source=1103)** | Washington, DC, United States | On Site | May 01 |
+| ↳ | **[Product Demonstrator PT- BBQ](https://jobright.ai/jobs/info/69f4fef3a3d34b4f76f52c76?utm_campaign=Product%20Management&utm_source=1103)** | Washington, DC, United States | On Site | May 01 |
 | **[Goldman Sachs](https://www.goldmansachs.com)** | **[AWM-GS Ayco-Wealth Strategies Group-Insurance Product-Analyst-Albany](https://jobright.ai/jobs/info/69f500bcdb88714bcdfb1239?utm_campaign=Product%20Management&utm_source=1103)** | Albany, NY | On Site | May 01 |
 | **[Deluxe](http://www.deluxe.com)** | **[Technical Product Analyst I](https://jobright.ai/jobs/info/69f4dc08db88714bcdfb0893?utm_campaign=Product%20Management&utm_source=1103)** | Remote, , USA, US | Remote | May 01 |
 | **[Adobe](http://www.adobe.com)** | **[Product Manager – Adobe Target](https://jobright.ai/jobs/info/69f4dc0743a25828a8d158e3?utm_campaign=Product%20Management&utm_source=1103)** | Lehi, US | On Site | May 01 |
