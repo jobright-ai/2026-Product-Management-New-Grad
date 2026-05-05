@@ -69,8 +69,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Senior Associate, Product Management - Client & Associate Platforms (Mobile & Web)](https://jobright.ai/jobs/info/69f8b3d5582f810f9c8cdf62?utm_campaign=Product%20Management&utm_source=1103)** | Charlotte, NC, US | On Site | May 04 |
 | **[Bank of America](https://www.bankofamerica.com)** | **[Digital Manager](https://jobright.ai/jobs/info/69f8b138a3d34b4f76f5d781?utm_campaign=Product%20Management&utm_source=1103)** | Boston, US | On Site | May 04 |
 | ↳ | **[Digital Manager](https://jobright.ai/jobs/info/69f8b138a3d34b4f76f5d782?utm_campaign=Product%20Management&utm_source=1103)** | New York, US | On Site | May 04 |
-| ↳ | **[Digital Manager](https://jobright.ai/jobs/info/69f8b130db88714bcdfbb2c0?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, US | On Site | May 04 |
 | ↳ | **[Digital Manager](https://jobright.ai/jobs/info/69f8b130db88714bcdfbb2c2?utm_campaign=Product%20Management&utm_source=1103)** | Charlotte, US | On Site | May 04 |
+| ↳ | **[Digital Manager](https://jobright.ai/jobs/info/69f8b130db88714bcdfbb2c0?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, US | On Site | May 04 |
 | ↳ | **[Digital Manager](https://jobright.ai/jobs/info/69f8b10c582f810f9c8cdd87?utm_campaign=Product%20Management&utm_source=1103)** | Atlanta, US | On Site | May 04 |
 | **[Europ Assistance](https://europ-assistance.com/)** | **[Product Associate](https://jobright.ai/jobs/info/69d693b0e63cea7a8b669c9b?utm_campaign=Product%20Management&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | May 04 |
 | **[Think Academy U.S](http://www.thethinkacademy.com)** | **[Math Competition Product & User Operations Specialist](https://jobright.ai/jobs/info/69a8f3a87ac93962b708daa9?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA | On Site | May 04 |
@@ -219,5 +219,4 @@ For a complete list, click the following sortable link below:
 | **[Sprocket Sports](https://sprocketsports.com)** | **[Product Analyst](https://jobright.ai/jobs/info/69f118aab27fee43e8cd7341?utm_campaign=Product%20Management&utm_source=1103)** | Greater Chicago Area | Hybrid | Apr 28 |
 | **[Fuze Health](https://www.fuzehealth.com/)** | **[Early Career Product Analyst, Supply Chain and Logistics - FuzeRx](https://jobright.ai/jobs/info/69b85ac43b74eb1e2c860deb?utm_campaign=Product%20Management&utm_source=1103)** | Texas, United States | On Site | Apr 28 |
 | **[BRG Concepts](http://www.brimstonerestaurantgroup.com)** | **[Junior Product Manager](https://jobright.ai/jobs/info/69f6613bdb88714bcdfb644f?utm_campaign=Product%20Management&utm_source=1103)** | Remote - USA, US | Remote | Apr 28 |
-| **[Hach](http://www.hach.com)** | **[Technical Product Advisor I](https://jobright.ai/jobs/info/69f0df38825a315d7ca34ab2?utm_campaign=Product%20Management&utm_source=1103)** | Loveland, CO | On Site | Apr 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
