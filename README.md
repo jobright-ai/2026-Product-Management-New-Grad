@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[LexisNexis](http://www.lexisnexis.com)** | **[Product Manager I **Hybrid in Horsham, PA](https://jobright.ai/jobs/info/69fa80bb81706a5bd2175f95?utm_campaign=Product%20Management&utm_source=1103)** | Horsham, PA | Hybrid | May 05 |
 | **[Roblox](https://corp.roblox.com)** | **[Product Policy Specialist](https://jobright.ai/jobs/info/69993ebbe0bddb6acac85755?utm_campaign=Product%20Management&utm_source=1103)** | San Mateo, CA, United States | Hybrid | May 05 |
 | **[Philips](https://www.usa.philips.com)** | **[Associate Global Product Manager](https://jobright.ai/jobs/info/69fa362e0b36ff035476110d?utm_campaign=Product%20Management&utm_source=1103)** | Murrysville, Pennsylvania, United States, US | On Site | May 05 |
 | **[Aristocrat Interactive](https://aristocratinteractive.com/)** | **[Data Product Manager](https://jobright.ai/jobs/info/69a7debd1fc3d83b78095bf8?utm_campaign=Product%20Management&utm_source=1103)** | Franklin, TN | Hybrid | May 05 |
@@ -76,8 +77,8 @@ For a complete list, click the following sortable link below:
 | **[Boeing](https://www.boeing.com)** | **[Product Data Management Specialist (Associate](https://jobright.ai/jobs/info/69f92304582f810f9c8d0a4f?utm_campaign=Product%20Management&utm_source=1103)** | USA - Oklahoma City, OK, US | On Site | May 04 |
 | **[Reebelo](https://www.reebelo.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/69f922c4a3d34b4f76f60759?utm_campaign=Product%20Management&utm_source=1103)** | New York, United States | Hybrid | May 04 |
 | **[BCD Travel](http://www.bcdtravel.com)** | **[Technical Product Analyst - Travel Data Platform and Orders Management System Remote](https://jobright.ai/jobs/info/69f920dab1fc847fc1aeb186?utm_campaign=Product%20Management&utm_source=1103)** | US, Virtual, NOAM | Remote | May 04 |
-| ↳ | **[Technical Product Analyst - Travel Data Platform and Orders Management System Remote](https://jobright.ai/jobs/info/69f920d80b36ff035475d5eb?utm_campaign=Product%20Management&utm_source=1103)** | UK, Virtual, EUROPE | Remote | May 04 |
 | ↳ | **[Technical Product Analyst - Travel Data Platform and Orders Management System Remote](https://jobright.ai/jobs/info/69f920d80b36ff035475d5ef?utm_campaign=Product%20Management&utm_source=1103)** | CA, Canada, Virtual, NOAM | Remote | May 04 |
+| ↳ | **[Technical Product Analyst - Travel Data Platform and Orders Management System Remote](https://jobright.ai/jobs/info/69f920d80b36ff035475d5eb?utm_campaign=Product%20Management&utm_source=1103)** | UK, Virtual, EUROPE | Remote | May 04 |
 | **[JPMorganChase](https://www.jpmorganchase.com)** | **[Product Manager – Small Business Launch and Capabilities](https://jobright.ai/jobs/info/69f8f76281706a5bd216f94e?utm_campaign=Product%20Management&utm_source=1103)** | 301 N Walnut St, Wilmington, DE, 19801, US | On Site | May 04 |
 | **[Chase](https://www.chase.com/)** | **[Product Manager – Small Business Launch and Capabilities](https://jobright.ai/jobs/info/69f8f723db88714bcdfbcbfa?utm_campaign=Product%20Management&utm_source=1103)** | 301 N Walnut St, Wilmington, DE, 19801, US | On Site | May 04 |
 | **[AAMC](https://www.aamc.org/)** | **[Product Specialist, MCAT & PREview Test Preparation](https://jobright.ai/jobs/info/69f8c243a3d34b4f76f5dc3a?utm_campaign=Product%20Management&utm_source=1103)** | Washington DC, US | Remote | May 04 |
@@ -85,8 +86,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Senior Associate, Product Management - Client & Associate Platforms (Mobile & Web)](https://jobright.ai/jobs/info/69f8b3d5582f810f9c8cdf62?utm_campaign=Product%20Management&utm_source=1103)** | Charlotte, NC, US | On Site | May 04 |
 | **[Bank of America](https://www.bankofamerica.com)** | **[Digital Manager](https://jobright.ai/jobs/info/69f8b138a3d34b4f76f5d782?utm_campaign=Product%20Management&utm_source=1103)** | New York, US | On Site | May 04 |
 | ↳ | **[Digital Manager](https://jobright.ai/jobs/info/69f8b138a3d34b4f76f5d781?utm_campaign=Product%20Management&utm_source=1103)** | Boston, US | On Site | May 04 |
-| ↳ | **[Digital Manager](https://jobright.ai/jobs/info/69f8b130db88714bcdfbb2c0?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, US | On Site | May 04 |
 | ↳ | **[Digital Manager](https://jobright.ai/jobs/info/69f8b130db88714bcdfbb2c2?utm_campaign=Product%20Management&utm_source=1103)** | Charlotte, US | On Site | May 04 |
+| ↳ | **[Digital Manager](https://jobright.ai/jobs/info/69f8b130db88714bcdfbb2c0?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, US | On Site | May 04 |
 | ↳ | **[Digital Manager](https://jobright.ai/jobs/info/69f8b10c582f810f9c8cdd87?utm_campaign=Product%20Management&utm_source=1103)** | Atlanta, US | On Site | May 04 |
 | **[Europ Assistance](https://europ-assistance.com/)** | **[Product Associate](https://jobright.ai/jobs/info/69d693b0e63cea7a8b669c9b?utm_campaign=Product%20Management&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | May 04 |
 | **[Think Academy U.S](http://www.thethinkacademy.com)** | **[Math Competition Product & User Operations Specialist](https://jobright.ai/jobs/info/69a8f3a87ac93962b708daa9?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA | On Site | May 04 |
@@ -198,7 +199,4 @@ For a complete list, click the following sortable link below:
 | **[Camping World](https://investor.campingworld.com)** | **[Product Specialist](https://jobright.ai/jobs/info/69d5e84a891d7b11cfd06c20?utm_campaign=Product%20Management&utm_source=1103)** | Fife, WA | On Site | Apr 29 |
 | **[FCC / FAC](https://www.fcc-fac.ca/en.html)** | **[Product Analyst (AgExpert)](https://jobright.ai/jobs/info/69f1ba12ecbc8c2f73207f92?utm_campaign=Product%20Management&utm_source=1103)** | Regina, Saskatchewan, Canada | Hybrid | Apr 29 |
 | ↳ | **[Product Analyst (AgExpert)](https://jobright.ai/jobs/info/69f1b9958feca91f1492230d?utm_campaign=Product%20Management&utm_source=1103)** | Alberta, Canada | Hybrid | Apr 29 |
-| ↳ | **[Product Analyst (AgExpert)](https://jobright.ai/jobs/info/69f1b097825a315d7ca39731?utm_campaign=Product%20Management&utm_source=1103)** | Various FCC office locations in Ontario may be considered, CA | Hybrid | Apr 29 |
-| ↳ | **[Product Analyst (AgExpert)](https://jobright.ai/jobs/info/69f1b04cb27fee43e8cdabbe?utm_campaign=Product%20Management&utm_source=1103)** | Various FCC office locations in Alberta may be considered, CA | Hybrid | Apr 29 |
-| **[FCC / FAC](https://www.fcc-fac.ca/en.html)** | **[Product Analyst (AgExpert)](https://jobright.ai/jobs/info/69f1d3a9ecbc8c2f732081a6?utm_campaign=Product%20Management&utm_source=1103)** | Manitoba, Canada | Hybrid | Apr 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
