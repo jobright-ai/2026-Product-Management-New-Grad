@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management - Treasury Management Cash Receivables](https://jobright.ai/jobs/info/69a6d25976bbe83d3afa2ef1?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | May 06 |
+| **[REVOLVE](https://www.revolve.com/)** | **[Assistant, Product Developer](https://jobright.ai/jobs/info/69fb9bb4ffa73664aeb012ed?utm_campaign=Product%20Management&utm_source=1103)** | Los Angeles, CA, US | On Site | May 06 |
 | **[Channel Partners Solutions, LLC.](https://www.channelpartners.com)** | **[Smart Home Product Trainer](https://jobright.ai/jobs/info/69fb962b18b94b2515be3582?utm_campaign=Product%20Management&utm_source=1103)** | Mira Loma, CA, US | On Site | May 06 |
 | ↳ | **[Smart Home Product Trainer](https://jobright.ai/jobs/info/69fb95f287a4820e6da89032?utm_campaign=Product%20Management&utm_source=1103)** | US-CA-Mira Loma | On Site | May 06 |
 | **[Joseph Heler Cheese](https://www.joseph-heler.co.uk)** | **[Product Developer](https://jobright.ai/jobs/info/69fb738cffa73664aeaffb52?utm_campaign=Product%20Management&utm_source=1103)** | Nantwich, England, United Kingdom | On Site | May 06 |
@@ -68,7 +70,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Senior Associate, Product Management - Trade Credit](https://jobright.ai/jobs/info/69fb67ca38179b6f1ae784c9?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | May 06 |
 | ↳ | **[Senior Associate, Product Management - Commercial Product & Service Onboarding](https://jobright.ai/jobs/info/69fb658818b94b2515be2390?utm_campaign=Product%20Management&utm_source=1103)** | Charlotte, NC | On Site | May 06 |
 | ↳ | **[Senior Associate, Product Management - Trade Credit](https://jobright.ai/jobs/info/69fb611bffa73664aeaff376?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | May 06 |
-| **[Baystate Financial](http://baystatefinancial.com)** | **[Product Specialist](https://jobright.ai/jobs/info/69fb5f2d38179b6f1ae77a83?utm_campaign=Product%20Management&utm_source=1103)** | Boston, MA | On Site | May 06 |
+| **[Baystate Financial](http://baystatefinancial.com)** | **[Product Strategist](https://jobright.ai/jobs/info/69fb5f2d38179b6f1ae77a83?utm_campaign=Product%20Management&utm_source=1103)** | Boston, MA | Hybrid | May 06 |
 | **[Safety National](https://www.safetynational.com)** | **[Product Owner I](https://jobright.ai/jobs/info/69de7887433ac8430e0d9ea3?utm_campaign=Product%20Management&utm_source=1103)** | St Louis, MO | Hybrid | May 06 |
 | **[Money Means](https://moneymeans.co.uk)** | **[Product Owner/Engineer](https://jobright.ai/jobs/info/69fb49f518b94b2515be11a0?utm_campaign=Product%20Management&utm_source=1103)** | United Kingdom | Remote | May 06 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Coordinator, Product Development, rhode](https://jobright.ai/jobs/info/69c19db375f7ff1cd80fe081?utm_campaign=Product%20Management&utm_source=1103)** | Beverly Hills, CA | On Site | May 06 |
@@ -203,10 +205,8 @@ For a complete list, click the following sortable link below:
 | **[AlphaSense](https://www.alpha-sense.com/)** | **[Product Analyst, Financial Data](https://jobright.ai/jobs/info/69e020fe14bf245fc7a6ffbe?utm_campaign=Product%20Management&utm_source=1103)** | Canada | Remote | Apr 30 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management - Enterprise Services](https://jobright.ai/jobs/info/69d69f2948f0c8161d2f8e91?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Apr 30 |
 | ↳ | **[Senior Associate, Product Management – GPN Core Data Platform Services](https://jobright.ai/jobs/info/69d69ff4cfdc6132f946b068?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Apr 30 |
-| ↳ | **[Senior Associate, Product Management - Customer Services & Strategy (US Card)](https://jobright.ai/jobs/info/69f36a931f90bd6ae23cf246?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Apr 30 |
 | ↳ | **[Senior Associate, Product Management - Customer Services & Strategy (US Card)](https://jobright.ai/jobs/info/69f36a7fc78b9e4518954abb?utm_campaign=Product%20Management&utm_source=1103)** | Deerfield, IL | On Site | Apr 30 |
 | ↳ | **[Senior Associate, Product Management - Customer Services & Strategy (US Card)](https://jobright.ai/jobs/info/69f36a7ec78b9e4518954aba?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Apr 30 |
-| ↳ | **[Senior Associate, Product Management - Customer Services & Strategy (US Card)](https://jobright.ai/jobs/info/69f36a786942c746fa69125a?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Apr 30 |
 | **[Morgan Stanley](http://www.morganstanley.com)** | **[Associate, Platforms - EquityZen](https://jobright.ai/jobs/info/69cff89754f00230c6d0e0ce?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Apr 30 |
 | **[Leaf Home](https://www.leafhome.com/)** | **[Product Demonstrator ($18/hr + Commission)](https://jobright.ai/jobs/info/69f3356b58b23a2329da33ec?utm_campaign=Product%20Management&utm_source=1103)** | League City, TX | On Site | Apr 30 |
 | **[Gap](https://jobs.gapinc.com/gap-home)** | **[Assistant Manager, Product Operations - Outlet Collct Seattle](https://jobright.ai/jobs/info/69f311c7ecbc8c2f7320ffc3?utm_campaign=Product%20Management&utm_source=1103)** | Auburn, WA | On Site | Apr 30 |
