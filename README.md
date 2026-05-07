@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Book of the Month](http://www.bookofthemonth.com)** | **[Product Analyst, Data](https://jobright.ai/jobs/info/69fd0866432a3c4da8e011bd?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | May 07 |
+| **[ChenMed](http://www.chenmed.com/)** | **[Associate IT Product Manager](https://jobright.ai/jobs/info/69fd077a938a651755f98722?utm_campaign=Product%20Management&utm_source=1103)** | Miami, Florida, United States of America | On Site | May 07 |
+| **[Plymouth Rock Assurance](https://www.plymouthrock.com)** | **[Product Analyst](https://jobright.ai/jobs/info/69fd00ba432a3c4da8e00c81?utm_campaign=Product%20Management&utm_source=1103)** | Woodbridge, NJ | On Site | May 07 |
+| ↳ | **[Product Analyst](https://jobright.ai/jobs/info/69fcfb3f6b788e7e7a5c43b6?utm_campaign=Product%20Management&utm_source=1103)** | Woodbridge, NJ, 07095, United States | On Site | May 07 |
 | **[Chase](https://www.chase.com/)** | **[Payments-Global Clearing-Product Analyst](https://jobright.ai/jobs/info/69fceaae666f063d3d6d1e0c?utm_campaign=Product%20Management&utm_source=1103)** | 10410 Highland Manor Dr, Tampa, FL, 33610, US | On Site | May 07 |
 | **[Aristocrat Gaming](https://www.aristocrat.com/)** | **[Junior Product Manager](https://jobright.ai/jobs/info/69fce7f7b113035a9f8ec938?utm_campaign=Product%20Management&utm_source=1103)** | Las Vegas, NV, US | Hybrid | May 07 |
 | **[JPMorganChase](https://www.jpmorganchase.com)** | **[Payments-Global Clearing-Product Analyst](https://jobright.ai/jobs/info/69fcd301b113035a9f8ebef4?utm_campaign=Product%20Management&utm_source=1103)** | 10410 Highland Manor Dr, Tampa, FL, 33610, US | On Site | May 07 |
