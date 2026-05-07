@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Chase](https://www.chase.com/)** | **[Payments-Global Clearing-Product Analyst](https://jobright.ai/jobs/info/69fceaae666f063d3d6d1e0c?utm_campaign=Product%20Management&utm_source=1103)** | 10410 Highland Manor Dr, Tampa, FL, 33610, US | On Site | May 07 |
+| **[Aristocrat Gaming](https://www.aristocrat.com/)** | **[Junior Product Manager](https://jobright.ai/jobs/info/69fce7f7b113035a9f8ec938?utm_campaign=Product%20Management&utm_source=1103)** | Las Vegas, NV, US | Hybrid | May 07 |
 | **[JPMorganChase](https://www.jpmorganchase.com)** | **[Payments-Global Clearing-Product Analyst](https://jobright.ai/jobs/info/69fcd301b113035a9f8ebef4?utm_campaign=Product%20Management&utm_source=1103)** | 10410 Highland Manor Dr, Tampa, FL, 33610, US | On Site | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Insurance Product Management Analyst](https://jobright.ai/jobs/info/69fcbe0e5cff890b03f33181?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | May 07 |
 | **[Businessolver](https://www.businessolver.com)** | **[Product Manager (Remote)](https://jobright.ai/jobs/info/69e073d89564e855a25ddacc?utm_campaign=Product%20Management&utm_source=1103)** | Marion County, IN | Remote | May 07 |
@@ -127,8 +129,8 @@ For a complete list, click the following sortable link below:
 | **[Boeing](https://www.boeing.com)** | **[Product Data Management Specialist (Associate](https://jobright.ai/jobs/info/69f92304582f810f9c8d0a4f?utm_campaign=Product%20Management&utm_source=1103)** | USA - Oklahoma City, OK, US | On Site | May 04 |
 | **[Reebelo](https://www.reebelo.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/69f922c4a3d34b4f76f60759?utm_campaign=Product%20Management&utm_source=1103)** | New York, United States | Hybrid | May 04 |
 | **[BCD Travel](http://www.bcdtravel.com)** | **[Technical Product Analyst - Travel Data Platform and Orders Management System Remote](https://jobright.ai/jobs/info/69f920dab1fc847fc1aeb186?utm_campaign=Product%20Management&utm_source=1103)** | US, Virtual, NOAM | Remote | May 04 |
-| ↳ | **[Technical Product Analyst - Travel Data Platform and Orders Management System Remote](https://jobright.ai/jobs/info/69f920d80b36ff035475d5eb?utm_campaign=Product%20Management&utm_source=1103)** | UK, Virtual, EUROPE | Remote | May 04 |
 | ↳ | **[Technical Product Analyst - Travel Data Platform and Orders Management System Remote](https://jobright.ai/jobs/info/69f920d80b36ff035475d5ef?utm_campaign=Product%20Management&utm_source=1103)** | CA, Canada, Virtual, NOAM | Remote | May 04 |
+| ↳ | **[Technical Product Analyst - Travel Data Platform and Orders Management System Remote](https://jobright.ai/jobs/info/69f920d80b36ff035475d5eb?utm_campaign=Product%20Management&utm_source=1103)** | UK, Virtual, EUROPE | Remote | May 04 |
 | **[JPMorganChase](https://www.jpmorganchase.com)** | **[Product Manager – Small Business Launch and Capabilities](https://jobright.ai/jobs/info/69f8f76281706a5bd216f94e?utm_campaign=Product%20Management&utm_source=1103)** | 301 N Walnut St, Wilmington, DE, 19801, US | On Site | May 04 |
 | **[Chase](https://www.chase.com/)** | **[Product Manager – Small Business Launch and Capabilities](https://jobright.ai/jobs/info/69f8f723db88714bcdfbcbfa?utm_campaign=Product%20Management&utm_source=1103)** | 301 N Walnut St, Wilmington, DE, 19801, US | On Site | May 04 |
 | **[Flock](https://www.flocksafety.com)** | **[Product Deployment Specialist](https://jobright.ai/jobs/info/69fad610d21cf86d1e3cd2de?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | May 04 |
@@ -189,5 +191,4 @@ For a complete list, click the following sortable link below:
 | **[Camping World](https://investor.campingworld.com)** | **[Product Specialist Advisor](https://jobright.ai/jobs/info/69d809c7b67cec4f9b09a016?utm_campaign=Product%20Management&utm_source=1103)** | Rossford, OH | On Site | May 01 |
 | **[TMX Group](http://www.tmx.com)** | **[Product and Analytics Analyst](https://jobright.ai/jobs/info/69d80931f4ea471a51fe327c?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | May 01 |
 | **[Compass Group Canada](http://www.compass-canada.com)** | **[Category Development Specialist](https://jobright.ai/jobs/info/69f4632b81706a5bd21603b9?utm_campaign=Product%20Management&utm_source=1103)** | Mississauga, Ontario, Canada | On Site | Apr 30 |
-| **[Paramount+](https://www.paramount.com/brand/paramount-plus)** | **[Associate Product Manager](https://jobright.ai/jobs/info/69f41e006942c746fa696a1f?utm_campaign=Product%20Management&utm_source=1103)** | Burbank, CA | On Site | Apr 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
