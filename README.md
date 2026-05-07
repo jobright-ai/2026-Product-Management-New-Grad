@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Holman](http://www.holmanauto.com)** | **[Product Genius - BMW Tigard](https://jobright.ai/jobs/info/69fc0d253160b250eb1bb71e?utm_campaign=Product%20Management&utm_source=1103)** | Tigard, OR | On Site | May 06 |
 | **[New Era Cap](https://www.neweracap.com/)** | **[Associate, Demand Planning (Temporary)](https://jobright.ai/jobs/info/69fbef5276c60e7b70af0cba?utm_campaign=Product%20Management&utm_source=1103)** | Buffalo, NY | On Site | May 06 |
 | **[lululemon](http://shop.lululemon.com)** | **[Product Manager](https://jobright.ai/jobs/info/69fbfd51a5949019c55b253a?utm_campaign=Product%20Management&utm_source=1103)** | Vancouver, British Columbia, Canada | Hybrid | May 06 |
 | **[Tempur Sealy International](https://www.tempursealy.com)** | **[Product Development Support Coord](https://jobright.ai/jobs/info/69fc067576c60e7b70af16ef?utm_campaign=Product%20Management&utm_source=1103)** | Trinity, NC, US | On Site | May 06 |
@@ -176,8 +177,8 @@ For a complete list, click the following sortable link below:
 | **[McKesson](http://www.mckesson.com)** | **[Product Development Coordinator, Hybrid](https://jobright.ai/jobs/info/69f500e40b36ff0354750271?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | Hybrid | May 01 |
 | **[Goldman Sachs](https://www.goldmansachs.com)** | **[AWM-GS Ayco-Wealth Strategies Group-Insurance Product-Analyst-Albany](https://jobright.ai/jobs/info/69f4c8ea81706a5bd2162ee7?utm_campaign=Product%20Management&utm_source=1103)** | Albany, New York, United States | On Site | May 01 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management - Athena Data Model Lead](https://jobright.ai/jobs/info/69f4c7bedb88714bcdfafd79?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | May 01 |
-| ↳ | **[Senior Associate, Product Management - Athena Data Model Lead](https://jobright.ai/jobs/info/69f4c4f981706a5bd2162c8f?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | May 01 |
 | ↳ | **[Senior Associate, Product Management - Athena Data Model Lead](https://jobright.ai/jobs/info/69f4c4f981706a5bd2162c97?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | May 01 |
+| ↳ | **[Senior Associate, Product Management - Athena Data Model Lead](https://jobright.ai/jobs/info/69f4c4f981706a5bd2162c8f?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | May 01 |
 | ↳ | **[Sr Associate, Product Management](https://jobright.ai/jobs/info/69d80a13b67cec4f9b09a0d0?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | May 01 |
 | **[Dare Foods Limited](https://www.darefoods.com/)** | **[Assistant Product Development Specialist](https://jobright.ai/jobs/info/69f53d2043a25828a8d18093?utm_campaign=Product%20Management&utm_source=1103)** | 25 Cherry Blossom Rd, Cambridge, ON N3H 4R7, Canada | Hybrid | May 01 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management - Athena Data Model Lead](https://jobright.ai/jobs/info/69f4e55e81706a5bd2163c28?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | May 01 |
