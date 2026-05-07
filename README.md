@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[JPMorganChase](https://www.jpmorganchase.com)** | **[Payments-Global Clearing-Product Analyst](https://jobright.ai/jobs/info/69fcd301b113035a9f8ebef4?utm_campaign=Product%20Management&utm_source=1103)** | 10410 Highland Manor Dr, Tampa, FL, 33610, US | On Site | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Insurance Product Management Analyst](https://jobright.ai/jobs/info/69fcbe0e5cff890b03f33181?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | May 07 |
 | **[Businessolver](https://www.businessolver.com)** | **[Product Manager (Remote)](https://jobright.ai/jobs/info/69e073d89564e855a25ddacc?utm_campaign=Product%20Management&utm_source=1103)** | Marion County, IN | Remote | May 07 |
 | **[Think Academy U.S](http://www.thethinkacademy.com)** | **[Math Competition Product & User Operations Specialist](https://jobright.ai/jobs/info/69a8f3a87ac93962b708daa9?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA | On Site | May 07 |
@@ -180,8 +181,8 @@ For a complete list, click the following sortable link below:
 | **[McKesson](http://www.mckesson.com)** | **[Product Development Coordinator, Hybrid](https://jobright.ai/jobs/info/69f500e40b36ff0354750271?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | Hybrid | May 01 |
 | **[Goldman Sachs](https://www.goldmansachs.com)** | **[AWM-GS Ayco-Wealth Strategies Group-Insurance Product-Analyst-Albany](https://jobright.ai/jobs/info/69f4c8ea81706a5bd2162ee7?utm_campaign=Product%20Management&utm_source=1103)** | Albany, New York, United States | On Site | May 01 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management - Athena Data Model Lead](https://jobright.ai/jobs/info/69f4c7bedb88714bcdfafd79?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | May 01 |
-| ↳ | **[Senior Associate, Product Management - Athena Data Model Lead](https://jobright.ai/jobs/info/69f4c4f981706a5bd2162c97?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | May 01 |
 | ↳ | **[Senior Associate, Product Management - Athena Data Model Lead](https://jobright.ai/jobs/info/69f4c4f981706a5bd2162c8f?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | May 01 |
+| ↳ | **[Senior Associate, Product Management - Athena Data Model Lead](https://jobright.ai/jobs/info/69f4c4f981706a5bd2162c97?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | May 01 |
 | ↳ | **[Sr Associate, Product Management](https://jobright.ai/jobs/info/69d80a13b67cec4f9b09a0d0?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | May 01 |
 | **[Dare Foods Limited](https://www.darefoods.com/)** | **[Assistant Product Development Specialist](https://jobright.ai/jobs/info/69f53d2043a25828a8d18093?utm_campaign=Product%20Management&utm_source=1103)** | 25 Cherry Blossom Rd, Cambridge, ON N3H 4R7, Canada | Hybrid | May 01 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management - Athena Data Model Lead](https://jobright.ai/jobs/info/69f4e55e81706a5bd2163c28?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | May 01 |
