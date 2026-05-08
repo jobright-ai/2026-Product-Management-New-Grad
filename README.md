@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[TheGuarantors](https://www.theguarantors.com)** | **[Product Manager](https://jobright.ai/jobs/info/69fdf54452e2b44f558ad9bc?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | May 08 |
-| ↳ | **[Product Manager](https://jobright.ai/jobs/info/69fdf4927714cd50b90fd37f?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | May 08 |
+| **[Ryan Specialty](https://ryanspecialty.com)** | **[Product Analyst](https://jobright.ai/jobs/info/69fdfece6bcf315dc8f540b2?utm_campaign=Product%20Management&utm_source=1103)** | Nashville - Tennessee - Burton, US | On Site | May 08 |
+| **[TheGuarantors](https://www.theguarantors.com)** | **[Product Manager](https://jobright.ai/jobs/info/69fdf4927714cd50b90fd37f?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | May 08 |
 | **[Bectran, Inc.](http://www.bectran.com)** | **[Product Specialist](https://jobright.ai/jobs/info/69d82537738f2f099e89aec2?utm_campaign=Product%20Management&utm_source=1103)** | Greater Chicago Area | On Site | May 07 |
 | **[ChenMed](http://www.chenmed.com/)** | **[Associate IT Product Manager](https://jobright.ai/jobs/info/69fd095a6b788e7e7a5c47de?utm_campaign=Product%20Management&utm_source=1103)** | Corporate Office, US | On Site | May 07 |
 | **[Book of the Month](http://www.bookofthemonth.com)** | **[Product Analyst, Data](https://jobright.ai/jobs/info/69fd0866432a3c4da8e011bd?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | May 07 |
@@ -154,14 +154,13 @@ For a complete list, click the following sortable link below:
 | **[EliseAI](http://www.eliseai.com)** | **[Product Operations Analyst / Healthcare](https://jobright.ai/jobs/info/69f8eb90a3d34b4f76f5e980?utm_campaign=Product%20Management&utm_source=1103)** | New York City | On Site | May 03 |
 | **[Flock](https://www.flocksafety.com)** | **[Product Deployment Specialist](https://jobright.ai/jobs/info/69f8f05981706a5bd216f0bc?utm_campaign=Product%20Management&utm_source=1103)** | Remote - USA | Remote | May 03 |
 | **[Brooklinen](https://www.brooklinen.com)** | **[Assistant Product Developer (Color & Textiles)](https://jobright.ai/jobs/info/69c1c99879e36d3a847ed5a0?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | May 03 |
-| **[SiriusXM](http://siriusxm.com)** | **[Associate Product Operations Specialist](https://jobright.ai/jobs/info/69a21a3ab600907a962866d2?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | May 03 |
 | **[Capital One](http://www.capitalone.com)** | **[Sr. Associate, Product Management - Auto](https://jobright.ai/jobs/info/69be8ca3b106024562840972?utm_campaign=Product%20Management&utm_source=1103)** | Plano, TX | On Site | May 03 |
+| **[SiriusXM](http://siriusxm.com)** | **[Associate Product Operations Specialist](https://jobright.ai/jobs/info/69a22eff359fe034b1cd6c9b?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | May 03 |
 | **[Cintas](https://www.cintas.com)** | **[Production Associate - Product Separator - 2nd Shift](https://jobright.ai/jobs/info/696af3745fc86241853a39c3?utm_campaign=Product%20Management&utm_source=1103)** | Yakima, WA | On Site | May 03 |
 | **[lululemon](http://shop.lululemon.com)** | **[Product Operations Lead / Bishop Ranch Pop Up](https://jobright.ai/jobs/info/69d976599f97a42dc9c219a5?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, California, United States | On Site | May 02 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Manager - Global Payment Network](https://jobright.ai/jobs/info/69d940579f97a42dc9c20570?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | May 02 |
 | ↳ | **[Senior Associate, Product Manager - Global Payment Network](https://jobright.ai/jobs/info/69d940d95356a60f40fd8822?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | May 02 |
 | ↳ | **[Senior Associate, Product Manager - Global Payment Network](https://jobright.ai/jobs/info/69d94037f748bc5d08a4a1ce?utm_campaign=Product%20Management&utm_source=1103)** | Deerfield, IL | On Site | May 02 |
-| **[SiriusXM](http://siriusxm.com)** | **[Associate Product Operations Specialist](https://jobright.ai/jobs/info/69a22d37b600907a962879a7?utm_campaign=Product%20Management&utm_source=1103)** | Oakland, CA | Hybrid | May 02 |
 | **[lululemon](http://shop.lululemon.com)** | **[Product Operations Lead 7 Month Contract / Chestnut Hill](https://jobright.ai/jobs/info/69d92108869c7e25d8598fa3?utm_campaign=Product%20Management&utm_source=1103)** | Chestnut Hill, MA | On Site | May 02 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management- Developer Tooling](https://jobright.ai/jobs/info/69f6142cdb88714bcdfb5952?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | May 02 |
 | **[Amount](http://www.amount.com)** | **[Jr. Product Manager](https://jobright.ai/jobs/info/69d988da869c7e25d859b7b3?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | Hybrid | May 02 |
@@ -173,5 +172,4 @@ For a complete list, click the following sortable link below:
 | **[Camping World](https://investor.campingworld.com)** | **[Product Specialist Advisor](https://jobright.ai/jobs/info/69f56e4443a25828a8d188f3?utm_campaign=Product%20Management&utm_source=1103)** | Avondale, AZ | On Site | May 01 |
 | ↳ | **[Product Specialist Advisor](https://jobright.ai/jobs/info/69f59fd712f2811ab5a65338?utm_campaign=Product%20Management&utm_source=1103)** | Arizona, United States | On Site | May 01 |
 | **[Movado Group, Inc](http://www.movadogroup.com/)** | **[Coordinator Product Development](https://jobright.ai/jobs/info/69e6c728e0cd471b2f1276d8?utm_campaign=Product%20Management&utm_source=1103)** | Paramus, NJ | On Site | May 01 |
-| **[Adobe](http://www.adobe.com)** | **[Product Manager – Adobe Target](https://jobright.ai/jobs/info/69f53bc9db88714bcdfb2f3f?utm_campaign=Product%20Management&utm_source=1103)** | Lehi, UT | On Site | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
