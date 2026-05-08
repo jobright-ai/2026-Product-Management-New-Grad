@@ -195,6 +195,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sr Associate, Product Management](https://jobright.ai/jobs/info/69d80a13b67cec4f9b09a0d0?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | May 01 |
 | **[Dare Foods Limited](https://www.darefoods.com/)** | **[Assistant Product Development Specialist](https://jobright.ai/jobs/info/69f53d2043a25828a8d18093?utm_campaign=Product%20Management&utm_source=1103)** | 25 Cherry Blossom Rd, Cambridge, ON N3H 4R7, Canada | Hybrid | May 01 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management - Athena Data Model Lead](https://jobright.ai/jobs/info/69f4e55e81706a5bd2163c28?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | May 01 |
-| **[Camping World](https://investor.campingworld.com)** | **[Product Specialist Advisor](https://jobright.ai/jobs/info/69d809c7b67cec4f9b09a016?utm_campaign=Product%20Management&utm_source=1103)** | Rossford, OH | On Site | May 01 |
-| **[TMX Group](http://www.tmx.com)** | **[Product and Analytics Analyst](https://jobright.ai/jobs/info/69d80931f4ea471a51fe327c?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
