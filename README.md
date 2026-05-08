@@ -180,5 +180,4 @@ For a complete list, click the following sortable link below:
 | **[lululemon](http://shop.lululemon.com)** | **[Product Operations Lead / Westfield Montgomery Mall](https://jobright.ai/jobs/info/69d7d52e738f2f099e8989aa?utm_campaign=Product%20Management&utm_source=1103)** | Bethesda, MD | On Site | May 01 |
 | **[Komatsu](https://www.komatsu.jp)** | **[Digital Solutions Analyst](https://jobright.ai/jobs/info/69f5344712f2811ab5a63ce1?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | May 01 |
 | **[Caterpillar Inc.](https://www.caterpillar.com)** | **[Logistics Product Auditor - 3rd Shift](https://jobright.ai/jobs/info/69f52aad12f2811ab5a638de?utm_campaign=Product%20Management&utm_source=1103)** | Sanford, NC | On Site | May 01 |
-| **[Health Union](https://health-union.com)** | **[Product Owner](https://jobright.ai/jobs/info/69f5016112f2811ab5a625a3?utm_campaign=Product%20Management&utm_source=1103)** | Philadelphia - Philadelphia, PA 19107 | Hybrid | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
