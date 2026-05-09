@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Scalence L.L.C.](https://www.scalence.com/)** | **[Product Design and Development - Product Manager - Retail Product Lines 1](https://jobright.ai/jobs/info/69ff294cc2ffb31f4535d88d?utm_campaign=Product%20Management&utm_source=1103)** | Beaverton, OR | On Site | May 09 |
 | **[Anduril Industries](https://www.anduril.com)** | **[Product Operations Associate, Air Defense (Recent Grad)](https://jobright.ai/jobs/info/69fed38bae08e368e37a12fa?utm_campaign=Product%20Management&utm_source=1103)** | Irvine, California, United States | On Site | May 08 |
 | **[NLX Beverage Solutions](https://www.finlays-solutions.com/)** | **[Product Development Technician](https://jobright.ai/jobs/info/69febc9b51699d6e54ef4044?utm_campaign=Product%20Management&utm_source=1103)** | GLENVIEW, IL 60025 | On Site | May 08 |
 | **[Enformion](https://www.enformion.com/)** | **[Product Manager](https://jobright.ai/jobs/info/69fe7d174b9bbf21744b1c37?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | May 08 |
