@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Scalence L.L.C.](https://www.scalence.com/)** | **[Product Design and Development - Product Manager - Retail Product Lines 1](https://jobright.ai/jobs/info/69fef1a6c2ffb31f4535ce4d?utm_campaign=Product%20Management&utm_source=1103)** | Beaverton, OR | On Site | May 09 |
 | **[Anduril Industries](https://www.anduril.com)** | **[Product Operations Associate, Air Defense (Recent Grad)](https://jobright.ai/jobs/info/69fed38bae08e368e37a12fa?utm_campaign=Product%20Management&utm_source=1103)** | Irvine, California, United States | On Site | May 08 |
 | **[NLX Beverage Solutions](https://www.finlays-solutions.com/)** | **[Product Development Technician](https://jobright.ai/jobs/info/69febc9b51699d6e54ef4044?utm_campaign=Product%20Management&utm_source=1103)** | GLENVIEW, IL 60025 | On Site | May 08 |
 | **[Enformion](https://www.enformion.com/)** | **[Product Manager](https://jobright.ai/jobs/info/69fe7d174b9bbf21744b1c37?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | May 08 |
@@ -104,8 +103,8 @@ For a complete list, click the following sortable link below:
 | **[REVOLVE](https://www.revolve.com/)** | **[Assistant, Product Developer](https://jobright.ai/jobs/info/69fb9bb4ffa73664aeb012ed?utm_campaign=Product%20Management&utm_source=1103)** | Los Angeles, CA, US | On Site | May 06 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management - Treasury Management Cash Receivables](https://jobright.ai/jobs/info/69a6cb4576bbe83d3afa29a6?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | May 06 |
 | **[REVOLVE](https://www.revolve.com/)** | **[Assistant, Product Developer](https://jobright.ai/jobs/info/69fbce1118b94b2515be4f6e?utm_campaign=Product%20Management&utm_source=1103)** | Los Angeles, CA | On Site | May 06 |
-| **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Manager - Capital One Travel](https://jobright.ai/jobs/info/69fcf460b113035a9f8ed1b4?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA, US | On Site | May 06 |
-| ↳ | **[Senior Associate, Product Manager - Capital One Travel](https://jobright.ai/jobs/info/69fcf4595cff890b03f34d9e?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY, US | On Site | May 06 |
+| **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Manager - Capital One Travel](https://jobright.ai/jobs/info/69fcf4595cff890b03f34d9e?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY, US | On Site | May 06 |
+| ↳ | **[Senior Associate, Product Manager - Capital One Travel](https://jobright.ai/jobs/info/69fcf460b113035a9f8ed1b4?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA, US | On Site | May 06 |
 | **[Heler Foods](https://www.joseph-heler.co.uk)** | **[Product Developer](https://jobright.ai/jobs/info/69fb738cffa73664aeaffb52?utm_campaign=Product%20Management&utm_source=1103)** | Nantwich, England, United Kingdom | On Site | May 06 |
 | **[Fitch Ratings](http://www.fitchratings.com)** | **[Fitch Ratings / Business Analyst - Toronto, Canada](https://jobright.ai/jobs/info/69fb8d9fffa73664aeb004e3?utm_campaign=Product%20Management&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | May 06 |
 | **[Bake'n Joy Foods, Inc.](https://bakenjoy.com)** | **[Product Data Associate](https://jobright.ai/jobs/info/69fb6d7286d5cd46527d5a3d?utm_campaign=Product%20Management&utm_source=1103)** | North Andover, MA | On Site | May 06 |
@@ -169,5 +168,4 @@ For a complete list, click the following sortable link below:
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Manager - Global Payment Network](https://jobright.ai/jobs/info/69d940579f97a42dc9c20570?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | May 02 |
 | ↳ | **[Senior Associate, Product Manager - Global Payment Network](https://jobright.ai/jobs/info/69d940d95356a60f40fd8822?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | May 02 |
 | ↳ | **[Senior Associate, Product Manager - Global Payment Network](https://jobright.ai/jobs/info/69d94037f748bc5d08a4a1ce?utm_campaign=Product%20Management&utm_source=1103)** | Deerfield, IL | On Site | May 02 |
-| **[lululemon](http://shop.lululemon.com)** | **[Product Operations Lead 7 Month Contract / Chestnut Hill](https://jobright.ai/jobs/info/69d92108869c7e25d8598fa3?utm_campaign=Product%20Management&utm_source=1103)** | Chestnut Hill, MA | On Site | May 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
