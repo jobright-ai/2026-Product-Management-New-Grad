@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Scalence L.L.C.](https://www.scalence.com/)** | **[Product Design and Development - Product Manager - Retail Product Lines 1](https://jobright.ai/jobs/info/69ff4587c2ffb31f4535e504?utm_campaign=Product%20Management&utm_source=1103)** | Beaverton, OR | On Site | May 09 |
+| **[Scalence L.L.C.](https://www.scalence.com/)** | **[Product Design and Development - Product Manager - Retail Product Lines 1](https://jobright.ai/jobs/info/69ff6198c2ffb31f4535ecf7?utm_campaign=Product%20Management&utm_source=1103)** | Beaverton, OR | On Site | May 09 |
 | **[Roblox](https://corp.roblox.com)** | **[Product Policy Specialist](https://jobright.ai/jobs/info/69993ebbe0bddb6acac85755?utm_campaign=Product%20Management&utm_source=1103)** | San Mateo, CA, United States | Hybrid | May 09 |
 | **[Anduril Industries](https://www.anduril.com)** | **[Product Operations Associate, Air Defense (Recent Grad)](https://jobright.ai/jobs/info/69fed38bae08e368e37a12fa?utm_campaign=Product%20Management&utm_source=1103)** | Irvine, California, United States | On Site | May 08 |
 | **[NLX Beverage Solutions](https://www.finlays-solutions.com/)** | **[Product Development Technician](https://jobright.ai/jobs/info/69febc9b51699d6e54ef4044?utm_campaign=Product%20Management&utm_source=1103)** | GLENVIEW, IL 60025 | On Site | May 08 |
@@ -165,5 +165,4 @@ For a complete list, click the following sortable link below:
 | **[Brooklinen](https://www.brooklinen.com)** | **[Assistant Product Developer (Color & Textiles)](https://jobright.ai/jobs/info/69c1c99879e36d3a847ed5a0?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | May 03 |
 | **[Capital One](http://www.capitalone.com)** | **[Sr. Associate, Product Management - Auto](https://jobright.ai/jobs/info/69be8ca3b106024562840972?utm_campaign=Product%20Management&utm_source=1103)** | Plano, TX | On Site | May 03 |
 | **[Cintas](https://www.cintas.com)** | **[Production Associate - Product Separator - 2nd Shift](https://jobright.ai/jobs/info/696af3745fc86241853a39c3?utm_campaign=Product%20Management&utm_source=1103)** | Yakima, WA | On Site | May 03 |
-| **[lululemon](http://shop.lululemon.com)** | **[Product Operations Lead / Bishop Ranch Pop Up](https://jobright.ai/jobs/info/69d976599f97a42dc9c219a5?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, California, United States | On Site | May 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
