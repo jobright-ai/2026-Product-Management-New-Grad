@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Scalence L.L.C.](https://www.scalence.com/)** | **[Product Design and Development - Product Manager - Retail Product Lines 1](https://jobright.ai/jobs/info/69ff9aa3c2ffb31f4535facf?utm_campaign=Product%20Management&utm_source=1103)** | Beaverton, OR | On Site | May 09 |
 | **[Roblox](https://corp.roblox.com)** | **[Product Policy Specialist](https://jobright.ai/jobs/info/69bc67515b89c002acf20c50?utm_campaign=Product%20Management&utm_source=1103)** | San Mateo, CA | Hybrid | May 09 |
 | ↳ | **[Product Policy Specialist](https://jobright.ai/jobs/info/69993ebbe0bddb6acac85755?utm_campaign=Product%20Management&utm_source=1103)** | San Mateo, CA, United States | Hybrid | May 09 |
 | **[Anduril Industries](https://www.anduril.com)** | **[Product Operations Associate, Air Defense (Recent Grad)](https://jobright.ai/jobs/info/69fed38bae08e368e37a12fa?utm_campaign=Product%20Management&utm_source=1103)** | Irvine, California, United States | On Site | May 08 |
