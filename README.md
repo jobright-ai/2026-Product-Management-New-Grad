@@ -175,6 +175,4 @@ For a complete list, click the following sortable link below:
 | **[OSI Optoelectronics](https://www.osioptoelectronics.com)** | **[Product Line Manager](https://jobright.ai/jobs/info/69a26dd5359fe034b1cdaee2?utm_campaign=Product%20Management&utm_source=1103)** | Camarillo, CA | On Site | May 04 |
 | **[ALEXIA ADMOR](https://alexiaadmor.com)** | **[Data Coordinator / Operations Analyst (Fashion & E-Commerce)](https://jobright.ai/jobs/info/69fabcb538179b6f1ae72157?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | May 04 |
 | **[MSCI Inc.](http://msci.com)** | **[Analyst, Private Assets Product Management](https://jobright.ai/jobs/info/69fab6a186d5cd46527cf9df?utm_campaign=Product%20Management&utm_source=1103)** | New York, United States | Hybrid | May 04 |
-| **[EliseAI](http://www.eliseai.com)** | **[Product Operations Analyst / Healthcare](https://jobright.ai/jobs/info/69f8eb90a3d34b4f76f5e980?utm_campaign=Product%20Management&utm_source=1103)** | New York City | On Site | May 03 |
-| **[Flock](https://www.flocksafety.com)** | **[Product Deployment Specialist](https://jobright.ai/jobs/info/69f8f05981706a5bd216f0bc?utm_campaign=Product%20Management&utm_source=1103)** | Remote - USA | Remote | May 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
