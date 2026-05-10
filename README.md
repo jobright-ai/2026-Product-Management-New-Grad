@@ -59,6 +59,7 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[TikTok](https://www.tiktok.com)** | **[Analytic Product Operation, Data Platform (Multiple Positions)](https://jobright.ai/jobs/info/6a000c37fa1aa73213d8e107?utm_campaign=Product%20Management&utm_source=1103)** | San Jose | On Site | May 09 |
 | **[Arbella Insurance Group](http://arbella.com)** | **[CL Product Analyst Associate](https://jobright.ai/jobs/info/6977bb3f52f3c27ec643dd39?utm_campaign=Product%20Management&utm_source=1103)** | Quincy, MA | On Site | May 09 |
+| **[SCAN](https://www.thescangroup.org/)** | **[Product Owner l - Clinical (SCAN Temp)](https://jobright.ai/jobs/info/69c750691b5ad0288738bec8?utm_campaign=Product%20Management&utm_source=1103)** | Long Beach, CA | Hybrid | May 09 |
 | **[AAA Auto Club Enterprises](https://careers.ace.aaa.com/)** | **[Contact Center Product Owner Assistant – Claims](https://jobright.ai/jobs/info/69e2d66c2f286535930785f6?utm_campaign=Product%20Management&utm_source=1103)** | Costa Mesa, CA | On Site | May 09 |
 | **[Roblox](https://corp.roblox.com)** | **[Product Policy Specialist](https://jobright.ai/jobs/info/69bc67515b89c002acf20c50?utm_campaign=Product%20Management&utm_source=1103)** | San Mateo, CA | Hybrid | May 09 |
 | ↳ | **[Product Policy Specialist](https://jobright.ai/jobs/info/69993ebbe0bddb6acac85755?utm_campaign=Product%20Management&utm_source=1103)** | San Mateo, CA, United States | Hybrid | May 09 |
