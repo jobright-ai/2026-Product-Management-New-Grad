@@ -175,5 +175,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Senior Associate, Product Management - Client & Associate Platforms (Mobile & Web)](https://jobright.ai/jobs/info/69f8b3d5582f810f9c8cdf62?utm_campaign=Product%20Management&utm_source=1103)** | Charlotte, NC, US | On Site | May 04 |
 | **[Europ Assistance](https://europ-assistance.com/)** | **[Product Associate](https://jobright.ai/jobs/info/69d693b0e63cea7a8b669c9b?utm_campaign=Product%20Management&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | May 04 |
 | **[OSI Optoelectronics](https://www.osioptoelectronics.com)** | **[Product Line Manager](https://jobright.ai/jobs/info/69a26dd5359fe034b1cdaee2?utm_campaign=Product%20Management&utm_source=1103)** | Camarillo, CA | On Site | May 04 |
-| **[ALEXIA ADMOR](https://alexiaadmor.com)** | **[Data Coordinator / Operations Analyst (Fashion & E-Commerce)](https://jobright.ai/jobs/info/69fabcb538179b6f1ae72157?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | May 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
