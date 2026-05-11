@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Capital One](http://www.capitalone.com)** | **[Sr. Associate, Product Manager - Global Payment Network](https://jobright.ai/jobs/info/698f479b0f6f7e7a2ceb731d?utm_campaign=Product%20Management&utm_source=1103)** | Deerfield, IL | On Site | May 10 |
 | **[Esper](https://www.esper.io)** | **[Junior Product Manager](https://jobright.ai/jobs/info/6a00cdd274b5407dd4679ebe?utm_campaign=Product%20Management&utm_source=1103)** | Bellevue, WA | Hybrid | May 10 |
 | **[Think Academy U.S](http://www.thethinkacademy.com)** | **[Math Competition Product & User Operations Specialist](https://jobright.ai/jobs/info/69a8f3a87ac93962b708daa9?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA | On Site | May 10 |
 | **[Morgan Stanley](http://www.morganstanley.com)** | **[Associate, Platforms - EquityZen](https://jobright.ai/jobs/info/69cff89754f00230c6d0e0ce?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | May 09 |
@@ -166,8 +167,8 @@ For a complete list, click the following sortable link below:
 | **[Boeing](https://www.boeing.com)** | **[Product Data Management Specialist (Associate](https://jobright.ai/jobs/info/69f92304582f810f9c8d0a4f?utm_campaign=Product%20Management&utm_source=1103)** | USA - Oklahoma City, OK, US | On Site | May 04 |
 | **[Reebelo](https://www.reebelo.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/69f922c4a3d34b4f76f60759?utm_campaign=Product%20Management&utm_source=1103)** | New York, United States | Hybrid | May 04 |
 | **[BCD Travel](http://www.bcdtravel.com)** | **[Technical Product Analyst - Travel Data Platform and Orders Management System Remote](https://jobright.ai/jobs/info/69f920dab1fc847fc1aeb186?utm_campaign=Product%20Management&utm_source=1103)** | US, Virtual, NOAM | Remote | May 04 |
-| ↳ | **[Technical Product Analyst - Travel Data Platform and Orders Management System Remote](https://jobright.ai/jobs/info/69f920d80b36ff035475d5ef?utm_campaign=Product%20Management&utm_source=1103)** | CA, Canada, Virtual, NOAM | Remote | May 04 |
 | ↳ | **[Technical Product Analyst - Travel Data Platform and Orders Management System Remote](https://jobright.ai/jobs/info/69f920d80b36ff035475d5eb?utm_campaign=Product%20Management&utm_source=1103)** | UK, Virtual, EUROPE | Remote | May 04 |
+| ↳ | **[Technical Product Analyst - Travel Data Platform and Orders Management System Remote](https://jobright.ai/jobs/info/69f920d80b36ff035475d5ef?utm_campaign=Product%20Management&utm_source=1103)** | CA, Canada, Virtual, NOAM | Remote | May 04 |
 | **[Flock](https://www.flocksafety.com)** | **[Product Deployment Specialist](https://jobright.ai/jobs/info/69fad610d21cf86d1e3cd2de?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | May 04 |
 | **[AAMC](https://www.aamc.org/)** | **[Product Specialist, MCAT & PREview Test Preparation](https://jobright.ai/jobs/info/69f8c243a3d34b4f76f5dc3a?utm_campaign=Product%20Management&utm_source=1103)** | Washington DC, US | Remote | May 04 |
 | ↳ | **[Product Specialist, MCAT & PREview Test Preparation](https://jobright.ai/jobs/info/69fac30f38179b6f1ae723f5?utm_campaign=Product%20Management&utm_source=1103)** | Washington, DC | Remote | May 04 |
