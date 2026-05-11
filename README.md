@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AAA Auto Club Enterprises](https://careers.ace.aaa.com/)** | **[Associate Cruise Product Manager](https://jobright.ai/jobs/info/6a021761c4b08448a0b22a5e?utm_campaign=Product%20Management&utm_source=1103)** | Costa Mesa, CA, US | On Site | May 11 |
+| **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management, Decisioning as a Service](https://jobright.ai/jobs/info/6a021752238f143e835304bc?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA, US | On Site | May 11 |
+| ↳ | **[Senior Associate, Product Management, Decisioning as a Service](https://jobright.ai/jobs/info/6a02174ec2ffb31f4536994c?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL, US | On Site | May 11 |
+| ↳ | **[Senior Associate, Product Management, Decisioning as a Service](https://jobright.ai/jobs/info/6a02174bfa1aa73213d968ff?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY, US | On Site | May 11 |
 | **[Bank of America](https://www.bankofamerica.com)** | **[Treasury Product Sales- Content Manager](https://jobright.ai/jobs/info/6a01f7e5c2ffb31f45368c0f?utm_campaign=Product%20Management&utm_source=1103)** | Charlotte, US | On Site | May 11 |
 | ↳ | **[Treasury Product Sales- Content Manager](https://jobright.ai/jobs/info/6a01f7e4c2ffb31f45368c00?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, US | On Site | May 11 |
 | ↳ | **[Treasury Product Sales- Content Manager](https://jobright.ai/jobs/info/6a01f7dcc4b08448a0b21d06?utm_campaign=Product%20Management&utm_source=1103)** | New York, US | On Site | May 11 |
@@ -98,7 +102,8 @@ For a complete list, click the following sortable link below:
 | **[Scalence L.L.C.](https://www.scalence.com/)** | **[Product Design and Development - Product Manager - Retail Product Lines 1](https://jobright.ai/jobs/info/6a02054cdf52f1450d846cab?utm_campaign=Product%20Management&utm_source=1103)** | Beaverton, OR | Hybrid | May 08 |
 | **[Gemini, Inc.](https://geminimade.com)** | **[Sales, Product & Marketing Leadership Program](https://jobright.ai/jobs/info/69fe0f39f363bc4dc339b5fd?utm_campaign=Product%20Management&utm_source=1103)** | Liberty Lake, WA, US | On Site | May 08 |
 | **[Komatsu](https://www.komatsu.jp)** | **[Digital Solutions Analyst](https://jobright.ai/jobs/info/69f5344712f2811ab5a63ce1?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | May 08 |
-| **[Ryan Specialty](https://ryanspecialty.com)** | **[Product Analyst](https://jobright.ai/jobs/info/69fdfece6bcf315dc8f540b2?utm_campaign=Product%20Management&utm_source=1103)** | Nashville - Tennessee - Burton, US | On Site | May 08 |
+| **[Ryan Specialty](https://ryanspecialty.com)** | **[Product Analyst](https://jobright.ai/jobs/info/6a0217f4c4b08448a0b22aaa?utm_campaign=Product%20Management&utm_source=1103)** | Nashville, TN | On Site | May 08 |
+| ↳ | **[Product Analyst](https://jobright.ai/jobs/info/69fdfece6bcf315dc8f540b2?utm_campaign=Product%20Management&utm_source=1103)** | Nashville - Tennessee - Burton, US | On Site | May 08 |
 | **[TheGuarantors](https://www.theguarantors.com)** | **[Product Manager](https://jobright.ai/jobs/info/69fdf4927714cd50b90fd37f?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | May 08 |
 | **[Zoro.com](http://zoro.com)** | **[Product Analyst](https://jobright.ai/jobs/info/69e15e6240a62c1fa93b8059?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | Hybrid | May 08 |
 | **[KKR](http://www.kkr.com)** | **[Analyst, Product Operations](https://jobright.ai/jobs/info/69e05d54cf5a9e0c33c8603d?utm_campaign=Product%20Management&utm_source=1103)** | Hartford, CT | On Site | May 08 |
