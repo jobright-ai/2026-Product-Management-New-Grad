@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[TikTok Shop - Risk Strategy Product Manager](https://jobright.ai/jobs/info/6a018415c2ffb31f453662f1?utm_campaign=Product%20Management&utm_source=1103)** | Seattle, WA | On Site | May 11 |
 | **[Movado Group, Inc](http://www.movadogroup.com/)** | **[Coordinator Product Development](https://jobright.ai/jobs/info/69e6c728e0cd471b2f1276d8?utm_campaign=Product%20Management&utm_source=1103)** | Paramus, NJ | On Site | May 10 |
 | **[Capital One](http://www.capitalone.com)** | **[Sr. Associate, Product Manager - Global Payment Network](https://jobright.ai/jobs/info/698f479b0f6f7e7a2ceb731d?utm_campaign=Product%20Management&utm_source=1103)** | Deerfield, IL | On Site | May 10 |
 | **[Esper](https://www.esper.io)** | **[Junior Product Manager](https://jobright.ai/jobs/info/6a00cdd274b5407dd4679ebe?utm_campaign=Product%20Management&utm_source=1103)** | Bellevue, WA | Hybrid | May 10 |
@@ -95,7 +96,6 @@ For a complete list, click the following sortable link below:
 | **[lululemon](http://shop.lululemon.com)** | **[Product Operations Lead / Settlers Green Outlet Pop-Up (12 Month Contract)](https://jobright.ai/jobs/info/69c4fbd433eecf31079577eb?utm_campaign=Product%20Management&utm_source=1103)** | North Conway, NH | On Site | May 08 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Manager](https://jobright.ai/jobs/info/69c4212ad5a1016e98db2ab0?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | May 07 |
 | **[Seagate Technology](http://www.seagate.com)** | **[Product Manager - Release Products (Early Career)](https://jobright.ai/jobs/info/69eba7c47820c036924f5d58?utm_campaign=Product%20Management&utm_source=1103)** | Shakopee, MN | On Site | May 07 |
-| **[Scalence L.L.C.](https://www.scalence.com/)** | **[Product Design and Development - Product Manager - Retail Product Lines 1](https://jobright.ai/jobs/info/6a0123c5c2ffb31f45364ad2?utm_campaign=Product%20Management&utm_source=1103)** | Beaverton, OR | On Site | May 07 |
 | **[Philip Morris International U.S.](https://www.uspmi.com/)** | **[Product Master Data Coordinator](https://jobright.ai/jobs/info/69c8a0b6aa3c2c1995e1fa2b?utm_campaign=Product%20Management&utm_source=1103)** | Owensboro, KY | On Site | May 07 |
 | **[Bectran, Inc.](http://www.bectran.com)** | **[Product Specialist](https://jobright.ai/jobs/info/69d82537738f2f099e89aec2?utm_campaign=Product%20Management&utm_source=1103)** | Greater Chicago Area | On Site | May 07 |
 | **[ChenMed](http://www.chenmed.com/)** | **[Associate IT Product Manager](https://jobright.ai/jobs/info/69fd095a6b788e7e7a5c47de?utm_campaign=Product%20Management&utm_source=1103)** | Corporate Office, US | On Site | May 07 |
@@ -125,8 +125,8 @@ For a complete list, click the following sortable link below:
 | **[Randstad](https://www.randstad.nl)** | **[Product Development Coordinator](https://jobright.ai/jobs/info/69ff4a07c2ffb31f4535e83f?utm_campaign=Product%20Management&utm_source=1103)** | Irvine, CA, US | Hybrid | May 06 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management - Treasury Management Cash Receivables](https://jobright.ai/jobs/info/69a6cb4576bbe83d3afa29a6?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | May 06 |
 | **[REVOLVE](https://www.revolve.com/)** | **[Assistant, Product Developer](https://jobright.ai/jobs/info/69fbce1118b94b2515be4f6e?utm_campaign=Product%20Management&utm_source=1103)** | Los Angeles, CA | On Site | May 06 |
-| **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Manager - Capital One Travel](https://jobright.ai/jobs/info/69fcf4595cff890b03f34d9e?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY, US | On Site | May 06 |
-| ↳ | **[Senior Associate, Product Manager - Capital One Travel](https://jobright.ai/jobs/info/69fcf460b113035a9f8ed1b4?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA, US | On Site | May 06 |
+| **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Manager - Capital One Travel](https://jobright.ai/jobs/info/69fcf460b113035a9f8ed1b4?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA, US | On Site | May 06 |
+| ↳ | **[Senior Associate, Product Manager - Capital One Travel](https://jobright.ai/jobs/info/69fcf4595cff890b03f34d9e?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY, US | On Site | May 06 |
 | **[Heler Foods](https://www.joseph-heler.co.uk)** | **[Product Developer](https://jobright.ai/jobs/info/69fb738cffa73664aeaffb52?utm_campaign=Product%20Management&utm_source=1103)** | Nantwich, England, United Kingdom | On Site | May 06 |
 | **[Fitch Ratings](http://www.fitchratings.com)** | **[Fitch Ratings / Business Analyst - Toronto, Canada](https://jobright.ai/jobs/info/69fb8d9fffa73664aeb004e3?utm_campaign=Product%20Management&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | May 06 |
 | **[Bake'n Joy Foods, Inc.](https://bakenjoy.com)** | **[Product Data Associate](https://jobright.ai/jobs/info/69fb6d7286d5cd46527d5a3d?utm_campaign=Product%20Management&utm_source=1103)** | North Andover, MA | On Site | May 06 |
@@ -171,6 +171,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Technical Product Analyst - Travel Data Platform and Orders Management System Remote](https://jobright.ai/jobs/info/69f920d80b36ff035475d5eb?utm_campaign=Product%20Management&utm_source=1103)** | UK, Virtual, EUROPE | Remote | May 04 |
 | ↳ | **[Technical Product Analyst - Travel Data Platform and Orders Management System Remote](https://jobright.ai/jobs/info/69f920d80b36ff035475d5ef?utm_campaign=Product%20Management&utm_source=1103)** | CA, Canada, Virtual, NOAM | Remote | May 04 |
 | **[Flock](https://www.flocksafety.com)** | **[Product Deployment Specialist](https://jobright.ai/jobs/info/69fad610d21cf86d1e3cd2de?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | May 04 |
-| **[AAMC](https://www.aamc.org/)** | **[Product Specialist, MCAT & PREview Test Preparation](https://jobright.ai/jobs/info/69f8c243a3d34b4f76f5dc3a?utm_campaign=Product%20Management&utm_source=1103)** | Washington DC, US | Remote | May 04 |
-| ↳ | **[Product Specialist, MCAT & PREview Test Preparation](https://jobright.ai/jobs/info/69fac30f38179b6f1ae723f5?utm_campaign=Product%20Management&utm_source=1103)** | Washington, DC | Remote | May 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
