@@ -57,12 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Acosta](https://www.acosta.com)** | **[Product Demonstrator-BBQ](https://jobright.ai/jobs/info/6a0365c96c07461fe17036ee?utm_campaign=Product%20Management&utm_source=1103)** | Washington, DC, United States | On Site | May 12 |
+| **[Jefferies](http://www.jefferies.com)** | **[Equity Research Associate - Product Management](https://jobright.ai/jobs/info/69e6d54d9b6eb37e26f823e6?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | May 12 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate , Product Management –GPN Core Data Platform Services](https://jobright.ai/jobs/info/6a0342816c07461fe1702523?utm_campaign=Product%20Management&utm_source=1103)** | Deerfield, IL | On Site | May 12 |
 | ↳ | **[Senior Associate, Product Management, Decisioning as a Service](https://jobright.ai/jobs/info/6a033f00bc4184089f230a1c?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | May 12 |
 | ↳ | **[Senior Associate , Product Management –GPN Core Data Platform Services](https://jobright.ai/jobs/info/6a033effbc4184089f230a15?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | May 12 |
 | ↳ | **[Senior Associate , Product Management –GPN Core Data Platform Services](https://jobright.ai/jobs/info/6a033edb22395b6dc6d92af4?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | May 12 |
-| ↳ | **[Senior Associate, Product Management, Decisioning as a Service](https://jobright.ai/jobs/info/6a033e68ed6a637463f4e0e0?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | May 12 |
 | ↳ | **[Senior Associate, Product Management, Decisioning as a Service](https://jobright.ai/jobs/info/6a033e686c07461fe17021f4?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | May 12 |
+| ↳ | **[Senior Associate, Product Management, Decisioning as a Service](https://jobright.ai/jobs/info/6a033e68ed6a637463f4e0e0?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | May 12 |
 | **[BCD Travel](http://www.bcdtravel.com)** | **[Technical Product Analyst - Travel Data Platform and Orders Management System Remote](https://jobright.ai/jobs/info/69faede818b94b2515bddc34?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | May 12 |
 | **[Epic for Kids](https://www.getepic.com/)** | **[Product Manager](https://jobright.ai/jobs/info/69e6ff593cfd986aa6f883c3?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | May 12 |
 | **[REVOLVE](https://www.revolve.com/)** | **[Assistant Product Developer](https://jobright.ai/jobs/info/6a030103f3d6cc51d6372266?utm_campaign=Product%20Management&utm_source=1103)** | Los Angeles, CA, US | On Site | May 12 |
@@ -199,5 +201,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Specialist](https://jobright.ai/jobs/info/69dea0fe433ac8430e0db2f6?utm_campaign=Product%20Management&utm_source=1103)** | Syracuse, NY | On Site | May 06 |
 | **[Proper Voltage](https://propervoltage.com)** | **[Associate Product & Programs Engineer](https://jobright.ai/jobs/info/69fb51dc18b94b2515be15b5?utm_campaign=Product%20Management&utm_source=1103)** | Carlsbad, CA | On Site | May 06 |
 | **[Molex](http://www.molex.com)** | **[Associate Product Line Manager](https://jobright.ai/jobs/info/69fb4fdbd21cf86d1e3d1b4d?utm_campaign=Product%20Management&utm_source=1103)** | Lisle, IL | On Site | May 05 |
-| **[Camping World](https://investor.campingworld.com)** | **[Product Specialist Advisor](https://jobright.ai/jobs/info/69fb4853d21cf86d1e3d1440?utm_campaign=Product%20Management&utm_source=1103)** | Holiday, FL | On Site | May 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
