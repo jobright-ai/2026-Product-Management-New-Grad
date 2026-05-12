@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SGS](http://www.sgs.com/)** | **[Product Sampler (Part Time)](https://jobright.ai/jobs/info/6a039a837c753c287f6e8df3?utm_campaign=Product%20Management&utm_source=1103)** | Moncton, Moncton, NB, Canada | On Site | May 12 |
+| **[Tokio Marine America](https://tmamerica.com/)** | **[Assistant Product Underwriting Specialist](https://jobright.ai/jobs/info/6a0395d96c07461fe1705bad?utm_campaign=Product%20Management&utm_source=1103)** | Jersey City, NJ | Hybrid | May 12 |
+| **[Brown Brothers Harriman](http://www.bbh.com)** | **[FX Product Development Analyst](https://jobright.ai/jobs/info/6a0392c0f3d6cc51d63783a0?utm_campaign=Product%20Management&utm_source=1103)** | New York, US | On Site | May 12 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management - Data Integrations (Business Cards & Payments)](https://jobright.ai/jobs/info/6a0383eb8ecfd93cd9c0f097?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA, US | On Site | May 12 |
 | ↳ | **[Senior Associate, Product Management - Data Integrations (Business Cards & Payments)](https://jobright.ai/jobs/info/6a0383e46c07461fe1704c68?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA, US | On Site | May 12 |
 | ↳ | **[Senior Associate, Product Management - Data Integrations (Business Cards & Payments)](https://jobright.ai/jobs/info/6a0383acbc4184089f2331a7?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY, US | On Site | May 12 |
@@ -64,12 +67,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Specialist](https://jobright.ai/jobs/info/6a038140f3d6cc51d63775ed?utm_campaign=Product%20Management&utm_source=1103)** | Fredericksburg, VA, US | Hybrid | May 12 |
 | ↳ | **[Product Specialist](https://jobright.ai/jobs/info/6a03813abc4184089f233149?utm_campaign=Product%20Management&utm_source=1103)** | Richardson, TX, US | Hybrid | May 12 |
 | ↳ | **[Product Specialist](https://jobright.ai/jobs/info/6a038139bc4184089f233145?utm_campaign=Product%20Management&utm_source=1103)** | Lakeland, FL, US | Hybrid | May 12 |
-| ↳ | **[Product Specialist](https://jobright.ai/jobs/info/6a038123ed6a637463f50b72?utm_campaign=Product%20Management&utm_source=1103)** | Poway, CA, US | Hybrid | May 12 |
 | ↳ | **[Product Specialist](https://jobright.ai/jobs/info/6a038123ed6a637463f50b71?utm_campaign=Product%20Management&utm_source=1103)** | Macon, GA, US | Hybrid | May 12 |
+| ↳ | **[Product Specialist](https://jobright.ai/jobs/info/6a038123ed6a637463f50b72?utm_campaign=Product%20Management&utm_source=1103)** | Poway, CA, US | Hybrid | May 12 |
 | ↳ | **[Product Specialist](https://jobright.ai/jobs/info/6a0381177c753c287f6e7c26?utm_campaign=Product%20Management&utm_source=1103)** | Bethesda, MD, US | Hybrid | May 12 |
 | ↳ | **[Product Specialist](https://jobright.ai/jobs/info/6a0381177c753c287f6e7c24?utm_campaign=Product%20Management&utm_source=1103)** | North Liberty, IA, US | Hybrid | May 12 |
-| ↳ | **[Product Specialist](https://jobright.ai/jobs/info/6a0381166c07461fe1704c15?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL, US | Hybrid | May 12 |
 | ↳ | **[Product Specialist](https://jobright.ai/jobs/info/6a0381166c07461fe1704c13?utm_campaign=Product%20Management&utm_source=1103)** | Pittsburgh, PA, US | Hybrid | May 12 |
+| ↳ | **[Product Specialist](https://jobright.ai/jobs/info/6a0381166c07461fe1704c15?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL, US | Hybrid | May 12 |
 | ↳ | **[Product Specialist](https://jobright.ai/jobs/info/6a03811422395b6dc6d954d8?utm_campaign=Product%20Management&utm_source=1103)** | Virginia Beach, VA, US | Hybrid | May 12 |
 | ↳ | **[Product Specialist](https://jobright.ai/jobs/info/6a03811222395b6dc6d954c1?utm_campaign=Product%20Management&utm_source=1103)** | Tucson, AZ, US | Hybrid | May 12 |
 | **[Esri](https://www.esri.com)** | **[Associate Product Manager – ArcGIS Hub](https://jobright.ai/jobs/info/6a03805ef3d6cc51d637758c?utm_campaign=Product%20Management&utm_source=1103)** | Redlands, CA | On Site | May 12 |
@@ -197,8 +200,8 @@ For a complete list, click the following sortable link below:
 | **[Randstad](https://www.randstad.nl)** | **[Product Development Coordinator](https://jobright.ai/jobs/info/69ff4a07c2ffb31f4535e83f?utm_campaign=Product%20Management&utm_source=1103)** | Irvine, CA, US | Hybrid | May 06 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management - Treasury Management Cash Receivables](https://jobright.ai/jobs/info/69a6cb4576bbe83d3afa29a6?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | May 06 |
 | **[REVOLVE](https://www.revolve.com/)** | **[Assistant, Product Developer](https://jobright.ai/jobs/info/69fbce1118b94b2515be4f6e?utm_campaign=Product%20Management&utm_source=1103)** | Los Angeles, CA | On Site | May 06 |
-| **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Manager - Capital One Travel](https://jobright.ai/jobs/info/69fcf4595cff890b03f34d9e?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY, US | On Site | May 06 |
-| ↳ | **[Senior Associate, Product Manager - Capital One Travel](https://jobright.ai/jobs/info/69fcf460b113035a9f8ed1b4?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA, US | On Site | May 06 |
+| **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Manager - Capital One Travel](https://jobright.ai/jobs/info/69fcf460b113035a9f8ed1b4?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA, US | On Site | May 06 |
+| ↳ | **[Senior Associate, Product Manager - Capital One Travel](https://jobright.ai/jobs/info/69fcf4595cff890b03f34d9e?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY, US | On Site | May 06 |
 | **[Heler Foods](https://www.joseph-heler.co.uk)** | **[Product Developer](https://jobright.ai/jobs/info/69fb738cffa73664aeaffb52?utm_campaign=Product%20Management&utm_source=1103)** | Nantwich, England, United Kingdom | On Site | May 06 |
 | **[Fitch Ratings](http://www.fitchratings.com)** | **[Fitch Ratings / Business Analyst - Toronto, Canada](https://jobright.ai/jobs/info/69fb8d9fffa73664aeb004e3?utm_campaign=Product%20Management&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | May 06 |
 | **[ADP](http://www.adp.com)** | **[Product Change Specialist](https://jobright.ai/jobs/info/69da74d65356a60f40fe13f3?utm_campaign=Product%20Management&utm_source=1103)** | Salem, NH | On Site | May 06 |
