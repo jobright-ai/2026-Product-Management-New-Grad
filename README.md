@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GungHo Online Entertainment America, Inc.](http://gunghoonline.com)** | **[Product Coordinator (Japanese Bilingual)](https://jobright.ai/jobs/info/6a0441a67c753c287f6eded5?utm_campaign=Product%20Management&utm_source=1103)** | Redondo Beach, CA | Hybrid | May 13 |
 | **[Boeing](https://www.boeing.com)** | **[Product Acceptance Specialist](https://jobright.ai/jobs/info/6a03f0b8f811a0436960693e?utm_campaign=Product%20Management&utm_source=1103)** | USA - North Charleston, SC, US | On Site | May 12 |
 | **[Camping World](https://investor.campingworld.com)** | **[Product Specialist Advisor](https://jobright.ai/jobs/info/6a03e887f3d6cc51d637a925?utm_campaign=Product%20Management&utm_source=1103)** | Lowell, AR | On Site | May 12 |
 | **[GEICO](http://www.geico.com)** | **[Product Specialist](https://jobright.ai/jobs/info/6a03e150f811a0436960634c?utm_campaign=Product%20Management&utm_source=1103)** | Bethesda, MD | Hybrid | May 12 |
@@ -81,8 +82,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Specialist](https://jobright.ai/jobs/info/6a038123ed6a637463f50b71?utm_campaign=Product%20Management&utm_source=1103)** | Macon, GA, US | Hybrid | May 12 |
 | ↳ | **[Product Specialist](https://jobright.ai/jobs/info/6a0381177c753c287f6e7c26?utm_campaign=Product%20Management&utm_source=1103)** | Bethesda, MD, US | Hybrid | May 12 |
 | ↳ | **[Product Specialist](https://jobright.ai/jobs/info/6a0381177c753c287f6e7c24?utm_campaign=Product%20Management&utm_source=1103)** | North Liberty, IA, US | Hybrid | May 12 |
-| ↳ | **[Product Specialist](https://jobright.ai/jobs/info/6a0381166c07461fe1704c13?utm_campaign=Product%20Management&utm_source=1103)** | Pittsburgh, PA, US | Hybrid | May 12 |
 | ↳ | **[Product Specialist](https://jobright.ai/jobs/info/6a0381166c07461fe1704c15?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL, US | Hybrid | May 12 |
+| ↳ | **[Product Specialist](https://jobright.ai/jobs/info/6a0381166c07461fe1704c13?utm_campaign=Product%20Management&utm_source=1103)** | Pittsburgh, PA, US | Hybrid | May 12 |
 | ↳ | **[Product Specialist](https://jobright.ai/jobs/info/6a03811422395b6dc6d954d8?utm_campaign=Product%20Management&utm_source=1103)** | Virginia Beach, VA, US | Hybrid | May 12 |
 | ↳ | **[Product Specialist](https://jobright.ai/jobs/info/6a03811222395b6dc6d954c1?utm_campaign=Product%20Management&utm_source=1103)** | Tucson, AZ, US | Hybrid | May 12 |
 | **[Esri](https://www.esri.com)** | **[Associate Product Manager – ArcGIS Hub](https://jobright.ai/jobs/info/6a03805ef3d6cc51d637758c?utm_campaign=Product%20Management&utm_source=1103)** | Redlands, CA | On Site | May 12 |
@@ -175,6 +176,7 @@ For a complete list, click the following sortable link below:
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Manager](https://jobright.ai/jobs/info/69c40f056f4f855eeda66b3c?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | May 08 |
 | **[lululemon](http://shop.lululemon.com)** | **[Product Operations Lead / Settlers Green Outlet Pop-Up (12 Month Contract)](https://jobright.ai/jobs/info/69c4fbd433eecf31079577eb?utm_campaign=Product%20Management&utm_source=1103)** | North Conway, NH | On Site | May 08 |
 | **[Camping World](https://investor.campingworld.com)** | **[Product Specialist Advisor](https://jobright.ai/jobs/info/69f11874825a315d7ca35ee3?utm_campaign=Product%20Management&utm_source=1103)** | Meridian, ID | On Site | May 08 |
+| **[Scalence L.L.C.](https://www.scalence.com/)** | **[Product Design and Development - Product Manager - Retail Product Lines 1](https://jobright.ai/jobs/info/6a043798f811a04369608c93?utm_campaign=Product%20Management&utm_source=1103)** | Beaverton, OR | Hybrid | May 08 |
 | **[Capital One](http://www.capitalone.com)** | **[Sr. Associate, Product Management - Zelle Mobile](https://jobright.ai/jobs/info/69e135a06c20aa114953fdea?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | May 07 |
 | ↳ | **[Senior Associate, Product Manager](https://jobright.ai/jobs/info/69c4212ad5a1016e98db2ab0?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | May 07 |
 | **[Seagate Technology](http://www.seagate.com)** | **[Product Manager - Release Products (Early Career)](https://jobright.ai/jobs/info/69eba7c47820c036924f5d58?utm_campaign=Product%20Management&utm_source=1103)** | Shakopee, MN | On Site | May 07 |
@@ -208,8 +210,4 @@ For a complete list, click the following sortable link below:
 | **[Randstad](https://www.randstad.nl)** | **[Product Development Coordinator](https://jobright.ai/jobs/info/69ff4a07c2ffb31f4535e83f?utm_campaign=Product%20Management&utm_source=1103)** | Irvine, CA, US | Hybrid | May 06 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management - Treasury Management Cash Receivables](https://jobright.ai/jobs/info/69a6cb4576bbe83d3afa29a6?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | May 06 |
 | **[REVOLVE](https://www.revolve.com/)** | **[Assistant, Product Developer](https://jobright.ai/jobs/info/69fbce1118b94b2515be4f6e?utm_campaign=Product%20Management&utm_source=1103)** | Los Angeles, CA | On Site | May 06 |
-| **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Manager - Capital One Travel](https://jobright.ai/jobs/info/69fcf460b113035a9f8ed1b4?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA, US | On Site | May 06 |
-| ↳ | **[Senior Associate, Product Manager - Capital One Travel](https://jobright.ai/jobs/info/69fcf4595cff890b03f34d9e?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY, US | On Site | May 06 |
-| **[Heler Foods](https://www.joseph-heler.co.uk)** | **[Product Developer](https://jobright.ai/jobs/info/69fb738cffa73664aeaffb52?utm_campaign=Product%20Management&utm_source=1103)** | Nantwich, England, United Kingdom | On Site | May 06 |
-| **[Fitch Ratings](http://www.fitchratings.com)** | **[Fitch Ratings / Business Analyst - Toronto, Canada](https://jobright.ai/jobs/info/69fb8d9fffa73664aeb004e3?utm_campaign=Product%20Management&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | May 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
