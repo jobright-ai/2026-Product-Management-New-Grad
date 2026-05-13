@@ -67,12 +67,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Specialist](https://jobright.ai/jobs/info/6a038140f3d6cc51d63775ed?utm_campaign=Product%20Management&utm_source=1103)** | Fredericksburg, VA, US | Hybrid | May 12 |
 | ↳ | **[Product Specialist](https://jobright.ai/jobs/info/6a03813abc4184089f233149?utm_campaign=Product%20Management&utm_source=1103)** | Richardson, TX, US | Hybrid | May 12 |
 | ↳ | **[Product Specialist](https://jobright.ai/jobs/info/6a038139bc4184089f233145?utm_campaign=Product%20Management&utm_source=1103)** | Lakeland, FL, US | Hybrid | May 12 |
-| ↳ | **[Product Specialist](https://jobright.ai/jobs/info/6a038123ed6a637463f50b72?utm_campaign=Product%20Management&utm_source=1103)** | Poway, CA, US | Hybrid | May 12 |
 | ↳ | **[Product Specialist](https://jobright.ai/jobs/info/6a038123ed6a637463f50b71?utm_campaign=Product%20Management&utm_source=1103)** | Macon, GA, US | Hybrid | May 12 |
-| ↳ | **[Product Specialist](https://jobright.ai/jobs/info/6a0381177c753c287f6e7c26?utm_campaign=Product%20Management&utm_source=1103)** | Bethesda, MD, US | Hybrid | May 12 |
+| ↳ | **[Product Specialist](https://jobright.ai/jobs/info/6a038123ed6a637463f50b72?utm_campaign=Product%20Management&utm_source=1103)** | Poway, CA, US | Hybrid | May 12 |
 | ↳ | **[Product Specialist](https://jobright.ai/jobs/info/6a0381177c753c287f6e7c24?utm_campaign=Product%20Management&utm_source=1103)** | North Liberty, IA, US | Hybrid | May 12 |
-| ↳ | **[Product Specialist](https://jobright.ai/jobs/info/6a0381166c07461fe1704c13?utm_campaign=Product%20Management&utm_source=1103)** | Pittsburgh, PA, US | Hybrid | May 12 |
+| ↳ | **[Product Specialist](https://jobright.ai/jobs/info/6a0381177c753c287f6e7c26?utm_campaign=Product%20Management&utm_source=1103)** | Bethesda, MD, US | Hybrid | May 12 |
 | ↳ | **[Product Specialist](https://jobright.ai/jobs/info/6a0381166c07461fe1704c15?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL, US | Hybrid | May 12 |
+| ↳ | **[Product Specialist](https://jobright.ai/jobs/info/6a0381166c07461fe1704c13?utm_campaign=Product%20Management&utm_source=1103)** | Pittsburgh, PA, US | Hybrid | May 12 |
 | ↳ | **[Product Specialist](https://jobright.ai/jobs/info/6a03811422395b6dc6d954d8?utm_campaign=Product%20Management&utm_source=1103)** | Virginia Beach, VA, US | Hybrid | May 12 |
 | ↳ | **[Product Specialist](https://jobright.ai/jobs/info/6a03811222395b6dc6d954c1?utm_campaign=Product%20Management&utm_source=1103)** | Tucson, AZ, US | Hybrid | May 12 |
 | **[Esri](https://www.esri.com)** | **[Associate Product Manager – ArcGIS Hub](https://jobright.ai/jobs/info/6a03805ef3d6cc51d637758c?utm_campaign=Product%20Management&utm_source=1103)** | Redlands, CA | On Site | May 12 |
@@ -83,8 +83,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Senior Associate, Product Management, Decisioning as a Service](https://jobright.ai/jobs/info/6a033f00bc4184089f230a1c?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | May 12 |
 | ↳ | **[Senior Associate , Product Management –GPN Core Data Platform Services](https://jobright.ai/jobs/info/6a033effbc4184089f230a15?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | May 12 |
 | ↳ | **[Senior Associate , Product Management –GPN Core Data Platform Services](https://jobright.ai/jobs/info/6a033edb22395b6dc6d92af4?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | May 12 |
-| ↳ | **[Senior Associate, Product Management, Decisioning as a Service](https://jobright.ai/jobs/info/6a033e686c07461fe17021f4?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | May 12 |
 | ↳ | **[Senior Associate, Product Management, Decisioning as a Service](https://jobright.ai/jobs/info/6a033e68ed6a637463f4e0e0?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | May 12 |
+| ↳ | **[Senior Associate, Product Management, Decisioning as a Service](https://jobright.ai/jobs/info/6a033e686c07461fe17021f4?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | May 12 |
 | **[BCD Travel](http://www.bcdtravel.com)** | **[Technical Product Analyst - Travel Data Platform and Orders Management System Remote](https://jobright.ai/jobs/info/69faede818b94b2515bddc34?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | May 12 |
 | **[Epic for Kids](https://www.getepic.com/)** | **[Product Manager](https://jobright.ai/jobs/info/69e6ff593cfd986aa6f883c3?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | May 12 |
 | **[kate spade new york](https://www.katespade.com/)** | **[Coordinator, Product Development](https://jobright.ai/jobs/info/69cbf4e9cdb525785fb78d1f?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | May 12 |
@@ -199,8 +199,8 @@ For a complete list, click the following sortable link below:
 | **[Randstad](https://www.randstad.nl)** | **[Product Development Coordinator](https://jobright.ai/jobs/info/69ff4a07c2ffb31f4535e83f?utm_campaign=Product%20Management&utm_source=1103)** | Irvine, CA, US | Hybrid | May 06 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management - Treasury Management Cash Receivables](https://jobright.ai/jobs/info/69a6cb4576bbe83d3afa29a6?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | May 06 |
 | **[REVOLVE](https://www.revolve.com/)** | **[Assistant, Product Developer](https://jobright.ai/jobs/info/69fbce1118b94b2515be4f6e?utm_campaign=Product%20Management&utm_source=1103)** | Los Angeles, CA | On Site | May 06 |
-| **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Manager - Capital One Travel](https://jobright.ai/jobs/info/69fcf4595cff890b03f34d9e?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY, US | On Site | May 06 |
-| ↳ | **[Senior Associate, Product Manager - Capital One Travel](https://jobright.ai/jobs/info/69fcf460b113035a9f8ed1b4?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA, US | On Site | May 06 |
+| **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Manager - Capital One Travel](https://jobright.ai/jobs/info/69fcf460b113035a9f8ed1b4?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA, US | On Site | May 06 |
+| ↳ | **[Senior Associate, Product Manager - Capital One Travel](https://jobright.ai/jobs/info/69fcf4595cff890b03f34d9e?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY, US | On Site | May 06 |
 | **[Heler Foods](https://www.joseph-heler.co.uk)** | **[Product Developer](https://jobright.ai/jobs/info/69fb738cffa73664aeaffb52?utm_campaign=Product%20Management&utm_source=1103)** | Nantwich, England, United Kingdom | On Site | May 06 |
 | **[Fitch Ratings](http://www.fitchratings.com)** | **[Fitch Ratings / Business Analyst - Toronto, Canada](https://jobright.ai/jobs/info/69fb8d9fffa73664aeb004e3?utm_campaign=Product%20Management&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | May 06 |
 | **[ADP](http://www.adp.com)** | **[Product Change Specialist](https://jobright.ai/jobs/info/69da74d65356a60f40fe13f3?utm_campaign=Product%20Management&utm_source=1103)** | Salem, NH | On Site | May 06 |
@@ -219,5 +219,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data Product Manager](https://jobright.ai/jobs/info/69fb574387a4820e6da876a7?utm_campaign=Product%20Management&utm_source=1103)** | Austin, TX | Hybrid | May 06 |
 | **[Camping World](https://investor.campingworld.com)** | **[Product Specialist Advisor](https://jobright.ai/jobs/info/69dea0a7aba61f14173168ba?utm_campaign=Product%20Management&utm_source=1103)** | Roscoe, IL | On Site | May 06 |
 | ↳ | **[Product Specialist](https://jobright.ai/jobs/info/69dea0fe433ac8430e0db2f6?utm_campaign=Product%20Management&utm_source=1103)** | Syracuse, NY | On Site | May 06 |
-| **[Proper Voltage](https://propervoltage.com)** | **[Associate Product & Programs Engineer](https://jobright.ai/jobs/info/69fb51dc18b94b2515be15b5?utm_campaign=Product%20Management&utm_source=1103)** | Carlsbad, CA | On Site | May 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
