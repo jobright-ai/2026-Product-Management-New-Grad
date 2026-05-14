@@ -104,11 +104,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Senior Associate, Product Manager - Global Payment Network](https://jobright.ai/jobs/info/69ce619e366bb95ba550ae52?utm_campaign=Product%20Management&utm_source=1103)** | Deerfield, IL | On Site | May 13 |
 | ↳ | **[Sr. Associate, Product Manager - Global Payment Network](https://jobright.ai/jobs/info/698f3a6f0cc8ea15f1d9aefd?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | May 13 |
 | ↳ | **[Senior Associate, Product Management - Partnerships Marketing & Benefits](https://jobright.ai/jobs/info/69ba996b06c1ba00c54ccadf?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | May 13 |
+| ↳ | **[Sr. Associate, Product Management - Zelle Mobile](https://jobright.ai/jobs/info/69e135a06c20aa114953fdea?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | May 13 |
 | ↳ | **[Senior Associate, Product Management - Recoveries](https://jobright.ai/jobs/info/69fb215886d5cd46527d2db3?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | May 13 |
 | ↳ | **[Senior Associate, Product Management - Authorization Gateway Team](https://jobright.ai/jobs/info/6a047a85bc4184089f23aea5?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | May 13 |
-| ↳ | **[Senior Associate, Product Management - Athena Data Model Lead](https://jobright.ai/jobs/info/69f4c4f981706a5bd2162c8f?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | May 13 |
 | ↳ | **[Sr. Associate, Product Management - Internal Enablement](https://jobright.ai/jobs/info/69eb90bedc35f7132c4b10ea?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | May 13 |
 | ↳ | **[Sr. Associate, Product Management - Internal Enablement](https://jobright.ai/jobs/info/69eb908adc35f7132c4b1004?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | May 13 |
+| ↳ | **[Senior Associate, Product Management - Athena Data Model Lead](https://jobright.ai/jobs/info/69f4c4f981706a5bd2162c8f?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | May 13 |
 | ↳ | **[Senior Associate, Product Management - Client & Associate Platforms (Mobile & Web)](https://jobright.ai/jobs/info/69faee2be1560008411550dd?utm_campaign=Product%20Management&utm_source=1103)** | Charlotte, NC | On Site | May 13 |
 | ↳ | **[Senior Associate, Product Management - Trade Credit](https://jobright.ai/jobs/info/69fb611bffa73664aeaff376?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | May 13 |
 | ↳ | **[Senior Associate, Product Management- CAPS](https://jobright.ai/jobs/info/69f141de8feca91f1491f7cf?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | May 13 |
@@ -177,8 +178,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Specialist](https://jobright.ai/jobs/info/6a038123ed6a637463f50b71?utm_campaign=Product%20Management&utm_source=1103)** | Macon, GA, US | Hybrid | May 12 |
 | ↳ | **[Product Specialist](https://jobright.ai/jobs/info/6a0381177c753c287f6e7c24?utm_campaign=Product%20Management&utm_source=1103)** | North Liberty, IA, US | Hybrid | May 12 |
 | ↳ | **[Product Specialist](https://jobright.ai/jobs/info/6a0381177c753c287f6e7c26?utm_campaign=Product%20Management&utm_source=1103)** | Bethesda, MD, US | Hybrid | May 12 |
-| ↳ | **[Product Specialist](https://jobright.ai/jobs/info/6a0381166c07461fe1704c15?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL, US | Hybrid | May 12 |
 | ↳ | **[Product Specialist](https://jobright.ai/jobs/info/6a0381166c07461fe1704c13?utm_campaign=Product%20Management&utm_source=1103)** | Pittsburgh, PA, US | Hybrid | May 12 |
+| ↳ | **[Product Specialist](https://jobright.ai/jobs/info/6a0381166c07461fe1704c15?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL, US | Hybrid | May 12 |
 | ↳ | **[Product Specialist](https://jobright.ai/jobs/info/6a03811422395b6dc6d954d8?utm_campaign=Product%20Management&utm_source=1103)** | Virginia Beach, VA, US | Hybrid | May 12 |
 | ↳ | **[Product Specialist](https://jobright.ai/jobs/info/6a03811222395b6dc6d954c1?utm_campaign=Product%20Management&utm_source=1103)** | Tucson, AZ, US | Hybrid | May 12 |
 | **[NJM Insurance Group](https://www.njm.com)** | **[Insurance Product Management Analyst - Hybrid](https://jobright.ai/jobs/info/6a037f0822395b6dc6d950a3?utm_campaign=Product%20Management&utm_source=1103)** | NJM - Trenton, US | Hybrid | May 12 |
@@ -259,7 +260,6 @@ For a complete list, click the following sortable link below:
 | **[EchoStar Corporation](http://echostar.com)** | **[Product Manager II](https://jobright.ai/jobs/info/69e1a658acc736112f5c491e?utm_campaign=Product%20Management&utm_source=1103)** | Englewood, CO | On Site | May 08 |
 | **[lululemon](http://shop.lululemon.com)** | **[Product Operations Lead / Settlers Green Outlet Pop-Up (12 Month Contract)](https://jobright.ai/jobs/info/69c4fbd433eecf31079577eb?utm_campaign=Product%20Management&utm_source=1103)** | North Conway, NH | On Site | May 08 |
 | **[Camping World](https://investor.campingworld.com)** | **[Product Specialist Advisor](https://jobright.ai/jobs/info/69f11874825a315d7ca35ee3?utm_campaign=Product%20Management&utm_source=1103)** | Meridian, ID | On Site | May 08 |
-| **[Capital One](http://www.capitalone.com)** | **[Sr. Associate, Product Management - Zelle Mobile](https://jobright.ai/jobs/info/69e135a06c20aa114953fdea?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | May 07 |
 | **[Seagate Technology](http://www.seagate.com)** | **[Product Manager - Release Products (Early Career)](https://jobright.ai/jobs/info/69eba7c47820c036924f5d58?utm_campaign=Product%20Management&utm_source=1103)** | Shakopee, MN | On Site | May 07 |
 | **[Aristocrat](http://www.aristocrat.com)** | **[Junior Product Manager](https://jobright.ai/jobs/info/6a01cf6dc4b08448a0b207e1?utm_campaign=Product%20Management&utm_source=1103)** | Las Vegas, NV | On Site | May 07 |
 | **[Philip Morris International U.S.](https://www.uspmi.com/)** | **[Product Master Data Coordinator](https://jobright.ai/jobs/info/69c8a0b6aa3c2c1995e1fa2b?utm_campaign=Product%20Management&utm_source=1103)** | Owensboro, KY | On Site | May 07 |
