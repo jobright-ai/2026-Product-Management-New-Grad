@@ -58,8 +58,8 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management - US Card Recoveries: Foundational Data Capabilities Lead](https://jobright.ai/jobs/info/6a05e83b320bff2205ea5b45?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY, US | On Site | May 14 |
-| ↳ | **[Senior Associate, Product Management - US Card Recoveries: Foundational Data Capabilities Lead](https://jobright.ai/jobs/info/6a05e839320bff2205ea5b44?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA, US | On Site | May 14 |
 | ↳ | **[Senior Associate, Product Management - US Card Recoveries: Foundational Data Capabilities Lead](https://jobright.ai/jobs/info/6a05e839320bff2205ea5b43?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA, US | On Site | May 14 |
+| ↳ | **[Senior Associate, Product Management - US Card Recoveries: Foundational Data Capabilities Lead](https://jobright.ai/jobs/info/6a05e839320bff2205ea5b44?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA, US | On Site | May 14 |
 | ↳ | **[Senior Associate, Product Management - US Card Recoveries: Foundational Data Capabilities Lead](https://jobright.ai/jobs/info/6a05e838320bff2205ea5b42?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL, US | On Site | May 14 |
 | **[Raft](https://teamraft.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/69e901f4e0cd471b2f139c2b?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | May 14 |
 | **[Leaf Home](https://www.leafhome.com/)** | **[Product Demonstrator ($18/hr + Commission)](https://jobright.ai/jobs/info/6a05e696f3d6cc51d638c7fc?utm_campaign=Product%20Management&utm_source=1103)** | 1920 N Stewart Rd, Liberty, MO 64068, USA | On Site | May 14 |
@@ -195,8 +195,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Specialist](https://jobright.ai/jobs/info/6a038123ed6a637463f50b72?utm_campaign=Product%20Management&utm_source=1103)** | Poway, CA, US | Hybrid | May 12 |
 | ↳ | **[Product Specialist](https://jobright.ai/jobs/info/6a0381177c753c287f6e7c24?utm_campaign=Product%20Management&utm_source=1103)** | North Liberty, IA, US | Hybrid | May 12 |
 | ↳ | **[Product Specialist](https://jobright.ai/jobs/info/6a0381177c753c287f6e7c26?utm_campaign=Product%20Management&utm_source=1103)** | Bethesda, MD, US | Hybrid | May 12 |
-| ↳ | **[Product Specialist](https://jobright.ai/jobs/info/6a0381166c07461fe1704c13?utm_campaign=Product%20Management&utm_source=1103)** | Pittsburgh, PA, US | Hybrid | May 12 |
 | ↳ | **[Product Specialist](https://jobright.ai/jobs/info/6a0381166c07461fe1704c15?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL, US | Hybrid | May 12 |
+| ↳ | **[Product Specialist](https://jobright.ai/jobs/info/6a0381166c07461fe1704c13?utm_campaign=Product%20Management&utm_source=1103)** | Pittsburgh, PA, US | Hybrid | May 12 |
 | ↳ | **[Product Specialist](https://jobright.ai/jobs/info/6a03811422395b6dc6d954d8?utm_campaign=Product%20Management&utm_source=1103)** | Virginia Beach, VA, US | Hybrid | May 12 |
 | ↳ | **[Product Specialist](https://jobright.ai/jobs/info/6a03811222395b6dc6d954c1?utm_campaign=Product%20Management&utm_source=1103)** | Tucson, AZ, US | Hybrid | May 12 |
 | **[NJM Insurance Group](https://www.njm.com)** | **[Insurance Product Management Analyst - Hybrid](https://jobright.ai/jobs/info/6a037f0822395b6dc6d950a3?utm_campaign=Product%20Management&utm_source=1103)** | NJM - Trenton, US | Hybrid | May 12 |
