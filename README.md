@@ -57,11 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kiss Beauty Group](https://www.kissusa.com)** | **[Associate, Product Development/Management](https://jobright.ai/jobs/info/697d2638727747250d57e23d?utm_campaign=Product%20Management&utm_source=1103)** | Port Washington, NY | On Site | May 17 |
 | **[Aegon Asset Management](https://www.aegonam.com)** | **[Product Strategist - Transamerica AM](https://jobright.ai/jobs/info/69d50bbdcdb525785fbce0bc?utm_campaign=Product%20Management&utm_source=1103)** | Denver, CO | Hybrid | May 16 |
 | **[Edwards Lifesciences](http://www.edwards.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/69ebc9d77820c036924f7524?utm_campaign=Product%20Management&utm_source=1103)** | Mississauga, Ontario, Canada | On Site | May 16 |
 | **[Tinder](http://www.tinder.com)** | **[Product Analyst](https://jobright.ai/jobs/info/69ebdc300a6e09555304ac03?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | May 16 |
-| **[Connection](http://www.pcconnection.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/6a086c0d939a5f01db959942?utm_campaign=Product%20Management&utm_source=1103)** | US-NH-Merrimack | On Site | May 16 |
-| ↳ | **[Associate Product Manager](https://jobright.ai/jobs/info/6a086c0d939a5f01db959940?utm_campaign=Product%20Management&utm_source=1103)** | Merrimack, NH, US | On Site | May 16 |
+| **[Connection](http://www.pcconnection.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/6a086c0d939a5f01db959940?utm_campaign=Product%20Management&utm_source=1103)** | Merrimack, NH, US | On Site | May 16 |
+| ↳ | **[Associate Product Manager](https://jobright.ai/jobs/info/6a086c0d939a5f01db959942?utm_campaign=Product%20Management&utm_source=1103)** | US-NH-Merrimack | On Site | May 16 |
 | **[Werfen](http://www.werfen.com/)** | **[Associate Product Manager, Autoimmunity](https://jobright.ai/jobs/info/6a086ae13b54ed42d74d78bc?utm_campaign=Product%20Management&utm_source=1103)** | US-MA-Bedford | On Site | May 16 |
 | ↳ | **[Associate Product Manager, Autoimmunity](https://jobright.ai/jobs/info/6a086ae13b54ed42d74d78be?utm_campaign=Product%20Management&utm_source=1103)** | Bedford, MA, US | On Site | May 16 |
 | **[Focal Point, LLC](https://www.focalpointlights.com/)** | **[Associate Product Manager, Lighting Controls](https://jobright.ai/jobs/info/6a084eef403fc339507ecb22?utm_campaign=Product%20Management&utm_source=1103)** | US-NY-Syracuse | On Site | May 16 |
@@ -96,8 +97,8 @@ For a complete list, click the following sortable link below:
 | **[Westin Furniture](https://westinfurniture.com)** | **[Product Information Management Assistant](https://jobright.ai/jobs/info/6a0732698f3e371eb61748f1?utm_campaign=Product%20Management&utm_source=1103)** | Ontario, CA | On Site | May 15 |
 | **[Pharmaceutical Strategies Group - PSG](http://www.psgconsults.com)** | **[Product Operations Coordinator](https://jobright.ai/jobs/info/6a070765078fec52738a71c4?utm_campaign=Product%20Management&utm_source=1103)** | 1 Remote US | Remote | May 15 |
 | ↳ | **[Product Operations Coordinator](https://jobright.ai/jobs/info/6a05a585f3d6cc51d638a302?utm_campaign=Product%20Management&utm_source=1103)** | Remote - US | Remote | May 15 |
-| **[Fivetran](https://fivetran.com)** | **[Product Growth Partner](https://jobright.ai/jobs/info/6a0707474a0a6a7e7d821d0c?utm_campaign=Product%20Management&utm_source=1103)** | Denver, Colorado, United States, AMER | Hybrid | May 15 |
-| ↳ | **[Product Growth Partner](https://jobright.ai/jobs/info/6a0707474a0a6a7e7d821d19?utm_campaign=Product%20Management&utm_source=1103)** | USA - Denver | Hybrid | May 15 |
+| **[Fivetran](https://fivetran.com)** | **[Product Growth Partner](https://jobright.ai/jobs/info/6a0707474a0a6a7e7d821d19?utm_campaign=Product%20Management&utm_source=1103)** | USA - Denver | Hybrid | May 15 |
+| ↳ | **[Product Growth Partner](https://jobright.ai/jobs/info/6a0707474a0a6a7e7d821d0c?utm_campaign=Product%20Management&utm_source=1103)** | Denver, Colorado, United States, AMER | Hybrid | May 15 |
 | **[Raft](https://teamraft.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/69e8f6cf7820c036924e3f7a?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | May 15 |
 | **[Hume AI](https://hume.ai)** | **[Product Manager, Growth](https://jobright.ai/jobs/info/6a0706624a0a6a7e7d82174b?utm_campaign=Product%20Management&utm_source=1103)** | San Jose | On Site | May 15 |
 | ↳ | **[Product Manager, Growth](https://jobright.ai/jobs/info/6a0706614a0a6a7e7d82172c?utm_campaign=Product%20Management&utm_source=1103)** | NYC | On Site | May 15 |
@@ -127,11 +128,11 @@ For a complete list, click the following sortable link below:
 | **[AXS](https://www.axs.com/)** | **[Associate Product Manager - Consumer Product (LA28)](https://jobright.ai/jobs/info/6a06fc941f7fa33581c98141?utm_campaign=Product%20Management&utm_source=1103)** | Los Angeles, CA | Hybrid | May 15 |
 | **[Brooklinen](https://www.brooklinen.com)** | **[Assistant Product Developer (Color & Textiles)](https://jobright.ai/jobs/info/6a06fc60152f493123c4af20?utm_campaign=Product%20Management&utm_source=1103)** | New York HQ | Hybrid | May 15 |
 | ↳ | **[Assistant Product Developer (Color & Textiles)](https://jobright.ai/jobs/info/69c1a5822c312363dcd4cc5f?utm_campaign=Product%20Management&utm_source=1103)** | New York, New York | Hybrid | May 15 |
-| **[Amount](http://www.amount.com)** | **[Jr. Product Manager](https://jobright.ai/jobs/info/6a0727e924dcb03739f22f2c?utm_campaign=Product%20Management&utm_source=1103)** | Jacksonville (Florida) | Hybrid | May 15 |
+| **[Amount](http://www.amount.com)** | **[Jr. Product Manager](https://jobright.ai/jobs/info/6a0727e924dcb03739f22f28?utm_campaign=Product%20Management&utm_source=1103)** | Atlanta (Georgia) | Hybrid | May 15 |
+| ↳ | **[Jr. Product Manager](https://jobright.ai/jobs/info/6a0727e924dcb03739f22f2c?utm_campaign=Product%20Management&utm_source=1103)** | Jacksonville (Florida) | Hybrid | May 15 |
 | ↳ | **[Jr. Product Manager](https://jobright.ai/jobs/info/6a0727e924dcb03739f22f2d?utm_campaign=Product%20Management&utm_source=1103)** | Chicago (Illinois) | Hybrid | May 15 |
-| ↳ | **[Jr. Product Manager](https://jobright.ai/jobs/info/6a0722bf24dcb03739f22425?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | Hybrid | May 15 |
-| ↳ | **[Jr. Product Manager](https://jobright.ai/jobs/info/6a0727e924dcb03739f22f28?utm_campaign=Product%20Management&utm_source=1103)** | Atlanta (Georgia) | Hybrid | May 15 |
 | ↳ | **[Jr. Product Manager](https://jobright.ai/jobs/info/6a0727e824dcb03739f22f24?utm_campaign=Product%20Management&utm_source=1103)** | Milwaukee (Wisconsin) | Hybrid | May 15 |
+| ↳ | **[Jr. Product Manager](https://jobright.ai/jobs/info/6a0722bf24dcb03739f22425?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | Hybrid | May 15 |
 | **[Anduril Industries](https://www.anduril.com)** | **[Strategic Finance, Product Development](https://jobright.ai/jobs/info/69e7ddfae0cd471b2f12dd45?utm_campaign=Product%20Management&utm_source=1103)** | Costa Mesa, California, United States | On Site | May 15 |
 | ↳ | **[Strategic Finance, Product Development](https://jobright.ai/jobs/info/6a072b494a0a6a7e7d825849?utm_campaign=Product%20Management&utm_source=1103)** | Costa Mesa, CA (HQ) | On Site | May 15 |
 | **[Clerkie](https://clerkie.io)** | **[Associate Product Manager](https://jobright.ai/jobs/info/69b7386956973837413c5770?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | May 15 |
@@ -148,8 +149,8 @@ For a complete list, click the following sortable link below:
 | **[Navan](https://navan.com)** | **[Product Manager, Navan Connect](https://jobright.ai/jobs/info/6a06f18b078fec52738a231b?utm_campaign=Product%20Management&utm_source=1103)** | Palo Alto | On Site | May 15 |
 | **[Uplifter Inc.](https://www.uplifterinc.com/)** | **[Product Specialist GTA- Toronto](https://jobright.ai/jobs/info/6a06f1089f57175bd581ac9f?utm_campaign=Product%20Management&utm_source=1103)** | Uplifter Toronto | Hybrid | May 15 |
 | ↳ | **[Product Specialist GTA- Toronto](https://jobright.ai/jobs/info/69d898b6869c7e25d8596b9a?utm_campaign=Product%20Management&utm_source=1103)** | Toronto | Hybrid | May 15 |
-| **[Navan](https://navan.com)** | **[Product Manager, Navan Connect](https://jobright.ai/jobs/info/6a0712729f57175bd581faef?utm_campaign=Product%20Management&utm_source=1103)** | Palo Alto, CA | On Site | May 15 |
-| ↳ | **[Product Manager, Navan Connect](https://jobright.ai/jobs/info/6a0712729f57175bd581faf0?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, CA | On Site | May 15 |
+| **[Navan](https://navan.com)** | **[Product Manager, Navan Connect](https://jobright.ai/jobs/info/6a0712729f57175bd581faf0?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, CA | On Site | May 15 |
+| ↳ | **[Product Manager, Navan Connect](https://jobright.ai/jobs/info/6a0712729f57175bd581faef?utm_campaign=Product%20Management&utm_source=1103)** | Palo Alto, CA | On Site | May 15 |
 | **[Zoro.com](http://zoro.com)** | **[Product Analyst](https://jobright.ai/jobs/info/6a06e9e5b897ee41d28313a4?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, Illinois, United States | Hybrid | May 15 |
 | ↳ | **[Product Analyst](https://jobright.ai/jobs/info/6a06e9e4b897ee41d2831396?utm_campaign=Product%20Management&utm_source=1103)** | Chicago | Hybrid | May 15 |
 | **[Gap](https://jobs.gapinc.com/gap-home)** | **[Assistant Manager, Product Operations - Mont Blanc](https://jobright.ai/jobs/info/6a06e88cf400923a0090b3a9?utm_campaign=Product%20Management&utm_source=1103)** | Whistler, British Columbia, Canada | On Site | May 15 |
@@ -172,8 +173,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Specialist](https://jobright.ai/jobs/info/6a06448a7c753c287f701400?utm_campaign=Product%20Management&utm_source=1103)** | Springfield, MO | On Site | May 14 |
 | ↳ | **[Product Specialist Advisor](https://jobright.ai/jobs/info/6a064487f3d6cc51d63917a4?utm_campaign=Product%20Management&utm_source=1103)** | Bowling Green, KY | On Site | May 14 |
 | ↳ | **[Product Specialist Advisor](https://jobright.ai/jobs/info/6a0644757c753c287f7013ea?utm_campaign=Product%20Management&utm_source=1103)** | Ashland, VA | On Site | May 14 |
-| ↳ | **[Product Specialist Advisor](https://jobright.ai/jobs/info/6a064471bc4184089f24d883?utm_campaign=Product%20Management&utm_source=1103)** | Roscoe, IL | On Site | May 14 |
 | ↳ | **[Product Specialist Advisor](https://jobright.ai/jobs/info/6a064471bc4184089f24d885?utm_campaign=Product%20Management&utm_source=1103)** | Hendersonville, NC | On Site | May 14 |
+| ↳ | **[Product Specialist Advisor](https://jobright.ai/jobs/info/6a064471bc4184089f24d883?utm_campaign=Product%20Management&utm_source=1103)** | Roscoe, IL | On Site | May 14 |
 | ↳ | **[Product Specialist Advisor](https://jobright.ai/jobs/info/6a06445c320bff2205eaa8ee?utm_campaign=Product%20Management&utm_source=1103)** | West Boylston, MA | On Site | May 14 |
 | ↳ | **[Product Specialist](https://jobright.ai/jobs/info/6a0641357c753c287f7011ee?utm_campaign=Product%20Management&utm_source=1103)** | Strafford, MO | On Site | May 14 |
 | ↳ | **[Product Specialist Advisor](https://jobright.ai/jobs/info/6a0641297c753c287f7011a5?utm_campaign=Product%20Management&utm_source=1103)** | Longmont, CO | On Site | May 14 |
@@ -200,8 +201,8 @@ For a complete list, click the following sortable link below:
 | **[Mesa Laboratories, Inc.](http://bgi.mesalabs.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/6a05faa97c753c287f6fdba4?utm_campaign=Product%20Management&utm_source=1103)** | Lakewood, Colorado, United States | On Site | May 14 |
 | **[Westin Furniture](https://westinfurniture.com)** | **[Product Information Management Assistant](https://jobright.ai/jobs/info/6a05f774f3d6cc51d638d529?utm_campaign=Product%20Management&utm_source=1103)** | Ontario, CA, US | On Site | May 14 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management - US Card Recoveries: Foundational Data Capabilities Lead](https://jobright.ai/jobs/info/6a05e83b320bff2205ea5b45?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY, US | On Site | May 14 |
-| ↳ | **[Senior Associate, Product Management - US Card Recoveries: Foundational Data Capabilities Lead](https://jobright.ai/jobs/info/6a05e839320bff2205ea5b43?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA, US | On Site | May 14 |
 | ↳ | **[Senior Associate, Product Management - US Card Recoveries: Foundational Data Capabilities Lead](https://jobright.ai/jobs/info/6a05e839320bff2205ea5b44?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA, US | On Site | May 14 |
+| ↳ | **[Senior Associate, Product Management - US Card Recoveries: Foundational Data Capabilities Lead](https://jobright.ai/jobs/info/6a05e839320bff2205ea5b43?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA, US | On Site | May 14 |
 | ↳ | **[Senior Associate, Product Management - US Card Recoveries: Foundational Data Capabilities Lead](https://jobright.ai/jobs/info/6a05e838320bff2205ea5b42?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL, US | On Site | May 14 |
 | **[Raft](https://teamraft.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/69e901f4e0cd471b2f139c2b?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | May 14 |
 | **[Leaf Home](https://www.leafhome.com/)** | **[Product Demonstrator ($18/hr + Commission)](https://jobright.ai/jobs/info/6a05e696f3d6cc51d638c7fc?utm_campaign=Product%20Management&utm_source=1103)** | 1920 N Stewart Rd, Liberty, MO 64068, USA | On Site | May 14 |
