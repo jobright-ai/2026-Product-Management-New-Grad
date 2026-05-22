@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Oregon Tool](https://www.oregontool.com)** | **[Product Coordinator (Hybrid)](https://jobright.ai/jobs/info/69f3ad656942c746fa6936dc?utm_campaign=Product%20Management&utm_source=1103)** | Portland, OR | Hybrid | May 22 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Associate Product Developer - Outdoor](https://jobright.ai/jobs/info/6a1028d512f8b43cf39832fc?utm_campaign=Product%20Management&utm_source=1103)** | Needham, MA | On Site | May 22 |
 | **[KeyBank](https://www.key.com)** | **[Digital Money Movement Product Owner](https://jobright.ai/jobs/info/6a0f92ec83d7144289821908?utm_campaign=Product%20Management&utm_source=1103)** | Brooklyn, OH | Hybrid | May 21 |
 | **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[Portfolio Associate](https://jobright.ai/jobs/info/6a0f8f9512f8b43cf39804df?utm_campaign=Product%20Management&utm_source=1103)** | Bloomington, MN | Hybrid | May 21 |
@@ -73,8 +74,8 @@ For a complete list, click the following sortable link below:
 | **[Camping World](https://investor.campingworld.com)** | **[Product Specialist Advisor](https://jobright.ai/jobs/info/6a0f4dd383d714428981e7b7?utm_campaign=Product%20Management&utm_source=1103)** | Cape Girardeau, MO, US | On Site | May 21 |
 | **[KeyBank](https://www.key.com)** | **[Digital Money Movement Product Owner](https://jobright.ai/jobs/info/6a0f3dd19f654b3359ce3ba9?utm_campaign=Product%20Management&utm_source=1103)** | Brooklyn, OH, US | Hybrid | May 21 |
 | **[Banner Engineering](https://www.bannerengineering.com/us/en.html)** | **[Associate Global Product Manager](https://jobright.ai/jobs/info/69ba8ac256973837414026c1?utm_campaign=Product%20Management&utm_source=1103)** | Plymouth, MN | On Site | May 21 |
-| **[SharkNinja](http://www.sharkninja.com)** | **[Associate Product Developer - Outdoor](https://jobright.ai/jobs/info/6a0f2d8272b52f7225f3b58a?utm_campaign=Product%20Management&utm_source=1103)** | MA - Needham | On Site | May 21 |
-| ↳ | **[Associate Product Developer - Outdoor](https://jobright.ai/jobs/info/6a0f2d8272b52f7225f3b589?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | May 21 |
+| **[SharkNinja](http://www.sharkninja.com)** | **[Associate Product Developer - Outdoor](https://jobright.ai/jobs/info/6a0f2d8272b52f7225f3b589?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | May 21 |
+| ↳ | **[Associate Product Developer - Outdoor](https://jobright.ai/jobs/info/6a0f2d8272b52f7225f3b58a?utm_campaign=Product%20Management&utm_source=1103)** | MA - Needham | On Site | May 21 |
 | **[Spencer's](http://www.spencersonline.com/)** | **[Assistant Product Manager](https://jobright.ai/jobs/info/6a0f1bf812f8b43cf397bd23?utm_campaign=Product%20Management&utm_source=1103)** | Egg Harbor, NJ | On Site | May 21 |
 | **[Caterpillar Inc.](https://www.caterpillar.com)** | **[Product Auditor IRA Counter - Waco, TX BAWA](https://jobright.ai/jobs/info/6a0f4cab83d714428981e6f1?utm_campaign=Product%20Management&utm_source=1103)** | Waco, TX | On Site | May 21 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Manager - Card Partnerships Team](https://jobright.ai/jobs/info/6a0f151172b52f7225f3ad30?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | May 21 |
@@ -189,8 +190,8 @@ For a complete list, click the following sortable link below:
 | **[Tinder](http://www.tinder.com)** | **[Product Analyst](https://jobright.ai/jobs/info/69ebdc300a6e09555304ac03?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | May 16 |
 | **[Connection](http://www.pcconnection.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/6a086c0d939a5f01db959942?utm_campaign=Product%20Management&utm_source=1103)** | US-NH-Merrimack | On Site | May 16 |
 | ↳ | **[Associate Product Manager](https://jobright.ai/jobs/info/6a086c0d939a5f01db959940?utm_campaign=Product%20Management&utm_source=1103)** | Merrimack, NH, US | On Site | May 16 |
-| **[Werfen](http://www.werfen.com/)** | **[Associate Product Manager, Autoimmunity](https://jobright.ai/jobs/info/6a086ae13b54ed42d74d78bc?utm_campaign=Product%20Management&utm_source=1103)** | US-MA-Bedford | On Site | May 16 |
-| ↳ | **[Associate Product Manager, Autoimmunity](https://jobright.ai/jobs/info/6a086ae13b54ed42d74d78be?utm_campaign=Product%20Management&utm_source=1103)** | Bedford, MA, US | On Site | May 16 |
+| **[Werfen](http://www.werfen.com/)** | **[Associate Product Manager, Autoimmunity](https://jobright.ai/jobs/info/6a086ae13b54ed42d74d78be?utm_campaign=Product%20Management&utm_source=1103)** | Bedford, MA, US | On Site | May 16 |
+| ↳ | **[Associate Product Manager, Autoimmunity](https://jobright.ai/jobs/info/6a086ae13b54ed42d74d78bc?utm_campaign=Product%20Management&utm_source=1103)** | US-MA-Bedford | On Site | May 16 |
 | **[Corning Incorporated](https://www.corning.com/)** | **[Assistant Product Line Manager](https://jobright.ai/jobs/info/6a0ef67f12f8b43cf397aeef?utm_campaign=Product%20Management&utm_source=1103)** | Tolleson, AZ | On Site | May 16 |
 | **[Focal Point, LLC](https://www.focalpointlights.com/)** | **[Associate Product Manager, Lighting Controls](https://jobright.ai/jobs/info/6a084eef403fc339507ecb22?utm_campaign=Product%20Management&utm_source=1103)** | US-NY-Syracuse | On Site | May 16 |
 | ↳ | **[Associate Product Manager, Lighting Controls](https://jobright.ai/jobs/info/6a084eee403fc339507ecb19?utm_campaign=Product%20Management&utm_source=1103)** | Syracuse, NY, US | On Site | May 16 |
@@ -205,5 +206,4 @@ For a complete list, click the following sortable link below:
 | **[UpClear](http://www.upclear.com)** | **[Business System Analyst (Product/Compass)](https://jobright.ai/jobs/info/6a078310a203b1052e43bafc?utm_campaign=Product%20Management&utm_source=1103)** | New York, New York, United States | On Site | May 15 |
 | **[American Express](http://www.americanexpress.com)** | **[Senior Associate Product Manager, Amex Travel App](https://jobright.ai/jobs/info/6a0781a88f3e371eb6177e6a?utm_campaign=Product%20Management&utm_source=1103)** | AMEX 18850 North 56th Street, Phoenix, AZ, 85054, US | On Site | May 15 |
 | **[UpClear](http://www.upclear.com)** | **[Business System Analyst (Product/Compass)](https://jobright.ai/jobs/info/6a07a4d83b54ed42d74d0c31?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | May 15 |
-| **[BMC Software](http://www.bmc.com)** | **[Associate Product Developer](https://jobright.ai/jobs/info/69eb669958811370cb1392a6?utm_campaign=Product%20Management&utm_source=1103)** | Michigan, United States | Hybrid | May 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
