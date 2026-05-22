@@ -57,8 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Medtronic](https://www.medtronic.com)** | **[Associate Product Specialist - CST](https://jobright.ai/jobs/info/6a1056c912f8b43cf3984286?utm_campaign=Product%20Management&utm_source=1103)** | Lafayette, Colorado, United States of America | On Site | May 22 |
-| ↳ | **[Associate Product Specialist - CST](https://jobright.ai/jobs/info/6a1056c912f8b43cf3984285?utm_campaign=Product%20Management&utm_source=1103)** | Memphis, Tennessee, United States of America | On Site | May 22 |
+| **[Boeing](https://www.boeing.com)** | **[Product Acceptance Spec A (Product Acceptance)](https://jobright.ai/jobs/info/6a1069f969bd827926aee259?utm_campaign=Product%20Management&utm_source=1103)** | Wichita, KS, United States | On Site | May 22 |
+| **[Medtronic](https://www.medtronic.com)** | **[Associate Product Specialist - CST](https://jobright.ai/jobs/info/6a1056c912f8b43cf3984285?utm_campaign=Product%20Management&utm_source=1103)** | Memphis, Tennessee, United States of America | On Site | May 22 |
+| ↳ | **[Associate Product Specialist - CST](https://jobright.ai/jobs/info/6a1056c912f8b43cf3984286?utm_campaign=Product%20Management&utm_source=1103)** | Lafayette, Colorado, United States of America | On Site | May 22 |
 | ↳ | **[Associate Product Specialist - CST](https://jobright.ai/jobs/info/6a1056c29fdbf21f36cadd94?utm_campaign=Product%20Management&utm_source=1103)** | Memphis, Tennessee, United States of America | On Site | May 22 |
 | **[Orion](https://orionadvisortech.com/)** | **[Trading Product Specialist](https://jobright.ai/jobs/info/6a10563512f8b43cf398427a?utm_campaign=Product%20Management&utm_source=1103)** | Greater Omaha Area, US | Hybrid | May 22 |
 | ↳ | **[Trading Product Specialist](https://jobright.ai/jobs/info/6a10563312f8b43cf3984279?utm_campaign=Product%20Management&utm_source=1103)** | Greater Philadelphia Area, US | Hybrid | May 22 |
@@ -195,8 +196,8 @@ For a complete list, click the following sortable link below:
 | **[Tinder](http://www.tinder.com)** | **[Product Analyst](https://jobright.ai/jobs/info/69ebdc300a6e09555304ac03?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | May 16 |
 | **[Connection](http://www.pcconnection.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/6a086c0d939a5f01db959942?utm_campaign=Product%20Management&utm_source=1103)** | US-NH-Merrimack | On Site | May 16 |
 | ↳ | **[Associate Product Manager](https://jobright.ai/jobs/info/6a086c0d939a5f01db959940?utm_campaign=Product%20Management&utm_source=1103)** | Merrimack, NH, US | On Site | May 16 |
-| **[Werfen](http://www.werfen.com/)** | **[Associate Product Manager, Autoimmunity](https://jobright.ai/jobs/info/6a086ae13b54ed42d74d78be?utm_campaign=Product%20Management&utm_source=1103)** | Bedford, MA, US | On Site | May 16 |
-| ↳ | **[Associate Product Manager, Autoimmunity](https://jobright.ai/jobs/info/6a086ae13b54ed42d74d78bc?utm_campaign=Product%20Management&utm_source=1103)** | US-MA-Bedford | On Site | May 16 |
+| **[Werfen](http://www.werfen.com/)** | **[Associate Product Manager, Autoimmunity](https://jobright.ai/jobs/info/6a086ae13b54ed42d74d78bc?utm_campaign=Product%20Management&utm_source=1103)** | US-MA-Bedford | On Site | May 16 |
+| ↳ | **[Associate Product Manager, Autoimmunity](https://jobright.ai/jobs/info/6a086ae13b54ed42d74d78be?utm_campaign=Product%20Management&utm_source=1103)** | Bedford, MA, US | On Site | May 16 |
 | **[Corning Incorporated](https://www.corning.com/)** | **[Assistant Product Line Manager](https://jobright.ai/jobs/info/6a0ef67f12f8b43cf397aeef?utm_campaign=Product%20Management&utm_source=1103)** | Tolleson, AZ | On Site | May 16 |
 | **[Focal Point, LLC](https://www.focalpointlights.com/)** | **[Associate Product Manager, Lighting Controls](https://jobright.ai/jobs/info/6a084eef403fc339507ecb22?utm_campaign=Product%20Management&utm_source=1103)** | US-NY-Syracuse | On Site | May 16 |
 | ↳ | **[Associate Product Manager, Lighting Controls](https://jobright.ai/jobs/info/6a084eee403fc339507ecb19?utm_campaign=Product%20Management&utm_source=1103)** | Syracuse, NY, US | On Site | May 16 |
