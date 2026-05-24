@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[KKR](http://www.kkr.com)** | **[Analyst, Product Operations](https://jobright.ai/jobs/info/6a12e9dd9fdbf21f36cb7a57?utm_campaign=Product%20Management&utm_source=1103)** | Hartford | On Site | May 24 |
+| ↳ | **[Analyst, Product Operations](https://jobright.ai/jobs/info/6a12e9dc9fdbf21f36cb7a56?utm_campaign=Product%20Management&utm_source=1103)** | Hartford, CT | On Site | May 24 |
 | **[PointClickCare](http://www.pointclickcare.com)** | **[Associate Product Manager - Data Projects](https://jobright.ai/jobs/info/6a127a5969bd827926af5e1e?utm_campaign=Product%20Management&utm_source=1103)** | Remote, USA | Remote | May 23 |
 | **[DrFirst, Inc.](http://drfirst.com)** | **[Associate Product Analyst - ePrescribing Platform](https://jobright.ai/jobs/info/6a12173e619335383fb395ac?utm_campaign=Product%20Management&utm_source=1103)** | UNAVAILABLE, UNAVAILABLE, US | Remote | May 23 |
 | ↳ | **[Associate Product Analyst - ePrescribing Platform](https://jobright.ai/jobs/info/6a12173e619335383fb395ad?utm_campaign=Product%20Management&utm_source=1103)** | US- | Remote | May 23 |
@@ -129,8 +131,8 @@ For a complete list, click the following sortable link below:
 | **[Stanley Black & Decker, Inc.](https://www.stanleyblackanddecker.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/6a0e30d680bf0430c762a66c?utm_campaign=Product%20Management&utm_source=1103)** | Towson, MD, United States, US | Hybrid | May 20 |
 | **[Amentum](https://www.amentum.com/)** | **[Research and Product Development Analyst](https://jobright.ai/jobs/info/6a0e2df047fea1610bca7c29?utm_campaign=Product%20Management&utm_source=1103)** | Spokane, WA | On Site | May 20 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Manager - Card Partnerships Team](https://jobright.ai/jobs/info/6a0e26dbc152ac7824483cbc?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL, US | On Site | May 20 |
-| ↳ | **[Senior Associate, Product Manager - Card Partnerships Team](https://jobright.ai/jobs/info/6a0e26dbc152ac7824483cbd?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY, US | On Site | May 20 |
 | ↳ | **[Senior Associate, Product Manager - Card Partnerships Team](https://jobright.ai/jobs/info/6a0e26dbc152ac7824483cbf?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA, US | On Site | May 20 |
+| ↳ | **[Senior Associate, Product Manager - Card Partnerships Team](https://jobright.ai/jobs/info/6a0e26dbc152ac7824483cbd?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY, US | On Site | May 20 |
 | **[Camping World](https://investor.campingworld.com)** | **[Product Specialist Advisor](https://jobright.ai/jobs/info/6a0e1b4d80bf0430c762972e?utm_campaign=Product%20Management&utm_source=1103)** | St Augustine, FL | On Site | May 20 |
 | **[TikTok](https://www.tiktok.com)** | **[TikTok Shop - Product Operations Manager, Brand Operation GTM](https://jobright.ai/jobs/info/6a0e108847fea1610bca68b4?utm_campaign=Product%20Management&utm_source=1103)** | Seattle, WA | On Site | May 20 |
 | **[Amazon](https://amazon.com)** | **[Sourcing Manager, WWGS Private Brands](https://jobright.ai/jobs/info/6a0e0d6709ecfd704b3e5589?utm_campaign=Product%20Management&utm_source=1103)** | Seattle, WA | On Site | May 20 |
@@ -173,8 +175,8 @@ For a complete list, click the following sortable link below:
 | **[Beauty Baby Gifts](https://www.neweracap.com/)** | **[Associate, Product Line (Lifestyle)](https://jobright.ai/jobs/info/6a0cab4ea235d749afa8f029?utm_campaign=Product%20Management&utm_source=1103)** | Buffalo, NY, US | On Site | May 19 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management - Global Payment Network](https://jobright.ai/jobs/info/6a0caab60411d7417a1bb011?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL, US | On Site | May 19 |
 | ↳ | **[Senior Associate, Product Management - Global Payment Network](https://jobright.ai/jobs/info/6a0caab60411d7417a1bb010?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY, US | On Site | May 19 |
-| ↳ | **[Senior Associate, Product Management - Global Payment Network](https://jobright.ai/jobs/info/6a0caab50411d7417a1bb00e?utm_campaign=Product%20Management&utm_source=1103)** | Riverwoods, IL, US | On Site | May 19 |
 | ↳ | **[Senior Associate, Product Management - Global Payment Network](https://jobright.ai/jobs/info/6a0caab50411d7417a1bb00f?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA, US | On Site | May 19 |
+| ↳ | **[Senior Associate, Product Management - Global Payment Network](https://jobright.ai/jobs/info/6a0caab50411d7417a1bb00e?utm_campaign=Product%20Management&utm_source=1103)** | Riverwoods, IL, US | On Site | May 19 |
 | **[Amazon](https://amazon.com)** | **[Product Manager II - AMZ9675408](https://jobright.ai/jobs/info/6a109c4312f8b43cf398655b?utm_campaign=Product%20Management&utm_source=1103)** | Santa Monica, California, USA | On Site | May 19 |
 | **[Joyous](https://www.joyous.team)** | **[Junior Product Manager](https://jobright.ai/jobs/info/6a0ca7a50411d7417a1babc6?utm_campaign=Product%20Management&utm_source=1103)** | Foster City, California, United States | On Site | May 19 |
 | **[Athena Club](https://athenaclub.com)** | **[Associate Product Development, Packaging](https://jobright.ai/jobs/info/6a065a807c753c287f702ab4?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | May 19 |
