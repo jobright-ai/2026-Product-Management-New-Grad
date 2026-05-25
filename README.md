@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Super Micro Computer Spain, S.L.](http://www.supermicro.es)** | **[Associate Product Manager](https://jobright.ai/jobs/info/6a139edb619335383fb3d2fb?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA | On Site | May 24 |
 | **[IXL Learning](https://www.ixl.com/)** | **[IXL Associate Product Manager](https://jobright.ai/jobs/info/6a133f4c69bd827926af7d9e?utm_campaign=Product%20Management&utm_source=1103)** | San Mateo, CA | On Site | May 24 |
 | **[Boeing](https://www.boeing.com)** | **[Product Acceptance Specialist](https://jobright.ai/jobs/info/69be5ef5393a1008f7445c80?utm_campaign=Product%20Management&utm_source=1103)** | North Charleston, SC | On Site | May 24 |
 | **[KKR](http://www.kkr.com)** | **[Analyst, Product Operations](https://jobright.ai/jobs/info/6a12e9dd9fdbf21f36cb7a57?utm_campaign=Product%20Management&utm_source=1103)** | Hartford | On Site | May 24 |
@@ -135,8 +136,8 @@ For a complete list, click the following sortable link below:
 | **[ClaimsHero](https://claimshero.com/)** | **[Associate Product Manager](https://jobright.ai/jobs/info/6a0e342983d7144289816f6d?utm_campaign=Product%20Management&utm_source=1103)** | Miami Beach, FL | Hybrid | May 20 |
 | **[Stanley Black & Decker, Inc.](https://www.stanleyblackanddecker.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/6a0e30d680bf0430c762a66c?utm_campaign=Product%20Management&utm_source=1103)** | Towson, MD, United States, US | Hybrid | May 20 |
 | **[Amentum](https://www.amentum.com/)** | **[Research and Product Development Analyst](https://jobright.ai/jobs/info/6a0e2df047fea1610bca7c29?utm_campaign=Product%20Management&utm_source=1103)** | Spokane, WA | On Site | May 20 |
-| **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Manager - Card Partnerships Team](https://jobright.ai/jobs/info/6a0e26dbc152ac7824483cbd?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY, US | On Site | May 20 |
-| ↳ | **[Senior Associate, Product Manager - Card Partnerships Team](https://jobright.ai/jobs/info/6a0e26dbc152ac7824483cbf?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA, US | On Site | May 20 |
+| **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Manager - Card Partnerships Team](https://jobright.ai/jobs/info/6a0e26dbc152ac7824483cbf?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA, US | On Site | May 20 |
+| ↳ | **[Senior Associate, Product Manager - Card Partnerships Team](https://jobright.ai/jobs/info/6a0e26dbc152ac7824483cbd?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY, US | On Site | May 20 |
 | ↳ | **[Senior Associate, Product Manager - Card Partnerships Team](https://jobright.ai/jobs/info/6a0e26dbc152ac7824483cbc?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL, US | On Site | May 20 |
 | **[Camping World](https://investor.campingworld.com)** | **[Product Specialist Advisor](https://jobright.ai/jobs/info/6a0e1b4d80bf0430c762972e?utm_campaign=Product%20Management&utm_source=1103)** | St Augustine, FL | On Site | May 20 |
 | **[TikTok](https://www.tiktok.com)** | **[TikTok Shop - Product Operations Manager, Brand Operation GTM](https://jobright.ai/jobs/info/6a0e108847fea1610bca68b4?utm_campaign=Product%20Management&utm_source=1103)** | Seattle, WA | On Site | May 20 |
