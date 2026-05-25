@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Navan](https://navan.com)** | **[Product Manager, Navan Connect](https://jobright.ai/jobs/info/6a1472de554b0e12c057f1e3?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, CA | On Site | May 25 |
 | **[MSCI Inc.](http://msci.com)** | **[Analyst, Private Assets Product Management](https://jobright.ai/jobs/info/69fab6a186d5cd46527cf9df?utm_campaign=Product%20Management&utm_source=1103)** | New York, United States | Hybrid | May 25 |
 | **[Reebelo](https://www.reebelo.com)** | **[Associate Product Manager (eCommerce / marketplace)](https://jobright.ai/jobs/info/6a141544c2dca06fac404342?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | May 25 |
 | ↳ | **[Associate Product Manager (eCommerce / marketplace)](https://jobright.ai/jobs/info/6a1414eab689d6757fc1c357?utm_campaign=Product%20Management&utm_source=1103)** | New York, United States | Hybrid | May 25 |
@@ -189,8 +190,8 @@ For a complete list, click the following sortable link below:
 | **[Beauty Baby Gifts](https://www.neweracap.com/)** | **[Associate, Product Line (Lifestyle)](https://jobright.ai/jobs/info/6a0cab4ea235d749afa8f029?utm_campaign=Product%20Management&utm_source=1103)** | Buffalo, NY, US | On Site | May 19 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management - Global Payment Network](https://jobright.ai/jobs/info/6a0caab60411d7417a1bb010?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY, US | On Site | May 19 |
 | ↳ | **[Senior Associate, Product Management - Global Payment Network](https://jobright.ai/jobs/info/6a0caab60411d7417a1bb011?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL, US | On Site | May 19 |
-| ↳ | **[Senior Associate, Product Management - Global Payment Network](https://jobright.ai/jobs/info/6a0caab50411d7417a1bb00e?utm_campaign=Product%20Management&utm_source=1103)** | Riverwoods, IL, US | On Site | May 19 |
 | ↳ | **[Senior Associate, Product Management - Global Payment Network](https://jobright.ai/jobs/info/6a0caab50411d7417a1bb00f?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA, US | On Site | May 19 |
+| ↳ | **[Senior Associate, Product Management - Global Payment Network](https://jobright.ai/jobs/info/6a0caab50411d7417a1bb00e?utm_campaign=Product%20Management&utm_source=1103)** | Riverwoods, IL, US | On Site | May 19 |
 | **[Amazon](https://amazon.com)** | **[Product Manager II - AMZ9675408](https://jobright.ai/jobs/info/6a109c4312f8b43cf398655b?utm_campaign=Product%20Management&utm_source=1103)** | Santa Monica, California, USA | On Site | May 19 |
 | **[Joyous](https://www.joyous.team)** | **[Junior Product Manager](https://jobright.ai/jobs/info/6a0ca7a50411d7417a1babc6?utm_campaign=Product%20Management&utm_source=1103)** | Foster City, California, United States | On Site | May 19 |
 | **[Athena Club](https://athenaclub.com)** | **[Associate Product Development, Packaging](https://jobright.ai/jobs/info/6a065a807c753c287f702ab4?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | May 19 |
@@ -203,5 +204,4 @@ For a complete list, click the following sortable link below:
 | **[JPMorganChase](https://www.jpmorganchase.com)** | **[Payments - Cross Currency- Product Analyst](https://jobright.ai/jobs/info/6a0bd4e4a235d749afa88d6b?utm_campaign=Product%20Management&utm_source=1103)** | 10 S Dearborn St, Chicago, IL, 60603, US | On Site | May 18 |
 | **[Chase](https://www.chase.com/)** | **[Payments - Cross Currency- Product Analyst](https://jobright.ai/jobs/info/6a0bd16e0411d7417a1b45cb?utm_campaign=Product%20Management&utm_source=1103)** | 10 S Dearborn St, Chicago, IL, 60603, US | On Site | May 18 |
 | **[CareFirst BlueCross BlueShield](https://individual.carefirst.com)** | **[Associate Product Manager - Lifecycle - (Hybrid)](https://jobright.ai/jobs/info/6a0bc85122d0d34036c8f8f2?utm_campaign=Product%20Management&utm_source=1103)** | Baltimore, MD | Hybrid | May 18 |
-| **[Holman](http://www.holmanauto.com)** | **[Product Genius - BMW of Tigard](https://jobright.ai/jobs/info/6a0bab070411d7417a1b32f9?utm_campaign=Product%20Management&utm_source=1103)** | Tigard, OR | On Site | May 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
