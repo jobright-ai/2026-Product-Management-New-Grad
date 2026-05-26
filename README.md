@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AlphaSense](https://www.alpha-sense.com/)** | **[Product Analyst, Financial Data](https://jobright.ai/jobs/info/6a153b1e128680351d9600f4?utm_campaign=Product%20Management&utm_source=1103)** | Remote - Canada | Remote | May 25 |
 | **[IXL Learning](https://www.ixl.com/)** | **[Associate Product Manager, Rosetta Stone](https://jobright.ai/jobs/info/6a151d08128680351d95f74e?utm_campaign=Product%20Management&utm_source=1103)** | San Mateo, CA | On Site | May 25 |
 | **[Euna Solutions](https://eunasolutions.com/)** | **[Junior Product Owner](https://jobright.ai/jobs/info/6a14d65b738a270c8bfa8d3b?utm_campaign=Product%20Management&utm_source=1103)** | Oakville, Ontario, Canada | Hybrid | May 25 |
 | **[Anduril Industries](https://www.anduril.com)** | **[Strategic Finance, Product Development](https://jobright.ai/jobs/info/6a14ca14bc9bff375af022ab?utm_campaign=Product%20Management&utm_source=1103)** | Costa Mesa, CA (HQ) | On Site | May 25 |
@@ -74,8 +75,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Analyst, Product Operations](https://jobright.ai/jobs/info/6a12e9dc9fdbf21f36cb7a56?utm_campaign=Product%20Management&utm_source=1103)** | Hartford, CT | On Site | May 24 |
 | **[Amount](http://www.amount.com)** | **[Jr. Product Manager](https://jobright.ai/jobs/info/69d988da869c7e25d859b7b3?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | Hybrid | May 24 |
 | **[PointClickCare](http://www.pointclickcare.com)** | **[Associate Product Manager - Data Projects](https://jobright.ai/jobs/info/6a127a5969bd827926af5e1e?utm_campaign=Product%20Management&utm_source=1103)** | Remote, USA | Remote | May 23 |
-| **[DrFirst, Inc.](http://drfirst.com)** | **[Associate Product Analyst - ePrescribing Platform](https://jobright.ai/jobs/info/6a12173e619335383fb395ad?utm_campaign=Product%20Management&utm_source=1103)** | US- | Remote | May 23 |
-| ↳ | **[Associate Product Analyst - ePrescribing Platform](https://jobright.ai/jobs/info/6a12173e619335383fb395ac?utm_campaign=Product%20Management&utm_source=1103)** | UNAVAILABLE, UNAVAILABLE, US | Remote | May 23 |
+| **[DrFirst, Inc.](http://drfirst.com)** | **[Associate Product Analyst - ePrescribing Platform](https://jobright.ai/jobs/info/6a12173e619335383fb395ac?utm_campaign=Product%20Management&utm_source=1103)** | UNAVAILABLE, UNAVAILABLE, US | Remote | May 23 |
+| ↳ | **[Associate Product Analyst - ePrescribing Platform](https://jobright.ai/jobs/info/6a12173e619335383fb395ad?utm_campaign=Product%20Management&utm_source=1103)** | US- | Remote | May 23 |
 | **[EA SPORTS](http://www.EASports.com)** | **[Game Product Manager](https://jobright.ai/jobs/info/69f51bcc0b36ff03547507ea?utm_campaign=Product%20Management&utm_source=1103)** | Vancouver, British Columbia, Canada | Hybrid | May 23 |
 | **[CHEManager International](https://www.chemanager-online.com/en)** | **[Research and Product Development Analyst](https://jobright.ai/jobs/info/6a13d18a9fdbf21f36cba765?utm_campaign=Product%20Management&utm_source=1103)** | Spokane, WA | On Site | May 23 |
 | **[insightsoftware](https://www.insightsoftware.com)** | **[Product Owner, Batch Processing - Equity](https://jobright.ai/jobs/info/6a0b3e6e538d03366dc831ae?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | May 23 |
@@ -193,11 +194,9 @@ For a complete list, click the following sortable link below:
 | **[Beauty Baby Gifts](https://www.neweracap.com/)** | **[Associate, Product Line (Lifestyle)](https://jobright.ai/jobs/info/6a0cab4ea235d749afa8f029?utm_campaign=Product%20Management&utm_source=1103)** | Buffalo, NY, US | On Site | May 19 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management - Global Payment Network](https://jobright.ai/jobs/info/6a0caab60411d7417a1bb010?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY, US | On Site | May 19 |
 | ↳ | **[Senior Associate, Product Management - Global Payment Network](https://jobright.ai/jobs/info/6a0caab60411d7417a1bb011?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL, US | On Site | May 19 |
-| ↳ | **[Senior Associate, Product Management - Global Payment Network](https://jobright.ai/jobs/info/6a0caab50411d7417a1bb00e?utm_campaign=Product%20Management&utm_source=1103)** | Riverwoods, IL, US | On Site | May 19 |
 | ↳ | **[Senior Associate, Product Management - Global Payment Network](https://jobright.ai/jobs/info/6a0caab50411d7417a1bb00f?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA, US | On Site | May 19 |
+| ↳ | **[Senior Associate, Product Management - Global Payment Network](https://jobright.ai/jobs/info/6a0caab50411d7417a1bb00e?utm_campaign=Product%20Management&utm_source=1103)** | Riverwoods, IL, US | On Site | May 19 |
 | **[Amazon](https://amazon.com)** | **[Product Manager II - AMZ9675408](https://jobright.ai/jobs/info/6a109c4312f8b43cf398655b?utm_campaign=Product%20Management&utm_source=1103)** | Santa Monica, California, USA | On Site | May 19 |
 | **[Joyous](https://www.joyous.team)** | **[Junior Product Manager](https://jobright.ai/jobs/info/6a0ca7a50411d7417a1babc6?utm_campaign=Product%20Management&utm_source=1103)** | Foster City, California, United States | On Site | May 19 |
 | **[Athena Club](https://athenaclub.com)** | **[Associate Product Development, Packaging](https://jobright.ai/jobs/info/6a065a807c753c287f702ab4?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | May 19 |
-| **[Fuze Health](https://www.fuzehealth.com/)** | **[Early Career Product Analyst, Supply Chain and Logistics - FuzeRx](https://jobright.ai/jobs/info/69b85ac43b74eb1e2c860deb?utm_campaign=Product%20Management&utm_source=1103)** | Texas, United States | On Site | May 19 |
-| **[PointClickCare](http://www.pointclickcare.com)** | **[Associate Product Manager - Data Projects](https://jobright.ai/jobs/info/6a0c6f7e963f7a67d95d79da?utm_campaign=Product%20Management&utm_source=1103)** | Mississauga, Ontario | Hybrid | May 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
