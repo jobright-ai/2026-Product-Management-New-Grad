@@ -57,16 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Camping World](https://investor.campingworld.com)** | **[Product Specialist Advisor](https://jobright.ai/jobs/info/6a062e767c753c287f700174?utm_campaign=Product%20Management&utm_source=1103)** | Kansas City, KS, US | On Site | Jul 06 |
+| **[Camping World](https://investor.campingworld.com)** | **[Product Specialist Advisor](https://jobright.ai/jobs/info/6a0c72d04d932036368784b0?utm_campaign=Product%20Management&utm_source=1103)** | Lowell, AR, US | On Site | Jul 06 |
+| ↳ | **[Product Specialist Advisor](https://jobright.ai/jobs/info/6a062e767c753c287f700174?utm_campaign=Product%20Management&utm_source=1103)** | Kansas City, KS, US | On Site | Jul 06 |
 | ↳ | **[Product Specialist Advisor](https://jobright.ai/jobs/info/6a31272f35e80310003a5440?utm_campaign=Product%20Management&utm_source=1103)** | London, KY, US | On Site | Jul 06 |
-| ↳ | **[Product Specialist Advisor](https://jobright.ai/jobs/info/6a0c72d04d932036368784b0?utm_campaign=Product%20Management&utm_source=1103)** | Lowell, AR, US | On Site | Jul 06 |
 | ↳ | **[Product Specialist Advisor-1](https://jobright.ai/jobs/info/6a15c9b01935fa61b3c6b6cf?utm_campaign=Product%20Management&utm_source=1103)** | Pooler, GA, US | On Site | Jul 06 |
 | **[Evertz](http://www.evertz.com/)** | **[Product Coordinator](https://jobright.ai/jobs/info/6a427d4a6c326942b4e83031?utm_campaign=Product%20Management&utm_source=1103)** | Burlington, ON, Canada | On Site | Jul 05 |
 | **[Kinective](https://www.kinective.io)** | **[Technical Business Analyst](https://jobright.ai/jobs/info/6a210c26c00e701fe836cf23?utm_campaign=Product%20Management&utm_source=1103)** | Golden,CO,US | On Site | Jul 05 |
 | ↳ | **[Technical Business Analyst](https://jobright.ai/jobs/info/6a1b04f3547e292ae139bb40?utm_campaign=Product%20Management&utm_source=1103)** | Golden, CO, US | On Site | Jul 05 |
 | **[insightsoftware](https://www.insightsoftware.com)** | **[Product Owner, Batch Processing - Equity](https://jobright.ai/jobs/info/6a0b3e6e538d03366dc831ae?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Jul 05 |
-| **[Connection](http://www.pcconnection.com)** | **[Product Data Editor](https://jobright.ai/jobs/info/69a0a4d15218a8167671d1c7?utm_campaign=Product%20Management&utm_source=1103)** | US-NH-Merrimack | On Site | Jul 05 |
-| ↳ | **[Product Data Editor](https://jobright.ai/jobs/info/69a0b12781476f6176bafddd?utm_campaign=Product%20Management&utm_source=1103)** | Merrimack, NH, US | On Site | Jul 05 |
+| **[Connection](http://www.pcconnection.com)** | **[Product Data Editor](https://jobright.ai/jobs/info/69a0b12781476f6176bafddd?utm_campaign=Product%20Management&utm_source=1103)** | Merrimack, NH, US | On Site | Jul 05 |
+| ↳ | **[Product Data Editor](https://jobright.ai/jobs/info/69a0a4d15218a8167671d1c7?utm_campaign=Product%20Management&utm_source=1103)** | US-NH-Merrimack | On Site | Jul 05 |
 | **[Navitus Health Solutions](https://www.navitus.com/)** | **[Assoc. Product Manager, Innov. Pharm. Prog.](https://jobright.ai/jobs/info/6a32e76ece501060b5ceaf37?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Jul 04 |
 | **[Van Marcke](https://www.vanmarcke.com/)** | **[Product Purchasing Assistant](https://jobright.ai/jobs/info/6a42d8b81cc9cc2b12fed138?utm_campaign=Product%20Management&utm_source=1103)** | Corporate Head Quarters - Phoenix, AZ 85034 | On Site | Jul 04 |
 | **[Navitus Health Solutions](https://www.navitus.com/)** | **[Assoc. Product Manager, Innov. Pharm. Prog.](https://jobright.ai/jobs/info/6a32d84c910b73491071209e?utm_campaign=Product%20Management&utm_source=1103)** | US | Remote | Jul 04 |
