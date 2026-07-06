@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Wisedocs](https://www.wisedocs.ai)** | **[Product Manager](https://jobright.ai/jobs/info/6a4bffe3971cd25b06f99326?utm_campaign=Product%20Management&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Jul 06 |
+| **[Gemini, Inc.](https://geminimade.com)** | **[Sales, Product & Marketing Leadership Program](https://jobright.ai/jobs/info/6a22884164b4892bbbfb5cd2?utm_campaign=Product%20Management&utm_source=1103)** | Liberty Lake, WA, US | On Site | Jul 06 |
 | **[High Life LLC](http://highlifellc.com)** | **[Product Development Assistant](https://jobright.ai/jobs/info/6a2b1afb0ad4053b108cacb7?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Jul 06 |
 | **[CDK Global](http://www.cdkglobal.com/)** | **[Associate Product Manager](https://jobright.ai/jobs/info/6a1f3d8209442629a6858b97?utm_campaign=Product%20Management&utm_source=1103)** | Austin, TX, USA, US | Hybrid | Jul 06 |
 | **[Pinterest](https://www.pinterest.com/)** | **[Apprentice Product Researcher](https://jobright.ai/jobs/info/6a4bee7c971cd25b06f98e65?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, CA, US | Remote | Jul 06 |
@@ -64,17 +66,16 @@ For a complete list, click the following sortable link below:
 | **[PointClickCare](http://www.pointclickcare.com)** | **[Associate Product Manager - Advanced Insights](https://jobright.ai/jobs/info/6a43ea0b105260150b720219?utm_campaign=Product%20Management&utm_source=1103)** | Remote, USA | Remote | Jul 06 |
 | **[Pinterest](https://www.pinterest.com/)** | **[Apprentice Product Manager](https://jobright.ai/jobs/info/6a4bedd25d7b097d2df3ec29?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Jul 06 |
 | ↳ | **[Apprentice Product Researcher](https://jobright.ai/jobs/info/6a4bed724eb370649b27b8c8?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Jul 06 |
-| **[Gemini, Inc.](https://geminimade.com)** | **[Sales, Product & Marketing Leadership Program](https://jobright.ai/jobs/info/6a22884164b4892bbbfb5cd2?utm_campaign=Product%20Management&utm_source=1103)** | Liberty Lake, WA, US | On Site | Jul 06 |
 | **[Best Buy](https://www.bestbuy.com/)** | **[SWAT Product Flow Specialist](https://jobright.ai/jobs/info/6a4560a63dbab558e29a1163?utm_campaign=Product%20Management&utm_source=1103)** | Fort Collins, Colorado | On Site | Jul 06 |
 | **[Chase](https://www.chase.com)** | **[Intraday Liquidity Product Management, Associate](https://jobright.ai/jobs/info/6a4bbf68c2d11a6a466787ca?utm_campaign=Product%20Management&utm_source=1103)** | 270 Park Ave, New York, NY, 10017, US | On Site | Jul 06 |
 | **[Plymouth Rock Assurance](https://www.plymouthrock.com)** | **[Product Analyst](https://jobright.ai/jobs/info/6a4bbc2dc2d11a6a466786b9?utm_campaign=Product%20Management&utm_source=1103)** | Woodbridge, NJ | On Site | Jul 06 |
 | **[Capital One](http://www.capitalone.com)** | **[Product Development Program Associate - 2027](https://jobright.ai/jobs/info/6a4baac14f64ba41dcb5cb6e?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA, United States of America | Hybrid | Jul 06 |
 | **[Camping World](https://investor.campingworld.com)** | **[Product Specialist Advisor-1](https://jobright.ai/jobs/info/6a15c9b01935fa61b3c6b6cf?utm_campaign=Product%20Management&utm_source=1103)** | Pooler, GA, US | On Site | Jul 06 |
-| ↳ | **[Product Specialist Advisor](https://jobright.ai/jobs/info/6a062e767c753c287f700174?utm_campaign=Product%20Management&utm_source=1103)** | Kansas City, KS, US | On Site | Jul 06 |
 | ↳ | **[Product Specialist Advisor](https://jobright.ai/jobs/info/6a0c72d04d932036368784b0?utm_campaign=Product%20Management&utm_source=1103)** | Lowell, AR, US | On Site | Jul 06 |
+| ↳ | **[Product Specialist Advisor](https://jobright.ai/jobs/info/6a062e767c753c287f700174?utm_campaign=Product%20Management&utm_source=1103)** | Kansas City, KS, US | On Site | Jul 06 |
 | **[Evertz](http://www.evertz.com/)** | **[Product Coordinator](https://jobright.ai/jobs/info/6a427d4a6c326942b4e83031?utm_campaign=Product%20Management&utm_source=1103)** | Burlington, ON, Canada | On Site | Jul 05 |
-| **[Kinective](https://www.kinective.io)** | **[Technical Business Analyst](https://jobright.ai/jobs/info/6a210c26c00e701fe836cf23?utm_campaign=Product%20Management&utm_source=1103)** | Golden,CO,US | On Site | Jul 05 |
-| ↳ | **[Technical Business Analyst](https://jobright.ai/jobs/info/6a1b04f3547e292ae139bb40?utm_campaign=Product%20Management&utm_source=1103)** | Golden, CO, US | On Site | Jul 05 |
+| **[Kinective](https://www.kinective.io)** | **[Technical Business Analyst](https://jobright.ai/jobs/info/6a1b04f3547e292ae139bb40?utm_campaign=Product%20Management&utm_source=1103)** | Golden, CO, US | On Site | Jul 05 |
+| ↳ | **[Technical Business Analyst](https://jobright.ai/jobs/info/6a210c26c00e701fe836cf23?utm_campaign=Product%20Management&utm_source=1103)** | Golden,CO,US | On Site | Jul 05 |
 | **[insightsoftware](https://www.insightsoftware.com)** | **[Product Owner, Batch Processing - Equity](https://jobright.ai/jobs/info/6a0b3e6e538d03366dc831ae?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Jul 05 |
 | **[Connection](http://www.pcconnection.com)** | **[Product Data Editor](https://jobright.ai/jobs/info/69a0b12781476f6176bafddd?utm_campaign=Product%20Management&utm_source=1103)** | Merrimack, NH, US | On Site | Jul 05 |
 | ↳ | **[Product Data Editor](https://jobright.ai/jobs/info/69a0a4d15218a8167671d1c7?utm_campaign=Product%20Management&utm_source=1103)** | US-NH-Merrimack | On Site | Jul 05 |
