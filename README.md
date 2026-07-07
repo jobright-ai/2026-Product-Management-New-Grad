@@ -57,12 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Proper Voltage](https://zapbatt.com)** | **[Associate Product & Programs Engineer](https://jobright.ai/jobs/info/6a4c2bfe4eb370649b27c871?utm_campaign=Product%20Management&utm_source=1103)** | Carlsbad, CA | On Site | Jul 06 |
 | **[Comcast](https://corporate.comcast.com)** | **[Specialist, Technical Product Sales Support, Comcast Business](https://jobright.ai/jobs/info/6a4c16df6189f64e437f115f?utm_campaign=Product%20Management&utm_source=1103)** | MD - Baltimore, 8031 Corporate Dr, United States of America | On Site | Jul 06 |
 | **[Wisedocs](https://www.wisedocs.ai)** | **[Product Manager](https://jobright.ai/jobs/info/6a4bffe3971cd25b06f99326?utm_campaign=Product%20Management&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Jul 06 |
-| **[Camping World](https://investor.campingworld.com)** | **[Product Specialist Advisor](https://jobright.ai/jobs/info/6a0c72d04d932036368784b0?utm_campaign=Product%20Management&utm_source=1103)** | Lowell, AR, US | On Site | Jul 06 |
-| ↳ | **[Product Specialist Advisor-1](https://jobright.ai/jobs/info/6a15c9b01935fa61b3c6b6cf?utm_campaign=Product%20Management&utm_source=1103)** | Pooler, GA, US | On Site | Jul 06 |
+| **[Camping World](https://investor.campingworld.com)** | **[Product Specialist Advisor](https://jobright.ai/jobs/info/6a31272f35e80310003a5440?utm_campaign=Product%20Management&utm_source=1103)** | London, KY, United States of America | On Site | Jul 06 |
+| ↳ | **[Product Specialist Advisor](https://jobright.ai/jobs/info/6a0c72d04d932036368784b0?utm_campaign=Product%20Management&utm_source=1103)** | Lowell, AR, US | On Site | Jul 06 |
 | ↳ | **[Product Specialist Advisor](https://jobright.ai/jobs/info/6a062e767c753c287f700174?utm_campaign=Product%20Management&utm_source=1103)** | Kansas City, KS, US | On Site | Jul 06 |
-| ↳ | **[Product Specialist Advisor](https://jobright.ai/jobs/info/6a31272f35e80310003a5440?utm_campaign=Product%20Management&utm_source=1103)** | London, KY, United States of America | On Site | Jul 06 |
+| ↳ | **[Product Specialist Advisor-1](https://jobright.ai/jobs/info/6a15c9b01935fa61b3c6b6cf?utm_campaign=Product%20Management&utm_source=1103)** | Pooler, GA, US | On Site | Jul 06 |
 | **[Gemini, Inc.](https://geminimade.com)** | **[Sales, Product & Marketing Leadership Program](https://jobright.ai/jobs/info/6a22884164b4892bbbfb5cd2?utm_campaign=Product%20Management&utm_source=1103)** | Liberty Lake, WA, US | On Site | Jul 06 |
 | **[High Life LLC](http://highlifellc.com)** | **[Product Development Assistant](https://jobright.ai/jobs/info/6a2b1afb0ad4053b108cacb7?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Jul 06 |
 | **[Pinterest](https://www.pinterest.com/)** | **[Apprentice Product Manager](https://jobright.ai/jobs/info/6a4bee836189f64e437f0655?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, CA, US | Remote | Jul 06 |
@@ -85,12 +86,12 @@ For a complete list, click the following sortable link below:
 | **[Van Marcke](https://www.vanmarcke.com/)** | **[Product Purchasing Assistant](https://jobright.ai/jobs/info/6a42d8b81cc9cc2b12fed138?utm_campaign=Product%20Management&utm_source=1103)** | Corporate Head Quarters - Phoenix, AZ 85034 | On Site | Jul 04 |
 | **[Navitus Health Solutions](https://www.navitus.com/)** | **[Assoc. Product Manager, Innov. Pharm. Prog.](https://jobright.ai/jobs/info/6a32d84c910b73491071209e?utm_campaign=Product%20Management&utm_source=1103)** | US | Remote | Jul 04 |
 | **[Spencer's](http://www.spencersonline.com/)** | **[Assistant Product Manager](https://jobright.ai/jobs/info/6a0f396980bf0430c7631b8e?utm_campaign=Product%20Management&utm_source=1103)** | Egg Harbor, NJ | On Site | Jul 04 |
-| ↳ | **[Assistant Product Manager](https://jobright.ai/jobs/info/6a32af5f29c90c607e4d777c?utm_campaign=Product%20Management&utm_source=1103)** | Egg Harbor Township, NJ, United States | On Site | Jul 04 |
-| ↳ | **[Assistant Product Manager](https://jobright.ai/jobs/info/69f23df28feca91f14923d91?utm_campaign=Product%20Management&utm_source=1103)** | Egg Harbor Township, NJ, US | On Site | Jul 04 |
 | ↳ | **[Assistant Product Manager](https://jobright.ai/jobs/info/69f23df5ecbc8c2f73209951?utm_campaign=Product%20Management&utm_source=1103)** | US-NJ-Egg Harbor Township | On Site | Jul 04 |
+| ↳ | **[Assistant Product Manager](https://jobright.ai/jobs/info/69f23df28feca91f14923d91?utm_campaign=Product%20Management&utm_source=1103)** | Egg Harbor Township, NJ, US | On Site | Jul 04 |
+| ↳ | **[Assistant Product Manager](https://jobright.ai/jobs/info/6a32af5f29c90c607e4d777c?utm_campaign=Product%20Management&utm_source=1103)** | Egg Harbor Township, NJ, United States | On Site | Jul 04 |
 | **[ALO](https://www.aloyoga.com/)** | **[Web Operations Coordinator](https://jobright.ai/jobs/info/69f3d28c6942c746fa6950f8?utm_campaign=Product%20Management&utm_source=1103)** | Beverly Hills, CA | On Site | Jul 04 |
-| ↳ | **[Web Operations Coordinator](https://jobright.ai/jobs/info/69f3d9aa6942c746fa6957c2?utm_campaign=Product%20Management&utm_source=1103)** | Beverly Hills, California, United States | On Site | Jul 04 |
 | ↳ | **[Web Operations Coordinator](https://jobright.ai/jobs/info/6a06fe911f7fa33581c98cc8?utm_campaign=Product%20Management&utm_source=1103)** | Beverly Hills, California, United States | On Site | Jul 04 |
+| ↳ | **[Web Operations Coordinator](https://jobright.ai/jobs/info/69f3d9aa6942c746fa6957c2?utm_campaign=Product%20Management&utm_source=1103)** | Beverly Hills, California, United States | On Site | Jul 04 |
 | **[Santander US](https://www.santanderbank.com)** | **[Corporate & Investment Banking Letter-of-Credit Product Specialist - Analyst](https://jobright.ai/jobs/info/6a46c8924f64ba41dcb54d20?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY, Madison Ave Corp | On Site | Jul 04 |
 | **[FanDuel](http://www.fanduel.com)** | **[Data Product Manager](https://jobright.ai/jobs/info/6a3ebfb478237a036d5e52ae?utm_campaign=Product%20Management&utm_source=1103)** | Atlanta, Georgia, United States | Hybrid | Jul 04 |
 | **[Supermicro](http://www.supermicro.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/6a1122f19f654b3359cf01eb?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, California, United States | On Site | Jul 04 |
@@ -148,5 +149,4 @@ For a complete list, click the following sortable link below:
 | **[Saga plc.](http://travel.saga.co.uk)** | **[Product Executive - Travel](https://jobright.ai/jobs/info/6a439f46592109606e5a83e6?utm_campaign=Product%20Management&utm_source=1103)** | Folkestone, England, United Kingdom | Hybrid | Jun 30 |
 | **[CDK Global](http://www.cdkglobal.com/)** | **[Associate Product Manager](https://jobright.ai/jobs/info/6a1f3d8209442629a6858b96?utm_campaign=Product%20Management&utm_source=1103)** | Portland, OR, USA, US | Hybrid | Jun 30 |
 | **[Compassionate Home Caregivers](https://chc-homecare.com)** | **[Associate Technical Product Manager II](https://jobright.ai/jobs/info/6a4413020153061b8b3df2eb?utm_campaign=Product%20Management&utm_source=1103)** | Melville,NY, United States of America | On Site | Jun 30 |
-| **[UnitedHealth Group](https://www.unitedhealthgroup.com/)** | **[Product Analyst - Hybrid in MN](https://jobright.ai/jobs/info/6a46131cc2d11a6a4666b4e0?utm_campaign=Product%20Management&utm_source=1103)** | Eden Prairie, Minnesota, United States | Hybrid | Jun 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
