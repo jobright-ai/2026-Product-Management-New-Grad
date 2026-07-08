@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Gadge USA](http://www.gadgeusa.com)** | **[Packaging Sourcing Coordinator](https://jobright.ai/jobs/info/6a4ebb001544d7246c0d40e3?utm_campaign=Product%20Management&utm_source=1103)** | Lake Success, NY, United States | On Site | Jul 08 |
+| **[Leaf Home](https://www.leafhome.com/)** | **[Product Demonstrator ($18/hr + Commission)](https://jobright.ai/jobs/info/6a4581f848d2f00f2a86dd3d?utm_campaign=Product%20Management&utm_source=1103)** | 625 W Karsch Blvd, Farmington, MO 63640, USA | On Site | Jul 08 |
+| ↳ | **[Product Demonstrator ($18/hr + Commission)](https://jobright.ai/jobs/info/6a0b4ba9a235d749afa83cb1?utm_campaign=Product%20Management&utm_source=1103)** | 2829 Augusta Rd, West Columbia, SC 29170, USA | On Site | Jul 08 |
+| ↳ | **[Product Demonstrator ($18/hr + Commission)](https://jobright.ai/jobs/info/6a1b84b89111f771d1a1184b?utm_campaign=Product%20Management&utm_source=1103)** | 625 W Karsch Blvd, Farmington, MO 63640, USA | On Site | Jul 08 |
+| **[Gadge USA](http://www.gadgeusa.com)** | **[Packaging Sourcing Coordinator](https://jobright.ai/jobs/info/6a4ebfa0397d8d353c28a388?utm_campaign=Product%20Management&utm_source=1103)** | Lake Success, New York, United States | On Site | Jul 08 |
+| ↳ | **[Packaging Sourcing Coordinator](https://jobright.ai/jobs/info/6a4ebb001544d7246c0d40e3?utm_campaign=Product%20Management&utm_source=1103)** | Lake Success, NY, United States | On Site | Jul 08 |
 | **[Publicis Sapient](https://www.publicissapient.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/6a4eb47e0ea38951a6ff4362?utm_campaign=Product%20Management&utm_source=1103)** | Westminster, CO, United States | On Site | Jul 08 |
 | **[Acosta](http://www.acosta.com/Home.aspx)** | **[Product Demonstrator Part Time](https://jobright.ai/jobs/info/6a3e8e3a78237a036d5e4568?utm_campaign=Product%20Management&utm_source=1103)** | Harlingen, TX, United States | On Site | Jul 08 |
 | **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/6a4eb04e397d8d353c289f7d?utm_campaign=Product%20Management&utm_source=1103)** | Westminster, CO, United States | On Site | Jul 08 |
@@ -73,8 +77,8 @@ For a complete list, click the following sortable link below:
 | **[RELX](https://www.relx.com)** | **[Associate Product Mgr](https://jobright.ai/jobs/info/6a4e4bc8397d8d353c288599?utm_campaign=Product%20Management&utm_source=1103)** | Raleigh, NC, United States | On Site | Jul 08 |
 | **[Kiss Beauty Group](https://www.kissusa.com)** | **[Product Associate](https://jobright.ai/jobs/info/6a47c4ed5d7b097d2df38691?utm_campaign=Product%20Management&utm_source=1103)** | USA, NY, Port Washington, HQ, United States of America | On Site | Jul 08 |
 | **[Camping World](https://investor.campingworld.com)** | **[Product Specialist Advisor-1](https://jobright.ai/jobs/info/6a15c9b01935fa61b3c6b6cf?utm_campaign=Product%20Management&utm_source=1103)** | Pooler, GA, US | On Site | Jul 08 |
-| ↳ | **[Product Specialist Advisor](https://jobright.ai/jobs/info/6a31272f35e80310003a5440?utm_campaign=Product%20Management&utm_source=1103)** | London, KY, United States of America | On Site | Jul 08 |
 | ↳ | **[Product Specialist Advisor](https://jobright.ai/jobs/info/6a0c72d04d932036368784b0?utm_campaign=Product%20Management&utm_source=1103)** | Lowell, AR, US | On Site | Jul 08 |
+| ↳ | **[Product Specialist Advisor](https://jobright.ai/jobs/info/6a31272f35e80310003a5440?utm_campaign=Product%20Management&utm_source=1103)** | London, KY, United States of America | On Site | Jul 08 |
 | ↳ | **[Product Specialist Advisor](https://jobright.ai/jobs/info/6a062e767c753c287f700174?utm_campaign=Product%20Management&utm_source=1103)** | Kansas City, KS, US | On Site | Jul 08 |
 | **[Lumin Digital](https://lumindigital.com)** | **[Product Manager](https://jobright.ai/jobs/info/6a4e1218fc327f422fef1ca6?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Jul 08 |
 | **[PURE Insurance](https://www.pureinsurance.com/index)** | **[State Management Product Analyst](https://jobright.ai/jobs/info/6a4d4d6f3122a76a8fd54fdb?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, United States | On Site | Jul 07 |
@@ -106,8 +110,8 @@ For a complete list, click the following sortable link below:
 | **[Plymouth Rock Assurance](https://www.plymouthrock.com)** | **[Product Analyst](https://jobright.ai/jobs/info/6a4bbc2dc2d11a6a466786b9?utm_campaign=Product%20Management&utm_source=1103)** | Woodbridge, NJ | On Site | Jul 06 |
 | **[Evertz](http://www.evertz.com/)** | **[Product Coordinator](https://jobright.ai/jobs/info/6a427d4a6c326942b4e83031?utm_campaign=Product%20Management&utm_source=1103)** | Burlington, ON, Canada | On Site | Jul 05 |
 | **[Connection](http://www.pcconnection.com)** | **[Product Data Editor](https://jobright.ai/jobs/info/69a0cc485218a8167671f66d?utm_campaign=Product%20Management&utm_source=1103)** | Merrimack, NH | On Site | Jul 05 |
-| **[Kinective](https://www.kinective.io)** | **[Technical Business Analyst](https://jobright.ai/jobs/info/6a1b04f3547e292ae139bb40?utm_campaign=Product%20Management&utm_source=1103)** | Golden, CO, US | On Site | Jul 05 |
-| ↳ | **[Technical Business Analyst](https://jobright.ai/jobs/info/6a210c26c00e701fe836cf23?utm_campaign=Product%20Management&utm_source=1103)** | Golden,CO,US | On Site | Jul 05 |
+| **[Kinective](https://www.kinective.io)** | **[Technical Business Analyst](https://jobright.ai/jobs/info/6a210c26c00e701fe836cf23?utm_campaign=Product%20Management&utm_source=1103)** | Golden,CO,US | On Site | Jul 05 |
+| ↳ | **[Technical Business Analyst](https://jobright.ai/jobs/info/6a1b04f3547e292ae139bb40?utm_campaign=Product%20Management&utm_source=1103)** | Golden, CO, US | On Site | Jul 05 |
 | **[insightsoftware](https://www.insightsoftware.com)** | **[Product Owner, Batch Processing - Equity](https://jobright.ai/jobs/info/6a0b3e6e538d03366dc831ae?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Jul 05 |
 | **[Connection](http://www.pcconnection.com)** | **[Product Data Editor](https://jobright.ai/jobs/info/69a0a4d15218a8167671d1c7?utm_campaign=Product%20Management&utm_source=1103)** | US-NH-Merrimack | On Site | Jul 05 |
 | **[Navitus Health Solutions](https://www.navitus.com/)** | **[Assoc. Product Manager, Innov. Pharm. Prog.](https://jobright.ai/jobs/info/6a32e76ece501060b5ceaf37?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Jul 04 |
