@@ -57,9 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Leaf Home](https://www.leafhome.com/)** | **[Product Demonstrator ($18/hr + Commission)](https://jobright.ai/jobs/info/6a4581f848d2f00f2a86dd3d?utm_campaign=Product%20Management&utm_source=1103)** | 625 W Karsch Blvd, Farmington, MO 63640, USA | On Site | Jul 08 |
+| **[telMAX Inc.](https://telmax.com)** | **[Product Management Co-op - Fall Term (4 Months)](https://jobright.ai/jobs/info/6a4edbe11544d7246c0d47ab?utm_campaign=Product%20Management&utm_source=1103)** | Markham, ON, Canada | On Site | Jul 08 |
+| **[Midea RAC North America](http://www.midea.com/global/)** | **[Product & Operations Coordinator -Intern](https://jobright.ai/jobs/info/6a4ed80c15b4965afd584d90?utm_campaign=Product%20Management&utm_source=1103)** | Markham, Ontario, Canada | Hybrid | Jul 08 |
+| **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management - Card Partnerships Team](https://jobright.ai/jobs/info/6a4ed51d1544d7246c0d467c?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, Illinois, United States | On Site | Jul 08 |
+| **[Leaf Home](https://www.leafhome.com/)** | **[Product Demonstrator ($18/hr + Commission)](https://jobright.ai/jobs/info/6a1b84b89111f771d1a1184b?utm_campaign=Product%20Management&utm_source=1103)** | 625 W Karsch Blvd, Farmington, MO 63640, USA | On Site | Jul 08 |
+| ↳ | **[Product Demonstrator ($18/hr + Commission)](https://jobright.ai/jobs/info/6a4581f848d2f00f2a86dd3d?utm_campaign=Product%20Management&utm_source=1103)** | 625 W Karsch Blvd, Farmington, MO 63640, USA | On Site | Jul 08 |
 | ↳ | **[Product Demonstrator ($18/hr + Commission)](https://jobright.ai/jobs/info/6a0b4ba9a235d749afa83cb1?utm_campaign=Product%20Management&utm_source=1103)** | 2829 Augusta Rd, West Columbia, SC 29170, USA | On Site | Jul 08 |
-| ↳ | **[Product Demonstrator ($18/hr + Commission)](https://jobright.ai/jobs/info/6a1b84b89111f771d1a1184b?utm_campaign=Product%20Management&utm_source=1103)** | 625 W Karsch Blvd, Farmington, MO 63640, USA | On Site | Jul 08 |
 | **[Gadge USA](http://www.gadgeusa.com)** | **[Packaging Sourcing Coordinator](https://jobright.ai/jobs/info/6a4ebfa0397d8d353c28a388?utm_campaign=Product%20Management&utm_source=1103)** | Lake Success, New York, United States | On Site | Jul 08 |
 | ↳ | **[Packaging Sourcing Coordinator](https://jobright.ai/jobs/info/6a4ebb001544d7246c0d40e3?utm_campaign=Product%20Management&utm_source=1103)** | Lake Success, NY, United States | On Site | Jul 08 |
 | **[Publicis Sapient](https://www.publicissapient.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/6a4eb47e0ea38951a6ff4362?utm_campaign=Product%20Management&utm_source=1103)** | Westminster, CO, United States | On Site | Jul 08 |
@@ -77,9 +80,9 @@ For a complete list, click the following sortable link below:
 | **[RELX](https://www.relx.com)** | **[Associate Product Mgr](https://jobright.ai/jobs/info/6a4e4bc8397d8d353c288599?utm_campaign=Product%20Management&utm_source=1103)** | Raleigh, NC, United States | On Site | Jul 08 |
 | **[Kiss Beauty Group](https://www.kissusa.com)** | **[Product Associate](https://jobright.ai/jobs/info/6a47c4ed5d7b097d2df38691?utm_campaign=Product%20Management&utm_source=1103)** | USA, NY, Port Washington, HQ, United States of America | On Site | Jul 08 |
 | **[Camping World](https://investor.campingworld.com)** | **[Product Specialist Advisor-1](https://jobright.ai/jobs/info/6a15c9b01935fa61b3c6b6cf?utm_campaign=Product%20Management&utm_source=1103)** | Pooler, GA, US | On Site | Jul 08 |
+| ↳ | **[Product Specialist Advisor](https://jobright.ai/jobs/info/6a062e767c753c287f700174?utm_campaign=Product%20Management&utm_source=1103)** | Kansas City, KS, US | On Site | Jul 08 |
 | ↳ | **[Product Specialist Advisor](https://jobright.ai/jobs/info/6a0c72d04d932036368784b0?utm_campaign=Product%20Management&utm_source=1103)** | Lowell, AR, US | On Site | Jul 08 |
 | ↳ | **[Product Specialist Advisor](https://jobright.ai/jobs/info/6a31272f35e80310003a5440?utm_campaign=Product%20Management&utm_source=1103)** | London, KY, United States of America | On Site | Jul 08 |
-| ↳ | **[Product Specialist Advisor](https://jobright.ai/jobs/info/6a062e767c753c287f700174?utm_campaign=Product%20Management&utm_source=1103)** | Kansas City, KS, US | On Site | Jul 08 |
 | **[Lumin Digital](https://lumindigital.com)** | **[Product Manager](https://jobright.ai/jobs/info/6a4e1218fc327f422fef1ca6?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Jul 08 |
 | **[PURE Insurance](https://www.pureinsurance.com/index)** | **[State Management Product Analyst](https://jobright.ai/jobs/info/6a4d4d6f3122a76a8fd54fdb?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, United States | On Site | Jul 07 |
 | **[Gilbane Building](https://www.gilbaneco.com/)** | **[Product Management Specialist](https://jobright.ai/jobs/info/6a4d4bb4d27b2c4dda9b7046?utm_campaign=Product%20Management&utm_source=1103)** | Providence, RI, United States | On Site | Jul 07 |
@@ -148,6 +151,4 @@ For a complete list, click the following sortable link below:
 | **[Kiss Beauty Group](https://www.kissusa.com)** | **[Assistant Product Manager, Fashion/Hair Accessory Category](https://jobright.ai/jobs/info/69f04b58a4aa3545d8a5de8d?utm_campaign=Product%20Management&utm_source=1103)** | Port Washington, NY | On Site | Jul 02 |
 | **[Ross Stores, Inc.](http://rossstores.com/#)** | **[Sourcing Assistant](https://jobright.ai/jobs/info/6a2a3897d3ec8317fe142cf0?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Jul 02 |
 | **[Kinective](https://www.kinective.io)** | **[Product Owner](https://jobright.ai/jobs/info/6a39a359649fdf1629302240?utm_campaign=Product%20Management&utm_source=1103)** | Golden,CO,US | Hybrid | Jul 02 |
-| **[Workday](http://www.workday.com)** | **[Product Manager](https://jobright.ai/jobs/info/6a4618034f64ba41dcb4fd12?utm_campaign=Product%20Management&utm_source=1103)** | USA, OH, Mason, US | Hybrid | Jul 02 |
-| **[Boeing](https://www.boeing.com)** | **[Product Acceptance Specialist (Product Acceptance)](https://jobright.ai/jobs/info/6a467f2e8204a812e98c8a13?utm_campaign=Product%20Management&utm_source=1103)** | USA - Fort Walton Beach, FL, United States of America | On Site | Jul 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
