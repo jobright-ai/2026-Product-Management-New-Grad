@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[American Express](http://www.americanexpress.com)** | **[Associate Product Manager - TLS](https://jobright.ai/jobs/info/6aecd7c3ab48a7079381efc1?utm_campaign=Product%20Management&utm_source=1103)** | Phoenix, AZ, United States | Hybrid | Nov 12 |
+| **[Kiss Beauty Group](https://www.kissusa.com)** | **[Assistant Product Manager, Nail](https://jobright.ai/jobs/info/6af60f3a8cc703bba47af7f8?utm_campaign=Product%20Management&utm_source=1103)** | Port Washington, NY, United States | On Site | Nov 12 |
+| ↳ | **[Assistant Product Manager](https://jobright.ai/jobs/info/6af60f3580054650a5e7ba6b?utm_campaign=Product%20Management&utm_source=1103)** | Port Washington, NY, United States | On Site | Nov 12 |
 | **[Fanatics](http://www.fanaticsinc.com)** | **[Product Manager – Trading Product](https://jobright.ai/jobs/info/6af611bf80054650a5e7bbb0?utm_campaign=Product%20Management&utm_source=1103)** | Leeds, England, United Kingdom | Remote | Nov 12 |
 | **[Holt Renfrew](http://www.holtrenfrew.com/)** | **[Coordinator, Digital Product Presentation - 12 month contract](https://jobright.ai/jobs/info/6af639728cc703bba47b10f8?utm_campaign=Product%20Management&utm_source=1103)** | Toronto, ON, Canada | On Site | Nov 12 |
-| **[American Express](http://www.americanexpress.com)** | **[Associate Product Manager - TLS](https://jobright.ai/jobs/info/6aecd7c3ab48a7079381efc1?utm_campaign=Product%20Management&utm_source=1103)** | Phoenix, AZ, United States | Hybrid | Nov 12 |
 | **[Procter & Gamble](https://us.pg.com)** | **[IT Software Manager](https://jobright.ai/jobs/info/6af6403680054650a5e7d92f?utm_campaign=Product%20Management&utm_source=1103)** | Cincinnati, OH, United States | On Site | Nov 12 |
 | **[Copart](http://www.copart.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/6adab55b3a69033df225b754?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, CA, United States | On Site | Nov 12 |
 | **[MUFG](http://www.mufg.jp)** | **[Product Analyst, Enterprise Data Catalog](https://jobright.ai/jobs/info/6af2071d8cbcfef4a59d77ec?utm_campaign=Product%20Management&utm_source=1103)** | Jersey City, NJ, United States | Hybrid | Nov 12 |
@@ -90,8 +92,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Operations Lead / Boston Prudential Center](https://jobright.ai/jobs/info/6abc205cd6acfd3dd29fc308?utm_campaign=Product%20Management&utm_source=1103)** | Boston, MA, United States | On Site | Nov 12 |
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[Service Product Line Manager](https://jobright.ai/jobs/info/6aecd8533a3fa7f03ea89b5a?utm_campaign=Product%20Management&utm_source=1103)** | Santa Clara, CA, United States | On Site | Nov 11 |
 | **[Smyths Toys Superstores](http://www.smythstoys.com/)** | **[Website Content Administrator - Galway](https://jobright.ai/jobs/info/6af4d72a2278454e18c38dd4?utm_campaign=Product%20Management&utm_source=1103)** | Galway, Ireland | On Site | Nov 11 |
-| **[Kiss Beauty Group](https://www.kissusa.com)** | **[Assistant Product Manager, Nail](https://jobright.ai/jobs/info/6af60f3a8cc703bba47af7f8?utm_campaign=Product%20Management&utm_source=1103)** | Port Washington, NY, United States | On Site | Nov 11 |
-| ↳ | **[Assistant Product Manager](https://jobright.ai/jobs/info/6af60f3580054650a5e7ba6b?utm_campaign=Product%20Management&utm_source=1103)** | Port Washington, NY, United States | On Site | Nov 11 |
 | **[KeyBank](http://www.key.com/personal/index.jsp?key=com)** | **[Product Manager I](https://jobright.ai/jobs/info/6af5020b2278454e18c3a536?utm_campaign=Product%20Management&utm_source=1103)** | Brooklyn, OH, United States | Hybrid | Nov 11 |
 | **[Kraft Heinz](http://www.kraftheinzcompany.com)** | **[Assoc Sci, R&D - Product Dev](https://jobright.ai/jobs/info/6ad7e71d54bbabbab0703a81?utm_campaign=Product%20Management&utm_source=1103)** | Glenview, IL, United States | On Site | Nov 11 |
 | **[Best Buy](https://www.bestbuy.com/)** | **[Category Management Specialist](https://jobright.ai/jobs/info/6af47855cd7be4db20d856ff?utm_campaign=Product%20Management&utm_source=1103)** | Richfield, MN, United States | Hybrid | Nov 11 |
@@ -174,5 +174,4 @@ For a complete list, click the following sortable link below:
 | **[Spencer's](http://www.spencersonline.com/)** | **[Assistant Product Manager](https://jobright.ai/jobs/info/6ab5865ed85922de20ce19bd?utm_campaign=Product%20Management&utm_source=1103)** | Egg Harbor Township, NJ, United States | On Site | Nov 06 |
 | **[OE Federal Credit Union](https://www.oefederal.org)** | **[Product Management Junior Lead/Lead](https://jobright.ai/jobs/info/6ab5d83d4873fd3fd852bfbe?utm_campaign=Product%20Management&utm_source=1103)** | Livermore, CA, United States | On Site | Nov 06 |
 | **[DeweyLearn](https://deweylearn.com)** | **[Product Manager](https://jobright.ai/jobs/info/6ae8be36fb2cd420ace6839c?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Nov 06 |
-| **[Eaton](https://www.eaton.com/br/pt-br.html)** | **[Product Specialist (LV-MCC & Aftermarket)](https://jobright.ai/jobs/info/6acfdd342cc4e9d17e90ace0?utm_campaign=Product%20Management&utm_source=1103)** | Airdrie, Alberta, Canada | On Site | Nov 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
