@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SubSea Craft Limited](https://www.subseacraft.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/6ada03bf950ef68d5185345a?utm_campaign=Product%20Management&utm_source=1103)** | Portsmouth, England, United Kingdom | On Site | Nov 13 |
 | **[Kiss Beauty Group](https://www.kissusa.com)** | **[Product Associate](https://jobright.ai/jobs/info/6a848558e12474455273acc6?utm_campaign=Product%20Management&utm_source=1103)** | Port Washington, NY, United States | On Site | Nov 13 |
 | ↳ | **[Product Associate](https://jobright.ai/jobs/info/6adf9b3bc5c64fa3d9cbd7df?utm_campaign=Product%20Management&utm_source=1103)** | Port Washington, NY, United States | On Site | Nov 13 |
 | **[TikTok](https://www.tiktok.com)** | **[GEO Content Product Manager Graduate (TikTok Local Services) - 2027 Start](https://jobright.ai/jobs/info/6a96a957246d697dcee00ea7?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA, United States | On Site | Nov 13 |
@@ -129,8 +130,8 @@ For a complete list, click the following sortable link below:
 | **[Ralph Lauren](https://corporate.ralphlauren.com)** | **[Product Management Associate, Polo Women's Wovens](https://jobright.ai/jobs/info/6aba8192ee0b348be7299db6?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY, United States | On Site | Nov 10 |
 | **[ATEC Spine](https://atecspine.com)** | **[Product Manager](https://jobright.ai/jobs/info/6ad68c893dc655658d8e7626?utm_campaign=Product%20Management&utm_source=1103)** | Carlsbad, CA, United States | On Site | Nov 10 |
 | **[One Big Circle](https://onebigcircle.co.uk/)** | **[Graduate/Junior Product Manager](https://jobright.ai/jobs/info/6a7da1d7ad9ff00c26ba85f3?utm_campaign=Product%20Management&utm_source=1103)** | Bristol, England, United Kingdom | On Site | Nov 10 |
-| **[Databricks](https://www.databricks.com)** | **[Associate Product Manager, New Grad (2027 Start)](https://jobright.ai/jobs/info/6a5908d5c8e3a473cb8a4916?utm_campaign=Product%20Management&utm_source=1103)** | Bellevue, WA, United States | On Site | Nov 10 |
-| ↳ | **[Product Design New Grad (2027 Start)](https://jobright.ai/jobs/info/6ac975c3d4a5a037074126e9?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, CA, United States | On Site | Nov 10 |
+| **[Databricks](https://www.databricks.com)** | **[Product Design New Grad (2027 Start)](https://jobright.ai/jobs/info/6ac975c3d4a5a037074126e9?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, CA, United States | On Site | Nov 10 |
+| ↳ | **[Associate Product Manager, New Grad (2027 Start)](https://jobright.ai/jobs/info/6a5908d5c8e3a473cb8a4916?utm_campaign=Product%20Management&utm_source=1103)** | Bellevue, WA, United States | On Site | Nov 10 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Strategist Graduate (Global Monetization Product and Technology) - 2027 Start (MBA)](https://jobright.ai/jobs/info/6a7e7e4cb56bea5779c063ab?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA, United States | On Site | Nov 10 |
 | **[Crate & Barrel](http://crateandbarrel.com)** | **[Assistant Site Merchant](https://jobright.ai/jobs/info/6af20e6b8cbcfef4a59d7a78?utm_campaign=Product%20Management&utm_source=1103)** | Northbrook, IL, United States | Hybrid | Nov 09 |
 | **[TP-Link Systems Inc.](https://www.tp-link.com/)** | **[Product Security Coordinator](https://jobright.ai/jobs/info/6aee6c94bd2f33eea72dc125?utm_campaign=Product%20Management&utm_source=1103)** | Irvine, CA, United States | On Site | Nov 09 |
@@ -169,6 +170,5 @@ For a complete list, click the following sortable link below:
 | **[TaylorMade Golf Company](http://taylormadegolf.com/home)** | **[Product Creation Coordinator](https://jobright.ai/jobs/info/6aefd232676e3f91d326df92?utm_campaign=Product%20Management&utm_source=1103)** | Carlsbad, CA, United States | On Site | Nov 06 |
 | **[Outschool](https://outschool.com/)** | **[Senior Product Manager](https://jobright.ai/jobs/info/6aee740ee0c9de7b05f8f1c2?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Nov 06 |
 | **[Mariner Finance](http://www.marinerfinance.com)** | **[Product Manager I](https://jobright.ai/jobs/info/6aeccdd6ab48a7079381ea28?utm_campaign=Product%20Management&utm_source=1103)** | Nottingham, MD, United States | On Site | Nov 06 |
-| **[Versant Media](https://versantmedia.com)** | **[Product Specialist, Privacy](https://jobright.ai/jobs/info/6a876300d34f700f87fc51af?utm_campaign=Product%20Management&utm_source=1103)** | Englewood Cliffs, NJ, United States | Remote | Nov 06 |
-| **[Tint](https://www.tint.ai)** | **[Associate Product Manager](https://jobright.ai/jobs/info/6aee36765c81f621d3113f95?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Nov 06 |
+| **[Versant Media](https://versantmedia.com)** | **[Product Specialist, Privacy](https://jobright.ai/jobs/info/6aeb85a682f0ac077443a993?utm_campaign=Product%20Management&utm_source=1103)** | Englewood Cliffs, NJ, United States | Remote | Nov 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
